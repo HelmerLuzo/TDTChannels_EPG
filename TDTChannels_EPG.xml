@@ -68,7 +68,6 @@
   </channel>
   <channel id="SevillaTV.TDTChannelsEPG">
     <display-name lang="es">Sevilla TV</display-name>
-    <url>http://www.pyTDTChannels</url>
   </channel>
   <channel id="Disney.TDTChannelsEPG">
     <display-name lang="es">Disney Channel</display-name>
@@ -18168,7 +18167,7 @@
       <value>TP</value>
     </rating>
     <star-rating system="ES">
-      <value>3/5</value>
+      <value>4/5</value>
     </star-rating>
   </programme>
   <programme start="20190611214500 +0200" stop="20190611223500 +0200" channel="DKISS.TDTChannelsEPG">
@@ -21727,6 +21726,180 @@
   <programme start="20190612213000 +0200" stop="20190613000000 +0200" channel="BetisTV.TDTChannelsEPG">
     <title lang="es">Resúmenes Fútsal</title>
     <icon src="https://thumb.besoccerapps.com/rbetis/img_header/logo/9.png" />
+  </programme>
+  <programme start="20190610003000 +0200" stop="20190610010000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Informativo (R.)</title>
+  </programme>
+  <programme start="20190610010000 +0200" stop="20190610030000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Sevilla FC-Calavera CF DHJ 18/19</title>
+  </programme>
+  <programme start="20190610030000 +0200" stop="20190610033000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Informativo (R.)</title>
+  </programme>
+  <programme start="20190610033000 +0200" stop="20190610053000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Pre-Selección Española para sordos-CD Gelves</title>
+  </programme>
+  <programme start="20190610053000 +0200" stop="20190610073000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Sevilla FC- Levante UD15/16</title>
+  </programme>
+  <programme start="20190610073000 +0200" stop="20190610080000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20190610080000 +0200" stop="20190610083000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Informativo (R.)</title>
+  </programme>
+  <programme start="20190610083000 +0200" stop="20190610090000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Informativo (Redif.)</title>
+  </programme>
+  <programme start="20190610090000 +0200" stop="20190610093000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Goles Sevilla FC 09/10</title>
+  </programme>
+  <programme start="20190610093000 +0200" stop="20190610100000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Vídeos musicales</title>
+  </programme>
+  <programme start="20190610100000 +0200" stop="20190610103000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Crónicas 91/92</title>
+  </programme>
+  <programme start="20190610103000 +0200" stop="20190610110000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Goles 17/18 C.Rey</title>
+  </programme>
+  <programme start="20190610110000 +0200" stop="20190610130000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Sevilla FC-Zalgiris UEL 18 19</title>
+  </programme>
+  <programme start="20190610130000 +0200" stop="20190610133000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Reportajes: PS Río de la Plata (R.)</title>
+  </programme>
+  <programme start="20190610133000 +0200" stop="20190610140000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Recorremos Kilómetros: Madrid (R.)</title>
+  </programme>
+  <programme start="20190610140000 +0200" stop="20190610150000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Cantera SFC (Redif.)</title>
+  </programme>
+  <programme start="20190610150000 +0200" stop="20190610153000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">INFORMATIVO MEDIODÍA</title>
+  </programme>
+  <programme start="20190610153000 +0200" stop="20190610163000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">“Futbología: El entrenador invisible</title>
+  </programme>
+  <programme start="20190610163000 +0200" stop="20190610170000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20190610170000 +0200" stop="20190610174500 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">FC St Pauli-Sevilla FC 16/17 (1ª parte)</title>
+  </programme>
+  <programme start="20190610174500 +0200" stop="20190610180000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">BOLETIN INFORMATIVO</title>
+  </programme>
+  <programme start="20190610180000 +0200" stop="20190610190000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">FC St Pauli-Sevilla FC 16/17 (2ª parte)</title>
+  </programme>
+  <programme start="20190610190000 +0200" stop="20190610193000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Reportajes: Históricos del Balompié: Sevilla FC (R.)</title>
+  </programme>
+  <programme start="20190610193000 +0200" stop="20190610200000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">“La Liga Genuine-Córdoba</title>
+  </programme>
+  <programme start="20190610200000 +0200" stop="20190610210000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Premios periodísticos SFC´18 (R.)</title>
+  </programme>
+  <programme start="20190610210000 +0200" stop="20190610213000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">INFORMATIVO NOCHE</title>
+  </programme>
+  <programme start="20190610213000 +0200" stop="20190610223000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Puerta a cero: Juan Carlos Unzué (R.)</title>
+  </programme>
+  <programme start="20190610223000 +0200" stop="20190610235900 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">UD Las Palmas-Sevilla FC 17/18</title>
+  </programme>
+  <programme start="20190611003000 +0200" stop="20190611010000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Informativo (Redif.)</title>
+  </programme>
+  <programme start="20190611010000 +0200" stop="20190611030000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Sevilla FC-Zenit de San Petersburgo 14/15</title>
+  </programme>
+  <programme start="20190611030000 +0200" stop="20190611033000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">La máquina del tiempo: El mosaico de Santiago del Campo (R.)</title>
+  </programme>
+  <programme start="20190611033000 +0200" stop="20190611053000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">FC Basilea -Sevilla FC 15/16 UEL</title>
+  </programme>
+  <programme start="20190611053000 +0200" stop="20190611073000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Sevilla FC-Villarreal CF 05/06</title>
+  </programme>
+  <programme start="20190611073000 +0200" stop="20190611080000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">ACTOS SFC: Dorsal de Leyenda a Pablo Blanco (R.)</title>
+  </programme>
+  <programme start="20190611080000 +0200" stop="20190611083000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Informativo (Redif.)</title>
+  </programme>
+  <programme start="20190611083000 +0200" stop="20190611090000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Informativo (Redif.)</title>
+  </programme>
+  <programme start="20190611090000 +0200" stop="20190611100000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">El Francogoleador: Súker y Francisco (R.)</title>
+  </programme>
+  <programme start="20190611100000 +0200" stop="20190611120000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">R.Betis-Sevilla FC 15/16</title>
+  </programme>
+  <programme start="20190611120000 +0200" stop="20190611123000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Fiesta de clausura Escuela de Fútbol Antonio Puerta (Estreno)</title>
+  </programme>
+  <programme start="20190611123000 +0200" stop="20190611130000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Reportajes peñas: San Bernardo</title>
+  </programme>
+  <programme start="20190611130000 +0200" stop="20190611150000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Cádiz CF-Sevilla FC C.Rey 17/18</title>
+  </programme>
+  <programme start="20190611150000 +0200" stop="20190611153000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">La máquina del tiempo: Bertoni Parte I</title>
+  </programme>
+  <programme start="20190611153000 +0200" stop="20190611160000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Sentimiento sevillista: Con qué título te quedas</title>
+  </programme>
+  <programme start="20190611160000 +0200" stop="20190611180000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">SK Sigma Olomouc-Sevilla FC 18/19</title>
+  </programme>
+  <programme start="20190611180000 +0200" stop="20190611190000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Puerta a cero: Fernando Peralta y Antonio Notario (R.)</title>
+  </programme>
+  <programme start="20190611190000 +0200" stop="20190611210000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">SD Eibar-Sevilla FC 18/19</title>
+  </programme>
+  <programme start="20190611210000 +0200" stop="20190611213000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">La máquina del tiempo: Bertoni Parte II</title>
+  </programme>
+  <programme start="20190611213000 +0200" stop="20190611233000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">FC Dnipro - Sevilla FC Final UEL Varsovia' 15</title>
+  </programme>
+  <programme start="20190611233000 +0200" stop="20190611235900 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Standard Lieja-Sevilla FC 14/15</title>
+  </programme>
+  <programme start="20190612000000 +0200" stop="20190612010000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Tal como éramos: Loren (R.)</title>
+  </programme>
+  <programme start="20190612010000 +0200" stop="20190612030000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Málaga CF-Sevilla FC 05/06</title>
+  </programme>
+  <programme start="20190612030000 +0200" stop="20190612033000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Reportajes peñas: San Bernardo (R.)</title>
+  </programme>
+  <programme start="20190612033000 +0200" stop="20190612053000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Independiente Santa Fé-sfc 16/17</title>
+  </programme>
+  <programme start="20190612053000 +0200" stop="20190612070000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Deportivo Alavés-Sevilla FC 16/17</title>
+  </programme>
+  <programme start="20190612070000 +0200" stop="20190612080000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Crónicas 94/95</title>
+  </programme>
+  <programme start="20190612080000 +0200" stop="20190612090000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Puerta a cero: Fernando Peralta y Antonio Notario (R.)</title>
+  </programme>
+  <programme start="20190612090000 +0200" stop="20190612093000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">SFC DIGITAL (MARZO)</title>
+  </programme>
+  <programme start="20190612093000 +0200" stop="20190612110000 +0200" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Sevilla FC-FC Zalgiris UEL 18 19</title>
   </programme>
   <programme start="20190610060000 +0200" stop="20190610060700 +0200" channel="Disney.TDTChannelsEPG">
     <title lang="es">Cambio de clase</title>
@@ -32604,7 +32777,7 @@
     <date>2007</date>
     <category lang="es">Series</category>
     <category lang="es">Drama</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MCANARP1311924" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M965057V1311924" />
     <country lang="es">Canadá</country>
     <rating system="ES">
       <value>7</value>
@@ -33011,7 +33184,7 @@
     <date>2007</date>
     <category lang="es">Series</category>
     <category lang="es">Drama</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MCANARP1311924" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M965057V1311924" />
     <country lang="es">Canadá</country>
     <rating system="ES">
       <value>7</value>
@@ -52199,7 +52372,7 @@ Presentado por Farida Mohamed, María Ceano, Marite Gallardo.</desc>
       <value>12</value>
     </rating>
     <star-rating system="ES">
-      <value>3/5</value>
+      <value>4/5</value>
     </star-rating>
   </programme>
   <programme start="20190611001500 +0200" stop="20190611021500 +0200" channel="ETB1.TDTChannelsEPG">
