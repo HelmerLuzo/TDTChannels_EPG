@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.5 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="La1.TDTChannelsEPG">
     <display-name lang="es">La 1</display-name>
@@ -31661,7 +31661,7 @@
     <icon src="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
   </programme>
   <programme start="20190611133000 +0200" stop="20190611140000 +0200" channel="OndaCadiz.TDTChannelsEPG">
-    <title lang="es">Noticias OC 1\u00aa Edición</title>
+    <title lang="es">Noticias OC 1ª Edición</title>
     <icon src="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
   </programme>
   <programme start="20190611140000 +0200" stop="20190611150000 +0200" channel="OndaCadiz.TDTChannelsEPG">
@@ -31737,7 +31737,7 @@
     <icon src="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
   </programme>
   <programme start="20190612133000 +0200" stop="20190612140000 +0200" channel="OndaCadiz.TDTChannelsEPG">
-    <title lang="es">Noticias OC 1\u00aa Edición</title>
+    <title lang="es">Noticias OC 1ª Edición</title>
     <icon src="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
   </programme>
   <programme start="20190612140000 +0200" stop="20190612143000 +0200" channel="OndaCadiz.TDTChannelsEPG">
@@ -35111,7 +35111,7 @@ Espacio para el debate plural y democrático donde toma protagonismo la particip
     <icon src="https://mirametv.com/images/wProgramsRadioTv/7.png" />
   </programme>
   <programme start="20190611013000 +0200" stop="20190611090000 +0200" channel="PopularTV_S.TDTChannelsEPG">
-    <title lang="es">Ajuste de programación</title>
+    <title lang="es">Ajuste de programación</title>
   </programme>
   <programme start="20190611090000 +0200" stop="20190611100000 +0200" channel="PopularTV_S.TDTChannelsEPG">
     <title lang="es">V6 English</title>
@@ -35123,19 +35123,19 @@ Espacio para el debate plural y democrático donde toma protagonismo la particip
     <title lang="es">Mundo Natural</title>
   </programme>
   <programme start="20190611113000 +0200" stop="20190611120000 +0200" channel="PopularTV_S.TDTChannelsEPG">
-    <title lang="es">Cocina Familiar con Javier Romero</title>
+    <title lang="es">Cocina Familiar con Javier Romero</title>
   </programme>
   <programme start="20190611120000 +0200" stop="20190611123000 +0200" channel="PopularTV_S.TDTChannelsEPG">
     <title lang="es">Santa Misa</title>
   </programme>
   <programme start="20190611123000 +0200" stop="20190611140000 +0200" channel="PopularTV_S.TDTChannelsEPG">
-    <title lang="es">Cantabria por la mañana</title>
+    <title lang="es">Cantabria por la mañana</title>
   </programme>
   <programme start="20190611140000 +0200" stop="20190611143000 +0200" channel="PopularTV_S.TDTChannelsEPG">
     <title lang="es">Cocina familiar con Javier Romero</title>
   </programme>
   <programme start="20190611143000 +0200" stop="20190611150000 +0200" channel="PopularTV_S.TDTChannelsEPG">
-    <title lang="es">Conversaciones con… en el Riojano</title>
+    <title lang="es">Conversaciones con… en el Riojano</title>
   </programme>
   <programme start="20190611150000 +0200" stop="20190611153000 +0200" channel="PopularTV_S.TDTChannelsEPG">
     <title lang="es">Empresas del Futuro</title>
@@ -35156,19 +35156,19 @@ Espacio para el debate plural y democrático donde toma protagonismo la particip
     <title lang="es">Mundo Natural</title>
   </programme>
   <programme start="20190611210000 +0200" stop="20190611213000 +0200" channel="PopularTV_S.TDTChannelsEPG">
-    <title lang="es">Ganaderos en su hábitat</title>
+    <title lang="es">Ganaderos en su hábitat</title>
   </programme>
   <programme start="20190611213000 +0200" stop="20190611220000 +0200" channel="PopularTV_S.TDTChannelsEPG">
     <title lang="es">Comprometidos</title>
   </programme>
   <programme start="20190611220000 +0200" stop="20190611223000 +0200" channel="PopularTV_S.TDTChannelsEPG">
-    <title lang="es">Sociedad de Vivienda y Suelo de Santander</title>
+    <title lang="es">Sociedad de Vivienda y Suelo de Santander</title>
   </programme>
   <programme start="20190611223000 +0200" stop="20190612000000 +0200" channel="PopularTV_S.TDTChannelsEPG">
     <title lang="es">Noche de Western: La diligencia (1939)</title>
   </programme>
   <programme start="20190612000000 +0200" stop="20190612003000 +0200" channel="PopularTV_S.TDTChannelsEPG">
-    <title lang="es">Informativo PopularTV Cantabria</title>
+    <title lang="es">Informativo PopularTV Cantabria</title>
   </programme>
   <programme start="20190612003000 +0200" stop="20190612090000 +0200" channel="PopularTV_S.TDTChannelsEPG">
     <title lang="es">Ajuste de programación</title>
@@ -35177,19 +35177,19 @@ Espacio para el debate plural y democrático donde toma protagonismo la particip
     <title lang="es">V6 English</title>
   </programme>
   <programme start="20190612093000 +0200" stop="20190612110000 +0200" channel="PopularTV_S.TDTChannelsEPG">
-    <title lang="es">Desde la Plaza de San Pedro: Audiencia General, presidida por el Papa Francisco</title>
+    <title lang="es">Desde la Plaza de San Pedro: Audiencia General, presidida por el Papa Francisco</title>
   </programme>
   <programme start="20190612110000 +0200" stop="20190612113000 +0200" channel="PopularTV_S.TDTChannelsEPG">
     <title lang="es">Mundo Natural</title>
   </programme>
   <programme start="20190612113000 +0200" stop="20190612120000 +0200" channel="PopularTV_S.TDTChannelsEPG">
-    <title lang="es">Cocina Familiar con Javier Romero</title>
+    <title lang="es">Cocina Familiar con Javier Romero</title>
   </programme>
   <programme start="20190612120000 +0200" stop="20190612123000 +0200" channel="PopularTV_S.TDTChannelsEPG">
     <title lang="es">Santa Misa</title>
   </programme>
   <programme start="20190612123000 +0200" stop="20190612140000 +0200" channel="PopularTV_S.TDTChannelsEPG">
-    <title lang="es">Cantabria por la mañana</title>
+    <title lang="es">Cantabria por la mañana</title>
   </programme>
   <programme start="20190612140000 +0200" stop="20190612143000 +0200" channel="PopularTV_S.TDTChannelsEPG">
     <title lang="es">Cocina Familiar con Javier Romero</title>
@@ -35210,7 +35210,7 @@ Espacio para el debate plural y democrático donde toma protagonismo la particip
     <title lang="es">Santander con la actividad física y el deporte</title>
   </programme>
   <programme start="20190612183000 +0200" stop="20190612200000 +0200" channel="PopularTV_S.TDTChannelsEPG">
-    <title lang="es">Cantabria por la mañana</title>
+    <title lang="es">Cantabria por la mañana</title>
   </programme>
   <programme start="20190612200000 +0200" stop="20190612203000 +0200" channel="PopularTV_S.TDTChannelsEPG">
     <title lang="es">Informativo PopularTV Cantabria</title>
@@ -35228,13 +35228,13 @@ Espacio para el debate plural y democrático donde toma protagonismo la particip
     <title lang="es">Cantabria desde la Solana</title>
   </programme>
   <programme start="20190612230000 +0200" stop="20190613003000 +0200" channel="PopularTV_S.TDTChannelsEPG">
-    <title lang="es">Cine de autor: My Blueberry Nights (2007)</title>
+    <title lang="es">Cine de autor: My Blueberry Nights (2007)</title>
   </programme>
   <programme start="20190613003000 +0200" stop="20190613010000 +0200" channel="PopularTV_S.TDTChannelsEPG">
     <title lang="es">Informativo PopularTV Cantabria</title>
   </programme>
   <programme start="20190613010000 +0200" stop="20190613090000 +0200" channel="PopularTV_S.TDTChannelsEPG">
-    <title lang="es">Ajuste de programación</title>
+    <title lang="es">Ajuste de programación</title>
   </programme>
   <programme start="20190613090000 +0200" stop="20190613100000 +0200" channel="PopularTV_S.TDTChannelsEPG">
     <title lang="es">V6 English</title>
@@ -35252,13 +35252,13 @@ Espacio para el debate plural y democrático donde toma protagonismo la particip
     <title lang="es">Mundo Natural</title>
   </programme>
   <programme start="20190613123000 +0200" stop="20190613140000 +0200" channel="PopularTV_S.TDTChannelsEPG">
-    <title lang="es">Cantabria por la mañana</title>
+    <title lang="es">Cantabria por la mañana</title>
   </programme>
   <programme start="20190613140000 +0200" stop="20190613143000 +0200" channel="PopularTV_S.TDTChannelsEPG">
     <title lang="es">Cocina Familiar con Javier Romero</title>
   </programme>
   <programme start="20190613143000 +0200" stop="20190613150000 +0200" channel="PopularTV_S.TDTChannelsEPG">
-    <title lang="es">Santander con la actividad física y el deporte</title>
+    <title lang="es">Santander con la actividad física y el deporte</title>
   </programme>
   <programme start="20190613150000 +0200" stop="20190613153000 +0200" channel="PopularTV_S.TDTChannelsEPG">
     <title lang="es">Caminando que es Iglesia</title>
@@ -35267,7 +35267,7 @@ Espacio para el debate plural y democrático donde toma protagonismo la particip
     <title lang="es">Conversaciones con… en el Riojano 16.00 Un paso más por Cantabria</title>
   </programme>
   <programme start="20190613163000 +0200" stop="20190613173000 +0200" channel="PopularTV_S.TDTChannelsEPG">
-    <title lang="es">Desde la Plaza de San Pedro: Audiencia General, presidida por el Papa Francisco</title>
+    <title lang="es">Desde la Plaza de San Pedro: Audiencia General, presidida por el Papa Francisco</title>
   </programme>
   <programme start="20190613173000 +0200" stop="20190613183000 +0200" channel="PopularTV_S.TDTChannelsEPG">
     <title lang="es">Voces</title>
@@ -35276,7 +35276,7 @@ Espacio para el debate plural y democrático donde toma protagonismo la particip
     <title lang="es">Cantabria por la mañana</title>
   </programme>
   <programme start="20190613200000 +0200" stop="20190613203000 +0200" channel="PopularTV_S.TDTChannelsEPG">
-    <title lang="es">Informativo PopularTV Cantabria</title>
+    <title lang="es">Informativo PopularTV Cantabria</title>
   </programme>
   <programme start="20190613203000 +0200" stop="20190613210000 +0200" channel="PopularTV_S.TDTChannelsEPG">
     <title lang="es">Mundo Natural</title>
@@ -49970,7 +49970,7 @@ Espacio para el debate plural y democrático donde toma protagonismo la particip
   </programme>
   <programme start="20190611134500 +0200" stop="20190611143000 +0200" channel="TVR.TDTChannelsEPG">
     <title lang="es">La cocina de Baró</title>
-    <desc lang="es">Espacio de cocina presentado por María Dolores Baró, una referencia en el mundo de los fogones.</desc>
+    <desc lang="es">Espacio de cocina presentado por María Dolores Baró, una referencia en el mundo de los fogones.</desc>
     <icon src="http://www.tvr.es/adminparrilla/foto.php?id=371" />
   </programme>
   <programme start="20190611143000 +0200" stop="20190611150000 +0200" channel="TVR.TDTChannelsEPG">
@@ -50038,7 +50038,7 @@ Espacio para el debate plural y democrático donde toma protagonismo la particip
   </programme>
   <programme start="20190612134500 +0200" stop="20190612143000 +0200" channel="TVR.TDTChannelsEPG">
     <title lang="es">La cocina de Baró</title>
-    <desc lang="es">Espacio de cocina presentado por María Dolores Baró, una referencia en el mundo de los fogones.</desc>
+    <desc lang="es">Espacio de cocina presentado por María Dolores Baró, una referencia en el mundo de los fogones.</desc>
     <icon src="http://www.tvr.es/adminparrilla/foto.php?id=371" />
   </programme>
   <programme start="20190612143000 +0200" stop="20190612150000 +0200" channel="TVR.TDTChannelsEPG">
@@ -50103,7 +50103,7 @@ Espacio para el debate plural y democrático donde toma protagonismo la particip
   </programme>
   <programme start="20190613134500 +0200" stop="20190613143000 +0200" channel="TVR.TDTChannelsEPG">
     <title lang="es">La cocina de Baró</title>
-    <desc lang="es">Espacio de cocina presentado por María Dolores Baró, una referencia en el mundo de los fogones.</desc>
+    <desc lang="es">Espacio de cocina presentado por María Dolores Baró, una referencia en el mundo de los fogones.</desc>
     <icon src="http://www.tvr.es/adminparrilla/foto.php?id=371" />
   </programme>
   <programme start="20190613143000 +0200" stop="20190613150000 +0200" channel="TVR.TDTChannelsEPG">
