@@ -2,215 +2,162 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.5 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="La1.TDTChannelsEPG">
     <display-name lang="es">La 1</display-name>
-    <url>http://www.TDTChannels</url>
   </channel>
   <channel id="La2.TDTChannelsEPG">
     <display-name lang="es">La 2</display-name>
-    <url>http://www.TDTChannels</url>
   </channel>
   <channel id="Antena3.TDTChannelsEPG">
     <display-name lang="es">Antena 3</display-name>
-    <url>http://www.TDTChannels</url>
   </channel>
   <channel id="Cuatro.TDTChannelsEPG">
     <display-name lang="es">Cuatro</display-name>
-    <url>http://www.TDTChannels</url>
   </channel>
   <channel id="Telecinco.TDTChannelsEPG">
     <display-name lang="es">Telecinco</display-name>
-    <url>http://www.TDTChannels</url>
   </channel>
   <channel id="LaSexta.TDTChannelsEPG">
     <display-name lang="es">La Sexta</display-name>
-    <url>http://www.TDTChannels</url>
   </channel>
   <channel id="Neox.TDTChannelsEPG">
     <display-name lang="es">neox</display-name>
-    <url>http://www.TDTChannels</url>
   </channel>
   <channel id="Nova.TDTChannelsEPG">
     <display-name lang="es">nova</display-name>
-    <url>http://www.TDTChannels</url>
   </channel>
   <channel id="Mega.TDTChannelsEPG">
     <display-name lang="es">mega</display-name>
-    <url>http://www.TDTChannels</url>
   </channel>
   <channel id="Atreseries.TDTChannelsEPG">
     <display-name lang="es">Atreseries</display-name>
-    <url>http://www.TDTChannels</url>
   </channel>
   <channel id="FDF.TDTChannelsEPG">
     <display-name lang="es">FDF</display-name>
-    <url>http://www.TDTChannels</url>
   </channel>
   <channel id="Energy.TDTChannelsEPG">
     <display-name lang="es">Energy</display-name>
-    <url>http://www.TDTChannels</url>
   </channel>
   <channel id="Divinity.TDTChannelsEPG">
     <display-name lang="es">Divinity</display-name>
-    <url>http://www.TDTChannels</url>
   </channel>
   <channel id="Bemad.TDTChannelsEPG">
     <display-name lang="es">BeMad</display-name>
-    <url>http://www.TDTChannels</url>
   </channel>
   <channel id="Paramount.TDTChannelsEPG">
     <display-name lang="es">Paramount Network</display-name>
-    <url>http://www.TDTChannels</url>
   </channel>
   <channel id="13.TDTChannelsEPG">
     <display-name lang="es">TRECE</display-name>
-    <url>http://www.TDTChannels</url>
   </channel>
   <channel id="DKISS.TDTChannelsEPG">
     <display-name lang="es">DKISS</display-name>
-    <url>http://www.TDTChannels</url>
   </channel>
   <channel id="ElToroTV.TDTChannelsEPG">
     <display-name lang="es">El Toro TV</display-name>
-    <url>http://www.TDTChannels</url>
   </channel>
   <channel id="24Horas.TDTChannelsEPG">
     <display-name lang="es">24h</display-name>
-    <url>http://www.TDTChannels</url>
   </channel>
   <channel id="TDP.TDTChannelsEPG">
     <display-name lang="es">TDP</display-name>
-    <url>http://www.TDTChannels</url>
   </channel>
   <channel id="RMTV.TDTChannelsEPG">
     <display-name lang="es">RealMadrid TV</display-name>
-    <url>http://www.TDTChannels</url>
   </channel>
   <channel id="BetisTV.TDTChannelsEPG">
     <display-name lang="es">Betis TV</display-name>
-    <url>http://www.pyTDTChannels</url>
   </channel>
   <channel id="SevillaTV.TDTChannelsEPG">
     <display-name lang="es">Sevilla TV</display-name>
-    <url>http://www.pyTDTChannels</url>
   </channel>
   <channel id="Disney.TDTChannelsEPG">
     <display-name lang="es">Disney Channel</display-name>
-    <url>http://www.TDTChannels</url>
   </channel>
   <channel id="Boing.TDTChannelsEPG">
     <display-name lang="es">Boing</display-name>
-    <url>http://www.TDTChannels</url>
   </channel>
   <channel id="CanalSurA.TDTChannelsEPG">
     <display-name lang="es">Canal Sur A.</display-name>
-    <url>http://www.TDTChannels</url>
   </channel>
   <channel id="OndaCadiz.TDTChannelsEPG">
     <display-name lang="es">Onda Cádiz</display-name>
-    <url>http://www.pyTDTChannels</url>
   </channel>
   <channel id="AragonTV.TDTChannelsEPG">
     <display-name lang="es">Aragón TV</display-name>
-    <url>http://www.TDTChannels</url>
   </channel>
   <channel id="TPA.TDTChannelsEPG">
     <display-name lang="es">TPA7</display-name>
-    <url>http://www.TDTChannels</url>
   </channel>
   <channel id="Canarias.TDTChannelsEPG">
     <display-name lang="es">Televisión Canaria</display-name>
-    <url>http://www.TDTChannels</url>
   </channel>
   <channel id="MirameTV.TDTChannelsEPG">
     <display-name lang="es">Mírame TV</display-name>
-    <url>http://www.pyTDTChannels</url>
   </channel>
   <channel id="PopularTV_S.TDTChannelsEPG">
     <display-name lang="es">Popular TV Cantabria</display-name>
-    <url>http://www.pyTDTChannels</url>
   </channel>
   <channel id="CMM.TDTChannelsEPG">
     <display-name lang="es">CMM</display-name>
-    <url>http://www.TDTChannels</url>
   </channel>
   <channel id="La7.TDTChannelsEPG">
     <display-name lang="es">La 7</display-name>
-    <url>http://www.TDTChannels</url>
   </channel>
   <channel id="TV3.TDTChannelsEPG">
     <display-name lang="es">TV3</display-name>
-    <url>http://www.TDTChannels</url>
   </channel>
   <channel id="324.TDTChannelsEPG">
     <display-name lang="es">3 24</display-name>
-    <url>http://www.TDTChannels</url>
   </channel>
   <channel id="C33.TDTChannelsEPG">
     <display-name lang="es">Super3-C33</display-name>
-    <url>http://www.TDTChannels</url>
   </channel>
   <channel id="E3.TDTChannelsEPG">
     <display-name lang="es">Esport 3</display-name>
-    <url>http://www.TDTChannels</url>
   </channel>
   <channel id="BTV.TDTChannelsEPG">
     <display-name lang="es">betevé</display-name>
-    <url>http://www.TDTChannels</url>
   </channel>
   <channel id="Extremadura.TDTChannelsEPG">
     <display-name lang="es">Canal Extremadura</display-name>
-    <url>http://www.TDTChannels</url>
   </channel>
   <channel id="TVGAL.TDTChannelsEPG">
     <display-name lang="es">TVG</display-name>
-    <url>http://www.TDTChannels</url>
   </channel>
   <channel id="IB3.TDTChannelsEPG">
     <display-name lang="es">IB3</display-name>
-    <url>http://www.TDTChannels</url>
   </channel>
   <channel id="TVR.TDTChannelsEPG">
     <display-name lang="es">TV Rioja</display-name>
-    <url>http://www.pyTDTChannels</url>
   </channel>
   <channel id="TeleMadrid.TDTChannelsEPG">
     <display-name lang="es">Telemadrid</display-name>
-    <url>http://www.TDTChannels</url>
   </channel>
   <channel id="LaOtra.TDTChannelsEPG">
     <display-name lang="es">La Otra</display-name>
-    <url>http://www.TDTChannels</url>
   </channel>
   <channel id="MelillaTV.TDTChannelsEPG">
     <display-name lang="es">Melilla TV HD</display-name>
-    <url>http://www.pyTDTChannels</url>
   </channel>
   <channel id="7RM.TDTChannelsEPG">
     <display-name lang="es">7 RM</display-name>
-    <url>http://www.TDTChannels</url>
   </channel>
   <channel id="ETB1.TDTChannelsEPG">
     <display-name lang="es">ETB 1</display-name>
-    <url>http://www.TDTChannels</url>
   </channel>
   <channel id="ETB2.TDTChannelsEPG">
     <display-name lang="es">ETB 2</display-name>
-    <url>http://www.TDTChannels</url>
   </channel>
   <channel id="APUNT.TDTChannelsEPG">
     <display-name lang="es">À Punt</display-name>
-    <url>http://www.TDTChannels</url>
   </channel>
   <channel id="8M.TDTChannelsEPG">
     <display-name lang="es">La 8</display-name>
-    <url>http://www.TDTChannels</url>
   </channel>
   <channel id="ATVHD.TDTChannelsEPG">
     <display-name lang="es">Andorra TV HD</display-name>
-    <url>http://www.pyTDTChannels</url>
   </channel>
   <channel id="ATVCW.TDTChannelsEPG">
     <display-name lang="es">Andorra TV CW</display-name>
-    <url>http://www.pyTDTChannels</url>
   </channel>
   <programme start="20190611060000 +0200" stop="20190611063000 +0200" channel="La1.TDTChannelsEPG">
     <title lang="es">Noticias 24H</title>
@@ -270,7 +217,7 @@
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Magacín</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MTVEP1565222" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MTVEP1664809" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>16</value>
@@ -283,7 +230,7 @@
     <date>2019</date>
     <category lang="es">Ocio y Aficiones</category>
     <category lang="es">Cocina</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M951077V1632110" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MTVEP1664810" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S2019 E70</episode-num>
     <rating system="ES">
@@ -500,7 +447,7 @@
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Otros</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M960483V1640500" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MTVEP1664811" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S2019 E37</episode-num>
     <rating system="ES">
@@ -518,7 +465,7 @@
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Concurso</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M769897V1640501" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MTVEP1664812" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S7 E11</episode-num>
     <rating system="ES">
@@ -535,7 +482,7 @@
     <date>2019</date>
     <category lang="es">Información</category>
     <category lang="es">Reportajes de actualidad</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M971990V1565224" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MTVEP1664813" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S2018 E58</episode-num>
     <rating system="ES">
@@ -549,7 +496,7 @@
     <date>2017</date>
     <category lang="es">Información</category>
     <category lang="es">Reportajes de actualidad</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MTVEP1367838" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MTVEP1395514" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S2017 E12</episode-num>
     <rating system="ES">
@@ -1587,6 +1534,7 @@
     <date>2013</date>
     <category lang="es">Ocio y Aficiones</category>
     <category lang="es">Cocina</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MLA2P1471356" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -1604,7 +1552,7 @@
     <date>2019</date>
     <category lang="es">Cultural/Educativo</category>
     <category lang="es">Literatura</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MLA2P1482162" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MLA2P1664554" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -1655,7 +1603,7 @@
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Humor</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M944563V1603452" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MLA2P1664815" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S1 E134</episode-num>
     <rating system="ES">
@@ -1668,7 +1616,7 @@
     <desc lang="es">La presentadora Virginia Díaz se sumerge en el archivo de RTVE para rescatar peculiares momentos de la música en televisión. Como novedad, esta sexta edición del veterano programa incluye entregas dedicadas a géneros musicales concretos.</desc>
     <date>2019</date>
     <category lang="es">Música</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MLA2P1664816" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MLA2P1649849" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -1696,7 +1644,7 @@
     <date>2019</date>
     <category lang="es">Información</category>
     <category lang="es">Otros</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MLA2P1573235" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MLA2P1664814" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>16</value>
@@ -1747,7 +1695,7 @@
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Humor</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M944563V1603452" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MLA2P1664815" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S1 E134</episode-num>
     <rating system="ES">
@@ -3700,7 +3648,7 @@
     <date>2008</date>
     <category lang="es">Series</category>
     <category lang="es">Acción</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M894664V712420" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/F1957459" />
     <country lang="es">Alemania</country>
     <episode-num system="onscreen">S12 E10</episode-num>
     <rating system="ES">
@@ -3782,7 +3730,7 @@
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Concurso</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M871281V1564109" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MC4P1664741" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S1 E200</episode-num>
     <rating system="ES">
@@ -3798,7 +3746,7 @@
     <date>2019</date>
     <category lang="es">Información</category>
     <category lang="es">Informativo</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MC4P1640837" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MC4P1664742" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S1 E79</episode-num>
     <rating system="ES">
@@ -3881,7 +3829,7 @@
     <date>2019</date>
     <category lang="es">Información</category>
     <category lang="es">Informativo</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M947258V1630202" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MC4P1664743" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S1 E79</episode-num>
     <rating system="ES">
@@ -3897,7 +3845,7 @@
     <date>2019</date>
     <category lang="es">Información</category>
     <category lang="es">Informativo</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MC4P1640838" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MC4P1664744" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S1 E79</episode-num>
     <rating system="ES">
@@ -3931,7 +3879,7 @@
     <desc lang="es">En 2020, doce ciudades albergarán la Eurocopa. Una importante cita donde aspiran a estar las 55 selecciones en liza. Los 10 campeones, los 10 segundos de cada grupo y los 4 combinados que se impongan en la repesca completarán las 24 plazas disponibles.</desc>
     <category lang="es">Deportes</category>
     <category lang="es">Fútbol internacional</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MC4P1637175" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MC4P1664752" />
     <star-rating system="ES">
       <value>5/5</value>
     </star-rating>
@@ -3946,7 +3894,7 @@
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Tele Realidad</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MC4P1652021" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MC4P1664734" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S2019 E7</episode-num>
     <rating system="ES">
@@ -3962,7 +3910,7 @@
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Tele Realidad</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MC4P1650369" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MC4P1664712" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S2019 E32</episode-num>
     <rating system="ES">
@@ -3978,7 +3926,7 @@
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Tele Realidad</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MC4P1650369" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MC4P1664671" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S2019 E31</episode-num>
     <rating system="ES">
@@ -4096,7 +4044,7 @@
     <date>2008</date>
     <category lang="es">Series</category>
     <category lang="es">Acción</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M894664V712514" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/F1957459" />
     <country lang="es">Alemania</country>
     <episode-num system="onscreen">S12 E12</episode-num>
     <rating system="ES">
@@ -4162,7 +4110,7 @@
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Tele Realidad</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MC4P1613449" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MC4P1664745" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S2 E114</episode-num>
     <rating system="ES">
@@ -4178,7 +4126,7 @@
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Concurso</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M871281V1564109" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MC4P1664746" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S1 E201</episode-num>
     <rating system="ES">
@@ -4194,7 +4142,7 @@
     <date>2019</date>
     <category lang="es">Información</category>
     <category lang="es">Informativo</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MC4P1640837" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MC4P1664747" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S1 E80</episode-num>
     <rating system="ES">
@@ -4261,7 +4209,7 @@
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Humor</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M935376V1614836" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MC4P1664697" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S1 E109</episode-num>
     <rating system="ES">
@@ -4277,7 +4225,7 @@
     <date>2019</date>
     <category lang="es">Información</category>
     <category lang="es">Informativo</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M947258V1630202" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MC4P1664748" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S1 E80</episode-num>
     <rating system="ES">
@@ -4293,7 +4241,7 @@
     <date>2019</date>
     <category lang="es">Información</category>
     <category lang="es">Informativo</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MC4P1664749" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MC4P1640838" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S1 E80</episode-num>
     <rating system="ES">
@@ -4342,7 +4290,7 @@
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Tele Realidad</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MC4P1650369" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MC4P1664712" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S2019 E32</episode-num>
     <rating system="ES">
@@ -4374,6 +4322,7 @@
     <date>2019</date>
     <category lang="es">Información</category>
     <category lang="es">Reportajes de actualidad</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MC4P1664751" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S3 E1</episode-num>
   </programme>
@@ -4821,6 +4770,7 @@
     </credits>
     <date>2019</date>
     <category lang="es">Cultural/Educativo</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M325508V1664678" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -4852,7 +4802,7 @@
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Magacín</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MT5P1565682" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MT5P1664724" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S15 E190</episode-num>
     <rating system="ES">
@@ -4868,7 +4818,7 @@
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Magacín</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M811481V1613455" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MT5P1664733" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S2 E113</episode-num>
     <rating system="ES">
@@ -5049,7 +4999,7 @@
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Tele Realidad</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MT5P1652021" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MT5P1664734" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S2019 E7</episode-num>
     <rating system="ES">
@@ -5101,7 +5051,7 @@
     <date>2018</date>
     <category lang="es">Documentales</category>
     <category lang="es">Sociedad</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M958336V1590733" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MT5P1604776" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S5 E5</episode-num>
     <rating system="ES">
@@ -5215,7 +5165,7 @@
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Magacín</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MT5P1664726" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MT5P1565682" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S15 E191</episode-num>
     <rating system="ES">
@@ -5304,7 +5254,7 @@
     <category lang="es">Entretenimiento</category>
     <category lang="es">Corazón</category>
     <category lang="es">Sociedad</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MT5P1664730" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M450484V1613453" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S6 E115</episode-num>
     <rating system="ES">
@@ -5323,7 +5273,7 @@
     <category lang="es">Entretenimiento</category>
     <category lang="es">Corazón</category>
     <category lang="es">Sociedad</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M325588V1613454" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MT5P1664731" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S6 E115</episode-num>
     <rating system="ES">
@@ -5339,7 +5289,7 @@
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Concurso</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M935080V1569969" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MT5P1664732" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S13 E196</episode-num>
     <rating system="ES">
@@ -5411,7 +5361,7 @@
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Tele Realidad</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MT5P1652106" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MT5P1664736" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S2019 E12</episode-num>
     <rating system="ES">
@@ -6026,6 +5976,7 @@
     <date>2016</date>
     <category lang="es">Cine</category>
     <category lang="es">Suspense</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MSEXTAP1654286" />
     <country lang="es">Canadá</country>
     <rating system="ES">
       <value>16</value>
@@ -11069,7 +11020,7 @@
     <date>2007</date>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MFDFICP1664701" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M320394V852052" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S2 E57</episode-num>
     <rating system="ES">
@@ -11118,7 +11069,6 @@
     <date>2005</date>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MFDFICP466838" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S2 E15</episode-num>
     <rating system="ES">
@@ -11287,7 +11237,7 @@
     <date>2005</date>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M320452V456700" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/F1306402" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S4 E49</episode-num>
     <rating system="ES">
@@ -11303,7 +11253,7 @@
     <date>2016</date>
     <category lang="es">Series</category>
     <category lang="es">Making of</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M320526V1454014" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M320526V1336750" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S5 E17</episode-num>
     <rating system="ES">
@@ -11363,6 +11313,7 @@
     <date>2010</date>
     <category lang="es">Cine</category>
     <category lang="es">Aventuras</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MFDFICP1087314" />
     <country lang="es">Francia</country>
     <rating system="ES">
       <value>7</value>
@@ -11510,6 +11461,7 @@
     <date>2000</date>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MFDFICP390532" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S6 E66</episode-num>
     <rating system="ES">
@@ -11535,7 +11487,7 @@
     <date>2007</date>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MFDFICP812615" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MFDFICP678995" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S1 E21</episode-num>
     <rating system="ES">
@@ -11559,7 +11511,7 @@
     <date>2015</date>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MFDFICP1234223" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M320412V1229948" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S3 E189</episode-num>
     <rating system="ES">
@@ -11724,7 +11676,7 @@
     <date>2005</date>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M320452V456701" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/F1306402" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S4 E50</episode-num>
     <rating system="ES">
@@ -11758,7 +11710,7 @@
     <date>2005</date>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/F1306402" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M320452V460868" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S4 E51</episode-num>
     <rating system="ES">
@@ -11790,7 +11742,7 @@
     <date>2019</date>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MFDFICP1656938" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MFDFICP1649797" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S11 E7</episode-num>
     <rating system="ES">
@@ -11826,7 +11778,6 @@
     <date>1996</date>
     <category lang="es">Cine</category>
     <category lang="es">Ciencia Ficción</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MFDFICP30588" />
     <country lang="es">EE.UU</country>
     <rating system="ES">
       <value>7</value>
@@ -14416,6 +14367,7 @@
     <date>2018</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Tele Realidad</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MDIVINIP1543329" />
     <country lang="es">EE.UU</country>
     <episode-num system="onscreen">S2 E2</episode-num>
     <rating system="ES">
@@ -14447,6 +14399,7 @@
     <date>2018</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Tele Realidad</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MDIVINIP1543331" />
     <country lang="es">EE.UU</country>
     <episode-num system="onscreen">S2 E4</episode-num>
     <rating system="ES">
@@ -14512,7 +14465,7 @@
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Tele Realidad</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MDIVINIP1650369" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MDIVINIP1664712" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S2019 E32</episode-num>
     <rating system="ES">
@@ -14594,7 +14547,7 @@
     <date>2017</date>
     <category lang="es">Series</category>
     <category lang="es">Drama</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MDIVINIP1660056" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MDIVINIP1664715" />
     <country lang="es">Turquía</country>
     <episode-num system="onscreen">S1 E12</episode-num>
     <rating system="ES">
@@ -14675,7 +14628,7 @@
     <date>2015</date>
     <category lang="es">Series</category>
     <category lang="es">Policiaca</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M325436V1261110" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MDIVINIP1261110" />
     <country lang="es">EE.UU</country>
     <episode-num system="onscreen">S4 E10</episode-num>
     <rating system="ES">
@@ -14699,7 +14652,7 @@
     <date>2015</date>
     <category lang="es">Series</category>
     <category lang="es">Policiaca</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M798561V1261111" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MDIVINIP1261111" />
     <country lang="es">EE.UU</country>
     <episode-num system="onscreen">S4 E11</episode-num>
     <rating system="ES">
@@ -14747,7 +14700,7 @@
     <date>2015</date>
     <category lang="es">Series</category>
     <category lang="es">Policiaca</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M325436V1252808" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MDIVINIP1252808" />
     <country lang="es">EE.UU</country>
     <episode-num system="onscreen">S4 E6</episode-num>
     <rating system="ES">
@@ -15017,6 +14970,7 @@
     <date>2018</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Tele Realidad</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MDIVINIP1543833" />
     <country lang="es">EE.UU</country>
     <episode-num system="onscreen">S2 E13</episode-num>
     <rating system="ES">
@@ -15035,7 +14989,7 @@
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Tele Realidad</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MDIVINIP1664712" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MDIVINIP1650369" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S2019 E32</episode-num>
     <rating system="ES">
@@ -15127,7 +15081,7 @@
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Eventos especiales</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MDIVINIP1662378" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MDIVINIP1664722" />
     <episode-num system="onscreen">S1 E8</episode-num>
     <rating system="ES">
       <value>12</value>
@@ -15859,6 +15813,7 @@
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Otros</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MBEMADP1637906" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S1 E3</episode-num>
     <rating system="ES">
@@ -15991,7 +15946,7 @@
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Humor</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M935099V1613280" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MBEMADP1664694" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S1 E108</episode-num>
     <rating system="ES">
@@ -16021,7 +15976,7 @@
     <date>2018</date>
     <category lang="es">Información</category>
     <category lang="es">Reportajes de actualidad</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M912959V1570444" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MBEMADP1629298" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S5 E23</episode-num>
     <rating system="ES">
@@ -16176,7 +16131,7 @@
     <date>2017</date>
     <category lang="es">Información</category>
     <category lang="es">Reportajes de actualidad</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MBEMADP1397888" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MBEMADP1408589" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S3 E26</episode-num>
     <rating system="ES">
@@ -16338,6 +16293,7 @@
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Otros</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MBEMADP1650009" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S1 E8</episode-num>
     <rating system="ES">
@@ -16474,7 +16430,7 @@
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Humor</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M935099V1613280" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MBEMADP1664696" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S1 E109</episode-num>
     <rating system="ES">
@@ -22845,7 +22801,7 @@
     <desc lang="es">Emisión de un partido de las categorías inferiores del Real Madrid. Para el club, la formación de sus jugadores es muy importante. Los jóvenes valores aprenden desde muy pequeños los fundamentos tácticos de un buen jugador y el espíritu vencedor del Madrid.</desc>
     <category lang="es">Deportes</category>
     <category lang="es">Fútbol internacional</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/GCPL2202" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MREALMV1664794" />
   </programme>
   <programme start="20190611101000 +0200" stop="20190611105000 +0200" channel="RMTV.TDTChannelsEPG">
     <title lang="es">La cantera (T18/19): Torneo de La Poveda: Final</title>
@@ -22854,7 +22810,7 @@
     <desc lang="es">Emisión de un partido de las categorías inferiores del Real Madrid. Para el club, la formación de sus jugadores es muy importante. Los jóvenes valores aprenden desde muy pequeños los fundamentos tácticos de un buen jugador y el espíritu vencedor del Madrid.</desc>
     <category lang="es">Deportes</category>
     <category lang="es">Fútbol internacional</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/GCPL2202" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MREALMV1664795" />
   </programme>
   <programme start="20190611105000 +0200" stop="20190611121000 +0200" channel="RMTV.TDTChannelsEPG">
     <title lang="es">La cantera (T18/19): Torneo Francisco de Goya: Final</title>
@@ -22863,7 +22819,7 @@
     <desc lang="es">Emisión de un partido de las categorías inferiores del Real Madrid. Para el club, la formación de sus jugadores es muy importante. Los jóvenes valores aprenden desde muy pequeños los fundamentos tácticos de un buen jugador y el espíritu vencedor del Madrid.</desc>
     <category lang="es">Deportes</category>
     <category lang="es">Fútbol internacional</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/GCPL2202" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MREALMV1664796" />
   </programme>
   <programme start="20190611121000 +0200" stop="20190611140000 +0200" channel="RMTV.TDTChannelsEPG">
     <title lang="es">Historia que tú hiciste: Liga 94/95</title>
@@ -31588,6 +31544,86 @@
       <value>3/5</value>
     </star-rating>
   </programme>
+  <programme start="20190613000000 +0200" stop="20190613003000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">El submarino amarillo</title>
+    <icon src="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190613003000 +0200" stop="20190613013000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">La levantá</title>
+    <icon src="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190613013000 +0200" stop="20190613023000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">La Buena Educación</title>
+    <icon src="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190613023000 +0200" stop="20190613033000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Traspunte</title>
+    <icon src="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190613033000 +0200" stop="20190613043000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">El dorsal</title>
+    <icon src="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190613043000 +0200" stop="20190613073000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Fin emisión</title>
+    <icon src="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190613073000 +0200" stop="20190613093000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Noticias OC</title>
+    <icon src="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190613093000 +0200" stop="20190613110000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">El mirador - noticias</title>
+    <icon src="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190613110000 +0200" stop="20190613133000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">El mirador - social</title>
+    <icon src="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190613133000 +0200" stop="20190613140000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Noticias OC</title>
+    <icon src="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190613140000 +0200" stop="20190613143000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">El submarino amarillo</title>
+    <icon src="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190613143000 +0200" stop="20190613153000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">La Buena Educación</title>
+    <icon src="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190613153000 +0200" stop="20190613163000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">La levantá</title>
+    <icon src="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190613163000 +0200" stop="20190613193000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">El mirador</title>
+    <icon src="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190613193000 +0200" stop="20190613203000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Haciendo tipo II</title>
+    <icon src="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190613203000 +0200" stop="20190613210000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Noticias OC</title>
+    <icon src="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190613210000 +0200" stop="20190613220000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Jaleo</title>
+    <icon src="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190613220000 +0200" stop="20190613223000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">El submarino amarillo</title>
+    <icon src="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190613223000 +0200" stop="20190613233000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Traspunte</title>
+    <icon src="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190613233000 +0200" stop="20190611000000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Noticias OC</title>
+    <icon src="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
   <programme start="20190611000000 +0200" stop="20190611010000 +0200" channel="OndaCadiz.TDTChannelsEPG">
     <title lang="es">El submarino amarillo</title>
     <icon src="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
@@ -31741,86 +31777,6 @@
     <icon src="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
   </programme>
   <programme start="20190612233000 +0200" stop="20190613000000 +0200" channel="OndaCadiz.TDTChannelsEPG">
-    <title lang="es">Noticias OC</title>
-    <icon src="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
-  </programme>
-  <programme start="20190613000000 +0200" stop="20190613003000 +0200" channel="OndaCadiz.TDTChannelsEPG">
-    <title lang="es">El submarino amarillo</title>
-    <icon src="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
-  </programme>
-  <programme start="20190613003000 +0200" stop="20190613013000 +0200" channel="OndaCadiz.TDTChannelsEPG">
-    <title lang="es">La levantá</title>
-    <icon src="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
-  </programme>
-  <programme start="20190613013000 +0200" stop="20190613023000 +0200" channel="OndaCadiz.TDTChannelsEPG">
-    <title lang="es">La Buena Educación</title>
-    <icon src="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
-  </programme>
-  <programme start="20190613023000 +0200" stop="20190613033000 +0200" channel="OndaCadiz.TDTChannelsEPG">
-    <title lang="es">Traspunte</title>
-    <icon src="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
-  </programme>
-  <programme start="20190613033000 +0200" stop="20190613043000 +0200" channel="OndaCadiz.TDTChannelsEPG">
-    <title lang="es">El dorsal</title>
-    <icon src="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
-  </programme>
-  <programme start="20190613043000 +0200" stop="20190613073000 +0200" channel="OndaCadiz.TDTChannelsEPG">
-    <title lang="es">Fin emisión</title>
-    <icon src="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
-  </programme>
-  <programme start="20190613073000 +0200" stop="20190613093000 +0200" channel="OndaCadiz.TDTChannelsEPG">
-    <title lang="es">Noticias OC</title>
-    <icon src="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
-  </programme>
-  <programme start="20190613093000 +0200" stop="20190613110000 +0200" channel="OndaCadiz.TDTChannelsEPG">
-    <title lang="es">El mirador - noticias</title>
-    <icon src="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
-  </programme>
-  <programme start="20190613110000 +0200" stop="20190613133000 +0200" channel="OndaCadiz.TDTChannelsEPG">
-    <title lang="es">El mirador - social</title>
-    <icon src="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
-  </programme>
-  <programme start="20190613133000 +0200" stop="20190613140000 +0200" channel="OndaCadiz.TDTChannelsEPG">
-    <title lang="es">Noticias OC</title>
-    <icon src="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
-  </programme>
-  <programme start="20190613140000 +0200" stop="20190613143000 +0200" channel="OndaCadiz.TDTChannelsEPG">
-    <title lang="es">El submarino amarillo</title>
-    <icon src="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
-  </programme>
-  <programme start="20190613143000 +0200" stop="20190613153000 +0200" channel="OndaCadiz.TDTChannelsEPG">
-    <title lang="es">La Buena Educación</title>
-    <icon src="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
-  </programme>
-  <programme start="20190613153000 +0200" stop="20190613163000 +0200" channel="OndaCadiz.TDTChannelsEPG">
-    <title lang="es">La levantá</title>
-    <icon src="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
-  </programme>
-  <programme start="20190613163000 +0200" stop="20190613193000 +0200" channel="OndaCadiz.TDTChannelsEPG">
-    <title lang="es">El mirador</title>
-    <icon src="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
-  </programme>
-  <programme start="20190613193000 +0200" stop="20190613203000 +0200" channel="OndaCadiz.TDTChannelsEPG">
-    <title lang="es">Haciendo tipo II</title>
-    <icon src="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
-  </programme>
-  <programme start="20190613203000 +0200" stop="20190613210000 +0200" channel="OndaCadiz.TDTChannelsEPG">
-    <title lang="es">Noticias OC</title>
-    <icon src="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
-  </programme>
-  <programme start="20190613210000 +0200" stop="20190613220000 +0200" channel="OndaCadiz.TDTChannelsEPG">
-    <title lang="es">Jaleo</title>
-    <icon src="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
-  </programme>
-  <programme start="20190613220000 +0200" stop="20190613223000 +0200" channel="OndaCadiz.TDTChannelsEPG">
-    <title lang="es">El submarino amarillo</title>
-    <icon src="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
-  </programme>
-  <programme start="20190613223000 +0200" stop="20190613233000 +0200" channel="OndaCadiz.TDTChannelsEPG">
-    <title lang="es">Traspunte</title>
-    <icon src="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
-  </programme>
-  <programme start="20190613233000 +0200" stop="20190611000000 +0200" channel="OndaCadiz.TDTChannelsEPG">
     <title lang="es">Noticias OC</title>
     <icon src="http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
   </programme>
@@ -34921,6 +34877,239 @@
       <value>3/5</value>
     </star-rating>
   </programme>
+  <programme start="20190611030000 +0200" stop="20190611080000 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Programación de madrugada</title>
+    <desc lang="es">Programación de madrugada con videoclips musicales y los éxitos del momento.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/1.jpg" />
+  </programme>
+  <programme start="20190611080000 +0200" stop="20190611110500 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Mírame Sport</title>
+    <desc lang="es">Con Iván Bonales
+Si no quieres estar fuera de juego, sigue todo lo relacionado con los equipos de las Islas en este espacio de ritmo trepidante donde no faltan las tertulias y las entrevistas de actualidad. El deporte canario en Mírame Canarias.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/50.jpg" />
+  </programme>
+  <programme start="20190611110500 +0200" stop="20190611115000 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">AM Deluxe</title>
+    <desc lang="es">Con Mario Orenes
+Disfruta de un recorrido por la moda, el espectáculo y los lugares de referencia en Canaarias junto a Mario Orenes. Descubre la amplia propuesta de ocio y entretenimiento que ofrecen nuestras islas. Una visita de lujo que vivirás a través de la pequeña pantalla.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/3.png" />
+  </programme>
+  <programme start="20190611115000 +0200" stop="20190611140000 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Lucha Canaria</title>
+    <desc lang="es">Con Equipo de Deportes
+Mírame Televisión se ha convertido en la apuesta más segura para la difusión del deporte vernáculo en Canarias. Cada semana visitamos los terremos junto a un amplio equipo técnico que hace las delicias de los espectadores y aficionados.
+CL Rosario - CL Tao.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/8.png" />
+  </programme>
+  <programme start="20190611140000 +0200" stop="20190611170000 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Mírame Sport</title>
+    <desc lang="es">Con Iván Bonales
+Si no quieres estar fuera de juego, sigue todo lo relacionado con los equipos de las Islas en este espacio de ritmo trepidante donde no faltan las tertulias y las entrevistas de actualidad. El deporte canario en Mírame Canarias.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/50.jpg" />
+  </programme>
+  <programme start="20190611170000 +0200" stop="20190611172500 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Lucha Canaria</title>
+    <desc lang="es">Con Equipo de Deportes
+Mírame Televisión se ha convertido en la apuesta más segura para la difusión del deporte vernáculo en Canarias. Cada semana visitamos los terremos junto a un amplio equipo técnico que hace las delicias de los espectadores y aficionados.
+CL Tijarafe - CL Ravelo.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/8.png" />
+  </programme>
+  <programme start="20190611172500 +0200" stop="20190611190000 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Reportaje</title>
+    <desc lang="es">Feria de Ganado Los Realejos.</desc>
+    <icon src="https://mirametv.com/images/wSystem/logo.png" />
+  </programme>
+  <programme start="20190611190000 +0200" stop="20190611201500 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Crónica del Campo</title>
+    <desc lang="es">Con Lucio Hernández
+¿Cuál es el estado del sector? ¿Qué piden nuestros agricultores a las administraciones? ¿Hacia dónde camina el campo en el archipiélago?
+No te pierdas un espacio donde saber más de los productos que da nuestra tierra y de la economía que genera.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/76.png" />
+  </programme>
+  <programme start="20190611201500 +0200" stop="20190611210500 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Canarias al Día - La Entrevista</title>
+    <desc lang="es">Con David Cuesta
+Tiempo para los protagonistas de la actualidad cada día. Entrevistas en las que buscamos las respuestas que los ciudadanos esperan. Un espacio para ampliar la información de instituciones y colectivos del archipiélago.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/10.png" />
+  </programme>
+  <programme start="20190611210500 +0200" stop="20190611224500 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Canarias al Día - La Tertulia</title>
+    <desc lang="es">Con Manuel Artiles
+Tertulia periodística de referencia en el archipiélago. Con una conocida línea crítica destapamos aquellas informaciones que otros no publican. Todos los datos, las polémicas y los protagonistas tienen el principal espacio de la cadena en este programa.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/10.png" />
+  </programme>
+  <programme start="20190611224500 +0200" stop="20190611235900 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">La Traquina</title>
+    <desc lang="es">Con Carmen Fariña y Carlos Álvarez
+Participacion ciudadana en estado puro a través de las llamadas telefónicas. Espacio en el que los ciudadanos disponen de la posibilidad de hacer públicas sus denuncias, opiniones y comentarios. Junto a Ricardo Negrín y Carlos Álvarez escuchamos a nuestros espectadores y les ofrecemos asesoramiento jurídico.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/35.png" />
+  </programme>
+  <programme start="20190612013500 +0200" stop="20190612074500 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Programación de madrugada</title>
+    <desc lang="es">Programación de madrugada con videoclips musicales y los éxitos del momento.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/1.jpg" />
+  </programme>
+  <programme start="20190612074500 +0200" stop="20190612082000 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Canarias al Día - La Entrevista</title>
+    <desc lang="es">Con David Cuesta
+Tiempo para los protagonistas de la actualidad cada día. Entrevistas en las que buscamos las respuestas que los ciudadanos esperan. Un espacio para ampliar la información de instituciones y colectivos del archipiélago.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/10.png" />
+  </programme>
+  <programme start="20190612082000 +0200" stop="20190612101500 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Canarias al Día - La Tertulia</title>
+    <desc lang="es">Con Manuel Artiles
+Tertulia periodística de referencia en el archipiélago. Con una conocida línea crítica destapamos aquellas informaciones que otros no publican. Todos los datos, las polémicas y los protagonistas tienen el principal espacio de la cadena en este programa.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/10.png" />
+  </programme>
+  <programme start="20190612101500 +0200" stop="20190612111000 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">AM Deluxe</title>
+    <desc lang="es">Con Mario Orenes
+Disfruta de un recorrido por la moda, el espectáculo y los lugares de referencia en Canaarias junto a Mario Orenes. Descubre la amplia propuesta de ocio y entretenimiento que ofrecen nuestras islas. Una visita de lujo que vivirás a través de la pequeña pantalla.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/3.png" />
+  </programme>
+  <programme start="20190612111000 +0200" stop="20190612113500 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Reportaje</title>
+    <desc lang="es">Jornadas Deporte Arona.</desc>
+    <icon src="https://mirametv.com/images/wSystem/logo.png" />
+  </programme>
+  <programme start="20190612113500 +0200" stop="20190612124500 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">De Cerca</title>
+    <icon src="https://mirametv.com/images/wSystem/logo.png" />
+  </programme>
+  <programme start="20190612124500 +0200" stop="20190612133000 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Reportaje</title>
+    <desc lang="es">Romería de Los Realejos.</desc>
+    <icon src="https://mirametv.com/images/wSystem/logo.png" />
+  </programme>
+  <programme start="20190612133000 +0200" stop="20190612141000 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Canarias al Día - La Entrevista</title>
+    <desc lang="es">Con David Cuesta
+Tiempo para los protagonistas de la actualidad cada día. Entrevistas en las que buscamos las respuestas que los ciudadanos esperan. Un espacio para ampliar la información de instituciones y colectivos del archipiélago.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/10.png" />
+  </programme>
+  <programme start="20190612141000 +0200" stop="20190612160000 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Canarias al Día - La Tertulia</title>
+    <desc lang="es">Con Manuel Artiles
+Tertulia periodística de referencia en el archipiélago. Con una conocida línea crítica destapamos aquellas informaciones que otros no publican. Todos los datos, las polémicas y los protagonistas tienen el principal espacio de la cadena en este programa.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/10.png" />
+  </programme>
+  <programme start="20190612160000 +0200" stop="20190612172000 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Crónica del Campo</title>
+    <desc lang="es">Con Lucio Hernández
+¿Cuál es el estado del sector? ¿Qué piden nuestros agricultores a las administraciones? ¿Hacia dónde camina el campo en el archipiélago?
+No te pierdas un espacio donde saber más de los productos que da nuestra tierra y de la economía que genera.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/76.png" />
+  </programme>
+  <programme start="20190612172000 +0200" stop="20190612180000 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Reportaje</title>
+    <desc lang="es">Feria de Ganado Los Realejos.</desc>
+    <icon src="https://mirametv.com/images/wSystem/logo.png" />
+  </programme>
+  <programme start="20190612180000 +0200" stop="20190612183000 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Reportaje</title>
+    <desc lang="es">Baile Infantil Magos Los Realejos.</desc>
+    <icon src="https://mirametv.com/images/wSystem/logo.png" />
+  </programme>
+  <programme start="20190612183000 +0200" stop="20190612203000 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Los Díaz con Ángeles</title>
+    <desc lang="es">Con Ángeles Díaz
+Un programa para conocer de cerca nuestras fiestas y tradiciones, para acercarnos a canarios que tienen mucho que contar.
+
+Te ofrecemos un rato de alegría y positividad con la popular presentadora palmera Ángeles Díaz, que recorre las Islas buscando amigos e historias.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/75.png" />
+  </programme>
+  <programme start="20190612203000 +0200" stop="20190612210000 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Informativos Mírame Sport</title>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/75.png" />
+  </programme>
+  <programme start="20190612210000 +0200" stop="20190612235900 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Canarias al Día - La Tertulia</title>
+    <desc lang="es">Con Manuel Artiles
+Tertulia periodística de referencia en el archipiélago. Con una conocida línea crítica destapamos aquellas informaciones que otros no publican. Todos los datos, las polémicas y los protagonistas tienen el principal espacio de la cadena en este programa.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/10.png" />
+  </programme>
+  <programme start="20190613013000 +0200" stop="20190613080500 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Programación de madrugada</title>
+    <desc lang="es">Programación de madrugada con videoclips musicales y los éxitos del momento.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/1.jpg" />
+  </programme>
+  <programme start="20190613080500 +0200" stop="20190613092500 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Canarias al Día - La Tertulia</title>
+    <desc lang="es">Con Manuel Artiles
+Tertulia periodística de referencia en el archipiélago. Con una conocida línea crítica destapamos aquellas informaciones que otros no publican. Todos los datos, las polémicas y los protagonistas tienen el principal espacio de la cadena en este programa.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/10.png" />
+  </programme>
+  <programme start="20190613092500 +0200" stop="20190613095000 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Reportaje</title>
+    <desc lang="es">Jornadas Deportivas Arona.</desc>
+    <icon src="https://mirametv.com/images/wSystem/logo.png" />
+  </programme>
+  <programme start="20190613095000 +0200" stop="20190613111000 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Crónica del Campo</title>
+    <desc lang="es">Con Lucio Hernández
+¿Cuál es el estado del sector? ¿Qué piden nuestros agricultores a las administraciones? ¿Hacia dónde camina el campo en el archipiélago?
+No te pierdas un espacio donde saber más de los productos que da nuestra tierra y de la economía que genera.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/76.png" />
+  </programme>
+  <programme start="20190613111000 +0200" stop="20190613115000 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Reportaje</title>
+    <desc lang="es">Baile de Magos Infantil Los Realejos.</desc>
+    <icon src="https://mirametv.com/images/wSystem/logo.png" />
+  </programme>
+  <programme start="20190613115000 +0200" stop="20190613130500 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">De Cerca</title>
+    <icon src="https://mirametv.com/images/wSystem/logo.png" />
+  </programme>
+  <programme start="20190613130500 +0200" stop="20190613134000 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Reportaje</title>
+    <desc lang="es">Feria de Ganado Los Realejos.</desc>
+    <icon src="https://mirametv.com/images/wSystem/logo.png" />
+  </programme>
+  <programme start="20190613134000 +0200" stop="20190613140500 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Informativos Mírame Sport</title>
+    <icon src="https://mirametv.com/images/wSystem/logo.png" />
+  </programme>
+  <programme start="20190613140500 +0200" stop="20190613153500 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Canarias al Día - La Tertulia</title>
+    <desc lang="es">Con Manuel Artiles
+Tertulia periodística de referencia en el archipiélago. Con una conocida línea crítica destapamos aquellas informaciones que otros no publican. Todos los datos, las polémicas y los protagonistas tienen el principal espacio de la cadena en este programa.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/10.png" />
+  </programme>
+  <programme start="20190613153500 +0200" stop="20190613174000 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Los Díaz con Ángeles</title>
+    <desc lang="es">Con Ángeles Díaz
+Un programa para conocer de cerca nuestras fiestas y tradiciones, para acercarnos a canarios que tienen mucho que contar.
+
+Te ofrecemos un rato de alegría y positividad con la popular presentadora palmera Ángeles Díaz, que recorre las Islas buscando amigos e historias.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/75.png" />
+  </programme>
+  <programme start="20190613174000 +0200" stop="20190613181500 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Reportaje</title>
+    <desc lang="es">Romería de Los Realejos.</desc>
+    <icon src="https://mirametv.com/images/wSystem/logo.png" />
+  </programme>
+  <programme start="20190613181500 +0200" stop="20190613200000 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Lucha Canaria</title>
+    <desc lang="es">Con Equipo de Deportes
+Mírame Televisión se ha convertido en la apuesta más segura para la difusión del deporte vernáculo en Canarias. Cada semana visitamos los terremos junto a un amplio equipo técnico que hace las delicias de los espectadores y aficionados.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/8.png" />
+  </programme>
+  <programme start="20190613200000 +0200" stop="20190613203000 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Canarias al Día - La Entrevista</title>
+    <desc lang="es">Con David Cuesta
+Tiempo para los protagonistas de la actualidad cada día. Entrevistas en las que buscamos las respuestas que los ciudadanos esperan. Un espacio para ampliar la información de instituciones y colectivos del archipiélago.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/10.png" />
+  </programme>
+  <programme start="20190613203000 +0200" stop="20190613210000 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Informativos Mírame Sport</title>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/10.png" />
+  </programme>
+  <programme start="20190613210000 +0200" stop="20190613235900 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">El programa de Manuel Artiles</title>
+    <desc lang="es">Con Manuel Artiles
+Espacio para el debate plural y democrático donde toma protagonismo la participación de la gente de la calle y sus problemas. Apegados a la realidad, con tiempo para el entretenimiento, secciones de interés y actuaciones musicales.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/7.png" />
+  </programme>
   <programme start="20190611013000 +0200" stop="20190611090000 +0200" channel="PopularTV_S.TDTChannelsEPG">
     <title lang="es">Ajuste de programación</title>
   </programme>
@@ -36467,6 +36656,7 @@
     <date>1972</date>
     <category lang="es">Cine</category>
     <category lang="es">Comedia</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MCYLTVP318484" />
     <country lang="es">EE.UU e Italia</country>
     <star-rating system="ES">
       <value>3/5</value>
@@ -47516,6 +47706,7 @@
     <date>2014</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Concurso</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M367680V1375354" />
     <country lang="es">España</country>
     <star-rating system="ES">
       <value>3/5</value>
@@ -50243,7 +50434,7 @@
     <category lang="es">Documentales</category>
     <category lang="es">Viajes</category>
     <category lang="es">Expediciones</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MTELMADP1614649" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MTELMADP1664829" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S2019 E104</episode-num>
     <rating system="ES">
@@ -50689,7 +50880,7 @@
     <date>2019</date>
     <category lang="es">Información</category>
     <category lang="es">Reportajes de actualidad</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MTELMADP1616693" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MTELMADP1664825" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S2019 E50</episode-num>
     <rating system="ES">
@@ -51584,7 +51775,7 @@
     </credits>
     <date>2010</date>
     <category lang="es">Deportes</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MOTRAP957790" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M372726V957790" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -51942,7 +52133,6 @@
     <date>1941</date>
     <category lang="es">Cine</category>
     <category lang="es">Drama</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MOTRAP278870" />
     <country lang="es">EE.UU</country>
     <rating system="ES">
       <value>TP</value>
@@ -51996,7 +52186,7 @@
     </credits>
     <date>2010</date>
     <category lang="es">Deportes</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MOTRAP957790" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M372726V957790" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -52167,7 +52357,7 @@
     </credits>
     <date>2010</date>
     <category lang="es">Deportes</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MOTRAP957790" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M372726V957790" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -52234,6 +52424,7 @@
     <date>2010</date>
     <category lang="es">Cine</category>
     <category lang="es">Ciencia Ficción</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MOTRAP895828" />
     <country lang="es">EE.UU y R.U</country>
     <rating system="ES">
       <value>12</value>
@@ -54082,7 +54273,7 @@ Presentado por Farida Mohamed, María Ceano, Marite Gallardo.</desc>
     <date>2015</date>
     <category lang="es">Información</category>
     <category lang="es">Informativo</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M369645V1247531" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/METB1P1247531" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -54179,7 +54370,7 @@ Presentado por Farida Mohamed, María Ceano, Marite Gallardo.</desc>
     <date>1993</date>
     <category lang="es">Series</category>
     <category lang="es">Telenovela</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/METB1P245220" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/METB1P1664788" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -54249,7 +54440,7 @@ Presentado por Farida Mohamed, María Ceano, Marite Gallardo.</desc>
     <date>1993</date>
     <category lang="es">Series</category>
     <category lang="es">Telenovela</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/METB1P245220" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/METB1P1664790" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -55379,6 +55570,7 @@ Presentado por Farida Mohamed, María Ceano, Marite Gallardo.</desc>
     <date>2017</date>
     <category lang="es">Documentales</category>
     <category lang="es">Arte y cultura</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/METB2P1402841" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -55636,6 +55828,7 @@ Presentado por Farida Mohamed, María Ceano, Marite Gallardo.</desc>
     <date>2016</date>
     <category lang="es">Cine</category>
     <category lang="es">Drama</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/METB2P1488982" />
     <country lang="es">China, EE.UU y Hong Kong</country>
     <rating system="ES">
       <value>7</value>
@@ -57372,6 +57565,7 @@ Presentado por Farida Mohamed, María Ceano, Marite Gallardo.</desc>
     <date>1954</date>
     <category lang="es">Cine</category>
     <category lang="es">Oeste</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MMEDITEP89418" />
     <country lang="es">EE.UU</country>
     <rating system="ES">
       <value>12</value>
