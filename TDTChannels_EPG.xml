@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.5 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="La1.TDTChannelsEPG">
     <display-name lang="es">La 1</display-name>
@@ -32805,6 +32805,504 @@
       <value>3/5</value>
     </star-rating>
   </programme>
+    <programme start="20190626000000 +0200" stop="20190626003000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">El submarino amarillo</title>
+    <desc lang="es">El programa de El submarino amarillo, se emite de lunes a viernes en Onda Cádiz Televisión, y es un espacio referente de todo lo que acontece con el Cádiz C.F. Diariamente se cuentan los entrenamientos, se hacen entrevistas y se analizan las jugadas de los partidos. La cantera, la afición y todas las noticias relacionadas con el primer equipo de la ciudad, tienen cabida en este programa deportivo, presentado por Hugo Vaca.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/submarino_amarillo_0.jpg?itok=pmJVFcHR" />
+  </programme>
+  <programme start="20190626003000 +0200" stop="20190626013000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Haciendo tipo II</title>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190626013000 +0200" stop="20190626023000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Zona Historia</title>
+    <desc lang="es">La Historia de Cádiz de la mano de Salvador Santos.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/zona-historia.jpg?itok=DjS8EbIA" />
+  </programme>
+  <programme start="20190626023000 +0200" stop="20190626033000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">EL FAROL</title>
+    <desc lang="es">Programa de divulgación cultural y entretenimiento, realizado en clave de humor. Se presenta la historia de Cádiz y universal, a través de cinco relatos que narrarán cinco personas distintas, siendo una de las historias falsa. El objetivo del programa, presentado por Salvador Fernández Miró, es que el invitado se capaz de descubrir la falsa, es decir, donde está el farol.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/el_farol_0.jpg?itok=ngG6H-Tr" />
+  </programme>
+  <programme start="20190626033000 +0200" stop="20190626043000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Saludablemente</title>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190626043000 +0200" stop="20190626073000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Fin emisión</title>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190626073000 +0200" stop="20190626093000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Noticias OC</title>
+    <desc lang="es">Desde Onda Cádiz Televisión, ofrecemos a nuestros espectadores, la posibilidad de que puedan tomar, con nosotros, el pulso diario de nuestra ciudad. Política, cultura, sucesos, ocio, deportes, información meteorológica y toda la información puntual que genera nuestra ciudad, con el máximo rigor y pluralidad que debe de tener una televisión municipal.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/noticias_cadiz.jpg?itok=N_oSD2Vc" />
+  </programme>
+  <programme start="20190626093000 +0200" stop="20190626110000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">El mirador - noticias</title>
+    <desc lang="es">Primera parte del Magazine el Mirador con un marcado carácter informativo.
+La iniciamos asomándonos a la previsión meteorológica y a las portadas del día de los principales periódicos locales y nacionales, para seguidamente repasar las noticias más destacadas ofrecidas por los servicios informativos de Onda Cádiz Tv.
+A continuación, espacio para el Debate y el intercambio de opiniones e ideas en la  tertulia de actualidad. Sociedad, política, economía, cultura, costumbres y demás aspectos de interés con la mirada puesta principalmente en las cuestiones que más afectan a nuestra capital, nuestra Bahía y nuestra provincia.
+Esta primera parte del Mirador se remata con una encuentro con las Instituciones públicas, Colegios profesionales, asociaciones del ámbito de la  empresa, Universidad, Cuerpos y Fuerzas Seguridad y demás organismos públicos y privados en una entrevista de actualidad.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/logo_el_mirador_boton_noticias.jpg?itok=i43Wib16" />
+  </programme>
+  <programme start="20190626110000 +0200" stop="20190626133000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">El mirador - social</title>
+    <desc lang="es">Enrique Miranda y Anabel Flores les invitan a este espacio de entretenimiento de dos horas en directo dedicado a la actualidad y eventos destacados en la ciudad. Música, moda, espectáculos, flamenco, gastronomía, asociaciones y entidades solidarias visitarán nuestro plató para compartir sus proyectos. Asómense al Mirador Magazine para descubrir Cádiz y su faceta más artística y cultural.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/logo_el_mirador_boton_social.jpg?itok=d7lUUMa8" />
+  </programme>
+  <programme start="20190626133000 +0200" stop="20190626140000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Noticias OC 1ª Edición</title>
+    <desc lang="es">Desde Onda Cádiz Televisión, ofrecemos a nuestros espectadores, la posibilidad de que puedan tomar, con nosotros, el pulso diario de nuestra ciudad. Política, cultura, sucesos, ocio, deportes, información meteorológica y toda la información puntual que genera nuestra ciudad, con el máximo rigor y pluralidad que debe de tener una televisión municipal.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/noticias_cadiz.jpg?itok=N_oSD2Vc" />
+  </programme>
+  <programme start="20190626140000 +0200" stop="20190626143000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">El submarino amarillo</title>
+    <desc lang="es">El programa de El submarino amarillo, se emite de lunes a viernes en Onda Cádiz Televisión, y es un espacio referente de todo lo que acontece con el Cádiz C.F. Diariamente se cuentan los entrenamientos, se hacen entrevistas y se analizan las jugadas de los partidos. La cantera, la afición y todas las noticias relacionadas con el primer equipo de la ciudad, tienen cabida en este programa deportivo, presentado por Hugo Vaca.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/submarino_amarillo_0.jpg?itok=pmJVFcHR" />
+  </programme>
+  <programme start="20190626143000 +0200" stop="20190626153000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Haciendo tipo II</title>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190626153000 +0200" stop="20190626163000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Zona Historia</title>
+    <desc lang="es">La Historia de Cádiz de la mano de Salvador Santos.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/zona-historia.jpg?itok=DjS8EbIA" />
+  </programme>
+  <programme start="20190626163000 +0200" stop="20190626193000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">El mirador</title>
+    <desc lang="es">De lunes a viernes, Onda Cádiz te ofrece cuatro horas de riguroso directo. Todas las mañanas, de 9.30 a 13.30, te damos los buenos días desde este, tu Mirador de la ciudad. Noticias, tertulias, entrevistas, sociedad, universidad, empresas, cine, moda y música, hace que este programa sea un referente en las mañanas gaditanas. Miguel Velasco y Macarena Jiménez, junto con diferentes colaboradores, son los encargados de esta programación en directo.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/el_mirador.jpg?itok=N12sv4Nv" />
+  </programme>
+  <programme start="20190626193000 +0200" stop="20190626203000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">La Buena Educación</title>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190626203000 +0200" stop="20190626210000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Noticias OC</title>
+    <desc lang="es">Desde Onda Cádiz Televisión, ofrecemos a nuestros espectadores, la posibilidad de que puedan tomar, con nosotros, el pulso diario de nuestra ciudad. Política, cultura, sucesos, ocio, deportes, información meteorológica y toda la información puntual que genera nuestra ciudad, con el máximo rigor y pluralidad que debe de tener una televisión municipal.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/noticias_cadiz.jpg?itok=N_oSD2Vc" />
+  </programme>
+  <programme start="20190626210000 +0200" stop="20190626220000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Haciendo tipo II</title>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190626220000 +0200" stop="20190626223000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">El submarino amarillo</title>
+    <desc lang="es">El programa de El submarino amarillo, se emite de lunes a viernes en Onda Cádiz Televisión, y es un espacio referente de todo lo que acontece con el Cádiz C.F. Diariamente se cuentan los entrenamientos, se hacen entrevistas y se analizan las jugadas de los partidos. La cantera, la afición y todas las noticias relacionadas con el primer equipo de la ciudad, tienen cabida en este programa deportivo, presentado por Hugo Vaca.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/submarino_amarillo_0.jpg?itok=pmJVFcHR" />
+  </programme>
+  <programme start="20190626223000 +0200" stop="20190626233000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">La levantá</title>
+    <desc lang="es">Programa dedicado en exclusividad a la Semana Santa gaditana y todo lo relacionado con la misma. Hermandades y Cofradías, salidas procesionales, cultos y distintas actividades, son tratados en formatos de entrevistas, tertulias y reportajes. Mayte Huguet es el encargo de dar forma a este espacio televisivo.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/la_levanta.jpg?itok=j694IFE6" />
+  </programme>
+  <programme start="20190626233000 +0200" stop="20190627000000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Noticias OC</title>
+    <desc lang="es">Desde Onda Cádiz Televisión, ofrecemos a nuestros espectadores, la posibilidad de que puedan tomar, con nosotros, el pulso diario de nuestra ciudad. Política, cultura, sucesos, ocio, deportes, información meteorológica y toda la información puntual que genera nuestra ciudad, con el máximo rigor y pluralidad que debe de tener una televisión municipal.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/noticias_cadiz.jpg?itok=N_oSD2Vc" />
+  </programme>
+  <programme start="20190627000000 +0200" stop="20190627003000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">El submarino amarillo</title>
+    <desc lang="es">El programa de El submarino amarillo, se emite de lunes a viernes en Onda Cádiz Televisión, y es un espacio referente de todo lo que acontece con el Cádiz C.F. Diariamente se cuentan los entrenamientos, se hacen entrevistas y se analizan las jugadas de los partidos. La cantera, la afición y todas las noticias relacionadas con el primer equipo de la ciudad, tienen cabida en este programa deportivo, presentado por Hugo Vaca.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/submarino_amarillo_0.jpg?itok=pmJVFcHR" />
+  </programme>
+  <programme start="20190627003000 +0200" stop="20190627013000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">La levantá</title>
+    <desc lang="es">Programa dedicado en exclusividad a la Semana Santa gaditana y todo lo relacionado con la misma. Hermandades y Cofradías, salidas procesionales, cultos y distintas actividades, son tratados en formatos de entrevistas, tertulias y reportajes. Mayte Huguet es el encargo de dar forma a este espacio televisivo.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/la_levanta.jpg?itok=j694IFE6" />
+  </programme>
+  <programme start="20190627013000 +0200" stop="20190627023000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">La Buena Educación</title>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190627023000 +0200" stop="20190627033000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Traspunte</title>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190627033000 +0200" stop="20190627043000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">El dorsal</title>
+    <desc lang="es">Se trata de un espacio semanal, presentado por Nacho Limón, en el que se trata de manera directa todo el deporte de Cádiz y provincia. Desde la base al profesional, sin descuidar la práctica amateur. Cuenta en su espacio con secciones de Psicología deportiva, Running, Fútbol base, entrenamiento deportivo y fisioterapia y nutrición deportiva. Dedicamos una especial atención a los deportes minoritarios y al perspectiva de género.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/el_dorsal.jpg?itok=GnOOYUmR" />
+  </programme>
+  <programme start="20190627043000 +0200" stop="20190627073000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Fin emisión</title>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190627073000 +0200" stop="20190627093000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Noticias OC</title>
+    <desc lang="es">Desde Onda Cádiz Televisión, ofrecemos a nuestros espectadores, la posibilidad de que puedan tomar, con nosotros, el pulso diario de nuestra ciudad. Política, cultura, sucesos, ocio, deportes, información meteorológica y toda la información puntual que genera nuestra ciudad, con el máximo rigor y pluralidad que debe de tener una televisión municipal.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/noticias_cadiz.jpg?itok=N_oSD2Vc" />
+  </programme>
+  <programme start="20190627093000 +0200" stop="20190627110000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">El mirador - noticias</title>
+    <desc lang="es">Primera parte del Magazine el Mirador con un marcado carácter informativo.
+La iniciamos asomándonos a la previsión meteorológica y a las portadas del día de los principales periódicos locales y nacionales, para seguidamente repasar las noticias más destacadas ofrecidas por los servicios informativos de Onda Cádiz Tv.
+A continuación, espacio para el Debate y el intercambio de opiniones e ideas en la  tertulia de actualidad. Sociedad, política, economía, cultura, costumbres y demás aspectos de interés con la mirada puesta principalmente en las cuestiones que más afectan a nuestra capital, nuestra Bahía y nuestra provincia.
+Esta primera parte del Mirador se remata con una encuentro con las Instituciones públicas, Colegios profesionales, asociaciones del ámbito de la  empresa, Universidad, Cuerpos y Fuerzas Seguridad y demás organismos públicos y privados en una entrevista de actualidad.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/logo_el_mirador_boton_noticias.jpg?itok=i43Wib16" />
+  </programme>
+  <programme start="20190627110000 +0200" stop="20190627133000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">El mirador - social</title>
+    <desc lang="es">Enrique Miranda y Anabel Flores les invitan a este espacio de entretenimiento de dos horas en directo dedicado a la actualidad y eventos destacados en la ciudad. Música, moda, espectáculos, flamenco, gastronomía, asociaciones y entidades solidarias visitarán nuestro plató para compartir sus proyectos. Asómense al Mirador Magazine para descubrir Cádiz y su faceta más artística y cultural.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/logo_el_mirador_boton_social.jpg?itok=d7lUUMa8" />
+  </programme>
+  <programme start="20190627133000 +0200" stop="20190627140000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Noticias OC</title>
+    <desc lang="es">Desde Onda Cádiz Televisión, ofrecemos a nuestros espectadores, la posibilidad de que puedan tomar, con nosotros, el pulso diario de nuestra ciudad. Política, cultura, sucesos, ocio, deportes, información meteorológica y toda la información puntual que genera nuestra ciudad, con el máximo rigor y pluralidad que debe de tener una televisión municipal.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/noticias_cadiz.jpg?itok=N_oSD2Vc" />
+  </programme>
+  <programme start="20190627140000 +0200" stop="20190627143000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">El submarino amarillo</title>
+    <desc lang="es">El programa de El submarino amarillo, se emite de lunes a viernes en Onda Cádiz Televisión, y es un espacio referente de todo lo que acontece con el Cádiz C.F. Diariamente se cuentan los entrenamientos, se hacen entrevistas y se analizan las jugadas de los partidos. La cantera, la afición y todas las noticias relacionadas con el primer equipo de la ciudad, tienen cabida en este programa deportivo, presentado por Hugo Vaca.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/submarino_amarillo_0.jpg?itok=pmJVFcHR" />
+  </programme>
+  <programme start="20190627143000 +0200" stop="20190627153000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">La Buena Educación</title>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190627153000 +0200" stop="20190627163000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">La levantá</title>
+    <desc lang="es">Programa dedicado en exclusividad a la Semana Santa gaditana y todo lo relacionado con la misma. Hermandades y Cofradías, salidas procesionales, cultos y distintas actividades, son tratados en formatos de entrevistas, tertulias y reportajes. Mayte Huguet es el encargo de dar forma a este espacio televisivo.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/la_levanta.jpg?itok=j694IFE6" />
+  </programme>
+  <programme start="20190627163000 +0200" stop="20190627193000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">El mirador</title>
+    <desc lang="es">De lunes a viernes, Onda Cádiz te ofrece cuatro horas de riguroso directo. Todas las mañanas, de 9.30 a 13.30, te damos los buenos días desde este, tu Mirador de la ciudad. Noticias, tertulias, entrevistas, sociedad, universidad, empresas, cine, moda y música, hace que este programa sea un referente en las mañanas gaditanas. Miguel Velasco y Macarena Jiménez, junto con diferentes colaboradores, son los encargados de esta programación en directo.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/el_mirador.jpg?itok=N12sv4Nv" />
+  </programme>
+  <programme start="20190627193000 +0200" stop="20190627203000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Haciendo tipo II</title>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190627203000 +0200" stop="20190627210000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Noticias OC</title>
+    <desc lang="es">Desde Onda Cádiz Televisión, ofrecemos a nuestros espectadores, la posibilidad de que puedan tomar, con nosotros, el pulso diario de nuestra ciudad. Política, cultura, sucesos, ocio, deportes, información meteorológica y toda la información puntual que genera nuestra ciudad, con el máximo rigor y pluralidad que debe de tener una televisión municipal.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/noticias_cadiz.jpg?itok=N_oSD2Vc" />
+  </programme>
+  <programme start="20190627210000 +0200" stop="20190627220000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Jaleo</title>
+    <desc lang="es">El Flamenco de Cádiz y provincia en Onda Cádiz Tv.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/jaleo.jpg?itok=RooqMr_6" />
+  </programme>
+  <programme start="20190627220000 +0200" stop="20190627223000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">El submarino amarillo</title>
+    <desc lang="es">El programa de El submarino amarillo, se emite de lunes a viernes en Onda Cádiz Televisión, y es un espacio referente de todo lo que acontece con el Cádiz C.F. Diariamente se cuentan los entrenamientos, se hacen entrevistas y se analizan las jugadas de los partidos. La cantera, la afición y todas las noticias relacionadas con el primer equipo de la ciudad, tienen cabida en este programa deportivo, presentado por Hugo Vaca.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/submarino_amarillo_0.jpg?itok=pmJVFcHR" />
+  </programme>
+  <programme start="20190627223000 +0200" stop="20190627233000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Traspunte</title>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190627233000 +0200" stop="20190625000000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Noticias OC</title>
+    <desc lang="es">Desde Onda Cádiz Televisión, ofrecemos a nuestros espectadores, la posibilidad de que puedan tomar, con nosotros, el pulso diario de nuestra ciudad. Política, cultura, sucesos, ocio, deportes, información meteorológica y toda la información puntual que genera nuestra ciudad, con el máximo rigor y pluralidad que debe de tener una televisión municipal.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/noticias_cadiz.jpg?itok=N_oSD2Vc" />
+  </programme>
+  <programme start="20190627233000 +0200" stop="20190628000000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Noticias OC</title>
+    <desc lang="es">Desde Onda Cádiz Televisión, ofrecemos a nuestros espectadores, la posibilidad de que puedan tomar, con nosotros, el pulso diario de nuestra ciudad. Política, cultura, sucesos, ocio, deportes, información meteorológica y toda la información puntual que genera nuestra ciudad, con el máximo rigor y pluralidad que debe de tener una televisión municipal.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/noticias_cadiz.jpg?itok=N_oSD2Vc" />
+  </programme>
+  <programme start="20190628000000 +0200" stop="20190628003000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">El submarino amarillo</title>
+    <desc lang="es">El programa de El submarino amarillo, se emite de lunes a viernes en Onda Cádiz Televisión, y es un espacio referente de todo lo que acontece con el Cádiz C.F. Diariamente se cuentan los entrenamientos, se hacen entrevistas y se analizan las jugadas de los partidos. La cantera, la afición y todas las noticias relacionadas con el primer equipo de la ciudad, tienen cabida en este programa deportivo, presentado por Hugo Vaca.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/submarino_amarillo_0.jpg?itok=pmJVFcHR" />
+  </programme>
+  <programme start="20190628003000 +0200" stop="20190628013000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Traspunte</title>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190628013000 +0200" stop="20190628023000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Jaleo</title>
+    <desc lang="es">El Flamenco de Cádiz y provincia en Onda Cádiz Tv.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/jaleo.jpg?itok=RooqMr_6" />
+  </programme>
+  <programme start="20190628023000 +0200" stop="20190628033000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Haciendo tipo II</title>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190628033000 +0200" stop="20190628043000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Saludablemente</title>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190628043000 +0200" stop="20190628073000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Fin emisión</title>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190628073000 +0200" stop="20190628093000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Noticias OC</title>
+    <desc lang="es">Desde Onda Cádiz Televisión, ofrecemos a nuestros espectadores, la posibilidad de que puedan tomar, con nosotros, el pulso diario de nuestra ciudad. Política, cultura, sucesos, ocio, deportes, información meteorológica y toda la información puntual que genera nuestra ciudad, con el máximo rigor y pluralidad que debe de tener una televisión municipal.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/noticias_cadiz.jpg?itok=N_oSD2Vc" />
+  </programme>
+  <programme start="20190628093000 +0200" stop="20190628110000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">El mirador - noticias</title>
+    <desc lang="es">Primera parte del Magazine el Mirador con un marcado carácter informativo.
+La iniciamos asomándonos a la previsión meteorológica y a las portadas del día de los principales periódicos locales y nacionales, para seguidamente repasar las noticias más destacadas ofrecidas por los servicios informativos de Onda Cádiz Tv.
+A continuación, espacio para el Debate y el intercambio de opiniones e ideas en la  tertulia de actualidad. Sociedad, política, economía, cultura, costumbres y demás aspectos de interés con la mirada puesta principalmente en las cuestiones que más afectan a nuestra capital, nuestra Bahía y nuestra provincia.
+Esta primera parte del Mirador se remata con una encuentro con las Instituciones públicas, Colegios profesionales, asociaciones del ámbito de la  empresa, Universidad, Cuerpos y Fuerzas Seguridad y demás organismos públicos y privados en una entrevista de actualidad.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/logo_el_mirador_boton_noticias.jpg?itok=i43Wib16" />
+  </programme>
+  <programme start="20190628110000 +0200" stop="20190628133000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">El mirador - social</title>
+    <desc lang="es">Enrique Miranda y Anabel Flores les invitan a este espacio de entretenimiento de dos horas en directo dedicado a la actualidad y eventos destacados en la ciudad. Música, moda, espectáculos, flamenco, gastronomía, asociaciones y entidades solidarias visitarán nuestro plató para compartir sus proyectos. Asómense al Mirador Magazine para descubrir Cádiz y su faceta más artística y cultural.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/logo_el_mirador_boton_social.jpg?itok=d7lUUMa8" />
+  </programme>
+  <programme start="20190628133000 +0200" stop="20190628140000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Noticias OC 1ª Edición</title>
+    <desc lang="es">Desde Onda Cádiz Televisión, ofrecemos a nuestros espectadores, la posibilidad de que puedan tomar, con nosotros, el pulso diario de nuestra ciudad. Política, cultura, sucesos, ocio, deportes, información meteorológica y toda la información puntual que genera nuestra ciudad, con el máximo rigor y pluralidad que debe de tener una televisión municipal.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/noticias_cadiz.jpg?itok=N_oSD2Vc" />
+  </programme>
+  <programme start="20190628140000 +0200" stop="20190628143000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">El submarino amarillo</title>
+    <desc lang="es">El programa de El submarino amarillo, se emite de lunes a viernes en Onda Cádiz Televisión, y es un espacio referente de todo lo que acontece con el Cádiz C.F. Diariamente se cuentan los entrenamientos, se hacen entrevistas y se analizan las jugadas de los partidos. La cantera, la afición y todas las noticias relacionadas con el primer equipo de la ciudad, tienen cabida en este programa deportivo, presentado por Hugo Vaca.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/submarino_amarillo_0.jpg?itok=pmJVFcHR" />
+  </programme>
+  <programme start="20190628143000 +0200" stop="20190628153000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Traspunte</title>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190628153000 +0200" stop="20190628163000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Jaleo</title>
+    <desc lang="es">El Flamenco de Cádiz y provincia en Onda Cádiz Tv.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/jaleo.jpg?itok=RooqMr_6" />
+  </programme>
+  <programme start="20190628163000 +0200" stop="20190628193000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">El mirador</title>
+    <desc lang="es">De lunes a viernes, Onda Cádiz te ofrece cuatro horas de riguroso directo. Todas las mañanas, de 9.30 a 13.30, te damos los buenos días desde este, tu Mirador de la ciudad. Noticias, tertulias, entrevistas, sociedad, universidad, empresas, cine, moda y música, hace que este programa sea un referente en las mañanas gaditanas. Miguel Velasco y Macarena Jiménez, junto con diferentes colaboradores, son los encargados de esta programación en directo.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/el_mirador.jpg?itok=N12sv4Nv" />
+  </programme>
+  <programme start="20190628193000 +0200" stop="20190628203000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">La levantá</title>
+    <desc lang="es">Programa dedicado en exclusividad a la Semana Santa gaditana y todo lo relacionado con la misma. Hermandades y Cofradías, salidas procesionales, cultos y distintas actividades, son tratados en formatos de entrevistas, tertulias y reportajes. Mayte Huguet es el encargo de dar forma a este espacio televisivo.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/la_levanta.jpg?itok=j694IFE6" />
+  </programme>
+  <programme start="20190628203000 +0200" stop="20190628210000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Noticias OC</title>
+    <desc lang="es">Desde Onda Cádiz Televisión, ofrecemos a nuestros espectadores, la posibilidad de que puedan tomar, con nosotros, el pulso diario de nuestra ciudad. Política, cultura, sucesos, ocio, deportes, información meteorológica y toda la información puntual que genera nuestra ciudad, con el máximo rigor y pluralidad que debe de tener una televisión municipal.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/noticias_cadiz.jpg?itok=N_oSD2Vc" />
+  </programme>
+  <programme start="20190628210000 +0200" stop="20190628220000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">EL FAROL</title>
+    <desc lang="es">Programa de divulgación cultural y entretenimiento, realizado en clave de humor. Se presenta la historia de Cádiz y universal, a través de cinco relatos que narrarán cinco personas distintas, siendo una de las historias falsa. El objetivo del programa, presentado por Salvador Fernández Miró, es que el invitado se capaz de descubrir la falsa, es decir, donde está el farol.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/el_farol_0.jpg?itok=ngG6H-Tr" />
+  </programme>
+  <programme start="20190628220000 +0200" stop="20190628230000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">El submarino amarillo</title>
+    <desc lang="es">El programa de El submarino amarillo, se emite de lunes a viernes en Onda Cádiz Televisión, y es un espacio referente de todo lo que acontece con el Cádiz C.F. Diariamente se cuentan los entrenamientos, se hacen entrevistas y se analizan las jugadas de los partidos. La cantera, la afición y todas las noticias relacionadas con el primer equipo de la ciudad, tienen cabida en este programa deportivo, presentado por Hugo Vaca.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/submarino_amarillo_0.jpg?itok=pmJVFcHR" />
+  </programme>
+  <programme start="20190628230000 +0200" stop="20190628233000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">El mirador</title>
+    <desc lang="es">De lunes a viernes, Onda Cádiz te ofrece cuatro horas de riguroso directo. Todas las mañanas, de 9.30 a 13.30, te damos los buenos días desde este, tu Mirador de la ciudad. Noticias, tertulias, entrevistas, sociedad, universidad, empresas, cine, moda y música, hace que este programa sea un referente en las mañanas gaditanas. Miguel Velasco y Macarena Jiménez, junto con diferentes colaboradores, son los encargados de esta programación en directo.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/el_mirador.jpg?itok=N12sv4Nv" />
+  </programme>
+  <programme start="20190628233000 +0200" stop="20190629000000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Noticias OC</title>
+    <desc lang="es">Desde Onda Cádiz Televisión, ofrecemos a nuestros espectadores, la posibilidad de que puedan tomar, con nosotros, el pulso diario de nuestra ciudad. Política, cultura, sucesos, ocio, deportes, información meteorológica y toda la información puntual que genera nuestra ciudad, con el máximo rigor y pluralidad que debe de tener una televisión municipal.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/noticias_cadiz.jpg?itok=N_oSD2Vc" />
+  </programme>
+  <programme start="20190629000000 +0200" stop="20190629010000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">El submarino amarillo</title>
+    <desc lang="es">El programa de El submarino amarillo, se emite de lunes a viernes en Onda Cádiz Televisión, y es un espacio referente de todo lo que acontece con el Cádiz C.F. Diariamente se cuentan los entrenamientos, se hacen entrevistas y se analizan las jugadas de los partidos. La cantera, la afición y todas las noticias relacionadas con el primer equipo de la ciudad, tienen cabida en este programa deportivo, presentado por Hugo Vaca.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/submarino_amarillo_0.jpg?itok=pmJVFcHR" />
+  </programme>
+  <programme start="20190629010000 +0200" stop="20190629020000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">EL FAROL</title>
+    <desc lang="es">Programa de divulgación cultural y entretenimiento, realizado en clave de humor. Se presenta la historia de Cádiz y universal, a través de cinco relatos que narrarán cinco personas distintas, siendo una de las historias falsa. El objetivo del programa, presentado por Salvador Fernández Miró, es que el invitado se capaz de descubrir la falsa, es decir, donde está el farol.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/el_farol_0.jpg?itok=ngG6H-Tr" />
+  </programme>
+  <programme start="20190629020000 +0200" stop="20190629030000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">El submarino amarillo</title>
+    <desc lang="es">El programa de El submarino amarillo, se emite de lunes a viernes en Onda Cádiz Televisión, y es un espacio referente de todo lo que acontece con el Cádiz C.F. Diariamente se cuentan los entrenamientos, se hacen entrevistas y se analizan las jugadas de los partidos. La cantera, la afición y todas las noticias relacionadas con el primer equipo de la ciudad, tienen cabida en este programa deportivo, presentado por Hugo Vaca.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/submarino_amarillo_0.jpg?itok=pmJVFcHR" />
+  </programme>
+  <programme start="20190629030000 +0200" stop="20190629040000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">La levantá</title>
+    <desc lang="es">Programa dedicado en exclusividad a la Semana Santa gaditana y todo lo relacionado con la misma. Hermandades y Cofradías, salidas procesionales, cultos y distintas actividades, son tratados en formatos de entrevistas, tertulias y reportajes. Mayte Huguet es el encargo de dar forma a este espacio televisivo.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/la_levanta.jpg?itok=j694IFE6" />
+  </programme>
+  <programme start="20190629040000 +0200" stop="20190629043000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">El mirador</title>
+    <desc lang="es">De lunes a viernes, Onda Cádiz te ofrece cuatro horas de riguroso directo. Todas las mañanas, de 9.30 a 13.30, te damos los buenos días desde este, tu Mirador de la ciudad. Noticias, tertulias, entrevistas, sociedad, universidad, empresas, cine, moda y música, hace que este programa sea un referente en las mañanas gaditanas. Miguel Velasco y Macarena Jiménez, junto con diferentes colaboradores, son los encargados de esta programación en directo.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/el_mirador.jpg?itok=N12sv4Nv" />
+  </programme>
+  <programme start="20190629043000 +0200" stop="20190629073000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Fin emisión</title>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190629073000 +0200" stop="20190629090000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Noticias OC</title>
+    <desc lang="es">Desde Onda Cádiz Televisión, ofrecemos a nuestros espectadores, la posibilidad de que puedan tomar, con nosotros, el pulso diario de nuestra ciudad. Política, cultura, sucesos, ocio, deportes, información meteorológica y toda la información puntual que genera nuestra ciudad, con el máximo rigor y pluralidad que debe de tener una televisión municipal.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/noticias_cadiz.jpg?itok=N_oSD2Vc" />
+  </programme>
+  <programme start="20190629090000 +0200" stop="20190629100000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">La levantá</title>
+    <desc lang="es">Programa dedicado en exclusividad a la Semana Santa gaditana y todo lo relacionado con la misma. Hermandades y Cofradías, salidas procesionales, cultos y distintas actividades, son tratados en formatos de entrevistas, tertulias y reportajes. Mayte Huguet es el encargo de dar forma a este espacio televisivo.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/la_levanta.jpg?itok=j694IFE6" />
+  </programme>
+  <programme start="20190629100000 +0200" stop="20190629110000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">La Buena Educación</title>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190629110000 +0200" stop="20190629133000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">El mirador</title>
+    <desc lang="es">De lunes a viernes, Onda Cádiz te ofrece cuatro horas de riguroso directo. Todas las mañanas, de 9.30 a 13.30, te damos los buenos días desde este, tu Mirador de la ciudad. Noticias, tertulias, entrevistas, sociedad, universidad, empresas, cine, moda y música, hace que este programa sea un referente en las mañanas gaditanas. Miguel Velasco y Macarena Jiménez, junto con diferentes colaboradores, son los encargados de esta programación en directo.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/el_mirador.jpg?itok=N12sv4Nv" />
+  </programme>
+  <programme start="20190629133000 +0200" stop="20190629143000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">El submarino amarillo</title>
+    <desc lang="es">El programa de El submarino amarillo, se emite de lunes a viernes en Onda Cádiz Televisión, y es un espacio referente de todo lo que acontece con el Cádiz C.F. Diariamente se cuentan los entrenamientos, se hacen entrevistas y se analizan las jugadas de los partidos. La cantera, la afición y todas las noticias relacionadas con el primer equipo de la ciudad, tienen cabida en este programa deportivo, presentado por Hugo Vaca.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/submarino_amarillo_0.jpg?itok=pmJVFcHR" />
+  </programme>
+  <programme start="20190629143000 +0200" stop="20190629153000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Noticias OC</title>
+    <desc lang="es">Desde Onda Cádiz Televisión, ofrecemos a nuestros espectadores, la posibilidad de que puedan tomar, con nosotros, el pulso diario de nuestra ciudad. Política, cultura, sucesos, ocio, deportes, información meteorológica y toda la información puntual que genera nuestra ciudad, con el máximo rigor y pluralidad que debe de tener una televisión municipal.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/noticias_cadiz.jpg?itok=N_oSD2Vc" />
+  </programme>
+  <programme start="20190629153000 +0200" stop="20190629163000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">El dorsal</title>
+    <desc lang="es">Se trata de un espacio semanal, presentado por Nacho Limón, en el que se trata de manera directa todo el deporte de Cádiz y provincia. Desde la base al profesional, sin descuidar la práctica amateur. Cuenta en su espacio con secciones de Psicología deportiva, Running, Fútbol base, entrenamiento deportivo y fisioterapia y nutrición deportiva. Dedicamos una especial atención a los deportes minoritarios y al perspectiva de género.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/el_dorsal.jpg?itok=GnOOYUmR" />
+  </programme>
+  <programme start="20190629163000 +0200" stop="20190629173000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">EL FAROL</title>
+    <desc lang="es">Programa de divulgación cultural y entretenimiento, realizado en clave de humor. Se presenta la historia de Cádiz y universal, a través de cinco relatos que narrarán cinco personas distintas, siendo una de las historias falsa. El objetivo del programa, presentado por Salvador Fernández Miró, es que el invitado se capaz de descubrir la falsa, es decir, donde está el farol.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/el_farol_0.jpg?itok=ngG6H-Tr" />
+  </programme>
+  <programme start="20190629173000 +0200" stop="20190629183000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Haciendo tipo II</title>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190629183000 +0200" stop="20190629193000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">La levantá</title>
+    <desc lang="es">Programa dedicado en exclusividad a la Semana Santa gaditana y todo lo relacionado con la misma. Hermandades y Cofradías, salidas procesionales, cultos y distintas actividades, son tratados en formatos de entrevistas, tertulias y reportajes. Mayte Huguet es el encargo de dar forma a este espacio televisivo.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/la_levanta.jpg?itok=j694IFE6" />
+  </programme>
+  <programme start="20190629193000 +0200" stop="20190629203000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Traspunte</title>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190629203000 +0200" stop="20190629213000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Noticias OC</title>
+    <desc lang="es">Desde Onda Cádiz Televisión, ofrecemos a nuestros espectadores, la posibilidad de que puedan tomar, con nosotros, el pulso diario de nuestra ciudad. Política, cultura, sucesos, ocio, deportes, información meteorológica y toda la información puntual que genera nuestra ciudad, con el máximo rigor y pluralidad que debe de tener una televisión municipal.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/noticias_cadiz.jpg?itok=N_oSD2Vc" />
+  </programme>
+  <programme start="20190629213000 +0200" stop="20190629223000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Saludablemente</title>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190629223000 +0200" stop="20190629233000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Jaleo</title>
+    <desc lang="es">El Flamenco de Cádiz y provincia en Onda Cádiz Tv.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/jaleo.jpg?itok=RooqMr_6" />
+  </programme>
+  <programme start="20190629233000 +0200" stop="20190630000000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Noticias OC</title>
+    <desc lang="es">Desde Onda Cádiz Televisión, ofrecemos a nuestros espectadores, la posibilidad de que puedan tomar, con nosotros, el pulso diario de nuestra ciudad. Política, cultura, sucesos, ocio, deportes, información meteorológica y toda la información puntual que genera nuestra ciudad, con el máximo rigor y pluralidad que debe de tener una televisión municipal.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/noticias_cadiz.jpg?itok=N_oSD2Vc" />
+  </programme>
+  <programme start="20190630000000 +0200" stop="20190630003000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Noticias OC</title>
+    <desc lang="es">Desde Onda Cádiz Televisión, ofrecemos a nuestros espectadores, la posibilidad de que puedan tomar, con nosotros, el pulso diario de nuestra ciudad. Política, cultura, sucesos, ocio, deportes, información meteorológica y toda la información puntual que genera nuestra ciudad, con el máximo rigor y pluralidad que debe de tener una televisión municipal.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/noticias_cadiz.jpg?itok=N_oSD2Vc" />
+  </programme>
+  <programme start="20190630003000 +0200" stop="20190630013000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Saludablemente</title>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190630013000 +0200" stop="20190630020000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">El mirador</title>
+    <desc lang="es">De lunes a viernes, Onda Cádiz te ofrece cuatro horas de riguroso directo. Todas las mañanas, de 9.30 a 13.30, te damos los buenos días desde este, tu Mirador de la ciudad. Noticias, tertulias, entrevistas, sociedad, universidad, empresas, cine, moda y música, hace que este programa sea un referente en las mañanas gaditanas. Miguel Velasco y Macarena Jiménez, junto con diferentes colaboradores, son los encargados de esta programación en directo.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/el_mirador.jpg?itok=N12sv4Nv" />
+  </programme>
+  <programme start="20190630020000 +0200" stop="20190630030000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">La levantá</title>
+    <desc lang="es">Programa dedicado en exclusividad a la Semana Santa gaditana y todo lo relacionado con la misma. Hermandades y Cofradías, salidas procesionales, cultos y distintas actividades, son tratados en formatos de entrevistas, tertulias y reportajes. Mayte Huguet es el encargo de dar forma a este espacio televisivo.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/la_levanta.jpg?itok=j694IFE6" />
+  </programme>
+  <programme start="20190630030000 +0200" stop="20190630040000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Traspunte</title>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190630040000 +0200" stop="20190630043000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">El mirador</title>
+    <desc lang="es">De lunes a viernes, Onda Cádiz te ofrece cuatro horas de riguroso directo. Todas las mañanas, de 9.30 a 13.30, te damos los buenos días desde este, tu Mirador de la ciudad. Noticias, tertulias, entrevistas, sociedad, universidad, empresas, cine, moda y música, hace que este programa sea un referente en las mañanas gaditanas. Miguel Velasco y Macarena Jiménez, junto con diferentes colaboradores, son los encargados de esta programación en directo.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/el_mirador.jpg?itok=N12sv4Nv" />
+  </programme>
+  <programme start="20190630043000 +0200" stop="20190630070000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Fin emisión</title>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190630070000 +0200" stop="20190630090000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Noticias OC</title>
+    <desc lang="es">Desde Onda Cádiz Televisión, ofrecemos a nuestros espectadores, la posibilidad de que puedan tomar, con nosotros, el pulso diario de nuestra ciudad. Política, cultura, sucesos, ocio, deportes, información meteorológica y toda la información puntual que genera nuestra ciudad, con el máximo rigor y pluralidad que debe de tener una televisión municipal.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/noticias_cadiz.jpg?itok=N_oSD2Vc" />
+  </programme>
+  <programme start="20190630090000 +0200" stop="20190630100000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Haciendo tipo II</title>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190630100000 +0200" stop="20190630110000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">La Buena Educación</title>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190630110000 +0200" stop="20190630133000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">El mirador</title>
+    <desc lang="es">De lunes a viernes, Onda Cádiz te ofrece cuatro horas de riguroso directo. Todas las mañanas, de 9.30 a 13.30, te damos los buenos días desde este, tu Mirador de la ciudad. Noticias, tertulias, entrevistas, sociedad, universidad, empresas, cine, moda y música, hace que este programa sea un referente en las mañanas gaditanas. Miguel Velasco y Macarena Jiménez, junto con diferentes colaboradores, son los encargados de esta programación en directo.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/el_mirador.jpg?itok=N12sv4Nv" />
+  </programme>
+  <programme start="20190630133000 +0200" stop="20190630143000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">EL FAROL</title>
+    <desc lang="es">Programa de divulgación cultural y entretenimiento, realizado en clave de humor. Se presenta la historia de Cádiz y universal, a través de cinco relatos que narrarán cinco personas distintas, siendo una de las historias falsa. El objetivo del programa, presentado por Salvador Fernández Miró, es que el invitado se capaz de descubrir la falsa, es decir, donde está el farol.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/el_farol_0.jpg?itok=ngG6H-Tr" />
+  </programme>
+  <programme start="20190630143000 +0200" stop="20190630153000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Noticias OC</title>
+    <desc lang="es">Desde Onda Cádiz Televisión, ofrecemos a nuestros espectadores, la posibilidad de que puedan tomar, con nosotros, el pulso diario de nuestra ciudad. Política, cultura, sucesos, ocio, deportes, información meteorológica y toda la información puntual que genera nuestra ciudad, con el máximo rigor y pluralidad que debe de tener una televisión municipal.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/noticias_cadiz.jpg?itok=N_oSD2Vc" />
+  </programme>
+  <programme start="20190630153000 +0200" stop="20190630163000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Jaleo</title>
+    <desc lang="es">El Flamenco de Cádiz y provincia en Onda Cádiz Tv.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/jaleo.jpg?itok=RooqMr_6" />
+  </programme>
+  <programme start="20190630163000 +0200" stop="20190630173000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">La levantá</title>
+    <desc lang="es">Programa dedicado en exclusividad a la Semana Santa gaditana y todo lo relacionado con la misma. Hermandades y Cofradías, salidas procesionales, cultos y distintas actividades, son tratados en formatos de entrevistas, tertulias y reportajes. Mayte Huguet es el encargo de dar forma a este espacio televisivo.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/la_levanta.jpg?itok=j694IFE6" />
+  </programme>
+  <programme start="20190630173000 +0200" stop="20190630183000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Traspunte</title>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190630183000 +0200" stop="20190630193000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Saludablemente</title>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190630193000 +0200" stop="20190630203000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Haciendo tipo II</title>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190630203000 +0200" stop="20190630213000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Noticias OC</title>
+    <desc lang="es">Desde Onda Cádiz Televisión, ofrecemos a nuestros espectadores, la posibilidad de que puedan tomar, con nosotros, el pulso diario de nuestra ciudad. Política, cultura, sucesos, ocio, deportes, información meteorológica y toda la información puntual que genera nuestra ciudad, con el máximo rigor y pluralidad que debe de tener una televisión municipal.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/noticias_cadiz.jpg?itok=N_oSD2Vc" />
+  </programme>
+  <programme start="20190630213000 +0200" stop="20190630223000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Zona Historia</title>
+    <desc lang="es">La Historia de Cádiz de la mano de Salvador Santos.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/zona-historia.jpg?itok=DjS8EbIA" />
+  </programme>
+  <programme start="20190630223000 +0200" stop="20190630233000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Saludablemente</title>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
+  </programme>
+  <programme start="20190630233000 +0200" stop="20190701000000 +0200" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">Noticias OC</title>
+    <desc lang="es">Desde Onda Cádiz Televisión, ofrecemos a nuestros espectadores, la posibilidad de que puedan tomar, con nosotros, el pulso diario de nuestra ciudad. Política, cultura, sucesos, ocio, deportes, información meteorológica y toda la información puntual que genera nuestra ciudad, con el máximo rigor y pluralidad que debe de tener una televisión municipal.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/noticias_cadiz.jpg?itok=N_oSD2Vc" />
+  </programme>
   <programme start="20190626060000 +0200" stop="20190626060500 +0200" channel="AragonTV.TDTChannelsEPG">
     <title lang="es">Common Mistakes</title>
     <desc lang="es">Espacio que ayuda a solucionar los errores más comunes cometidos con la pronunciación del inglés. Mark Holding ayuda a los españoles a resolver estos errores y los reporteros del programa salen a la calle para preguntar a los transeúntes sobre las frases del día.</desc>
@@ -36112,7 +36610,7 @@ Disfruta de un recorrido por la moda, el espectáculo y los lugares de referenci
   <programme start="20190628210000 +0200" stop="20190628224500 +0200" channel="MirameTV.TDTChannelsEPG">
     <title lang="es">Buena Suerte Weekend</title>
     <desc lang="es">Con Ricardo Negrín
-Cada fin de semana, de viernes a domingo, decenas de premios increíbles que llegan a todo el archipiélago mientras disfrutamos del mejor zapping y los últimos vídeos musicales del momento.</desc>
+Cada fin de semana, de viernes a domingo, decenas de premios increíbles que llegan a todo el archipiélago mientras disfrutamos del mejor zapping y los últimos vídeos musicales del momento.</desc>
     <icon src="https://mirametv.com/images/wProgramsRadioTv/11.png" />
   </programme>
   <programme start="20190628224500 +0200" stop="20190628235900 +0200" channel="MirameTV.TDTChannelsEPG">
@@ -50264,7 +50762,7 @@ Espacio para el debate plural y democrático donde toma protagonismo la particip
   </programme>
   <programme start="20190626134500 +0200" stop="20190626143000 +0200" channel="TVR.TDTChannelsEPG">
     <title lang="es">La cocina de Baró</title>
-    <desc lang="es">Espacio de cocina presentado por María Dolores Baró, una referencia en el mundo de los fogones.</desc>
+    <desc lang="es">Espacio de cocina presentado por María Dolores Baró, una referencia en el mundo de los fogones.</desc>
     <icon src="http://www.tvr.es/adminparrilla/foto.php?id=371" />
   </programme>
   <programme start="20190626143000 +0200" stop="20190626150000 +0200" channel="TVR.TDTChannelsEPG">
@@ -50333,7 +50831,7 @@ Espacio para el debate plural y democrático donde toma protagonismo la particip
   </programme>
   <programme start="20190627134500 +0200" stop="20190627143000 +0200" channel="TVR.TDTChannelsEPG">
     <title lang="es">La cocina de Baró</title>
-    <desc lang="es">Espacio de cocina presentado por María Dolores Baró, una referencia en el mundo de los fogones.</desc>
+    <desc lang="es">Espacio de cocina presentado por María Dolores Baró, una referencia en el mundo de los fogones.</desc>
     <icon src="http://www.tvr.es/adminparrilla/foto.php?id=371" />
   </programme>
   <programme start="20190627143000 +0200" stop="20190627150000 +0200" channel="TVR.TDTChannelsEPG">
@@ -50398,7 +50896,7 @@ Espacio para el debate plural y democrático donde toma protagonismo la particip
   </programme>
   <programme start="20190628134500 +0200" stop="20190628143000 +0200" channel="TVR.TDTChannelsEPG">
     <title lang="es">La cocina de Baró</title>
-    <desc lang="es">Espacio de cocina presentado por María Dolores Baró, una referencia en el mundo de los fogones.</desc>
+    <desc lang="es">Espacio de cocina presentado por María Dolores Baró, una referencia en el mundo de los fogones.</desc>
     <icon src="http://www.tvr.es/adminparrilla/foto.php?id=371" />
   </programme>
   <programme start="20190628143000 +0200" stop="20190628150000 +0200" channel="TVR.TDTChannelsEPG">
