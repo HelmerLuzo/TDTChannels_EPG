@@ -289,7 +289,7 @@
     <date>2019</date>
     <category lang="es">Ocio y Aficiones</category>
     <category lang="es">Cocina</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M951077V1632110" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MTVEP1671724" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S2019 E85</episode-num>
     <rating system="ES">
@@ -412,7 +412,7 @@
       <value>7</value>
     </rating>
     <star-rating system="ES">
-      <value>5/5</value>
+      <value>4/5</value>
     </star-rating>
   </programme>
   <programme start="20190702182000 +0200" stop="20190702193000 +0200" channel="La1.TDTChannelsEPG">
@@ -514,7 +514,7 @@
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Zapping</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M960483V1640500" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MTVEP1671725" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S2019 E49</episode-num>
     <rating system="ES">
@@ -566,7 +566,7 @@
     <date>2017</date>
     <category lang="es">Información</category>
     <category lang="es">Reportajes de actualidad</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MTVEP1367838" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MTVEP1408422" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S2017 E15</episode-num>
     <rating system="ES">
@@ -1226,6 +1226,9 @@
     <rating system="ES">
       <value>7</value>
     </rating>
+    <star-rating system="ES">
+      <value>4/5</value>
+    </star-rating>
   </programme>
   <programme start="20190704191500 +0200" stop="20190704203000 +0200" channel="La1.TDTChannelsEPG">
     <title lang="es">España directo</title>
@@ -1537,7 +1540,7 @@
     <date>2007</date>
     <category lang="es">Información</category>
     <category lang="es">Informativo</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M322587V1671436" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MLA2P1671436" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -1574,7 +1577,7 @@
     <desc lang="es">Los cuidadores quieren que los animales disfruten también de la Navidad con suculentos regalos. Mientras, la vida cotidiana sigue. Los tapires malayos aumentan la familia con un precioso bebé y la pitón reticulada de 7 metros está inapetente.</desc>
     <date>2016</date>
     <category lang="es">Entretenimiento</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MLA2P1293366" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MLA2P1671814" />
     <episode-num system="onscreen">S1 E12</episode-num>
     <rating system="ES">
       <value>TP</value>
@@ -1717,7 +1720,7 @@
     <date>2018</date>
     <category lang="es">Cultural/Educativo</category>
     <category lang="es">Literatura</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MLA2P1482162" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MLA2P1605079" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -1781,7 +1784,7 @@
     <date>2018</date>
     <category lang="es">Documentales</category>
     <category lang="es">Otros</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MLA2P1528673" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MLA2P1528674" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="ES">
@@ -1820,7 +1823,7 @@
     <date>2017</date>
     <category lang="es">Información</category>
     <category lang="es">Reportajes de actualidad</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M322587V1448771" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MLA2P1467330" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>7</value>
@@ -1860,7 +1863,7 @@
     <date>2019</date>
     <category lang="es">Música</category>
     <category lang="es">Concierto</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M899917V1572877" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MLA2P1671813" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -1975,7 +1978,7 @@
     <date>2007</date>
     <category lang="es">Información</category>
     <category lang="es">Informativo</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M322587V1671436" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MLA2P1671436" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -2044,7 +2047,7 @@
     <date>2007</date>
     <category lang="es">Información</category>
     <category lang="es">Informativo</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M322587V1671436" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MLA2P1671436" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -2138,7 +2141,7 @@
     <date>2007</date>
     <category lang="es">Información</category>
     <category lang="es">Informativo</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M322587V1671436" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MLA2P1671436" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -2271,7 +2274,7 @@
     <date>2007</date>
     <category lang="es">Información</category>
     <category lang="es">Informativo</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M322587V1671436" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MLA2P1671436" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -2316,7 +2319,7 @@
     <date>2007</date>
     <category lang="es">Información</category>
     <category lang="es">Informativo</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M322587V1671436" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MLA2P1671436" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -2363,8 +2366,11 @@
     <date>1997</date>
     <category lang="es">Cine</category>
     <category lang="es">Drama</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M322587V1671469" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MLA2P1671469" />
     <country lang="es">EE.UU</country>
+    <star-rating system="ES">
+      <value>5/5</value>
+    </star-rating>
   </programme>
   <programme start="20190703234000 +0200" stop="20190704013000 +0200" channel="La2.TDTChannelsEPG">
     <title lang="es">Documental</title>
@@ -2824,7 +2830,7 @@
     <date>2007</date>
     <category lang="es">Información</category>
     <category lang="es">Informativo</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M322587V1671436" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MLA2P1671436" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -3227,6 +3233,7 @@
     <date>2014</date>
     <category lang="es">Cine</category>
     <category lang="es">Comedia</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MA3P1154277" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>7</value>
@@ -3544,7 +3551,7 @@
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Humor</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MA3P1562990" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MA3P1671599" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S13 E1288</episode-num>
     <rating system="ES">
@@ -4119,7 +4126,7 @@
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Tele Realidad</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MC4P1613449" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MC4P1671503" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S2 E128</episode-num>
     <rating system="ES">
@@ -4198,7 +4205,7 @@
     <date>2019</date>
     <category lang="es">Información</category>
     <category lang="es">Informativo</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M947258V1630202" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MC4P1671507" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S1 E93</episode-num>
     <rating system="ES">
@@ -4282,7 +4289,7 @@
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Tele Realidad</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M970506V1671516" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MC4P1671516" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S6 E12</episode-num>
     <rating system="ES">
@@ -4607,7 +4614,7 @@
     <date>2019</date>
     <category lang="es">Información</category>
     <category lang="es">Informativo</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M947258V1630202" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MC4P1671513" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S1 E94</episode-num>
     <rating system="ES">
@@ -4879,6 +4886,7 @@
     <date>2010</date>
     <category lang="es">Series</category>
     <category lang="es">Acción</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MC4P1336332" />
     <country lang="es">Alemania</country>
     <rating system="ES">
       <value>12</value>
@@ -5225,6 +5233,7 @@
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Magacín</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MT5P1671601" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S15 E2</episode-num>
     <rating system="ES">
@@ -5240,7 +5249,7 @@
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Magacín</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M811481V1613455" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MT5P1671602" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S2 E128</episode-num>
     <rating system="ES">
@@ -5312,7 +5321,7 @@
     <category lang="es">Entretenimiento</category>
     <category lang="es">Corazón</category>
     <category lang="es">Sociedad</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M450484V1613453" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MT5P1671603" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S6 E129</episode-num>
     <rating system="ES">
@@ -5331,7 +5340,7 @@
     <category lang="es">Entretenimiento</category>
     <category lang="es">Corazón</category>
     <category lang="es">Sociedad</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M325588V1613454" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MT5P1671604" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S6 E129</episode-num>
     <rating system="ES">
@@ -5420,7 +5429,7 @@
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Tele Realidad</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MT5P1652021" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MT5P1671517" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S2019 E10</episode-num>
     <rating system="ES">
@@ -5534,7 +5543,7 @@
     <desc lang="es">Programa de coaching que te ofrece ayuda personalizada presentado por Cristina Soria. Muestra cómo mejorar en la vida, conseguir las metas y gestionar aquello que se pone en contra.</desc>
     <date>2019</date>
     <category lang="es">Cultural/Educativo</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M325508V1664678" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M325508V1671606" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S1 E7</episode-num>
     <rating system="ES">
@@ -5580,6 +5589,7 @@
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Magacín</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MT5P1671607" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S15 E3</episode-num>
     <rating system="ES">
@@ -5595,7 +5605,7 @@
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Magacín</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M811481V1613455" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MT5P1671608" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S2 E129</episode-num>
     <rating system="ES">
@@ -5667,7 +5677,7 @@
     <category lang="es">Entretenimiento</category>
     <category lang="es">Corazón</category>
     <category lang="es">Sociedad</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M450484V1613453" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MT5P1671609" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S6 E130</episode-num>
     <rating system="ES">
@@ -5686,7 +5696,7 @@
     <category lang="es">Entretenimiento</category>
     <category lang="es">Corazón</category>
     <category lang="es">Sociedad</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M325588V1613454" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MT5P1671610" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S6 E130</episode-num>
     <rating system="ES">
@@ -5702,7 +5712,7 @@
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Concurso</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M935080V1569969" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MT5P1671611" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S13 E211</episode-num>
     <rating system="ES">
@@ -5774,7 +5784,7 @@
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Tele Realidad</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MT5P1652106" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MT5P1671612" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S2019 E18</episode-num>
     <rating system="ES">
@@ -5899,7 +5909,7 @@
     <desc lang="es">Programa de coaching que te ofrece ayuda personalizada presentado por Cristina Soria. Muestra cómo mejorar en la vida, conseguir las metas y gestionar aquello que se pone en contra.</desc>
     <date>2019</date>
     <category lang="es">Cultural/Educativo</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M325508V1664678" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M325508V1671613" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S1 E8</episode-num>
     <rating system="ES">
@@ -6663,7 +6673,7 @@
     <date>2019</date>
     <category lang="es">Documentales</category>
     <category lang="es">Sociedad</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MSEXTAP1656193" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MSEXTAP1671726" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S2 E8</episode-num>
     <rating system="ES">
@@ -8166,7 +8176,7 @@
     <date>2005</date>
     <category lang="es">Series</category>
     <category lang="es">Animación</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M320586V585577" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MNEOXP585577" />
     <country lang="es">EE.UU</country>
     <rating system="ES">
       <value>TP</value>
@@ -8382,7 +8392,7 @@
     <date>2006</date>
     <category lang="es">Ocio y Aficiones</category>
     <category lang="es">Cocina</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MNOVAP904929" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MNOVAP1671890" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S2006 E3</episode-num>
     <rating system="ES">
@@ -8398,7 +8408,7 @@
     <date>2006</date>
     <category lang="es">Ocio y Aficiones</category>
     <category lang="es">Cocina</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MNOVAP904929" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MNOVAP1671891" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S2006 E4</episode-num>
     <rating system="ES">
@@ -8511,7 +8521,7 @@
     <date>2019</date>
     <category lang="es">Ocio y Aficiones</category>
     <category lang="es">Cocina</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M889227V1567378" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MNOVAP1666660" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S9 E1800</episode-num>
     <rating system="ES">
@@ -10563,7 +10573,7 @@
     <date>2010</date>
     <category lang="es">Series</category>
     <category lang="es">Drama</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MATRESSP888561" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MATRESSP914339" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S7 E11</episode-num>
     <rating system="ES">
@@ -12109,7 +12119,7 @@
     <date>2017</date>
     <category lang="es">Series</category>
     <category lang="es">Making of</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M913962V1401361" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MFDFICP1455358" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S1 E2</episode-num>
     <rating system="ES">
@@ -12506,7 +12516,7 @@
     <date>2019</date>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MFDFICP1666402" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MFDFICP1669165" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S1 E3</episode-num>
     <rating system="ES">
@@ -15339,7 +15349,7 @@
     <date>2015</date>
     <category lang="es">Series</category>
     <category lang="es">Telenovela</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MDIVINIP1666708" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MDIVINIP1671621" />
     <country lang="es">Brasil</country>
     <episode-num system="onscreen">S1 E13</episode-num>
     <rating system="ES">
@@ -15361,7 +15371,7 @@
     <date>2011</date>
     <category lang="es">Series</category>
     <category lang="es">Drama</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MDIVINIP1660055" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MDIVINIP1671622" />
     <country lang="es">Turquía</country>
     <episode-num system="onscreen">S1 E27</episode-num>
     <rating system="ES">
@@ -15380,7 +15390,7 @@
     <date>2017</date>
     <category lang="es">Series</category>
     <category lang="es">Drama</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MDIVINIP1660056" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MDIVINIP1671619" />
     <country lang="es">Turquía</country>
     <episode-num system="onscreen">S1 E27</episode-num>
     <rating system="ES">
@@ -15863,7 +15873,7 @@
     <date>2015</date>
     <category lang="es">Series</category>
     <category lang="es">Telenovela</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MDIVINIP1666708" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MDIVINIP1671623" />
     <country lang="es">Brasil</country>
     <episode-num system="onscreen">S1 E14</episode-num>
     <rating system="ES">
@@ -15926,7 +15936,7 @@
     <date>2019</date>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MT5P1669165" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MDIVINIP1669165" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S1 E3</episode-num>
     <rating system="ES">
@@ -16749,7 +16759,7 @@
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Humor</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MBEMADP1614836" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MBEMADP1671506" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S1 E123</episode-num>
     <rating system="ES">
@@ -16833,7 +16843,7 @@
     <date>2017</date>
     <category lang="es">Información</category>
     <category lang="es">Reportajes de actualidad</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MBEMADP1397888" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MBEMADP1419335" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S3 E31</episode-num>
     <rating system="ES">
@@ -16968,6 +16978,7 @@
     <date>2013</date>
     <category lang="es">Telefilme</category>
     <category lang="es">Drama</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MBEMADP1143276" />
     <country lang="es">EE.UU</country>
     <star-rating system="ES">
       <value>3/5</value>
@@ -17232,7 +17243,7 @@
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Humor</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M935099V1613280" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MBEMADP1671511" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S1 E124</episode-num>
     <rating system="ES">
@@ -17290,6 +17301,7 @@
     <date>2019</date>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MBEMADP1669165" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S1 E3</episode-num>
     <star-rating system="ES">
@@ -18078,7 +18090,7 @@
     <date>2013</date>
     <category lang="es">Series</category>
     <category lang="es">Drama</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MPARCHP1407107" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MPARCHP1407113" />
     <country lang="es">Francia</country>
     <episode-num system="onscreen">S1 E4</episode-num>
     <rating system="ES">
@@ -18493,7 +18505,7 @@
     <date>1976</date>
     <category lang="es">Series</category>
     <category lang="es">Drama</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MPARCHP1562209" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MPARCHP1565269" />
     <country lang="es">EE.UU</country>
     <episode-num system="onscreen">S3 E11</episode-num>
     <rating system="ES">
@@ -18614,7 +18626,7 @@
     <date>2010</date>
     <category lang="es">Series</category>
     <category lang="es">Suspense</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MPARCHP1668935" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MPARCHP1671502" />
     <country lang="es">Francia</country>
     <episode-num system="onscreen">S8 E6</episode-num>
     <rating system="ES">
@@ -18970,7 +18982,7 @@
     <date>2013</date>
     <category lang="es">Series</category>
     <category lang="es">Drama</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MPARCHP1407107" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MPARCHP1407116" />
     <country lang="es">Francia</country>
     <episode-num system="onscreen">S1 E7</episode-num>
     <rating system="ES">
@@ -19405,7 +19417,7 @@
     <date>2018</date>
     <category lang="es">Información</category>
     <category lang="es">Informativo</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M904858V1570532" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M13TVV1570532" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>7</value>
@@ -20388,7 +20400,7 @@
     <date>2012</date>
     <category lang="es">Series</category>
     <category lang="es">Drama</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M379735V1428227" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MDKISSP1428227" />
     <country lang="es">EE.UU</country>
     <episode-num system="onscreen">S3 E14</episode-num>
     <rating system="ES">
@@ -23935,7 +23947,7 @@
     <desc lang="es">Segunda edición de estos juegos multideportivos cuyos participantes son exclusivamente atletas europeos. La ciudad de Minsk, en Bielorrusia, acoge entre el 21 y el 30 de junio a más de 4.000 atletas que compiten en 23 disciplinas.</desc>
     <category lang="es">Deportes</category>
     <category lang="es">Eventos especiales</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/GCPL2187" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M369385V1670983" />
   </programme>
   <programme start="20190704104500 +0200" stop="20190704120000 +0200" channel="TDP.TDTChannelsEPG">
     <title lang="es">Juegos Europeos Minsk 2019: Fútbol playa</title>
@@ -32700,6 +32712,7 @@
     <desc lang="es">Programa dedicado al flamenco en el que grandes figuras del cante, el baile y la guitarra apadrinan a jóvenes valores. El espacio pretende ser una proyección universal del flamenco con una estética renovada.</desc>
     <date>2017</date>
     <category lang="es">Música</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M566854V1427154" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -44731,7 +44744,7 @@ Te ofrecemos un rato de alegría y positividad con la popular presentadora palme
     <date>2018</date>
     <category lang="es">Documentales</category>
     <category lang="es">Naturaleza</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M971140V1666486" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MESP3P1666486" />
     <country lang="es">Francia</country>
     <episode-num system="onscreen">S1 E15</episode-num>
     <rating system="ES">
@@ -47273,6 +47286,531 @@ Te ofrecemos un rato de alegría y positividad con la popular presentadora palme
     <icon src="http://www.movistarplus.es/recorte/n/caratula4/M466720V1670094" />
     <country lang="es">España</country>
   </programme>
+  <programme start="20190702000000 +0200" stop="20190702003000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">L'EBRE NOTÍCIES</title>
+    <desc lang="es">Informatiu d'actualitat política, social, cultural i esportiva de les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Ebre-Noticies.jpg" />
+  </programme>
+  <programme start="20190702003000 +0200" stop="20190702010000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">CSIT WORLD SPORTS GAMES: TORTOSA 2019</title>
+    <desc lang="es">Coneixem tots els detalls dels jocs esportius que es celebraran a Tortosa del 2 al 7 de juliol de 2019.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/World-Sports-Games---Tortosa-2019-132x95.jpg" />
+  </programme>
+  <programme start="20190702010000 +0200" stop="20190702014500 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">PLAÇA MAJOR</title>
+    <desc lang="es">Magazín d'entreteniment amb entrevistes i informació de fires i festes del nostre territori.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Placa-major.jpg" />
+  </programme>
+  <programme start="20190702014500 +0200" stop="20190702023000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">EBREDIGITAL TV.</title>
+    <desc lang="es">Reportatges de les últimes fires, festes i actes celebrats a les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Ebre-digital-tv.jpg" />
+  </programme>
+  <programme start="20190702023000 +0200" stop="20190702030000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">EBREDIGITAL TV</title>
+    <desc lang="es">Reportatges de les últimes fires, festes i actes celebrats a les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Ebre-digital-tv.jpg" />
+  </programme>
+  <programme start="20190702030000 +0200" stop="20190702033000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">L'EBRE NOTÍCIES</title>
+    <desc lang="es">Informatiu d'actualitat política, social, cultural i esportiva de les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Ebre-Noticies.jpg" />
+  </programme>
+  <programme start="20190702033000 +0200" stop="20190702040000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">CSIT WORLD SPORTS GAMES: TORTOSA 2019</title>
+    <desc lang="es">Coneixem tots els detalls dels jocs esportius que es celebraran a Tortosa del 2 al 7 de juliol de 2019.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/World-Sports-Games---Tortosa-2019-132x95.jpg" />
+  </programme>
+  <programme start="20190702040000 +0200" stop="20190702043000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">L'EBRE NOTÍCIES</title>
+    <desc lang="es">Informatiu d'actualitat política, social, cultural i esportiva de les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Ebre-Noticies.jpg" />
+  </programme>
+  <programme start="20190702043000 +0200" stop="20190702050000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">CSIT WORLD SPORTS GAMES: TORTOSA 2019</title>
+    <desc lang="es">Coneixem tots els detalls dels jocs esportius que es celebraran a Tortosa del 2 al 7 de juliol de 2019.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/World-Sports-Games---Tortosa-2019-132x95.jpg" />
+  </programme>
+  <programme start="20190702050000 +0200" stop="20190702053000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">EBREDIGITAL TV</title>
+    <desc lang="es">Reportatges de les últimes fires, festes i actes celebrats a les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Ebre-digital-tv.jpg" />
+  </programme>
+  <programme start="20190702053000 +0200" stop="20190702060000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">ESPAIS DE SAÓ FONDA</title>
+    <desc lang="es">Programa on ens aproximem al món de l'Art amb entrevistes als artistes del nostre territori,.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Espais-de-sao-fonda.jpg" />
+  </programme>
+  <programme start="20190702060000 +0200" stop="20190702063000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">L'EBRE NOTÍCIES</title>
+    <desc lang="es">Informatiu d'actualitat política, social, cultural i esportiva de les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Ebre-Noticies.jpg" />
+  </programme>
+  <programme start="20190702063000 +0200" stop="20190702070000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">CSIT WORLD SPORTS GAMES: TORTOSA 2019</title>
+    <desc lang="es">Coneixem tots els detalls dels jocs esportius que es celebraran a Tortosa del 2 al 7 de juliol de 2019.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/World-Sports-Games---Tortosa-2019-132x95.jpg" />
+  </programme>
+  <programme start="20190702070000 +0200" stop="20190702073000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">NOTÍCIES EN XARXA.</title>
+    <desc lang="es">Informatiu que fa difusió nacional als fets locals i ofereixen la visió local dels fets nacionals.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Noticies-en-xarxa.jpg" />
+  </programme>
+  <programme start="20190702073000 +0200" stop="20190702080000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">NOTÍCIES EN XARXA.</title>
+    <desc lang="es">Informatiu que fa difusió nacional als fets locals i ofereixen la visió local dels fets nacionals.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Noticies-en-xarxa.jpg" />
+  </programme>
+  <programme start="20190702080000 +0200" stop="20190702083000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">L'EBRE NOTÍCIES</title>
+    <desc lang="es">Informatiu d'actualitat política, social, cultural i esportiva de les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Ebre-Noticies.jpg" />
+  </programme>
+  <programme start="20190702083000 +0200" stop="20190702090000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">CSIT WORLD SPORTS GAMES: TORTOSA 2019</title>
+    <desc lang="es">Coneixem tots els detalls dels jocs esportius que es celebraran a Tortosa del 2 al 7 de juliol de 2019.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/World-Sports-Games---Tortosa-2019-132x95.jpg" />
+  </programme>
+  <programme start="20190702090000 +0200" stop="20190702093000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">AL DIA. TERRITORI SÉNIA</title>
+    <desc lang="es">Informatiu que abarca les Terres de l'Ebre, el Matarranya, els Ports i el Maestrat.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Al-Dia-Territori-Senia.jpg" />
+  </programme>
+  <programme start="20190702093000 +0200" stop="20190702100000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">L'EBRE AL DIA</title>
+    <desc lang="es">Programa de tertúlia política amb taula de debat per escoltar totes les opinions.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Ebre-al-dia.jpg" />
+  </programme>
+  <programme start="20190702100000 +0200" stop="20190702104500 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">PLAÇA MAJOR</title>
+    <desc lang="es">Magazín d'entreteniment amb entrevistes i informació de fires i festes del nostre territori.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Placa-major.jpg" />
+  </programme>
+  <programme start="20190702104500 +0200" stop="20190702113000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">EBREDIGITAL TV.</title>
+    <desc lang="es">Reportatges de les últimes fires, festes i actes celebrats a les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Ebre-digital-tv.jpg" />
+  </programme>
+  <programme start="20190702113000 +0200" stop="20190702120000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">AL DIA. TERRITORI SÉNIA</title>
+    <desc lang="es">Informatiu que abarca les Terres de l'Ebre, el Matarranya, els Ports i el Maestrat.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Al-Dia-Territori-Senia.jpg" />
+  </programme>
+  <programme start="20190702120000 +0200" stop="20190702123000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">EBREDIGITAL TV</title>
+    <desc lang="es">Reportatges de les últimes fires, festes i actes celebrats a les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Ebre-digital-tv.jpg" />
+  </programme>
+  <programme start="20190702123000 +0200" stop="20190702131500 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">PLAÇA MAJOR</title>
+    <desc lang="es">Magazín d'entreteniment amb entrevistes i informació de fires i festes del nostre territori.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Placa-major.jpg" />
+  </programme>
+  <programme start="20190702131500 +0200" stop="20190702140000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">EBREDIGITAL TV.</title>
+    <desc lang="es">Reportatges de les últimes fires, festes i actes celebrats a les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Ebre-digital-tv.jpg" />
+  </programme>
+  <programme start="20190702140000 +0200" stop="20190702143000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">L'EBRE NOTÍCIES</title>
+    <desc lang="es">Informatiu d'actualitat política, social, cultural i esportiva de les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Ebre-Noticies.jpg" />
+  </programme>
+  <programme start="20190702143000 +0200" stop="20190702150000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">CSIT WORLD SPORTS GAMES: TORTOSA 2019</title>
+    <desc lang="es">Coneixem tots els detalls dels jocs esportius que es celebraran a Tortosa del 2 al 7 de juliol de 2019.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/World-Sports-Games---Tortosa-2019-132x95.jpg" />
+  </programme>
+  <programme start="20190702150000 +0200" stop="20190702153000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">CAMINANT PER CATALUNYA</title>
+    <desc lang="es">Programa d'excursions fetes per tot el territori català.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/LA-XARXA.jpg" />
+  </programme>
+  <programme start="20190702153000 +0200" stop="20190702160000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">EBREDIGITAL TV</title>
+    <desc lang="es">Reportatges de les últimes fires, festes i actes celebrats a les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Ebre-digital-tv.jpg" />
+  </programme>
+  <programme start="20190702160000 +0200" stop="20190702163000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">PICALLETRES</title>
+    <desc lang="es">El concurs de lletrejar paraules en català on concursen dos escoles de les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Picalletres.jpg" />
+  </programme>
+  <programme start="20190702163000 +0200" stop="20190702171500 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">PLAÇA MAJOR</title>
+    <desc lang="es">Magazín d'entreteniment amb entrevistes i informació de fires i festes del nostre territori.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Placa-major.jpg" />
+  </programme>
+  <programme start="20190702171500 +0200" stop="20190702180000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">EBREDIGITAL TV.</title>
+    <desc lang="es">Reportatges de les últimes fires, festes i actes celebrats a les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Ebre-digital-tv.jpg" />
+  </programme>
+  <programme start="20190702180000 +0200" stop="20190702183000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">L'EBRE NOTÍCIES</title>
+    <desc lang="es">Informatiu d'actualitat política, social, cultural i esportiva de les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Ebre-Noticies.jpg" />
+  </programme>
+  <programme start="20190702183000 +0200" stop="20190702190000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">ESPAIS DE SAÓ FONDA</title>
+    <desc lang="es">Programa on ens aproximem al món de l'Art amb entrevistes als artistes del nostre territori,.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Espais-de-sao-fonda.jpg" />
+  </programme>
+  <programme start="20190702190000 +0200" stop="20190702200000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">CONNECTI·CAT</title>
+    <desc lang="es">Programa d'informació i entreteniment amb connexions en directe per tot Catalunya.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/ConnectiCat.jpg" />
+  </programme>
+  <programme start="20190702200000 +0200" stop="20190702223000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">WORLD SPORTS GAMES - TORTOSA 2019: CERIMÒNIA INAUGURAL</title>
+    <desc lang="es">Acte inaugural dels World Sports Games - Tortosa 2019.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/World-Sports-Games---Tortosa-2019-132x95.jpg" />
+  </programme>
+  <programme start="20190702223000 +0200" stop="20190702230000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">L'EBRE NOTÍCIES</title>
+    <desc lang="es">Informatiu d'actualitat política, social, cultural i esportiva de les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Ebre-Noticies.jpg" />
+  </programme>
+  <programme start="20190702230000 +0200" stop="20190702234500 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">PLAÇA MAJOR</title>
+    <desc lang="es">Magazín d'entreteniment amb entrevistes i informació de fires i festes del nostre territori.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Placa-major.jpg" />
+  </programme>
+  <programme start="20190702234500 +0200" stop="20190703021500 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">WORLD SPORTS GAMES - TORTOSA 2019: CERIMÒNIA INAUGURAL</title>
+    <desc lang="es">Acte inaugural dels World Sports Games - Tortosa 2019.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/World-Sports-Games---Tortosa-2019-132x95.jpg" />
+  </programme>
+  <programme start="20190703021500 +0200" stop="20190703024500 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">L'EBRE NOTÍCIES</title>
+    <desc lang="es">Informatiu d'actualitat política, social, cultural i esportiva de les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Ebre-Noticies.jpg" />
+  </programme>
+  <programme start="20190703024500 +0200" stop="20190703033000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">EBREDIGITAL TV.</title>
+    <desc lang="es">Reportatges de les últimes fires, festes i actes celebrats a les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Ebre-digital-tv.jpg" />
+  </programme>
+  <programme start="20190703033000 +0200" stop="20190703040000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">EBREDIGITAL TV</title>
+    <desc lang="es">Reportatges de les últimes fires, festes i actes celebrats a les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Ebre-digital-tv.jpg" />
+  </programme>
+  <programme start="20190703040000 +0200" stop="20190703043000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">L'EBRE NOTÍCIES</title>
+    <desc lang="es">Informatiu d'actualitat política, social, cultural i esportiva de les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Ebre-Noticies.jpg" />
+  </programme>
+  <programme start="20190703043000 +0200" stop="20190703050000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">L'EBRE NOTÍCIES</title>
+    <desc lang="es">Informatiu d'actualitat política, social, cultural i esportiva de les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Ebre-Noticies.jpg" />
+  </programme>
+  <programme start="20190703050000 +0200" stop="20190703053000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">EBREDIGITAL TV</title>
+    <desc lang="es">Reportatges de les últimes fires, festes i actes celebrats a les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Ebre-digital-tv.jpg" />
+  </programme>
+  <programme start="20190703053000 +0200" stop="20190703060000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">PICALLETRES</title>
+    <desc lang="es">El concurs de lletrejar paraules en català on concursen dos escoles de les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Picalletres.jpg" />
+  </programme>
+  <programme start="20190703060000 +0200" stop="20190703063000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">L'EBRE NOTÍCIES</title>
+    <desc lang="es">Informatiu d'actualitat política, social, cultural i esportiva de les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Ebre-Noticies.jpg" />
+  </programme>
+  <programme start="20190703063000 +0200" stop="20190703090000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">WORLD SPORTS GAMES - TORTOSA 2019: CERIMÒNIA INAUGURAL</title>
+    <desc lang="es">Acte inaugural dels World Sports Games - Tortosa 2019.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/World-Sports-Games---Tortosa-2019-132x95.jpg" />
+  </programme>
+  <programme start="20190703090000 +0200" stop="20190703093000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">AL DIA. TERRITORI SÉNIA</title>
+    <desc lang="es">Informatiu que abarca les Terres de l'Ebre, el Matarranya, els Ports i el Maestrat.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Al-Dia-Territori-Senia.jpg" />
+  </programme>
+  <programme start="20190703093000 +0200" stop="20190703100000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">L'EBRE AL DIA</title>
+    <desc lang="es">Programa de tertúlia política amb taula de debat per escoltar totes les opinions.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Ebre-al-dia.jpg" />
+  </programme>
+  <programme start="20190703100000 +0200" stop="20190703111500 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">FUNDACIÓ GENTIS: CERIMÒNIA DE LLIURAMENT DE TÍTOLS</title>
+    <desc lang="es">Acte de lliurament dels títols acadèmics als alumnes de la Fundació Gentis.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Especials-CanalTE.jpg" />
+  </programme>
+  <programme start="20190703111500 +0200" stop="20190703113000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">TERRES DE L'EBRE. RESERVA DE LA BIOSFERA</title>
+    <desc lang="es">Recorrem les Terres de l'Ebre per descobrir la seua natura, cultura, gastronomia i activitats esportives.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Reserva-bioesfera.jpg" />
+  </programme>
+  <programme start="20190703113000 +0200" stop="20190703120000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">AL DIA. TERRITORI SÉNIA</title>
+    <desc lang="es">Informatiu que abarca les Terres de l'Ebre, el Matarranya, els Ports i el Maestrat.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Al-Dia-Territori-Senia.jpg" />
+  </programme>
+  <programme start="20190703120000 +0200" stop="20190703123000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">EBREDIGITAL TV</title>
+    <desc lang="es">Reportatges de les últimes fires, festes i actes celebrats a les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Ebre-digital-tv.jpg" />
+  </programme>
+  <programme start="20190703123000 +0200" stop="20190703131500 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">PLAÇA MAJOR</title>
+    <desc lang="es">Magazín d'entreteniment amb entrevistes i informació de fires i festes del nostre territori.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Placa-major.jpg" />
+  </programme>
+  <programme start="20190703131500 +0200" stop="20190703140000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">EBREDIGITAL TV.</title>
+    <desc lang="es">Reportatges de les últimes fires, festes i actes celebrats a les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Ebre-digital-tv.jpg" />
+  </programme>
+  <programme start="20190703140000 +0200" stop="20190703143000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">L'EBRE NOTÍCIES</title>
+    <desc lang="es">Informatiu d'actualitat política, social, cultural i esportiva de les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Ebre-Noticies.jpg" />
+  </programme>
+  <programme start="20190703143000 +0200" stop="20190703170000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">WORLD SPORTS GAMES - TORTOSA 2019: CERIMÒNIA INAUGURAL</title>
+    <desc lang="es">Acte inaugural dels World Sports Games - Tortosa 2019.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/World-Sports-Games---Tortosa-2019-132x95.jpg" />
+  </programme>
+  <programme start="20190703170000 +0200" stop="20190703171500 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">TERRES DE L'EBRE. RESERVA DE LA BIOSFERA</title>
+    <desc lang="es">Recorrem les Terres de l'Ebre per descobrir la seua natura, cultura, gastronomia i activitats esportives.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Reserva-bioesfera.jpg" />
+  </programme>
+  <programme start="20190703171500 +0200" stop="20190703180000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">EBREDIGITAL TV.</title>
+    <desc lang="es">Reportatges de les últimes fires, festes i actes celebrats a les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Ebre-digital-tv.jpg" />
+  </programme>
+  <programme start="20190703180000 +0200" stop="20190703183000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">L'EBRE NOTÍCIES</title>
+    <desc lang="es">Informatiu d'actualitat política, social, cultural i esportiva de les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Ebre-Noticies.jpg" />
+  </programme>
+  <programme start="20190703183000 +0200" stop="20190703190000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">PICALLETRES</title>
+    <desc lang="es">El concurs de lletrejar paraules en català on concursen dos escoles de les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Picalletres.jpg" />
+  </programme>
+  <programme start="20190703190000 +0200" stop="20190703200000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">CONNECTI·CAT</title>
+    <desc lang="es">Programa d'informació i entreteniment amb connexions en directe per tot Catalunya.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/ConnectiCat.jpg" />
+  </programme>
+  <programme start="20190703200000 +0200" stop="20190703203000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">EBREDIGITAL TV</title>
+    <desc lang="es">Reportatges de les últimes fires, festes i actes celebrats a les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Ebre-digital-tv.jpg" />
+  </programme>
+  <programme start="20190703203000 +0200" stop="20190703210000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">L'EBRE NOTÍCIES</title>
+    <desc lang="es">Informatiu d'actualitat política, social, cultural i esportiva de les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Ebre-Noticies.jpg" />
+  </programme>
+  <programme start="20190703210000 +0200" stop="20190703213000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">CSIT WORLD SPORTS GAMES: TORTOSA 2019</title>
+    <desc lang="es">Coneixem tots els detalls dels jocs esportius que es celebraran a Tortosa del 2 al 7 de juliol de 2019.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/World-Sports-Games---Tortosa-2019-132x95.jpg" />
+  </programme>
+  <programme start="20190703213000 +0200" stop="20190703220000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">L'EBRE NOTÍCIES</title>
+    <desc lang="es">Informatiu d'actualitat política, social, cultural i esportiva de les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Ebre-Noticies.jpg" />
+  </programme>
+  <programme start="20190703220000 +0200" stop="20190703223000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">CSIT WORLD SPORTS GAMES: TORTOSA 2019</title>
+    <desc lang="es">Coneixem tots els detalls dels jocs esportius que es celebraran a Tortosa del 2 al 7 de juliol de 2019.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/World-Sports-Games---Tortosa-2019-132x95.jpg" />
+  </programme>
+  <programme start="20190703223000 +0200" stop="20190703234500 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">FUNDACIÓ GENTIS: CERIMÒNIA DE LLIURAMENT DE TÍTOLS</title>
+    <desc lang="es">Acte de lliurament dels títols acadèmics als alumnes de la Fundació Gentis.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Especials-CanalTE.jpg" />
+  </programme>
+  <programme start="20190703234500 +0200" stop="20190704000000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">TERRES DE L'EBRE. RESERVA DE LA BIOSFERA</title>
+    <desc lang="es">Recorrem les Terres de l'Ebre per descobrir la seua natura, cultura, gastronomia i activitats esportives.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Reserva-bioesfera.jpg" />
+  </programme>
+  <programme start="20190704000000 +0200" stop="20190704004500 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">PLAÇA MAJOR</title>
+    <desc lang="es">Magazín d'entreteniment amb entrevistes i informació de fires i festes del nostre territori.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Placa-major.jpg" />
+  </programme>
+  <programme start="20190704004500 +0200" stop="20190704013000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">EBREDIGITAL TV.</title>
+    <desc lang="es">Reportatges de les últimes fires, festes i actes celebrats a les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Ebre-digital-tv.jpg" />
+  </programme>
+  <programme start="20190704013000 +0200" stop="20190704020000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">L'EBRE NOTÍCIES</title>
+    <desc lang="es">Informatiu d'actualitat política, social, cultural i esportiva de les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Ebre-Noticies.jpg" />
+  </programme>
+  <programme start="20190704020000 +0200" stop="20190704023000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">CSIT WORLD SPORTS GAMES: TORTOSA 2019</title>
+    <desc lang="es">Coneixem tots els detalls dels jocs esportius que es celebraran a Tortosa del 2 al 7 de juliol de 2019.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/World-Sports-Games---Tortosa-2019-132x95.jpg" />
+  </programme>
+  <programme start="20190704023000 +0200" stop="20190704030000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">EBREDIGITAL TV</title>
+    <desc lang="es">Reportatges de les últimes fires, festes i actes celebrats a les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Ebre-digital-tv.jpg" />
+  </programme>
+  <programme start="20190704030000 +0200" stop="20190704033000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">L'EBRE NOTÍCIES</title>
+    <desc lang="es">Informatiu d'actualitat política, social, cultural i esportiva de les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Ebre-Noticies.jpg" />
+  </programme>
+  <programme start="20190704033000 +0200" stop="20190704040000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">CSIT WORLD SPORTS GAMES: TORTOSA 2019</title>
+    <desc lang="es">Coneixem tots els detalls dels jocs esportius que es celebraran a Tortosa del 2 al 7 de juliol de 2019.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/World-Sports-Games---Tortosa-2019-132x95.jpg" />
+  </programme>
+  <programme start="20190704040000 +0200" stop="20190704043000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">L'EBRE NOTÍCIES</title>
+    <desc lang="es">Informatiu d'actualitat política, social, cultural i esportiva de les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Ebre-Noticies.jpg" />
+  </programme>
+  <programme start="20190704043000 +0200" stop="20190704050000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">CSIT WORLD SPORTS GAMES: TORTOSA 2019</title>
+    <desc lang="es">Coneixem tots els detalls dels jocs esportius que es celebraran a Tortosa del 2 al 7 de juliol de 2019.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/World-Sports-Games---Tortosa-2019-132x95.jpg" />
+  </programme>
+  <programme start="20190704050000 +0200" stop="20190704053000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">EBREDIGITAL TV</title>
+    <desc lang="es">Reportatges de les últimes fires, festes i actes celebrats a les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Ebre-digital-tv.jpg" />
+  </programme>
+  <programme start="20190704053000 +0200" stop="20190704060000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">TREMOLORS. HISTÒRIES DE LA BATALLA DE L'EBRE</title>
+    <desc lang="es">Sèrie de Canal Terres de l'Ebre i TAC12 sobre els 115 dies que va durar la Batalla de l’Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Tremolors.jpg" />
+  </programme>
+  <programme start="20190704060000 +0200" stop="20190704063000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">L'EBRE NOTÍCIES</title>
+    <desc lang="es">Informatiu d'actualitat política, social, cultural i esportiva de les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Ebre-Noticies.jpg" />
+  </programme>
+  <programme start="20190704063000 +0200" stop="20190704070000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">CSIT WORLD SPORTS GAMES: TORTOSA 2019</title>
+    <desc lang="es">Coneixem tots els detalls dels jocs esportius que es celebraran a Tortosa del 2 al 7 de juliol de 2019.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/World-Sports-Games---Tortosa-2019-132x95.jpg" />
+  </programme>
+  <programme start="20190704070000 +0200" stop="20190704081500 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">FUNDACIÓ GENTIS: CERIMÒNIA DE LLIURAMENT DE TÍTOLS</title>
+    <desc lang="es">Acte de lliurament dels títols acadèmics als alumnes de la Fundació Gentis.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Especials-CanalTE.jpg" />
+  </programme>
+  <programme start="20190704081500 +0200" stop="20190704083000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">TERRES DE L'EBRE. RESERVA DE LA BIOSFERA</title>
+    <desc lang="es">Recorrem les Terres de l'Ebre per descobrir la seua natura, cultura, gastronomia i activitats esportives.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Reserva-bioesfera.jpg" />
+  </programme>
+  <programme start="20190704083000 +0200" stop="20190704090000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">CSIT WORLD SPORTS GAMES: TORTOSA 2019</title>
+    <desc lang="es">Coneixem tots els detalls dels jocs esportius que es celebraran a Tortosa del 2 al 7 de juliol de 2019.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/World-Sports-Games---Tortosa-2019-132x95.jpg" />
+  </programme>
+  <programme start="20190704090000 +0200" stop="20190704093000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">AL DIA. TERRITORI SÉNIA</title>
+    <desc lang="es">Informatiu que abarca les Terres de l'Ebre, el Matarranya, els Ports i el Maestrat.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Al-Dia-Territori-Senia.jpg" />
+  </programme>
+  <programme start="20190704093000 +0200" stop="20190704100000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">L'EBRE AL DIA</title>
+    <desc lang="es">Programa de tertúlia política amb taula de debat per escoltar totes les opinions.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Ebre-al-dia.jpg" />
+  </programme>
+  <programme start="20190704100000 +0200" stop="20190704123000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">WORLD SPORTS GAMES - TORTOSA 2019: CERIMÒNIA INAUGURAL</title>
+    <desc lang="es">Acte inaugural dels World Sports Games - Tortosa 2019.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/World-Sports-Games---Tortosa-2019-132x95.jpg" />
+  </programme>
+  <programme start="20190704123000 +0200" stop="20190704131500 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">PLAÇA MAJOR</title>
+    <desc lang="es">Magazín d'entreteniment amb entrevistes i informació de fires i festes del nostre territori.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Placa-major.jpg" />
+  </programme>
+  <programme start="20190704131500 +0200" stop="20190704140000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">EBREDIGITAL TV.</title>
+    <desc lang="es">Reportatges de les últimes fires, festes i actes celebrats a les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Ebre-digital-tv.jpg" />
+  </programme>
+  <programme start="20190704140000 +0200" stop="20190704143000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">L'EBRE NOTÍCIES</title>
+    <desc lang="es">Informatiu d'actualitat política, social, cultural i esportiva de les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Ebre-Noticies.jpg" />
+  </programme>
+  <programme start="20190704143000 +0200" stop="20190704150000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">CSIT WORLD SPORTS GAMES: TORTOSA 2019</title>
+    <desc lang="es">Coneixem tots els detalls dels jocs esportius que es celebraran a Tortosa del 2 al 7 de juliol de 2019.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/World-Sports-Games---Tortosa-2019-132x95.jpg" />
+  </programme>
+  <programme start="20190704150000 +0200" stop="20190704153000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">PICALLETRES</title>
+    <desc lang="es">El concurs de lletrejar paraules en català on concursen dos escoles de les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Picalletres.jpg" />
+  </programme>
+  <programme start="20190704153000 +0200" stop="20190704180000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">WORLD SPORTS GAMES - TORTOSA 2019: CERIMÒNIA INAUGURAL</title>
+    <desc lang="es">Acte inaugural dels World Sports Games - Tortosa 2019.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/World-Sports-Games---Tortosa-2019-132x95.jpg" />
+  </programme>
+  <programme start="20190704180000 +0200" stop="20190704183000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">L'EBRE NOTÍCIES</title>
+    <desc lang="es">Informatiu d'actualitat política, social, cultural i esportiva de les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Ebre-Noticies.jpg" />
+  </programme>
+  <programme start="20190704183000 +0200" stop="20190704190000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">CSIT WORLD SPORTS GAMES: TORTOSA 2019</title>
+    <desc lang="es">Coneixem tots els detalls dels jocs esportius que es celebraran a Tortosa del 2 al 7 de juliol de 2019.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/World-Sports-Games---Tortosa-2019-132x95.jpg" />
+  </programme>
+  <programme start="20190704190000 +0200" stop="20190704200000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">CONNECTI·CAT</title>
+    <desc lang="es">Programa d'informació i entreteniment amb connexions en directe per tot Catalunya.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/ConnectiCat.jpg" />
+  </programme>
+  <programme start="20190704200000 +0200" stop="20190704203000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">EBREDIGITAL TV</title>
+    <desc lang="es">Reportatges de les últimes fires, festes i actes celebrats a les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Ebre-digital-tv.jpg" />
+  </programme>
+  <programme start="20190704203000 +0200" stop="20190704210000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">L'EBRE NOTÍCIES</title>
+    <desc lang="es">Informatiu d'actualitat política, social, cultural i esportiva de les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Ebre-Noticies.jpg" />
+  </programme>
+  <programme start="20190704210000 +0200" stop="20190704213000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">CSIT WORLD SPORTS GAMES: TORTOSA 2019</title>
+    <desc lang="es">Coneixem tots els detalls dels jocs esportius que es celebraran a Tortosa del 2 al 7 de juliol de 2019.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/World-Sports-Games---Tortosa-2019-132x95.jpg" />
+  </programme>
+  <programme start="20190704213000 +0200" stop="20190704220000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">L'EBRE NOTÍCIES</title>
+    <desc lang="es">Informatiu d'actualitat política, social, cultural i esportiva de les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Ebre-Noticies.jpg" />
+  </programme>
+  <programme start="20190704220000 +0200" stop="20190704223000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">CSIT WORLD SPORTS GAMES: TORTOSA 2019</title>
+    <desc lang="es">Coneixem tots els detalls dels jocs esportius que es celebraran a Tortosa del 2 al 7 de juliol de 2019.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/World-Sports-Games---Tortosa-2019-132x95.jpg" />
+  </programme>
+  <programme start="20190704223000 +0200" stop="20190704231500 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">PLAÇA MAJOR</title>
+    <desc lang="es">Magazín d'entreteniment amb entrevistes i informació de fires i festes del nostre territori.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Placa-major.jpg" />
+  </programme>
+  <programme start="20190704231500 +0200" stop="20190705000000 +0200" channel="Terres.TDTChannelsEPG">
+    <title lang="es">EBREDIGITAL TV.</title>
+    <desc lang="es">Reportatges de les últimes fires, festes i actes celebrats a les Terres de l'Ebre.</desc>
+    <icon src="https://drive.ebredigital.cat/Logos-programes-graella/Ebre-digital-tv.jpg" />
+  </programme>
   <programme start="20190702040500 +0200" stop="20190702061000 +0200" channel="Extremadura.TDTChannelsEPG">
     <title lang="es">A esta hora</title>
     <sub-title lang="es">lo mejor</sub-title>
@@ -47475,6 +48013,7 @@ Te ofrecemos un rato de alegría y positividad con la popular presentadora palme
     <date>2010</date>
     <category lang="es">Series</category>
     <category lang="es">Drama</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M803180V1455220" />
     <country lang="es">Francia</country>
     <episode-num system="onscreen">S3 E1</episode-num>
     <rating system="ES">
@@ -48762,7 +49301,7 @@ Te ofrecemos un rato de alegría y positividad con la popular presentadora palme
     <date>2014</date>
     <category lang="es">Series</category>
     <category lang="es">Drama</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MTVGALP1368163" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MTVGALP1671864" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S1 E2</episode-num>
     <rating system="ES">
@@ -48819,6 +49358,7 @@ Te ofrecemos un rato de alegría y positividad con la popular presentadora palme
     <date>2018</date>
     <category lang="es">Ocio y Aficiones</category>
     <category lang="es">Cocina</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M367682V1370316" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -48896,6 +49436,7 @@ Te ofrecemos un rato de alegría y positividad con la popular presentadora palme
     <date>2011</date>
     <category lang="es">Cine</category>
     <category lang="es">Acción</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MTVGALP978789" />
     <country lang="es">EE.UU</country>
     <rating system="ES">
       <value>16</value>
@@ -51216,6 +51757,7 @@ Te ofrecemos un rato de alegría y positividad con la popular presentadora palme
     <date>1974</date>
     <category lang="es">Cine</category>
     <category lang="es">Oeste</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MTELMADP1252367" />
     <country lang="es">EE.UU</country>
     <rating system="ES">
       <value>7</value>
@@ -51544,7 +52086,7 @@ Te ofrecemos un rato de alegría y positividad con la popular presentadora palme
     <date>2019</date>
     <category lang="es">Documentales</category>
     <category lang="es">Naturaleza</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MTELMADP1371304" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MTELMADP1671727" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -51816,6 +52358,7 @@ Te ofrecemos un rato de alegría y positividad con la popular presentadora palme
     <date>2015</date>
     <category lang="es">Cine</category>
     <category lang="es">Suspense</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MTELMADV1503820" />
     <country lang="es">Alemania</country>
     <rating system="ES">
       <value>12</value>
@@ -52735,7 +53278,7 @@ Te ofrecemos un rato de alegría y positividad con la popular presentadora palme
     <date>2016</date>
     <category lang="es">Ocio y Aficiones</category>
     <category lang="es">Viajes</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MOTRAP1371320" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MOTRAP1671747" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -53076,6 +53619,7 @@ Te ofrecemos un rato de alegría y positividad con la popular presentadora palme
     <date>1974</date>
     <category lang="es">Cine</category>
     <category lang="es">Oeste</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MOTRAP1252367" />
     <country lang="es">EE.UU</country>
     <rating system="ES">
       <value>7</value>
@@ -53340,6 +53884,7 @@ Te ofrecemos un rato de alegría y positividad con la popular presentadora palme
     <date>2017</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Eventos especiales</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M372700V1423402" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>12</value>
@@ -53396,6 +53941,7 @@ Te ofrecemos un rato de alegría y positividad con la popular presentadora palme
     <category lang="es">Documentales</category>
     <category lang="es">Viajes</category>
     <category lang="es">Expediciones</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MOTRAP1671748" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -55226,7 +55772,7 @@ Presentado por José Oña.</desc>
     <date>2016</date>
     <category lang="es">Documentales</category>
     <category lang="es">Gastronomía</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M700373V1295548" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M700373V1299030" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -55365,7 +55911,7 @@ Presentado por José Oña.</desc>
     <date>2017</date>
     <category lang="es">Ocio y Aficiones</category>
     <category lang="es">Viajes</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M369623V1421386" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M369623V1478419" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>7</value>
@@ -55465,6 +56011,7 @@ Presentado por José Oña.</desc>
     <date>2017</date>
     <category lang="es">Documentales</category>
     <category lang="es">Actualidad</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M369623V1250623" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -55483,7 +56030,7 @@ Presentado por José Oña.</desc>
     <date>2014</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Entrevista</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M991407V1282272" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/METB1P1539925" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -55666,7 +56213,7 @@ Presentado por José Oña.</desc>
     <date>1993</date>
     <category lang="es">Series</category>
     <category lang="es">Telenovela</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/METB1P245220" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/METB1P1671742" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -55736,7 +56283,7 @@ Presentado por José Oña.</desc>
     <date>1993</date>
     <category lang="es">Series</category>
     <category lang="es">Telenovela</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/METB1P245220" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/METB1P1671744" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -55771,7 +56318,7 @@ Presentado por José Oña.</desc>
     <date>1993</date>
     <category lang="es">Series</category>
     <category lang="es">Telenovela</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/METB1P245220" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/METB1P1671745" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -56617,6 +57164,7 @@ Presentado por José Oña.</desc>
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Tele Realidad</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/GCPL2686" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -56685,6 +57233,7 @@ Presentado por José Oña.</desc>
     <date>2017</date>
     <category lang="es">Documentales</category>
     <category lang="es">Biografía</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M369687V1394664" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>7</value>
@@ -56889,7 +57438,7 @@ Presentado por José Oña.</desc>
     <date>2018</date>
     <category lang="es">Ocio y Aficiones</category>
     <category lang="es">Cocina</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M872229V1562961" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/METB2P1671236" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S2 E153</episode-num>
     <rating system="ES">
@@ -56953,6 +57502,7 @@ Presentado por José Oña.</desc>
     <date>2018</date>
     <category lang="es">Cortometraje</category>
     <category lang="es">Otros</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/METB2P1671816" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>12</value>
@@ -58262,7 +58812,7 @@ Presentado por José Oña.</desc>
     <date>2015</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Tertulia</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MAPUNTP1666633" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MAPUNTP1671756" />
     <country lang="es">EE.UU</country>
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
@@ -58734,6 +59284,7 @@ Presentado por José Oña.</desc>
     <date>1958</date>
     <category lang="es">Cine</category>
     <category lang="es">Oeste</category>
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MMEDITEP973823" />
     <country lang="es">EE.UU</country>
     <rating system="ES">
       <value>16</value>
