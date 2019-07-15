@@ -22802,7 +22802,7 @@
     <desc lang="es">Conexión con la programación del canal temático de deportes de Radiotelevisión Española, Teledeporte. El objetivo de este canal, que emite 24 horas diarias a través de diversos operadores de cable y televisión digital terrestre, es la promoción del deporte español, mediante programas de producción propia dedicados al análisis de la actualidad, al acercamiento a los deportistas y a la valoración de sus esfuerzos. Teledeporte dedica especial atención a los grandes eventos deportivos tales como los Juegos Olímpicos, o las finales más importantes de diferentes modalidades. Pero también ofrece todo aquello relacionado con los deportes que tradicionalmente han sido considerados minoritarios como, por ejemplo, el hockey hierba, hockey patines, gimnasia rítmica, judo o waterpolo.</desc>
     <category lang="es">Información</category>
     <category lang="es">Deporte</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M963401V651657" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MTDEPP651657" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -34915,7 +34915,7 @@
     <date>2014</date>
     <category lang="es">Información</category>
     <category lang="es">Deporte</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MCANARP1366683" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M353988V1366683" />
     <country lang="es">España</country>
     <star-rating system="ES">
       <value>3/5</value>
@@ -35648,7 +35648,7 @@
     <date>2014</date>
     <category lang="es">Información</category>
     <category lang="es">Deporte</category>
-    <icon src="http://www.movistarplus.es/recorte/n/caratula4/MCANARP1366683" />
+    <icon src="http://www.movistarplus.es/recorte/n/caratula4/M353988V1366683" />
     <country lang="es">España</country>
     <star-rating system="ES">
       <value>3/5</value>
@@ -35775,6 +35775,204 @@
     <star-rating system="ES">
       <value>3/5</value>
     </star-rating>
+  </programme>
+  <programme start="20190715000000 +0200" stop="20190715080500 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Programación de madrugada</title>
+    <desc lang="es">Programación de madrugada con videoclips musicales y los éxitos del momento.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/1.jpg" />
+  </programme>
+  <programme start="20190715080500 +0200" stop="20190715091500 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Crónica del Campo</title>
+    <desc lang="es">Con Lucio Hernández
+¿Cuál es el estado del sector? ¿Qué piden nuestros agricultores a las administraciones? ¿Hacia dónde camina el campo en el archipiélago?
+No te pierdas un espacio donde saber más de los productos que da nuestra tierra y de la economía que genera.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/76.png" />
+  </programme>
+  <programme start="20190715091500 +0200" stop="20190715110000 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Los Díaz con Ángeles</title>
+    <desc lang="es">Con Ángeles Díaz
+Un programa para conocer de cerca nuestras fiestas y tradiciones, para acercarnos a canarios que tienen mucho que contar.
+
+Te ofrecemos un rato de alegría y positividad con la popular presentadora palmera Ángeles Díaz, que recorre las Islas buscando amigos e historias.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/75.png" />
+  </programme>
+  <programme start="20190715110000 +0200" stop="20190715120500 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">AM Deluxe</title>
+    <desc lang="es">Con Mario Orenes
+Disfruta de un recorrido por la moda, el espectáculo y los lugares de referencia en Canaarias junto a Mario Orenes. Descubre la amplia propuesta de ocio y entretenimiento que ofrecen nuestras islas. Una visita de lujo que vivirás a través de la pequeña pantalla.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/3.png" />
+  </programme>
+  <programme start="20190715120500 +0200" stop="20190715133000 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Reportaje</title>
+    <desc lang="es">Saborea FTV.</desc>
+    <icon src="https://mirametv.com/images/wSystem/logo.png" />
+  </programme>
+  <programme start="20190715133000 +0200" stop="20190715141000 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Canarias al Día - La Entrevista</title>
+    <desc lang="es">Con David Cuesta
+Tiempo para los protagonistas de la actualidad cada día. Entrevistas en las que buscamos las respuestas que los ciudadanos esperan. Un espacio para ampliar la información de instituciones y colectivos del archipiélago.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/10.png" />
+  </programme>
+  <programme start="20190715141000 +0200" stop="20190715170000 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Eventos</title>
+    <desc lang="es">Gala Reina Fiestas Puerto de la Cruz.</desc>
+    <icon src="https://mirametv.com/images/wSystem/logo.png" />
+  </programme>
+  <programme start="20190715170000 +0200" stop="20190715190000 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Lucha Canaria</title>
+    <desc lang="es">Con Equipo de Deportes
+Mírame Televisión se ha convertido en la apuesta más segura para la difusión del deporte vernáculo en Canarias. Cada semana visitamos los terremos junto a un amplio equipo técnico que hace las delicias de los espectadores y aficionados.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/8.png" />
+  </programme>
+  <programme start="20190715190000 +0200" stop="20190715203000 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">De Cerca</title>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/8.png" />
+  </programme>
+  <programme start="20190715203000 +0200" stop="20190715210000 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Informativos Mírame Sport</title>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/8.png" />
+  </programme>
+  <programme start="20190715210000 +0200" stop="20190715224500 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Buena Suerte</title>
+    <desc lang="es">Con Ricardo Negrín
+Cada día decenas de premios que llegan a todo el archipiélago mientras disfrutamos del mejor zapping y los últimos vídeos musicales del momento.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/11.png" />
+  </programme>
+  <programme start="20190715224500 +0200" stop="20190715235900 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Mírame Sport</title>
+    <desc lang="es">Con Iván Bonales
+Si no quieres estar fuera de juego, sigue todo lo relacionado con los equipos de las Islas en este espacio de ritmo trepidante donde no faltan las tertulias y las entrevistas de actualidad. El deporte canario en Mírame Canarias.
+Informativo del Motor.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/50.jpg" />
+  </programme>
+  <programme start="20190716030000 +0200" stop="20190716080000 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Programación de madrugada</title>
+    <desc lang="es">Programación de madrugada con videoclips musicales y los éxitos del momento.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/1.jpg" />
+  </programme>
+  <programme start="20190716080000 +0200" stop="20190716093500 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Canarias al Día - La Tertulia</title>
+    <desc lang="es">Con Manuel Artiles
+Tertulia periodística de referencia en el archipiélago. Con una conocida línea crítica destapamos aquellas informaciones que otros no publican. Todos los datos, las polémicas y los protagonistas tienen el principal espacio de la cadena en este programa.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/10.png" />
+  </programme>
+  <programme start="20190716093500 +0200" stop="20190716104500 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">AM Deluxe</title>
+    <desc lang="es">Con Mario Orenes
+Disfruta de un recorrido por la moda, el espectáculo y los lugares de referencia en Canaarias junto a Mario Orenes. Descubre la amplia propuesta de ocio y entretenimiento que ofrecen nuestras islas. Una visita de lujo que vivirás a través de la pequeña pantalla.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/3.png" />
+  </programme>
+  <programme start="20190716104500 +0200" stop="20190716130500 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Lucha Canaria</title>
+    <desc lang="es">Con Equipo de Deportes
+Mírame Televisión se ha convertido en la apuesta más segura para la difusión del deporte vernáculo en Canarias. Cada semana visitamos los terremos junto a un amplio equipo técnico que hace las delicias de los espectadores y aficionados.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/8.png" />
+  </programme>
+  <programme start="20190716130500 +0200" stop="20190716134500 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Mírame Sport</title>
+    <desc lang="es">Con Iván Bonales
+Si no quieres estar fuera de juego, sigue todo lo relacionado con los equipos de las Islas en este espacio de ritmo trepidante donde no faltan las tertulias y las entrevistas de actualidad. El deporte canario en Mírame Canarias.
+Información Motor.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/50.jpg" />
+  </programme>
+  <programme start="20190716134500 +0200" stop="20190716141500 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Informativos Mírame Sport</title>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/50.jpg" />
+  </programme>
+  <programme start="20190716141500 +0200" stop="20190716155000 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Canarias al Día - La Tertulia</title>
+    <desc lang="es">Con Manuel Artiles
+Tertulia periodística de referencia en el archipiélago. Con una conocida línea crítica destapamos aquellas informaciones que otros no publican. Todos los datos, las polémicas y los protagonistas tienen el principal espacio de la cadena en este programa.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/10.png" />
+  </programme>
+  <programme start="20190716155000 +0200" stop="20190716165000 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">De Cerca</title>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/10.png" />
+  </programme>
+  <programme start="20190716165000 +0200" stop="20190716190000 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Eventos</title>
+    <desc lang="es">Pregón Fiestas del Puerto de la Cruz.</desc>
+    <icon src="https://mirametv.com/images/wSystem/logo.png" />
+  </programme>
+  <programme start="20190716190000 +0200" stop="20190716201000 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Crónica del Campo</title>
+    <desc lang="es">Con Lucio Hernández
+¿Cuál es el estado del sector? ¿Qué piden nuestros agricultores a las administraciones? ¿Hacia dónde camina el campo en el archipiélago?
+No te pierdas un espacio donde saber más de los productos que da nuestra tierra y de la economía que genera.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/76.png" />
+  </programme>
+  <programme start="20190716201000 +0200" stop="20190716203500 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Canarias al Día - La Entrevista</title>
+    <desc lang="es">Con David Cuesta
+Tiempo para los protagonistas de la actualidad cada día. Entrevistas en las que buscamos las respuestas que los ciudadanos esperan. Un espacio para ampliar la información de instituciones y colectivos del archipiélago.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/10.png" />
+  </programme>
+  <programme start="20190716203500 +0200" stop="20190716210000 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Informativos Mírame Sport</title>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/10.png" />
+  </programme>
+  <programme start="20190716210000 +0200" stop="20190716235900 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Buena Suerte</title>
+    <desc lang="es">Con Ricardo Negrín
+Cada día decenas de premios que llegan a todo el archipiélago mientras disfrutamos del mejor zapping y los últimos vídeos musicales del momento.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/11.png" />
+  </programme>
+  <programme start="20190717013500 +0200" stop="20190717080500 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Programación de madrugada</title>
+    <desc lang="es">Programación de madrugada con videoclips musicales y los éxitos del momento.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/1.jpg" />
+  </programme>
+  <programme start="20190717080500 +0200" stop="20190717084000 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Canarias al Día - La Entrevista</title>
+    <desc lang="es">Con David Cuesta
+Tiempo para los protagonistas de la actualidad cada día. Entrevistas en las que buscamos las respuestas que los ciudadanos esperan. Un espacio para ampliar la información de instituciones y colectivos del archipiélago.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/10.png" />
+  </programme>
+  <programme start="20190717084000 +0200" stop="20190717133000 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Eventos</title>
+    <desc lang="es">Miss Venezuela.</desc>
+    <icon src="https://mirametv.com/images/wSystem/logo.png" />
+  </programme>
+  <programme start="20190717133000 +0200" stop="20190717141000 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Canarias al Día - La Entrevista</title>
+    <desc lang="es">Con David Cuesta
+Tiempo para los protagonistas de la actualidad cada día. Entrevistas en las que buscamos las respuestas que los ciudadanos esperan. Un espacio para ampliar la información de instituciones y colectivos del archipiélago.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/10.png" />
+  </programme>
+  <programme start="20190717141000 +0200" stop="20190717143500 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Informativos Mírame Sport</title>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/10.png" />
+  </programme>
+  <programme start="20190717143500 +0200" stop="20190717154500 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Crónica del Campo</title>
+    <desc lang="es">Con Lucio Hernández
+¿Cuál es el estado del sector? ¿Qué piden nuestros agricultores a las administraciones? ¿Hacia dónde camina el campo en el archipiélago?
+No te pierdas un espacio donde saber más de los productos que da nuestra tierra y de la economía que genera.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/76.png" />
+  </programme>
+  <programme start="20190717154500 +0200" stop="20190717183500 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Lucha Canaria</title>
+    <desc lang="es">Con Equipo de Deportes
+Mírame Televisión se ha convertido en la apuesta más segura para la difusión del deporte vernáculo en Canarias. Cada semana visitamos los terremos junto a un amplio equipo técnico que hace las delicias de los espectadores y aficionados.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/8.png" />
+  </programme>
+  <programme start="20190717183500 +0200" stop="20190717203000 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Los Díaz con Ángeles</title>
+    <desc lang="es">Con Ángeles Díaz
+Un programa para conocer de cerca nuestras fiestas y tradiciones, para acercarnos a canarios que tienen mucho que contar.
+
+Te ofrecemos un rato de alegría y positividad con la popular presentadora palmera Ángeles Díaz, que recorre las Islas buscando amigos e historias.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/75.png" />
+  </programme>
+  <programme start="20190717203000 +0200" stop="20190717210000 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Informativos Mírame Sport</title>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/75.png" />
+  </programme>
+  <programme start="20190717210000 +0200" stop="20190717235900 +0200" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Canarias al Día - La Tertulia</title>
+    <desc lang="es">Con Manuel Artiles
+Tertulia periodística de referencia en el archipiélago. Con una conocida línea crítica destapamos aquellas informaciones que otros no publican. Todos los datos, las polémicas y los protagonistas tienen el principal espacio de la cadena en este programa.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/10.png" />
   </programme>
   <programme start="20190715090000 +0200" stop="20190715100000 +0200" channel="PopularTV_S.TDTChannelsEPG">
     <title lang="es">V6 English</title>
@@ -48544,7 +48742,7 @@
     <icon src="http://www.movistarplus.es/recorte/n/caratula4/M367584V1669602" />
     <country lang="es">España</country>
     <star-rating system="ES">
-      <value>4/5</value>
+      <value>3/5</value>
     </star-rating>
   </programme>
   <programme start="20190715052000 +0200" stop="20190715070000 +0200" channel="IB3.TDTChannelsEPG">
@@ -48928,7 +49126,7 @@
       <value>12</value>
     </rating>
     <star-rating system="ES">
-      <value>2/5</value>
+      <value>3/5</value>
     </star-rating>
   </programme>
   <programme start="20190716002500 +0200" stop="20190716013000 +0200" channel="IB3.TDTChannelsEPG">
@@ -56759,7 +56957,7 @@ Presentado por Farida Mohamed, María Ceano, Marite Gallardo.</desc>
       <value>TP</value>
     </rating>
     <star-rating system="ES">
-      <value>1/5</value>
+      <value>2/5</value>
     </star-rating>
   </programme>
   <programme start="20190716210000 +0200" stop="20190716221000 +0200" channel="ETB2.TDTChannelsEPG">
