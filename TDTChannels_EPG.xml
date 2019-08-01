@@ -255,7 +255,7 @@
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP1673442" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP1684616" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S1 E19</episode-num>
     <rating system="ES">
@@ -269,7 +269,7 @@
     <date>2019</date>
     <category lang="es">Ocio y Aficiones</category>
     <category lang="es">Cocina</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M951077V1632110" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP1684617" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S2019 E107</episode-num>
     <rating system="ES">
@@ -401,7 +401,7 @@
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Concurso</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP1675506" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP1684619" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S1 E13</episode-num>
     <rating system="ES">
@@ -471,7 +471,7 @@
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Zapping</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M960483V1640500" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP1684618" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S2019 E67</episode-num>
     <rating system="ES">
@@ -1114,7 +1114,7 @@
     <date>1974</date>
     <category lang="es">Cine</category>
     <category lang="es">Comedia</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1000512V427483" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP427483" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>12</value>
@@ -1198,6 +1198,7 @@
     <date>2012</date>
     <category lang="es">Cine</category>
     <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP1137758" />
     <country lang="es">EE.UU</country>
     <rating system="ES">
       <value>12</value>
@@ -1368,6 +1369,7 @@
     <date>2017</date>
     <category lang="es">Cultural/Educativo</category>
     <category lang="es">Otros</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M322587V1684799" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>12</value>
@@ -1564,7 +1566,7 @@
     <category lang="es">Documentales</category>
     <category lang="es">Viajes</category>
     <category lang="es">Expediciones</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M919451V1454081" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1000596V1454081" />
     <country lang="es">Francia</country>
     <rating system="ES">
       <value>TP</value>
@@ -1624,7 +1626,7 @@
     <date>2015</date>
     <category lang="es">Documentales</category>
     <category lang="es">Naturaleza</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M811101V1525199" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M811101V1530868" />
     <country lang="es">R.U</country>
     <episode-num system="onscreen">S1 E4</episode-num>
     <rating system="ES">
@@ -1645,7 +1647,7 @@
     <category lang="es">Documentales</category>
     <category lang="es">Viajes</category>
     <category lang="es">Expediciones</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MLA2P1330929" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MLA2P1337643" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S2 E4</episode-num>
     <rating system="ES">
@@ -1663,6 +1665,7 @@
     </credits>
     <date>2011</date>
     <category lang="es">Entretenimiento</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M322587V1684800" />
     <country lang="es">R.U</country>
     <episode-num system="onscreen">S11 E1</episode-num>
     <rating system="ES">
@@ -1681,6 +1684,7 @@
     <date>2016</date>
     <category lang="es">Documentales</category>
     <category lang="es">Historia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M322587V1684794" />
     <country lang="es">Alemania</country>
     <rating system="ES">
       <value>7</value>
@@ -1693,6 +1697,7 @@
     <date>2017</date>
     <category lang="es">Documentales</category>
     <category lang="es">Historia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M322587V1684795" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -1728,6 +1733,7 @@
     <date>2015</date>
     <category lang="es">Documentales</category>
     <category lang="es">Biografía</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MLA2P1348357" />
     <country lang="es">Francia</country>
     <rating system="ES">
       <value>TP</value>
@@ -1744,7 +1750,7 @@
     <date>2019</date>
     <category lang="es">Música</category>
     <category lang="es">Concierto</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MLA2P1673359" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MLA2P1684801" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S2019 E10</episode-num>
     <rating system="ES">
@@ -2327,7 +2333,7 @@
     <date>2019</date>
     <category lang="es">Música</category>
     <category lang="es">Eventos especiales</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M322587V1683800" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MLA2P1683800" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>16</value>
@@ -2689,7 +2695,7 @@
     <date>2013</date>
     <category lang="es">Cine</category>
     <category lang="es">Drama</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M898453V1135391" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MLA2P1135391" />
     <country lang="es">EE.UU</country>
     <rating system="ES">
       <value>12</value>
@@ -4222,7 +4228,7 @@
     <date>2013</date>
     <category lang="es">Series</category>
     <category lang="es">Acción</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M935912V1159743" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M970501V1159743" />
     <country lang="es">Alemania</country>
     <episode-num system="onscreen">S18 E1</episode-num>
     <rating system="ES">
@@ -4323,7 +4329,7 @@
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Concurso</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M970503V1683901" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC4P1683901" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S1 E238</episode-num>
     <rating system="ES">
@@ -4355,7 +4361,7 @@
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Humor</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M979800V1683902" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC4P1683902" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S1 E146</episode-num>
     <rating system="ES">
@@ -4494,6 +4500,7 @@
     <date>2014</date>
     <category lang="es">Cine</category>
     <category lang="es">Acción</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC4P1194722" />
     <country lang="es">Australia, Canadá y R.U</country>
     <rating system="ES">
       <value>18</value>
@@ -4631,7 +4638,7 @@
     </credits>
     <date>2007</date>
     <category lang="es">Series</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F1775004" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F1774994" />
     <country lang="es">EE.UU</country>
     <rating system="ES">
       <value>TP</value>
@@ -5320,7 +5327,7 @@
     <category lang="es">Entretenimiento</category>
     <category lang="es">Corazón</category>
     <category lang="es">Sociedad</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M970531V1683923" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MT5P1683923" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S6 E152</episode-num>
     <rating system="ES">
@@ -6788,7 +6795,7 @@
     </credits>
     <category lang="es">Series</category>
     <category lang="es">Juvenil</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP923282" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP932438" />
     <episode-num system="onscreen">S3 E17</episode-num>
     <rating system="ES">
       <value>7</value>
@@ -6845,7 +6852,7 @@
     </credits>
     <category lang="es">Series</category>
     <category lang="es">Juvenil</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP923282" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP932440" />
     <episode-num system="onscreen">S3 E19</episode-num>
     <rating system="ES">
       <value>7</value>
@@ -6953,7 +6960,7 @@
     <date>2001</date>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP204485" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP246646" />
     <country lang="es">EE.UU</country>
     <episode-num system="onscreen">S7 E14</episode-num>
     <rating system="ES">
@@ -7087,7 +7094,7 @@
     <date>2011</date>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1000971" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1021918" />
     <country lang="es">EE.UU</country>
     <episode-num system="onscreen">S5 E13</episode-num>
     <rating system="ES">
@@ -7192,7 +7199,7 @@
     <date>2012</date>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1063904" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1068989" />
     <country lang="es">EE.UU</country>
     <episode-num system="onscreen">S4 E6</episode-num>
     <rating system="ES">
@@ -7295,7 +7302,7 @@
     <date>2013</date>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1123151" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1157823" />
     <country lang="es">EE.UU</country>
     <episode-num system="onscreen">S11 E22</episode-num>
     <rating system="ES">
@@ -8171,6 +8178,7 @@
     <date>1990</date>
     <category lang="es">Series</category>
     <category lang="es">Juvenil</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M320586V339084" />
     <country lang="es">EE.UU</country>
     <rating system="ES">
       <value>7</value>
@@ -9878,6 +9886,7 @@
     <date>1993</date>
     <category lang="es">Cine</category>
     <category lang="es">Acción</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MMEGAP63595" />
     <country lang="es">EE.UU</country>
     <rating system="ES">
       <value>16</value>
@@ -9952,6 +9961,7 @@
     <date>2001</date>
     <category lang="es">Cine</category>
     <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MMEGAP247794" />
     <country lang="es">EE.UU</country>
     <rating system="ES">
       <value>TP</value>
@@ -10142,7 +10152,7 @@
     <date>1999</date>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M894774V332059" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MATRESSP391800" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S3 E3</episode-num>
     <rating system="ES">
@@ -10288,7 +10298,7 @@
     <date>2005</date>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M900234V459521" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MATRESSP459521" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S3 E21</episode-num>
     <rating system="ES">
@@ -10502,7 +10512,7 @@
     <date>2010</date>
     <category lang="es">Series</category>
     <category lang="es">Policiaca</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M641314V1127646" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MATRESSP1127646" />
     <country lang="es">EE.UU</country>
     <episode-num system="onscreen">S13 E8</episode-num>
     <rating system="ES">
@@ -10658,7 +10668,7 @@
     <date>2009</date>
     <category lang="es">Series</category>
     <category lang="es">Suspense</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M926920V869616" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M926920V884295" />
     <country lang="es">EE.UU</country>
     <episode-num system="onscreen">S7 E14</episode-num>
     <rating system="ES">
@@ -11960,7 +11970,7 @@
     <date>2005</date>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M320396V1045336" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F1536595" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S6 E100</episode-num>
     <rating system="ES">
@@ -11989,6 +11999,7 @@
     <date>2013</date>
     <category lang="es">Series</category>
     <category lang="es">Making of</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MFDFICP1683948" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S3 E1</episode-num>
     <rating system="ES">
@@ -12046,6 +12057,7 @@
     <date>2017</date>
     <category lang="es">Cine</category>
     <category lang="es">Suspense</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MFDFICP1513279" />
     <country lang="es">EE.UU</country>
     <rating system="ES">
       <value>18</value>
@@ -13689,7 +13701,7 @@
     <date>2011</date>
     <category lang="es">Series</category>
     <category lang="es">Policiaca</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MENERGYP968786" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MENERGYP979732" />
     <country lang="es">EE.UU</country>
     <episode-num system="onscreen">S9 E20</episode-num>
     <rating system="ES">
@@ -15337,7 +15349,7 @@
     <date>2015</date>
     <category lang="es">Series</category>
     <category lang="es">Telenovela</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MDIVINIP1666708" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MDIVINIP1683940" />
     <country lang="es">Brasil</country>
     <episode-num system="onscreen">S1 E36</episode-num>
     <rating system="ES">
@@ -15535,7 +15547,7 @@
     <desc lang="es">Agenda de Divinity que cuenta las citas en directo más apetecibles del momento, además de narrar las novedades de los artistas que los protagonizan.</desc>
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MDIVINIP1619856" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MDIVINIP1683944" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S6 E30</episode-num>
     <rating system="ES">
@@ -16763,7 +16775,7 @@
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Otros</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MBEMADP1623348" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MBEMADP1652880" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S1 E6</episode-num>
     <rating system="ES">
@@ -16792,7 +16804,7 @@
     <date>1997</date>
     <category lang="es">Series</category>
     <category lang="es">Acción</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MBEMADP1017524" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MBEMADP1017537" />
     <country lang="es">Alemania y Austria</country>
     <episode-num system="onscreen">S4 E13</episode-num>
     <star-rating system="ES">
@@ -16867,6 +16879,7 @@
     <date>1998</date>
     <category lang="es">Series</category>
     <category lang="es">Acción</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M997810V1017541" />
     <country lang="es">Alemania y Austria</country>
     <episode-num system="onscreen">S5 E2</episode-num>
     <star-rating system="ES">
@@ -16882,7 +16895,7 @@
     </credits>
     <date>2009</date>
     <category lang="es">Series</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MBEMADP884933" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MBEMADP884950" />
     <country lang="es">EE.UU</country>
     <episode-num system="onscreen">S6 E157</episode-num>
     <rating system="ES">
@@ -16901,7 +16914,7 @@
     </credits>
     <date>2009</date>
     <category lang="es">Series</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MBEMADP884933" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MBEMADP884951" />
     <country lang="es">EE.UU</country>
     <episode-num system="onscreen">S6 E158</episode-num>
     <rating system="ES">
@@ -16920,7 +16933,7 @@
     </credits>
     <date>2009</date>
     <category lang="es">Series</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MBEMADP884933" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MBEMADP884952" />
     <country lang="es">EE.UU</country>
     <episode-num system="onscreen">S6 E159</episode-num>
     <rating system="ES">
@@ -17000,7 +17013,7 @@
     <date>2004</date>
     <category lang="es">Series</category>
     <category lang="es">Suspense</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MBEMADP464106" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MBEMADP486001" />
     <country lang="es">EE.UU</country>
     <episode-num system="onscreen">S1 E23</episode-num>
     <star-rating system="ES">
@@ -17062,7 +17075,7 @@
     <date>2017</date>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MBEMADP1428930" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MBEMADP1428934" />
     <country lang="es">EE.UU</country>
     <episode-num system="onscreen">S8 E4</episode-num>
     <star-rating system="ES">
@@ -17118,7 +17131,7 @@
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Otros</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MBEMADP1623348" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MBEMADP1652880" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S1 E6</episode-num>
     <rating system="ES">
@@ -24092,7 +24105,7 @@
     <desc lang="es">Los reportajes de TDP pretenden promocionar el deporte español. Una aproximación a los atletas y a las competiciones de menor seguimiento que sirven para poner en valor el esfuerzo y el sacrificio de los participantes.</desc>
     <date>2019</date>
     <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M369385V1613525" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M369385V1682977" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -24181,7 +24194,7 @@
     <desc lang="es">La copa del mundo de natación recorre siete piscinas de 50 metros repartidas por todo el planeta. Se inicia en agosto en Japón y concluye a mediados de noviembre en Catar. El ganador final en cada una de las pruebas se embolsa 150.000 dólares.</desc>
     <category lang="es">Deportes</category>
     <category lang="es">Natación</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/GCPL2274" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M369385V1682973" />
   </programme>
   <programme start="20190803000500 +0200" stop="20190803013500 +0200" channel="TDP.TDTChannelsEPG">
     <title lang="es">Tour de Francia: 21ª etapa</title>
@@ -24239,6 +24252,7 @@
     <date>2019</date>
     <category lang="es">Deportes</category>
     <category lang="es">Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M369385V1682972" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -24309,7 +24323,7 @@
     <desc lang="es">La copa del mundo de natación recorre siete piscinas de 50 metros repartidas por todo el planeta. Se inicia en agosto en Japón y concluye a mediados de noviembre en Catar. El ganador final en cada una de las pruebas se embolsa 150.000 dólares.</desc>
     <category lang="es">Deportes</category>
     <category lang="es">Natación</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/GCPL2274" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M369385V1683996" />
   </programme>
   <programme start="20190803131000 +0200" stop="20190803133000 +0200" channel="TDP.TDTChannelsEPG">
     <title lang="es">Reportajes TDP: Baloncesto 3x3 Series</title>
@@ -24342,6 +24356,7 @@
     <date>2019</date>
     <category lang="es">Deportes</category>
     <category lang="es">Deportes Acuáticos</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M369385V1676633" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -24368,7 +24383,7 @@
     <desc lang="es">Los reportajes de TDP pretenden promocionar el deporte español. Una aproximación a los atletas y a las competiciones de menor seguimiento que sirven para poner en valor el esfuerzo y el sacrificio de los participantes.</desc>
     <date>2019</date>
     <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M369385V1613525" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M369385V1684000" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -24380,7 +24395,7 @@
     <desc lang="es">Del 29 de julio al 4 de agosto se celebra la 34ª edición del Open de Castilla y León. Como viene siendo habitual, este torneo se celebra en el complejo municipal de La Estación de El Espinar y sigue siendo uno de los pocos abiertos sobre pista rápida en España.</desc>
     <category lang="es">Deportes</category>
     <category lang="es">Tenis</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/GCPL2313" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M369385V1683998" />
   </programme>
   <programme start="20190803200000 +0200" stop="20190803203000 +0200" channel="TDP.TDTChannelsEPG">
     <title lang="es">Mundial de Trial</title>
@@ -24396,7 +24411,7 @@
     <desc lang="es">Un espacio sobre los deportes populares que ayudan a escapar de la rutina diaria. Destinos y escapadas para practicar todo tipo de deporte al aire libre, así como los mejores consejos sobre preparación física, junto con el análisis y novedades sobre equipamiento.</desc>
     <date>2019</date>
     <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M369385V1614435" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M369385V1683997" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -24408,7 +24423,7 @@
     <desc lang="es">El Arena Handball Tour es una competición de balonmano playa que se disputa en diferentes localizaciones. La sexta cita del verano es el Campeonato de España, que se celebra en la playa alicantina de San Juan.</desc>
     <category lang="es">Deportes</category>
     <category lang="es">Balonmano</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/GCPL2163" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M369385V1683994" />
   </programme>
   <programme start="20190803214500 +0200" stop="20190803223000 +0200" channel="TDP.TDTChannelsEPG">
     <title lang="es">Arena Handball Tour: Campeonato de España</title>
@@ -24416,7 +24431,7 @@
     <desc lang="es">El Arena Handball Tour es una competición de balonmano playa que se disputa en diferentes localizaciones. La sexta cita del verano es el Campeonato de España, que se celebra en la playa alicantina de San Juan.</desc>
     <category lang="es">Deportes</category>
     <category lang="es">Balonmano</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/GCPL2163" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M369385V1683995" />
   </programme>
   <programme start="20190803223000 +0200" stop="20190804000000 +0200" channel="TDP.TDTChannelsEPG">
     <title lang="es">Clásica ciclista de San Sebastián</title>
@@ -24566,7 +24581,7 @@
     <desc lang="es">Real Madrid TV hace un seguimiento especial del equipo blanco. El programa describe los momentos previos y posteriores al partido a través de entrevistas y reportajes.</desc>
     <date>2019</date>
     <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M320574V1678069" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M320574V1683816" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -35021,6 +35036,7 @@ Contaremos con profesionales acreditados para aportar sus conocimientos y valora
     <date>2018</date>
     <category lang="es">Documentales</category>
     <category lang="es">Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M353964V1501988" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -35212,6 +35228,7 @@ Contaremos con profesionales acreditados para aportar sus conocimientos y valora
     <date>1952</date>
     <category lang="es">Cine</category>
     <category lang="es">Oeste</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M353964V307217" />
     <country lang="es">EE.UU</country>
     <rating system="ES">
       <value>7</value>
@@ -37842,6 +37859,7 @@ Te ofrecemos un rato de alegría y positividad con la popular presentadora palme
     <date>1967</date>
     <category lang="es">Cine</category>
     <category lang="es">Oeste</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MCYLTVP1174925" />
     <country lang="es">España, Francia e Italia</country>
     <star-rating system="ES">
       <value>3/5</value>
@@ -42329,7 +42347,7 @@ Te ofrecemos un rato de alegría y positividad con la popular presentadora palme
     <date>2019</date>
     <category lang="es">Cultural/Educativo</category>
     <category lang="es">Tradiciones populares</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M996523V1676299" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P1676299" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -45098,7 +45116,7 @@ Te ofrecemos un rato de alegría y positividad con la popular presentadora palme
     <desc lang="es">Emissió del partits de la XXXIV edició d'aquest torneig impulsat pel Martinenc l'any 1984.</desc>
     <category lang="es">Deportes</category>
     <category lang="es">Fútbol internacional</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/GCPL2223" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M364288V1683919" />
   </programme>
   <programme start="20190801205000 +0200" stop="20190801205500 +0200" channel="E3.TDTChannelsEPG">
     <title lang="es">Especials d'esports: 360</title>
@@ -45134,7 +45152,7 @@ Te ofrecemos un rato de alegría y positividad con la popular presentadora palme
     <desc lang="es">El 4-0 de Cornellà deixa poc espai per als dubtes que l'Espanyol avanci en la fase de classificació cap a la lligueta de l'Europa League. Els periquitos viatgen a Islàndia a complimentar l'expedient davant l'Stjarnan.</desc>
     <category lang="es">Deportes</category>
     <category lang="es">Fútbol internacional</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MESP3P1678231" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MESP3P1670440" />
     <star-rating system="ES">
       <value>4/5</value>
     </star-rating>
@@ -45223,7 +45241,7 @@ Te ofrecemos un rato de alegría y positividad con la popular presentadora palme
     <desc lang="es">El 4-0 de Cornellà deixa poc espai per als dubtes que l'Espanyol avanci en la fase de classificació cap a la lligueta de l'Europa League. Els periquitos viatgen a Islàndia a complimentar l'expedient davant l'Stjarnan.</desc>
     <category lang="es">Deportes</category>
     <category lang="es">Fútbol internacional</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MESP3P1678231" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MESP3P1670440" />
     <star-rating system="ES">
       <value>4/5</value>
     </star-rating>
@@ -45248,7 +45266,7 @@ Te ofrecemos un rato de alegría y positividad con la popular presentadora palme
     <desc lang="es">Emissió del partits de la XXXIV edició d'aquest torneig impulsat pel Martinenc l'any 1984.</desc>
     <category lang="es">Deportes</category>
     <category lang="es">Fútbol internacional</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/GCPL2223" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M364288V1683919" />
   </programme>
   <programme start="20190802052500 +0200" stop="20190802055000 +0200" channel="E3.TDTChannelsEPG">
     <title lang="es">Temps d'aventura</title>
@@ -45367,7 +45385,7 @@ Te ofrecemos un rato de alegría y positividad con la popular presentadora palme
     <desc lang="es">Emissió del partits de la XXXIV edició d'aquest torneig impulsat pel Martinenc l'any 1984.</desc>
     <category lang="es">Deportes</category>
     <category lang="es">Fútbol internacional</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/GCPL2223" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M364288V1683919" />
   </programme>
   <programme start="20190802115000 +0200" stop="20190802121000 +0200" channel="E3.TDTChannelsEPG">
     <title lang="es">KM 0</title>
@@ -49291,6 +49309,7 @@ Te ofrecemos un rato de alegría y positividad con la popular presentadora palme
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Tertulia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M367584V1684816" />
     <country lang="es">España</country>
   </programme>
   <programme start="20190801220000 +0200" stop="20190801235500 +0200" channel="TVGAL.TDTChannelsEPG">
@@ -50142,7 +50161,7 @@ Te ofrecemos un rato de alegría y positividad con la popular presentadora palme
     <date>2012</date>
     <category lang="es">Series</category>
     <category lang="es">Drama</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M920561V1467950" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M920561V1467953" />
     <country lang="es">Francia</country>
     <episode-num system="onscreen">S4 E2</episode-num>
     <rating system="ES">
@@ -50288,6 +50307,7 @@ Te ofrecemos un rato de alegría y positividad con la popular presentadora palme
     <desc lang="es">Els equips es preparen per a l'inici imminent de les competicions de clubs amb un seguit de partits amistosos. Els entrenadors intenten encaixar les peces, els nous fitxatges i assajar les tàctiques amb les que aspiren a la victòria.</desc>
     <category lang="es">Deportes</category>
     <category lang="es">Fútbol internacional</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M367523V1683987" />
   </programme>
   <programme start="20190801213000 +0200" stop="20190801221500 +0200" channel="IB3.TDTChannelsEPG">
     <title lang="es">Jo en sé més que tu</title>
@@ -51887,7 +51907,7 @@ Te ofrecemos un rato de alegría y positividad con la popular presentadora palme
     <date>2018</date>
     <category lang="es">Series</category>
     <category lang="es">Suspense</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTELMADP1574571" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTELMADP1581229" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="ES">
@@ -51916,7 +51936,7 @@ Te ofrecemos un rato de alegría y positividad con la popular presentadora palme
     <date>2018</date>
     <category lang="es">Series</category>
     <category lang="es">Suspense</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTELMADP1574571" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTELMADP1584270" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S1 E2</episode-num>
     <rating system="ES">
@@ -52374,7 +52394,7 @@ Te ofrecemos un rato de alegría y positividad con la popular presentadora palme
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M946454V1664003" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTELMADP1664003" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S1 E14</episode-num>
     <rating system="ES">
@@ -53048,6 +53068,7 @@ Te ofrecemos un rato de alegría y positividad con la popular presentadora palme
     <date>1967</date>
     <category lang="es">Cine</category>
     <category lang="es">Oeste</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MOTRAP315305" />
     <country lang="es">EE.UU</country>
     <rating system="ES">
       <value>TP</value>
@@ -53597,7 +53618,7 @@ Te ofrecemos un rato de alegría y positividad con la popular presentadora palme
     <date>2009</date>
     <category lang="es">Ocio y Aficiones</category>
     <category lang="es">Naturaleza</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M372710V798876" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M372710V1684722" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -53871,7 +53892,7 @@ Te ofrecemos un rato de alegría y positividad con la popular presentadora palme
     <date>2018</date>
     <category lang="es">Documentales</category>
     <category lang="es">Naturaleza</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M372700V1419453" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M372700V1513038" />
     <episode-num system="onscreen">S2015 E9</episode-num>
     <rating system="ES">
       <value>TP</value>
@@ -56080,7 +56101,7 @@ Presentado por Farida Mohamed, María Ceano, Marite Gallardo.</desc>
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Humor</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M369623V1671101" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M369623V1683822" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -57543,6 +57564,7 @@ Presentado por Farida Mohamed, María Ceano, Marite Gallardo.</desc>
     <date>2019</date>
     <category lang="es">Documentales</category>
     <category lang="es">Actualidad</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M369687V1683828" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -57601,6 +57623,7 @@ Presentado por Farida Mohamed, María Ceano, Marite Gallardo.</desc>
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Debate</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M369687V1683829" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -58659,7 +58682,7 @@ Presentado por Farida Mohamed, María Ceano, Marite Gallardo.</desc>
     <date>2011</date>
     <category lang="es">Series</category>
     <category lang="es">Drama</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M822503V1675391" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M822503V1683026" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S9 E11</episode-num>
     <rating system="ES">
@@ -59119,6 +59142,7 @@ Presentado por Farida Mohamed, María Ceano, Marite Gallardo.</desc>
     <desc lang="es">El torneo internacional de fútbol sub-20 de La Alcudia llega a su 36ª edición. En un cartel exclusivamente compuesto por selecciones, destaca la participación de países como Argentina, Rusia o España.</desc>
     <category lang="es">Deportes</category>
     <category lang="es">Fútbol internacional</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M822503V1684788" />
   </programme>
   <programme start="20190803000000 +0200" stop="20190803003000 +0200" channel="APUNT.TDTChannelsEPG">
     <title lang="es">Lugares sagrados: El Camino</title>
@@ -59555,6 +59579,7 @@ Presentado por Farida Mohamed, María Ceano, Marite Gallardo.</desc>
     <date>1959</date>
     <category lang="es">Cine</category>
     <category lang="es">Aventuras</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MMEDITEP179182" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>16</value>
