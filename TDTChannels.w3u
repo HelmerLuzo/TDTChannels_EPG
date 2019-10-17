@@ -13,10 +13,10 @@
             { 
                "name": "La 1 HD",
                "image": "https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg",
-               "url": "http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@584096/master.m3u8",
-            },
+               "url": "http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@584096/master.m3u8"
+            }
          ]
-      },
+      }
    ],
    "stations": [
   ]
