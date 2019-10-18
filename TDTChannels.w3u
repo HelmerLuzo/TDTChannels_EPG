@@ -1,0 +1,21 @@
+{ 
+   "name": "TDTChnnels",
+   "author": "HelMer Luzo",
+   "url": "http://91.121.64.179/tdt_project/output/channels.m3u",
+   "image": "https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/Logo.jpg",
+   "contact": "https://t.me/tdtchannels",
+   "info": "Lista de canales de televisión, y radio, que se emiten en abierto por Internet. Especialmente enfocado a España, y ampliando a canales Internacionales.",
+   "groups": [ 
+      { 
+         "name": "Generalistas",
+         "image": "https://i.imgur.com/ExU2ep3.png",
+         "stations": [ 
+            { 
+               "name": "La 1 HD",
+               "image": "https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg",
+               "url": "http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@584096/master.m3u8"
+            }
+         ]
+      }
+   ]
+}
