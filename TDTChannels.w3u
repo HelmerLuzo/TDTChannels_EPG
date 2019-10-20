@@ -188,7 +188,8 @@
 				"name": "La Voz 24H HD",
 				"image": "http://graph.facebook.com/LaVozAntena3/picture?width=320&height=320",
 				"url": "https://pull12.atresmedia.com/lavoz/master.m3u8"
-			}]
+			}
+		]
 		},
 		{
 		"name": "Informativos",
@@ -266,7 +267,8 @@
 				"name": "EuropaPress",
 				"image": "http://graph.facebook.com/europapress.es/picture?width=320&height=320",
 				"url": "http://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8"
-			}]
+			}
+		]
 		},
 		{
 		"name": "Deportivos",
@@ -334,7 +336,8 @@
 				"name": "Redbull TV HD",
 				"image": "http://graph.facebook.com/RedBull/picture?width=320&height=320",
 				"url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"
-			}]
+			}
+		]
 		},
 		{
 		"name": "Infantiles",
@@ -352,7 +355,8 @@
 				"name": "Boing HD",
 				"image": "http://graph.facebook.com/boinges/picture?width=320&height=320",
 				"url": "https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8"
-			}]
+			}
+		]
 		},
 		{
 		"name": "Webcams",
@@ -380,7 +384,8 @@
 				"name": "Yu No Te Pierdas Nada HD",
 				"image": "http://graph.facebook.com/VodafoneYU/picture?width=320&height=320",
 				"url": "https://universal-f.akamaihd.net/i/yu2019_x@770834/master.m3u8"
-			}]
+			}
+		]
 		},
 		{
 		"name": "Andalucía",
@@ -573,7 +578,8 @@
 				"name": "Trebujena TV",
 				"image": "https://bopiweb.com/imagenes/2580/tomo.1.M-3503739-3.jpg",
 				"url": "http://212.104.160.156:1935/live/trebujenatv2/master.m3u8"
-			}]
+			}
+		]
 		},
 		{
 		"name": "Aragón",
@@ -601,7 +607,8 @@
 				"name": "Canal 25 Barbastro TV",
 				"image": "http://graph.facebook.com/tvbarbastro/picture?width=320&height=320",
 				"url": "https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8"
-			}]
+			}
+		]
 		},
 		{
 		"name": "Asturias",
@@ -614,7 +621,8 @@
 				"name": "Canal 10 HD",
 				"image": "https://pbs.twimg.com/profile_images/2738370318/194fb6f639bce86465674a5dd6741519_400x400.png",
 				"url": "https://5924d3ad0efcf.streamlock.net/elcomerciodos/elcomerciodoslive/playlist.m3u8"
-			}]
+			}
+		]
 		},
 		{
 		"name": "Canarias",
@@ -682,7 +690,8 @@
 				"name": "NORTEvisión",
 				"image": "http://graph.facebook.com/aljoamyvisual/picture?width=320&height=320",
 				"url": "http://ad.mysisli.com/live/aljoamy/tracks-v1a1/mono.m3u8"
-			}]
+			}
+		]
 		},
 		{
 		"name": "Cantabria",
@@ -734,7 +743,8 @@
 				"name": "Manzanares10TV",
 				"image": "http://graph.facebook.com/Manzanares10TV/picture?width=320&height=320",
 				"url": "https://secure.todostreaming.es/live/manzanares-livestream.m3u8"
-			}]
+			}
+		]
 		},
 		{
 		"name": "Castilla y León",
@@ -752,7 +762,8 @@
 				"name": "Telearanda",
 				"image": "http://graph.facebook.com/575943555801687/picture?width=320&height=320",
 				"url": "https://cdn01.yowi.tv/BBBBBBBBBB/master.m3u8"
-			}]
+			}
+		]
 		},
 		{
 		"name": "Cataluña",
@@ -985,7 +996,8 @@
 				"name": "Canal 10 Empordà",
 				"image": "http://graph.facebook.com/canal10emporda/picture?width=320&height=320",
 				"url": "http://ventdelnord.tv:8080/escala/directe.m3u8"
-			}]
+			}
+		]
 		},
 		{
 		"name": "Ceuta",
@@ -1003,7 +1015,8 @@
 				"name": "El Faro",
 				"image": "http://graph.facebook.com/ElFarodeCeuta/picture?width=320&height=320",
 				"url": "https://livelist01.yowi.tv/lista/f086a6f43eb34591ebf89d42497a144413d0782d/master.m3u8"
-			}]
+			}
+		]
 		},
 		{
 		"name": "Extremadura",
@@ -1080,7 +1093,8 @@
 				"name": "TV Ferrol",
 				"image": "http://graph.facebook.com/tvferrol/picture?width=320&height=320",
 				"url": "https://directo.tvferrol.es/tv.m3u8"
-			}]
+			}
+		]
 		},
 		{
 		"name": "Islas Baleares",
@@ -1123,7 +1137,8 @@
 				"name": "Clubbing TV",
 				"image": "http://graph.facebook.com/clubbingtvofficial/picture?width=320&height=320",
 				"url": "https://wowzaprod130-i.akamaihd.net/hls/live/570667/a0ad328a/playlist.m3u8"
-			}]
+			}
+		]
 		},
 		{
 		"name": "La Rioja",
@@ -1136,7 +1151,8 @@
 				"name": "Popular TV La Rioja",
 				"image": "http://graph.facebook.com/PopularTvLaRioja/picture?width=320&height=320",
 				"url": "https://live.vimeocdn.com/1569168790-0x88a43c7fe857571fea5dfd352188bc530b0dbcf7/f2c828c5-ea64-49bc-90bd-fd266f2bc4de/chunklist_b416000.m3u8"
-			}]
+			}
+		]
 		},
 		{
 		"name": "Madrid",
@@ -1204,7 +1220,8 @@
 				"name": "Canal 11 TV",
 				"image": "http://canal11tv.es/wp-content/uploads/cropped-logo-1-270x270.png",
 				"url": "http://178.132.6.97/11Madrid/index.m3u8"
-			}]
+			}
+		]
 		},
 		{
 		"name": "Melilla",
@@ -1222,7 +1239,8 @@
 				"name": "El Faro",
 				"image": "http://graph.facebook.com/ElFarodeMelilla/picture?width=320&height=320",
 				"url": "https://livelist01.yowi.tv/lista/f086a6f43eb34591ebf89d42497a144413d0782d/master.m3u8"
-			}]
+			}
+		]
 		},
 		{
 		"name": "Murcia",
@@ -1240,7 +1258,8 @@
 				"name": "RTV Vida HD",
 				"image": "http://graph.facebook.com/vidartv/picture?width=320&height=320",
 				"url": "https://vidartv.todostreaming.es/live/radiovida-emisiontvhd.m3u8"
-			}]
+			}
+		]
 		},
 		{
 		"name": "Navarra",
@@ -1253,7 +1272,8 @@
 				"name": "TeleRibera",
 				"image": "https://pbs.twimg.com/profile_images/780539549239902208/g2MfVVuY_400x400.jpg",
 				"url": "http://37.187.7.106/teleribera/live.m3u8"
-			}]
+			}
+		]
 		},
 		{
 		"name": "País Vasco",
@@ -1316,7 +1336,8 @@
 				"name": "GITB Goierri Irrati Telebista",
 				"image": "http://graph.facebook.com/GoierriIrratiTelebista/picture?width=320&height=320",
 				"url": "https://5940924978228.streamlock.net/8155/8155/master.m3u8"
-			}]
+			}
+		]
 		},
 		{
 		"name": "Valencia",
@@ -1419,7 +1440,8 @@
 				"name": "Elche 7 TV",
 				"image": "http://graph.facebook.com/Elche7Tv/picture?width=320&height=320",
 				"url": "http://154.60.248.32/hls/canal1.m3u8"
-			}]
+			}
+		]
 		},
 		{
 		"name": "Internacional",
@@ -1587,7 +1609,8 @@
 				"name": "Rai News 24",
 				"image": "http://graph.facebook.com/rainews.it/picture?width=320&height=320",
 				"url": "https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews_1800/chunklist.m3u8"
-			}]
+			}
+		]
 		},
 		{
 		"name": "Andorra",
@@ -1603,3 +1626,4 @@
 			}
 		]
 	}
+}
