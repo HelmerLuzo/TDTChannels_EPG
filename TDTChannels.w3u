@@ -198,6 +198,7 @@
 				"name": "24h",
 				"image": "http://graph.facebook.com/24htve/picture?width=320&height=320",
 				"url": "http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8"
+			},
 			{
 				"name": "+24",
 				"image": "http://graph.facebook.com/24htve/picture?width=320&height=320",
@@ -277,6 +278,7 @@
 				"name": "Teledeporte HD",
 				"image": "http://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320",
 				"url": "http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8"
+			},
 			{
 				"name": "+tdp",
 				"image": "http://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320",
@@ -346,6 +348,7 @@
 				"name": "Disney Channel",
 				"image": "https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/d1/91/44/d19144d8-3725-6a09-3f4e-ab72a89a850c/source/320x320bb.jpg",
 				"url": "http://cdnapi.kaltura.com/p/1068292/sp/106829200/playManifest/entryId/1_d8lnsqu0/format/applehttp/master.m3u8"
+			},
 			{
 				"name": "Boing",
 				"image": "http://graph.facebook.com/boinges/picture?width=320&height=320",
@@ -365,6 +368,7 @@
 				"name": "RNE",
 				"image": "http://graph.facebook.com/radionacionalrne/picture?width=320&height=320",
 				"url": "http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve08_lv3_aosv4_gl0/irtve08_lv3_aosv4_gl0.isml/master.m3u8"
+			},
 			{
 				"name": "RNE 3",
 				"image": "http://graph.facebook.com/radio3/picture?width=320&height=320",
@@ -394,6 +398,7 @@
 				"name": "Canal Sur Andalucía HD",
 				"image": "http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320",
 				"url": "http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/rtva/master.m3u8?.m3u8"
+			},
 			{
 				"name": "Canal Andalucia Turismo",
 				"image": "http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320",
@@ -588,6 +593,7 @@
 				"name": "Aragón TV",
 				"image": "http://graph.facebook.com/AragonTV/picture?width=320&height=320",
 				"url": "https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8"
+			},
 			{
 				"name": "Aragón Deporte HD",
 				"image": "http://graph.facebook.com/AragonTV/picture?width=320&height=320",
@@ -617,6 +623,7 @@
 				"name": "TPA7",
 				"image": "http://graph.facebook.com/RTPAoficial/picture?width=320&height=320",
 				"url": "https://cdnlive.shooowit.net/rtpalive/directo.smil/.m3u8"
+			},
 			{
 				"name": "Canal 10 HD",
 				"image": "https://pbs.twimg.com/profile_images/2738370318/194fb6f639bce86465674a5dd6741519_400x400.png",
@@ -631,6 +638,7 @@
 				"name": "Televisión Canaria",
 				"image": "http://graph.facebook.com/RadioTelevisionCanaria/picture?width=320&height=320",
 				"url": "http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8"
+			},
 			{
 				"name": "Mírame TV",
 				"image": "http://graph.facebook.com/MirameTVCanarias/picture?width=320&height=320",
@@ -700,10 +708,17 @@
 				"name": "Popular TV Cantabria",
 				"image": "http://graph.facebook.com/populartvcantabria/picture?width=320&height=320",
 				"url": "https://secure5.todostreaming.es/live/ptvcantabria-livestream.m3u8"
+			}
+		]
+		},
+		{
+		"name": "Castilla La-Mancha",
+		"stations": [
 			{
 				"name": "CMM",
 				"image": "http://graph.facebook.com/CMMediaes/picture?width=320&height=320",
 				"url": "http://fstlive.kaltura.com/dc-0/live/hls/p/2288691/e/0_xs45iy5i/sd/6000/t/ifm5L7FLTqavxjA9TQ7e9w/master.m3u8"
+			},
 			{
 				"name": "Hellin TV",
 				"image": "http://graph.facebook.com/tvhellin/picture?width=320&height=320",
@@ -753,6 +768,7 @@
 				"name": "La 7 HD",
 				"image": "http://graph.facebook.com/rtvcyl/picture?width=320&height=320",
 				"url": "http://cdn.s3.eu.nice264.com:1935/niceLiveServer/cyl_aaf8301a8e99d2acb611ceca62441ec5/master.m3u8"
+			},
 			{
 				"name": "TV Benavente HD",
 				"image": "http://graph.facebook.com/benaventetv/picture?width=320&height=320",
@@ -772,6 +788,7 @@
 				"name": "TV3",
 				"image": "http://graph.facebook.com/tv3/picture?width=320&height=320",
 				"url": "https://ccma-tva-es-cellnex-live-hls.secure.footprint.net/es/ngrp:tv3_web/master_DVR.m3u8"
+			},
 			{
 				"name": "TV3",
 				"image": "http://graph.facebook.com/tv3/picture?width=320&height=320",
@@ -1006,6 +1023,7 @@
 				"name": "Ceuta TV",
 				"image": "http://graph.facebook.com/CeutaTV/picture?width=320&height=320",
 				"url": "https://secure.todostreaming.es/live/anguloce-livestream.m3u8"
+			},
 			{
 				"name": "RTVCE HD",
 				"image": "http://graph.facebook.com/RTVCE/picture?width=320&height=320",
@@ -1025,10 +1043,17 @@
 				"name": "Canal Extremadura",
 				"image": "http://graph.facebook.com/CanalExtremadura/picture?width=320&height=320",
 				"url": "http://hlstv.canalextremadura.es/livetv/multistream.smil/playlist_DVR.m3u8"
+			}
+		]
+		},
+		{
+		"name": "Galicia",
+		"stations": [
 			{
 				"name": "TVG",
 				"image": "http://graph.facebook.com/CRTVG/picture?width=320&height=320",
 				"url": "http://europa-crtvg.flumotion.com/playlist.m3u8"
+			},
 			{
 				"name": "TVG 2 HD",
 				"image": "https://i.ibb.co/2jtvMq0/TVG-GALICIA-2.png",
@@ -1103,6 +1128,7 @@
 				"name": "Bon Dia TV",
 				"image": "https://i2.wp.com/blocs.mesvilaweb.cat/wp-content/uploads/sites/1858/2018/11/BONDIA.png",
 				"url": "https://ccma-tva-es-cellnex-live-hls.secure.footprint.net/es/ngrp:bnd_web/master_DVR.m3u8"
+			},
 			{
 				"name": "Bon Dia TV",
 				"image": "https://i2.wp.com/blocs.mesvilaweb.cat/wp-content/uploads/sites/1858/2018/11/BONDIA.png",
@@ -1147,6 +1173,7 @@
 				"name": "TV Rioja",
 				"image": "http://graph.facebook.com/tvrtelevision/picture?width=320&height=320",
 				"url": "http://teledifusion.tv/rioja/rioja/master.m3u8"
+			},
 			{
 				"name": "Popular TV La Rioja",
 				"image": "http://graph.facebook.com/PopularTvLaRioja/picture?width=320&height=320",
@@ -1161,6 +1188,7 @@
 				"name": "Telemadrid",
 				"image": "http://graph.facebook.com/telemadrid/picture?width=320&height=320",
 				"url": "http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8"
+			},
 			{
 				"name": "LaOtra",
 				"image": "https://pbs.twimg.com/profile_images/971894509972967429/gu-7VRg2_400x400.jpg",
@@ -1230,6 +1258,7 @@
 				"name": "Melilla TV HD",
 				"image": "http://graph.facebook.com/TelevisionMelilla/picture?width=320&height=320",
 				"url": "https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8"
+			},
 			{
 				"name": "Popular TV Melilla",
 				"image": "http://graph.facebook.com/populartvml/picture?width=320&height=320",
@@ -1249,6 +1278,7 @@
 				"name": "7 RM",
 				"image": "http://graph.facebook.com/La7TVRegiondeMurcia/picture?width=320&height=320",
 				"url": "http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8"
+			},
 			{
 				"name": "Popular TV Murcia",
 				"image": "http://graph.facebook.com/poptvregiondemurcia/picture?width=320&height=320",
@@ -1268,6 +1298,7 @@
 				"name": "Navarra TV",
 				"image": "http://graph.facebook.com/NavarraTelevision/picture?width=320&height=320",
 				"url": "https://nws.nice264.com/SmilLive/getLiveIOS.m3u8?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8"
+			},
 			{
 				"name": "TeleRibera",
 				"image": "https://pbs.twimg.com/profile_images/780539549239902208/g2MfVVuY_400x400.jpg",
@@ -1282,6 +1313,7 @@
 				"name": "ETB 1 HD",
 				"image": "http://graph.facebook.com/eitb/picture?width=320&height=320",
 				"url": "http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8"
+			},
 			{
 				"name": "ETB 2 HD",
 				"image": "http://graph.facebook.com/eitb/picture?width=320&height=320",
@@ -1346,6 +1378,7 @@
 				"name": "À Punt HD",
 				"image": "http://graph.facebook.com/apuntmedia/picture?width=320&height=320",
 				"url": "https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae.m3u8"
+			},
 			{
 				"name": "La 8 Mediterráneo HD",
 				"image": "http://graph.facebook.com/LaOcho.tv/picture?width=320&height=320",
@@ -1450,6 +1483,7 @@
 				"name": "TV3CAT",
 				"image": "http://graph.facebook.com/tv3/picture?width=320&height=320",
 				"url": "https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:tv3cat_web/master_DVR.m3u8"
+			},
 			{
 				"name": "ETB SAT Canal Vasco",
 				"image": "http://graph.facebook.com/eitb/picture?width=320&height=320",
@@ -1619,11 +1653,12 @@
 				"name": "ATV HD",
 				"image": "http://graph.facebook.com/rtva.andorra/picture?width=320&height=320",
 				"url": "http://videos.rtva.ad:1935/live/rtva/playlist.m3u8"
+			},
 			{
 				"name": "ATV Web HD",
 				"image": "http://graph.facebook.com/rtva.andorra/picture?width=320&height=320",
 				"url": "http://videos.rtva.ad:1935/live/web/playlist.m3u8"
 			}
 		]
-	}]
+	}
 }
