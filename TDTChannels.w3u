@@ -8,6 +8,7 @@
    "groups": [
 		{
 		"name": "Generalistas",
+		"image": "https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/CCAA/Generalistas.png",
 		"stations": [
 			{
 				"name": "La 1 HD",
@@ -193,6 +194,7 @@
 		},
 		{
 		"name": "Informativos",
+		"image": "https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/CCAA/Informativos.png",
 		"stations": [
 			{
 				"name": "24h",
@@ -273,6 +275,7 @@
 		},
 		{
 		"name": "Deportivos",
+		"image": "https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/CCAA/Deportivos.png",
 		"stations": [
 			{
 				"name": "Teledeporte HD",
@@ -343,6 +346,7 @@
 		},
 		{
 		"name": "Infantiles",
+		"image": "https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/CCAA/Infantiles.png",
 		"stations": [
 			{
 				"name": "Disney Channel",
@@ -363,6 +367,7 @@
 		},
 		{
 		"name": "Webcams",
+		"image": "https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/CCAA/Webcams.png",
 		"stations": [
 			{
 				"name": "RNE",
@@ -636,6 +641,7 @@
 		},
 		{
 		"name": "Canarias",
+		"image": "https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/CCAA/Canarias.png",
 		"stations": [
 			{
 				"name": "Televisión Canaria",
@@ -706,6 +712,7 @@
 		},
 		{
 		"name": "Cantabria",
+		"image": "https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/CCAA/Cantabria.png",
 		"stations": [
 			{
 				"name": "Popular TV Cantabria",
@@ -716,6 +723,7 @@
 		},
 		{
 		"name": "Castilla La-Mancha",
+		"image": "https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/CCAA/Castilla La-Mancha.png",
 		"stations": [
 			{
 				"name": "CMM",
@@ -766,6 +774,7 @@
 		},
 		{
 		"name": "Castilla y León",
+		"image": "https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/CCAA/Castilla y León.png",
 		"stations": [
 			{
 				"name": "La 7 HD",
@@ -786,6 +795,7 @@
 		},
 		{
 		"name": "Cataluña",
+		"image": "https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/CCAA/Cataluña.png",
 		"stations": [
 			{
 				"name": "TV3",
@@ -1021,6 +1031,7 @@
 		},
 		{
 		"name": "Ceuta",
+		"image": "https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/CCAA/Ceuta.png",
 		"stations": [
 			{
 				"name": "Ceuta TV",
@@ -1041,6 +1052,7 @@
 		},
 		{
 		"name": "Extremadura",
+		"image": "https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/CCAA/Extremadura.png",
 		"stations": [
 			{
 				"name": "Canal Extremadura",
@@ -1051,6 +1063,7 @@
 		},
 		{
 		"name": "Galicia",
+		"image": "https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/CCAA/Galicia.png",
 		"stations": [
 			{
 				"name": "TVG",
@@ -1126,6 +1139,7 @@
 		},
 		{
 		"name": "Islas Baleares",
+		"image": "https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/CCAA/Islas Baleares.png",
 		"stations": [
 			{
 				"name": "Bon Dia TV",
@@ -1171,6 +1185,7 @@
 		},
 		{
 		"name": "La Rioja",
+		"image": "https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/CCAA/La Rioja.png",
 		"stations": [
 			{
 				"name": "TV Rioja",
@@ -1186,6 +1201,7 @@
 		},
 		{
 		"name": "Madrid",
+		"image": "https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/CCAA/Madrid.png",
 		"stations": [
 			{
 				"name": "Telemadrid",
@@ -1256,6 +1272,7 @@
 		},
 		{
 		"name": "Melilla",
+		"image": "https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/CCAA/Melilla.png",
 		"stations": [
 			{
 				"name": "Melilla TV HD",
@@ -1276,6 +1293,7 @@
 		},
 		{
 		"name": "Murcia",
+		"image": "https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/CCAA/Murcia.png",
 		"stations": [
 			{
 				"name": "7 RM",
@@ -1296,6 +1314,7 @@
 		},
 		{
 		"name": "Navarra",
+		"image": "https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/CCAA/Navarra.png",
 		"stations": [
 			{
 				"name": "Navarra TV",
@@ -1311,6 +1330,7 @@
 		},
 		{
 		"name": "País Vasco",
+		"image": "https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/CCAA/País Vasco.png",
 		"stations": [
 			{
 				"name": "ETB 1 HD",
@@ -1376,6 +1396,7 @@
 		},
 		{
 		"name": "Valencia",
+		"image": "https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/CCAA/Valencia.png",
 		"stations": [
 			{
 				"name": "À Punt HD",
@@ -1481,6 +1502,7 @@
 		},
 		{
 		"name": "Internacional",
+		"image": "https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/CCAA/Internacional.png",
 		"stations": [
 			{
 				"name": "TV3CAT",
@@ -1651,6 +1673,7 @@
 		},
 		{
 		"name": "Andorra",
+		"image": "https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/CCAA/Andorra.png",
 		"stations": [
 			{
 				"name": "ATV HD",
