@@ -620,6 +620,7 @@
 		},
 		{
 		"name": "Asturias",
+		"image": "https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/CCAA/Asturias.png",
 		"stations": [
 			{
 				"name": "TPA7",
