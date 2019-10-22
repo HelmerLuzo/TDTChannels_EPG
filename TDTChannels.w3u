@@ -393,6 +393,7 @@
 		},
 		{
 		"name": "Andalucía",
+		"image": "https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/CCAA/Andalucía.png",
 		"stations": [
 			{
 				"name": "Canal Sur Andalucía HD",
@@ -588,7 +589,7 @@
 		},
 		{
 		"name": "Aragón",
-		"image": "https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/Aragon.png",
+		"image": "https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/CCAA/Aragón.png",
 		"stations": [
 			{
 				"name": "Aragón TV",
