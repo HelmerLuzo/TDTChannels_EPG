@@ -1,7 +1,7 @@
 {
    "name": "TDTChannels",
    "author": "TDTChannels Team",
-   "url": "http://91.121.64.179/tdt_project/output/channels.m3u",
+   "url": "https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/TDTChannels.w3u",
    "image": "https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/Logo.jpg",
    "contact": "https://t.me/tdtchannels",
    "info": "Lista de canales de televisión, y radio, que se emiten en abierto por Internet. Especialmente enfocado a España, y ampliando a canales Internacionales.",
@@ -588,6 +588,7 @@
 		},
 		{
 		"name": "Aragón",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Flag_map_of_Arag%C3%B3n.svg/115px-Flag_map_of_Arag%C3%B3n.svg.png"
 		"stations": [
 			{
 				"name": "Aragón TV",
