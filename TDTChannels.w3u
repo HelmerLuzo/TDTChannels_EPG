@@ -588,7 +588,7 @@
 		},
 		{
 		"name": "Aragón",
-		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Flag_map_of_Arag%C3%B3n.svg/115px-Flag_map_of_Arag%C3%B3n.svg.png",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Flag_map_of_Arag%C3%B3n.svg",
 		"stations": [
 			{
 				"name": "Aragón TV",
