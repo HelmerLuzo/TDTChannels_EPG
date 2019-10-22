@@ -4,9 +4,7 @@
    "url": "https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/TDTChannels_radios.w3u",
    "image": "https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/Logo.jpg",
    "contact": "https://t.me/tdtchannels",
-   "info": "Lista de canales de televisión, y radio, que se emiten en abierto por Internet. Especialmente enfocado a España, y ampliando a canales Internacionales.
-
-Iconos propiedad de Wikipedia y freepng.es con licencia CC",
+   "info": "Lista de canales de televisión, y radio, que se emiten en abierto por Internet. Especialmente enfocado a España, y ampliando a canales Internacionales. Iconos propiedad de Wikipedia y freepng.es con licencia CC",
    "groups": [
 		{
 		"name": "Generalistas",
