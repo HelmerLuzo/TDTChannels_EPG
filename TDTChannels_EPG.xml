@@ -432,6 +432,9 @@
     <rating system="ES">
       <value>12</value>
     </rating>
+    <star-rating system="ES">
+      <value>5/5</value>
+    </star-rating>
   </programme>
   <programme start="20191117173000 +0100" stop="20191117190000 +0100" channel="La1.TDTChannelsEPG">
     <title lang="es">El perfume del amor</title>
@@ -1841,6 +1844,9 @@
     <rating system="ES">
       <value>12</value>
     </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
   </programme>
   <programme start="20191118005500 +0100" stop="20191118031500 +0100" channel="La2.TDTChannelsEPG">
     <title lang="es">Straight Outta Compton</title>
@@ -3264,6 +3270,9 @@
     <rating system="ES">
       <value>7</value>
     </rating>
+    <star-rating system="ES">
+      <value>2/5</value>
+    </star-rating>
   </programme>
   <programme start="20191117175000 +0100" stop="20191117193000 +0100" channel="Antena3.TDTChannelsEPG">
     <title lang="es">Deseo concedido</title>
@@ -4214,6 +4223,9 @@
     <category lang="es">Deportes</category>
     <category lang="es">Motor</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula4/M325240V1735194" />
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
   </programme>
   <programme start="20191117150000 +0100" stop="20191117154000 +0100" channel="Cuatro.TDTChannelsEPG">
     <title lang="es">Deportes Cuatro Fin de semana</title>
@@ -4343,6 +4355,9 @@
     <rating system="ES">
       <value>7</value>
     </rating>
+    <star-rating system="ES">
+      <value>5/5</value>
+    </star-rating>
   </programme>
   <programme start="20191117225000 +0100" stop="20191118012500 +0100" channel="Cuatro.TDTChannelsEPG">
     <title lang="es">Cuarto Milenio</title>
@@ -6231,7 +6246,7 @@
       <value>7</value>
     </rating>
     <star-rating system="ES">
-      <value>3/5</value>
+      <value>4/5</value>
     </star-rating>
   </programme>
   <programme start="20191117130000 +0100" stop="20191117140000 +0100" channel="LaSexta.TDTChannelsEPG">
@@ -6249,7 +6264,7 @@
       <value>7</value>
     </rating>
     <star-rating system="ES">
-      <value>3/5</value>
+      <value>4/5</value>
     </star-rating>
   </programme>
   <programme start="20191117140000 +0100" stop="20191117150000 +0100" channel="LaSexta.TDTChannelsEPG">
@@ -7293,7 +7308,7 @@
       <value>TP</value>
     </rating>
     <star-rating system="ES">
-      <value>3/5</value>
+      <value>4/5</value>
     </star-rating>
   </programme>
   <programme start="20191117144500 +0100" stop="20191117151000 +0100" channel="Neox.TDTChannelsEPG">
@@ -16525,7 +16540,7 @@
       <value>7</value>
     </rating>
     <star-rating system="ES">
-      <value>4/5</value>
+      <value>3/5</value>
     </star-rating>
   </programme>
   <programme start="20191118165700 +0100" stop="20191118170000 +0100" channel="Divinity.TDTChannelsEPG">
@@ -16546,7 +16561,7 @@
       <value>7</value>
     </rating>
     <star-rating system="ES">
-      <value>4/5</value>
+      <value>3/5</value>
     </star-rating>
   </programme>
   <programme start="20191118170000 +0100" stop="20191118174800 +0100" channel="Divinity.TDTChannelsEPG">
@@ -17064,7 +17079,7 @@
       <value>7</value>
     </rating>
     <star-rating system="ES">
-      <value>4/5</value>
+      <value>3/5</value>
     </star-rating>
   </programme>
   <programme start="20191119165900 +0100" stop="20191119174900 +0100" channel="Divinity.TDTChannelsEPG">
@@ -17644,6 +17659,9 @@
     <rating system="ES">
       <value>TP</value>
     </rating>
+    <star-rating system="ES">
+      <value>1/5</value>
+    </star-rating>
   </programme>
   <programme start="20191118004000 +0100" stop="20191118020000 +0100" channel="Bemad.TDTChannelsEPG">
     <title lang="es">Viajeros Cuatro</title>
@@ -24782,6 +24800,9 @@
     <rating system="ES">
       <value>TP</value>
     </rating>
+    <star-rating system="ES">
+      <value>5/5</value>
+    </star-rating>
   </programme>
   <programme start="20191117220000 +0100" stop="20191118003700 +0100" channel="ElToroTV.TDTChannelsEPG">
     <title lang="es">Río Lobo</title>
@@ -24948,6 +24969,9 @@
     <rating system="ES">
       <value>TP</value>
     </rating>
+    <star-rating system="ES">
+      <value>5/5</value>
+    </star-rating>
   </programme>
   <programme start="20191118130000 +0100" stop="20191118133000 +0100" channel="ElToroTV.TDTChannelsEPG">
     <title lang="es">Cocina familiar con Javier Romero</title>
@@ -27212,6 +27236,9 @@
     <category lang="es">Deportes</category>
     <category lang="es">Otros</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula4/M322409V1736240" />
+    <star-rating system="ES">
+      <value>5/5</value>
+    </star-rating>
   </programme>
   <programme start="20191117123000 +0100" stop="20191117143000 +0100" channel="GOL.TDTChannelsEPG">
     <title lang="es">WPT: Córdoba Open</title>
@@ -28242,88 +28269,85 @@
     </star-rating>
   </programme>
   <programme start="20191117003000 +0100" stop="20191117010000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">SFC NOTICIAS: Edición noche (R.)</title>
+    <title lang="es">SFC NOTICIAS: Edición de Noche (R.)</title>
   </programme>
   <programme start="20191117010000 +0100" stop="20191117030000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">Sevilla Atlético-Jumilla 19/20</title>
+    <title lang="es">AFC Bournemouth-Sevilla FC 18/19</title>
   </programme>
   <programme start="20191117030000 +0100" stop="20191117033000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">SFC NOTICIAS: Edición de noche (R.)</title>
+    <title lang="es">SFC NOTICIAS: Edición de Noche (R.)</title>
   </programme>
   <programme start="20191117033000 +0100" stop="20191117040000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">Goles Sevilla FC 11/12</title>
+    <title lang="es">Videos musicales</title>
   </programme>
   <programme start="20191117040000 +0100" stop="20191117050000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">Tal como éramos: Juan Álvarez (R.)</title>
+    <title lang="es">El Francogoleador: Polster y Rafa Paz</title>
   </programme>
   <programme start="20191117050000 +0100" stop="20191117070000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">Sevilla FC Femenino-Valencia CFF 18/19</title>
+    <title lang="es">Sevilla FC-Valencia CF 15/16</title>
   </programme>
-  <programme start="20191117070000 +0100" stop="20191117080000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">Reportajes peñas sevillistas</title>
+  <programme start="20191117070000 +0100" stop="20191117073000 +0100" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Peña sevillista San Bernardo</title>
+  </programme>
+  <programme start="20191117073000 +0100" stop="20191117080000 +0100" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Laliga Genuine en Tarragona</title>
   </programme>
   <programme start="20191117080000 +0100" stop="20191117083000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">SFC Noticias: Edición de noche (R.)</title>
+    <title lang="es">SFC NOTICIAS: Edición de Noche (R.)</title>
   </programme>
   <programme start="20191117083000 +0100" stop="20191117090000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">SFC Noticias: Edición de noche (R.)</title>
+    <title lang="es">SFC NOTICIAS: Edición de Noche (R.)</title>
   </programme>
-  <programme start="20191117090000 +0100" stop="20191117100000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">GOLES Sevilla FC 09/10</title>
+  <programme start="20191117090000 +0100" stop="20191117110000 +0100" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Opel Cup: Everton FC-Sevilla FC/ FSV Mainz 05-Sevilla FC 19/20</title>
   </programme>
-  <programme start="20191117100000 +0100" stop="20191117103000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">La máquina del tiempo: La huella de Bilardo</title>
+  <programme start="20191117110000 +0100" stop="20191117120000 +0100" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Sevilla FC-CF Benfica Torneo Internacional de La luz Prebenjamines´19</title>
   </programme>
-  <programme start="20191117103000 +0100" stop="20191117123000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">Sevilla FC-R.Valladolid 13/14</title>
+  <programme start="20191117120000 +0100" stop="20191117140000 +0100" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Sevilla FC C-CD Lucena (Directo)</title>
   </programme>
-  <programme start="20191117123000 +0100" stop="20191117143000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">Sevilla Atlético-Cádiz CF 16/17</title>
-  </programme>
-  <programme start="20191117143000 +0100" stop="20191117150000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">LA MÁQUINA DEL TIEMPO: Hugo MacColl</title>
+  <programme start="20191117140000 +0100" stop="20191117150000 +0100" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Reportaje 1890: `129 años de fútbol sevillista´</title>
   </programme>
   <programme start="20191117150000 +0100" stop="20191117150500 +0100" channel="SevillaTV.TDTChannelsEPG">
     <title lang="es">SFC NOTICIAS: Edición mediodía</title>
   </programme>
-  <programme start="20191117150500 +0100" stop="20191117170000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">R.Betis-Sevilla FC 19/20</title>
+  <programme start="20191117150500 +0100" stop="20191117163000 +0100" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Dorsal de Leyenda: Enrique Montero</title>
   </programme>
-  <programme start="20191117170000 +0100" stop="20191117190000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">Sevilla FC-RC Deportivo de la Coruña 04/05</title>
+  <programme start="20191117163000 +0100" stop="20191117183000 +0100" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Sonido SFC Radio Atlético Sanluqueño-Sevilla Atlético</title>
   </programme>
-  <programme start="20191117190000 +0100" stop="20191117210000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">Sevilla FC-FC Barcelona 07/08</title>
+  <programme start="20191117183000 +0100" stop="20191117200000 +0100" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Sevilla FC-Villarreal CF 05/06</title>
+  </programme>
+  <programme start="20191117200000 +0100" stop="20191117210000 +0100" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">La máquina del tiempo: La huella de Bilardo</title>
   </programme>
   <programme start="20191117210000 +0100" stop="20191117213000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">SFC NOTICIAS- edición de noche</title>
+    <title lang="es">SFC NOTICIAS: Edición de Noche</title>
   </programme>
   <programme start="20191117213000 +0100" stop="20191117235900 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">F91 Dudelange-Sevilla FC 19/20 UEL</title>
+    <title lang="es">R.Betis - Sevilla FC 19/20</title>
   </programme>
   <programme start="20191118003000 +0100" stop="20191118010000 +0100" channel="SevillaTV.TDTChannelsEPG">
     <title lang="es">SFC NOTICIAS: Edición de Noche (R.)</title>
   </programme>
   <programme start="20191118010000 +0100" stop="20191118030000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">AFC Bournemouth-Sevilla FC 18/19</title>
+    <title lang="es">CD Leganes-Sevilla FC 18/19</title>
   </programme>
-  <programme start="20191118030000 +0100" stop="20191118033000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">SFC NOTICIAS: Edición de Noche (R.)</title>
-  </programme>
-  <programme start="20191118033000 +0100" stop="20191118040000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">Videos musicales</title>
+  <programme start="20191118030000 +0100" stop="20191118040000 +0100" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">SFC NOTICIAS: Edición de noche (R.)</title>
   </programme>
   <programme start="20191118040000 +0100" stop="20191118050000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">El Francogoleador: Polster y Rafa Paz</title>
+    <title lang="es">El Francogoleador: Luis Fabiano Parte II</title>
   </programme>
   <programme start="20191118050000 +0100" stop="20191118070000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">Sevilla FC-Valencia CF 15/16</title>
+    <title lang="es">SC Friburgo-Sevilla FC 13/14 UEL</title>
   </programme>
-  <programme start="20191118070000 +0100" stop="20191118073000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">Peña sevillista San Bernardo</title>
-  </programme>
-  <programme start="20191118073000 +0100" stop="20191118080000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">Laliga Genuine en Tarragona</title>
+  <programme start="20191118070000 +0100" stop="20191118080000 +0100" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Dorsal de Leyenda: Curro Sanjosé (Redif.)</title>
   </programme>
   <programme start="20191118080000 +0100" stop="20191118083000 +0100" channel="SevillaTV.TDTChannelsEPG">
     <title lang="es">SFC NOTICIAS: Edición de Noche (R.)</title>
@@ -28332,121 +28356,157 @@
     <title lang="es">SFC NOTICIAS: Edición de Noche (R.)</title>
   </programme>
   <programme start="20191118090000 +0100" stop="20191118110000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">Opel Cup: Everton FC-Sevilla FC/ FSV Mainz 05-Sevilla FC 19/20</title>
+    <title lang="es">Sevilla FC-R.Valladolid 18/19</title>
   </programme>
-  <programme start="20191118110000 +0100" stop="20191118120000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">Sevilla FC-CF Benfica Torneo Internacional de La luz Prebenjamines´19</title>
+  <programme start="20191118110000 +0100" stop="20191118113000 +0100" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20191118113000 +0100" stop="20191118120000 +0100" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Peña sevillista de Bonares</title>
   </programme>
   <programme start="20191118120000 +0100" stop="20191118140000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">Sevilla FC C-CD Lucena (Directo)</title>
+    <title lang="es">Valencia CF-Sevilla FC 04/05</title>
   </programme>
   <programme start="20191118140000 +0100" stop="20191118150000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">Reportaje 1890: `129 años de fútbol sevillista´</title>
+    <title lang="es">ACTOS SFC TV: Premios periodísticos´18</title>
   </programme>
   <programme start="20191118150000 +0100" stop="20191118150500 +0100" channel="SevillaTV.TDTChannelsEPG">
     <title lang="es">SFC NOTICIAS: Edición mediodía</title>
   </programme>
-  <programme start="20191118150500 +0100" stop="20191118163000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">Dorsal de Leyenda: Enrique Montero</title>
+  <programme start="20191118150500 +0100" stop="20191118153500 +0100" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Sentimiento sevillista: Quién te trajo al fútbol</title>
   </programme>
-  <programme start="20191118163000 +0100" stop="20191118183000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">Sonido SFC Radio Atlético Sanluqueño-Sevilla Atlético</title>
-  </programme>
-  <programme start="20191118183000 +0100" stop="20191118200000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">Sevilla FC-Villarreal CF 05/06</title>
-  </programme>
-  <programme start="20191118200000 +0100" stop="20191118210000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">La máquina del tiempo: La huella de Bilardo</title>
-  </programme>
-  <programme start="20191118210000 +0100" stop="20191118213000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">SFC NOTICIAS: Edición de Noche</title>
-  </programme>
-  <programme start="20191118213000 +0100" stop="20191118235900 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">R.Betis - Sevilla FC 19/20</title>
-  </programme>
-  <programme start="20191119003000 +0100" stop="20191119010000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">SFC NOTICIAS: Edición de Noche (R.)</title>
-  </programme>
-  <programme start="20191119010000 +0100" stop="20191119030000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">CD Leganes-Sevilla FC 18/19</title>
-  </programme>
-  <programme start="20191119030000 +0100" stop="20191119040000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">SFC NOTICIAS: Edición de noche (R.)</title>
-  </programme>
-  <programme start="20191119040000 +0100" stop="20191119050000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">El Francogoleador: Luis Fabiano Parte II</title>
-  </programme>
-  <programme start="20191119050000 +0100" stop="20191119070000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">SC Friburgo-Sevilla FC 13/14 UEL</title>
-  </programme>
-  <programme start="20191119070000 +0100" stop="20191119080000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">Dorsal de Leyenda: Curro Sanjosé (Redif.)</title>
-  </programme>
-  <programme start="20191119080000 +0100" stop="20191119083000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">SFC NOTICIAS: Edición de Noche (R.)</title>
-  </programme>
-  <programme start="20191119083000 +0100" stop="20191119090000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">SFC NOTICIAS: Edición de Noche (R.)</title>
-  </programme>
-  <programme start="20191119090000 +0100" stop="20191119110000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">Sevilla FC-R.Valladolid 18/19</title>
-  </programme>
-  <programme start="20191119110000 +0100" stop="20191119113000 +0100" channel="SevillaTV.TDTChannelsEPG">
+  <programme start="20191118153500 +0100" stop="20191118160000 +0100" channel="SevillaTV.TDTChannelsEPG">
     <title lang="es">Videos musicales</title>
   </programme>
-  <programme start="20191119113000 +0100" stop="20191119120000 +0100" channel="SevillaTV.TDTChannelsEPG">
+  <programme start="20191118160000 +0100" stop="20191118163000 +0100" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">SFC DIGITAL</title>
+  </programme>
+  <programme start="20191118163000 +0100" stop="20191118170000 +0100" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Videos musicales</title>
+  </programme>
+  <programme start="20191118170000 +0100" stop="20191118174500 +0100" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Granada CF-Sevilla FC 19/20 (1ª parte)</title>
+  </programme>
+  <programme start="20191118174500 +0100" stop="20191118180000 +0100" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">BOLETÍN INFORMATIVO</title>
+  </programme>
+  <programme start="20191118180000 +0100" stop="20191118190000 +0100" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Granada CF-Sevilla FC 19/20 19/20 (2ª parte)</title>
+  </programme>
+  <programme start="20191118190000 +0100" stop="20191118194500 +0100" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Goles Sevilla FC C.Rey 15/16</title>
+  </programme>
+  <programme start="20191118194500 +0100" stop="20191118201500 +0100" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Goles Sevilla FC UCL 17/18</title>
+  </programme>
+  <programme start="20191118201500 +0100" stop="20191118203000 +0100" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Goles UEFA 15/16</title>
+  </programme>
+  <programme start="20191118203000 +0100" stop="20191118210000 +0100" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">El Gran Derbi, desde dentro</title>
+  </programme>
+  <programme start="20191118210000 +0100" stop="20191118213000 +0100" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">SFC NOTICIAS-Edición noche</title>
+  </programme>
+  <programme start="20191118213000 +0100" stop="20191118223000 +0100" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">La Bombonera-Debate (Directo)</title>
+  </programme>
+  <programme start="20191118223000 +0100" stop="20191118233000 +0100" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">La máquina del tiempo:Los que más han jugado</title>
+  </programme>
+  <programme start="20191118233000 +0100" stop="20191118235900 +0100" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Reportajes Goles Sevilla FC</title>
+  </programme>
+  <programme start="20191119000000 +0100" stop="20191119003000 +0100" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Reportajes Goles 06/07</title>
+  </programme>
+  <programme start="20191119003000 +0100" stop="20191119010000 +0100" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">SFC NOTICIAS: Edición de Noche</title>
+  </programme>
+  <programme start="20191119010000 +0100" stop="20191119030000 +0100" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Cerezo Osaka -Sevilla FC 17/18</title>
+  </programme>
+  <programme start="20191119030000 +0100" stop="20191119033000 +0100" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">SFC NOTICIAS: Edición de Noche</title>
+  </programme>
+  <programme start="20191119033000 +0100" stop="20191119043000 +0100" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Tal como éramos: Marchena Parte I</title>
+  </programme>
+  <programme start="20191119043000 +0100" stop="20191119053000 +0100" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Tal como éramos: Marchena Parte II</title>
+  </programme>
+  <programme start="20191119053000 +0100" stop="20191119063000 +0100" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Tal como éramos: Fernando Peralta</title>
+  </programme>
+  <programme start="20191119063000 +0100" stop="20191119080000 +0100" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Dorsal de Leyenda: Pablo Blanco</title>
+  </programme>
+  <programme start="20191119080000 +0100" stop="20191119083000 +0100" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">SFC NOTICIAS: Edición de Noche</title>
+  </programme>
+  <programme start="20191119083000 +0100" stop="20191119090000 +0100" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">SFC NOTICIAS: Edición de Noche</title>
+  </programme>
+  <programme start="20191119090000 +0100" stop="20191119110000 +0100" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">FC Dudelange-Sevilla FC UEL 19/20</title>
+  </programme>
+  <programme start="20191119110000 +0100" stop="20191119120000 +0100" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">La Bombonera Debate (Redif.)</title>
+  </programme>
+  <programme start="20191119120000 +0100" stop="20191119123000 +0100" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">LA MÁQUINA DEL TIEMPO: Los que más han jugado</title>
+  </programme>
+  <programme start="20191119123000 +0100" stop="20191119143000 +0100" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Dnipro-Sevilla FC Varsovia´15 UEL</title>
+  </programme>
+  <programme start="20191119143000 +0100" stop="20191119150000 +0100" channel="SevillaTV.TDTChannelsEPG">
     <title lang="es">Peña sevillista de Bonares</title>
-  </programme>
-  <programme start="20191119120000 +0100" stop="20191119140000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">Valencia CF-Sevilla FC 04/05</title>
-  </programme>
-  <programme start="20191119140000 +0100" stop="20191119150000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">ACTOS SFC TV: Premios periodísticos´18</title>
   </programme>
   <programme start="20191119150000 +0100" stop="20191119150500 +0100" channel="SevillaTV.TDTChannelsEPG">
     <title lang="es">SFC NOTICIAS: Edición mediodía</title>
   </programme>
   <programme start="20191119150500 +0100" stop="20191119153500 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">Sentimiento sevillista: Quién te trajo al fútbol</title>
+    <title lang="es">Sentimiento sevillista: Una anécdota</title>
   </programme>
   <programme start="20191119153500 +0100" stop="20191119160000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">Videos musicales</title>
+    <title lang="es">XIII Encuentro de peñas sevillistas</title>
   </programme>
   <programme start="20191119160000 +0100" stop="20191119163000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">SFC DIGITAL</title>
+    <title lang="es">Crónicas 12/13</title>
   </programme>
   <programme start="20191119163000 +0100" stop="20191119170000 +0100" channel="SevillaTV.TDTChannelsEPG">
     <title lang="es">Videos musicales</title>
   </programme>
   <programme start="20191119170000 +0100" stop="20191119174500 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">Granada CF-Sevilla FC 19/20 (1ª parte)</title>
+    <title lang="es">Sevilla FC-Getafe CF 05/06 (1ª parte)</title>
   </programme>
   <programme start="20191119174500 +0100" stop="20191119180000 +0100" channel="SevillaTV.TDTChannelsEPG">
     <title lang="es">BOLETÍN INFORMATIVO</title>
   </programme>
   <programme start="20191119180000 +0100" stop="20191119190000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">Granada CF-Sevilla FC 19/20 19/20 (2ª parte)</title>
+    <title lang="es">Sevilla FC-Getafe CF 05/06 (2ª parte)</title>
   </programme>
-  <programme start="20191119190000 +0100" stop="20191119194500 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">Goles Sevilla FC C.Rey 15/16</title>
+  <programme start="20191119190000 +0100" stop="20191119193000 +0100" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Reportajes Goles Sevilla FC Liga y C.Rey 18/19</title>
   </programme>
-  <programme start="20191119194500 +0100" stop="20191119201500 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">Goles Sevilla FC UCL 17/18</title>
+  <programme start="20191119193000 +0100" stop="20191119200000 +0100" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Reportajes Goles sevilla FC Liga 11/12</title>
   </programme>
-  <programme start="20191119201500 +0100" stop="20191119203000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">Goles UEFA 15/16</title>
+  <programme start="20191119200000 +0100" stop="20191119203000 +0100" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">Cantera SFC (estreno)</title>
   </programme>
   <programme start="20191119203000 +0100" stop="20191119210000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">El Gran Derbi, desde dentro</title>
+    <title lang="es">Futboleras SFC (estreno)</title>
   </programme>
   <programme start="20191119210000 +0100" stop="20191119213000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">SFC NOTICIAS-Edición noche</title>
+    <title lang="es">SFC NOTICIAS: Edición noche</title>
   </programme>
-  <programme start="20191119213000 +0100" stop="20191119230000 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">La Bombonera-Debate (Directo)</title>
+  <programme start="20191119213000 +0100" stop="20191119221500 +0100" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">A Balón Parado (Directo)</title>
   </programme>
-  <programme start="20191119230000 +0100" stop="20191119235900 +0100" channel="SevillaTV.TDTChannelsEPG">
-    <title lang="es">La máquina del tiempo:Los que más han jugado</title>
+  <programme start="20191119221500 +0100" stop="20191119235900 +0100" channel="SevillaTV.TDTChannelsEPG">
+    <title lang="es">RCD Espanyol-Sevilla FC 19/20</title>
   </programme>
   <programme start="20191117060000 +0100" stop="20191117061000 +0100" channel="Disney.TDTChannelsEPG">
     <title lang="es">Cambio de clase</title>
@@ -28671,7 +28731,7 @@
       <value>TP</value>
     </rating>
     <star-rating system="ES">
-      <value>4/5</value>
+      <value>3/5</value>
     </star-rating>
   </programme>
   <programme start="20191117081700 +0100" stop="20191117083000 +0100" channel="Disney.TDTChannelsEPG">
@@ -30104,7 +30164,7 @@
       <value>TP</value>
     </rating>
     <star-rating system="ES">
-      <value>3/5</value>
+      <value>4/5</value>
     </star-rating>
   </programme>
   <programme start="20191118160000 +0100" stop="20191118163000 +0100" channel="Disney.TDTChannelsEPG">
@@ -30358,7 +30418,7 @@
       <value>TP</value>
     </rating>
     <star-rating system="ES">
-      <value>3/5</value>
+      <value>4/5</value>
     </star-rating>
   </programme>
   <programme start="20191118214500 +0100" stop="20191118223000 +0100" channel="Disney.TDTChannelsEPG">
@@ -35091,7 +35151,7 @@
       <value>TP</value>
     </rating>
     <star-rating system="ES">
-      <value>4/5</value>
+      <value>3/5</value>
     </star-rating>
   </programme>
   <programme start="20191119220000 +0100" stop="20191119222500 +0100" channel="Boing.TDTChannelsEPG">
@@ -40011,11 +40071,6 @@
     <desc lang="es">Mientras se hornea el pollo Enrique Sánchez prepara un salpicón de aguacate diferente y original que nos va a servir de guarnición.Si quieres ver nuestros vídeos de recetas, consejos y mucho más....visita nuestra Web!!http://canalandaluciacocina.es.</desc>
     <icon src="https://vod.streamingconnect.tv/cscocina/admin/Uploads/thumbs/OtO0mThzKSA.jpg" />
   </programme>
-  <programme start="20191117023000 +0100" stop="20191117033000 +0100" channel="OndaCadiz.TDTChannelsEPG">
-    <title lang="es">Traspunte</title>
-    <desc lang="es">Programa de televisión donde hablamos de Cultura, desde la pasión que nos inspiran: la literatura, el teatro, la música, el arte, la danza y todas las disciplinas artísticas que tengan algo que decir en Cádiz. La actualidad y los protagonistas de la agenda cultural, tienen cabida en Traspunte, presentado por Almudena de la Montaña.</desc>
-    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/traspunte.jpg?itok=y2kTTmMd" />
-  </programme>
   <programme start="20191117033000 +0100" stop="20191117043000 +0100" channel="OndaCadiz.TDTChannelsEPG">
     <title lang="es">EL FAROL</title>
     <desc lang="es">Programa de divulgación cultural y entretenimiento, realizado en clave de humor. Se presenta la historia de Cádiz y universal, a través de cinco relatos que narrarán cinco personas distintas, siendo una de las historias falsa. El objetivo del programa, presentado por Salvador Fernández Miró, es que el invitado se capaz de descubrir la falsa, es decir, donde está el farol.</desc>
@@ -40123,30 +40178,10 @@ Contaremos con profesionales acreditados para aportar sus conocimientos y valora
     <desc lang="es">La Historia de Cádiz de la mano de Salvador Santos.</desc>
     <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/zona-historia.jpg?itok=DjS8EbIA" />
   </programme>
-  <programme start="20191117080000 +0100" stop="20191117093000 +0100" channel="CanalCosta.TDTChannelsEPG">
-    <title lang="es">Informativos</title>
-    <desc lang="es">La actualidad de la semana en nuestros especiales informativos fin de semana.</desc>
-    <icon src="http://www.canalcostatv.es/wp-content/uploads/2014/11/Informativo2-300x170.jpg" />
-  </programme>
-  <programme start="20191117100000 +0100" stop="20191117120000 +0100" channel="CanalCosta.TDTChannelsEPG">
-    <title lang="es">A Buena Hora</title>
-    <desc lang="es">Redifusión del programa del miércoles.</desc>
-    <icon src="http://www.canalcostatv.es/wp-content/uploads/2017/10/LOGO-A-BUENA-HORA2-640x380-300x178.jpg" />
-  </programme>
-  <programme start="20191117130000 +0100" stop="20191117140000 +0100" channel="CanalCosta.TDTChannelsEPG">
-    <title lang="es">Carnavaleando</title>
-    <desc lang="es">Redifusión.</desc>
-    <icon src="http://www.canalcostatv.es/wp-content/uploads/2014/01/cabecera-carnavaleando.jpg" />
-  </programme>
-  <programme start="20191117140000 +0100" stop="20191117153000 +0100" channel="CanalCosta.TDTChannelsEPG">
-    <title lang="es">Informativos</title>
-    <desc lang="es">La actualidad de la semana en nuestros especiales informativos fin de semana.</desc>
-    <icon src="http://www.canalcostatv.es/wp-content/uploads/2014/11/Informativo2-300x170.jpg" />
-  </programme>
-  <programme start="20191117153000 +0100" stop="20191117170000 +0100" channel="CanalCosta.TDTChannelsEPG">
-    <title lang="es">Especial Reportajes</title>
-    <desc lang="es">Redifusión.</desc>
-    <icon src="http://www.canalcostatv.es/wp-content/uploads/2014/01/cabecera-reportajes.jpg" />
+  <programme start="20191118023000 +0100" stop="20191118033000 +0100" channel="OndaCadiz.TDTChannelsEPG">
+    <title lang="es">El dorsal</title>
+    <desc lang="es">Se trata de un espacio semanal, presentado por Nacho Limón, en el que se trata de manera directa todo el deporte de Cádiz y provincia. Desde la base al profesional, sin descuidar la práctica amateur. Cuenta en su espacio con secciones de Psicología deportiva, Running, Fútbol base, entrenamiento deportivo y fisioterapia y nutrición deportiva. Dedicamos una especial atención a los deportes minoritarios y al perspectiva de género.</desc>
+    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/el_dorsal.jpg?itok=GnOOYUmR" />
   </programme>
   <programme start="20191117170000 +0100" stop="20191117190000 +0100" channel="CanalCosta.TDTChannelsEPG">
     <title lang="es">A Buena Hora</title>
@@ -40166,28 +40201,6 @@ Contaremos con profesionales acreditados para aportar sus conocimientos y valora
     <title lang="es">Especial Reportajes</title>
     <icon src="http://www.canalcostatv.es/wp-content/uploads/2014/01/cabecera-reportajes.jpg" />
   </programme>
-  <programme start="20191117090000 +0100" stop="20191117113000 +0100" channel="Condavision.TDTChannelsEPG">
-    <title lang="es">Informativos</title>
-    <icon src="http://www.condavision.es/wp-content/uploads/2014/10/CONDAVISION-NOTICIAS-300x164.jpg" />
-  </programme>
-  <programme start="20191117113000 +0100" stop="20191117120000 +0100" channel="Condavision.TDTChannelsEPG">
-    <title lang="es">Cocer y Catar</title>
-    <icon src="http://www.condavision.es/wp-content/uploads/2018/10/Cocer-y-catar-grande-300x194.jpg" />
-  </programme>
-  <programme start="20191117120000 +0100" stop="20191117140000 +0100" channel="Condavision.TDTChannelsEPG">
-    <title lang="es">A Buena Hora</title>
-    <desc lang="es">Redifusión Miércoles.</desc>
-    <icon src="http://www.condavision.es/wp-content/uploads/2017/10/A-BUENA-HORA-CARTON-2-300x168.jpg" />
-  </programme>
-  <programme start="20191117140000 +0100" stop="20191117163000 +0100" channel="Condavision.TDTChannelsEPG">
-    <title lang="es">Informativos</title>
-    <icon src="http://www.condavision.es/wp-content/uploads/2014/10/CONDAVISION-NOTICIAS-300x164.jpg" />
-  </programme>
-  <programme start="20191117163000 +0100" stop="20191117170000 +0100" channel="Condavision.TDTChannelsEPG">
-    <title lang="es">En Clave Condado</title>
-    <desc lang="es">Con Encarni Castellano.</desc>
-    <icon src="http://www.condavision.es/wp-content/uploads/2019/09/en-clave-condado-300x208.jpg" />
-  </programme>
   <programme start="20191117170000 +0100" stop="20191117190000 +0100" channel="Condavision.TDTChannelsEPG">
     <title lang="es">A Buena Hora</title>
     <desc lang="es">Redifusión Jueves.</desc>
@@ -40200,10 +40213,6 @@ Contaremos con profesionales acreditados para aportar sus conocimientos y valora
   <programme start="20191117203000 +0100" stop="20191117230000 +0100" channel="Condavision.TDTChannelsEPG">
     <title lang="es">Informativos</title>
     <icon src="http://www.condavision.es/wp-content/uploads/2014/10/CONDAVISION-NOTICIAS-300x164.jpg" />
-  </programme>
-  <programme start="20191117230000 +0100" stop="20191117040000 +0100" channel="Condavision.TDTChannelsEPG">
-    <title lang="es">Pleno Ayuntamiento Almonte</title>
-    <icon src="http://www.condavision.es/wp-content/uploads/2014/02/DSC_0099.jpg" />
   </programme>
   <programme start="20191117052000 +0100" stop="20191117070000 +0100" channel="AragonTV.TDTChannelsEPG">
     <title lang="es">Vaughan 4.0</title>
@@ -42869,7 +42878,7 @@ Contaremos con profesionales acreditados para aportar sus conocimientos y valora
       <value>7</value>
     </rating>
     <star-rating system="ES">
-      <value>4/5</value>
+      <value>3/5</value>
     </star-rating>
   </programme>
   <programme start="20191118130500 +0100" stop="20191118135000 +0100" channel="Canarias.TDTChannelsEPG">
@@ -43280,7 +43289,7 @@ Contaremos con profesionales acreditados para aportar sus conocimientos y valora
       <value>7</value>
     </rating>
     <star-rating system="ES">
-      <value>4/5</value>
+      <value>3/5</value>
     </star-rating>
   </programme>
   <programme start="20191119130500 +0100" stop="20191119135000 +0100" channel="Canarias.TDTChannelsEPG">
@@ -43496,6 +43505,11 @@ Contaremos con profesionales acreditados para aportar sus conocimientos y valora
     <star-rating system="ES">
       <value>3/5</value>
     </star-rating>
+  </programme>
+  <programme start="20191117010000 +0100" stop="20191117080000 +0100" channel="MirameTV.TDTChannelsEPG">
+    <title lang="es">Programación de madrugada</title>
+    <desc lang="es">Programación de madrugada con videoclips musicales y los éxitos del momento.</desc>
+    <icon src="https://mirametv.com/images/wProgramsRadioTv/1.jpg" />
   </programme>
   <programme start="20191117080000 +0100" stop="20191117083500 +0100" channel="MirameTV.TDTChannelsEPG">
     <title lang="es">Testigos de Primera Fila del Hogar Santa Rita</title>
@@ -45517,6 +45531,9 @@ A través de las distintas secciones del programa recordaremos la historia del c
     <category lang="es">Deportes</category>
     <category lang="es">Motor</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307944V1735194" />
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
   </programme>
   <programme start="20191117144500 +0100" stop="20191117155300 +0100" channel="TV3.TDTChannelsEPG">
     <title lang="es">Telenotícies migdia</title>
@@ -51885,6 +51902,9 @@ A través de las distintas secciones del programa recordaremos la historia del c
     <category lang="es">Deportes</category>
     <category lang="es">Motor</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula4/M364288V1735194" />
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
   </programme>
   <programme start="20191117224000 +0100" stop="20191117230200 +0100" channel="E3.TDTChannelsEPG">
     <title lang="es">KM 0</title>
@@ -52149,6 +52169,9 @@ A través de las distintas secciones del programa recordaremos la historia del c
     <category lang="es">Deportes</category>
     <category lang="es">Motor</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula4/M364288V1735194" />
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
   </programme>
   <programme start="20191118134000 +0100" stop="20191118143000 +0100" channel="E3.TDTChannelsEPG">
     <title lang="es">GP de la Comunitat Valenciana: Carreras</title>
@@ -52158,6 +52181,9 @@ A través de las distintas secciones del programa recordaremos la historia del c
     <category lang="es">Deportes</category>
     <category lang="es">Motor</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula4/M364288V1735194" />
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
   </programme>
   <programme start="20191118143000 +0100" stop="20191118152500 +0100" channel="E3.TDTChannelsEPG">
     <title lang="es">GP de la Comunitat Valenciana: Carreras</title>
@@ -52167,6 +52193,9 @@ A través de las distintas secciones del programa recordaremos la historia del c
     <category lang="es">Deportes</category>
     <category lang="es">Motor</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula4/M364288V1735194" />
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
   </programme>
   <programme start="20191118152500 +0100" stop="20191118160000 +0100" channel="E3.TDTChannelsEPG">
     <title lang="es">Zona Zàping</title>
@@ -61405,108 +61434,6 @@ A través de las distintas secciones del programa recordaremos la historia del c
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme start="20191117020000 +0100" stop="20191117033000 +0100" channel="MelillaTV.TDTChannelsEPG">
-    <title lang="es">Viento de Levante (r)</title>
-    <desc lang="es">Magazine de lunes a viernes, de 11:00 a 12:30 horas.</desc>
-    <icon src="https://www.inmusa.es/wp-content/uploads/2018/02/inmusa-tvm-1.png" />
-  </programme>
-  <programme start="20191117033000 +0100" stop="20191117043000 +0100" channel="MelillaTV.TDTChannelsEPG">
-    <title lang="es">New Player</title>
-    <icon src="https://www.inmusa.es/wp-content/uploads/2019/02/PORTADA-TVM-1280x460.png" />
-  </programme>
-  <programme start="20191117043000 +0100" stop="20191117050000 +0100" channel="MelillaTV.TDTChannelsEPG">
-    <title lang="es">Pedro Bueno</title>
-    <desc lang="es">A Porta Gayola.</desc>
-    <icon src="https://www.inmusa.es/wp-content/uploads/2018/02/inmusa-tvm-1.png" />
-  </programme>
-  <programme start="20191117050000 +0100" stop="20191117053000 +0100" channel="MelillaTV.TDTChannelsEPG">
-    <title lang="es">José María Aragonés</title>
-    <desc lang="es">A Porta Gayola.</desc>
-    <icon src="https://www.inmusa.es/wp-content/uploads/2018/02/inmusa-tvm-1.png" />
-  </programme>
-  <programme start="20191117053000 +0100" stop="20191117060000 +0100" channel="MelillaTV.TDTChannelsEPG">
-    <title lang="es">Vidas y Estilos</title>
-    <desc lang="es">Elena Fernández Treviño.</desc>
-    <icon src="https://www.inmusa.es/wp-content/uploads/2019/02/FOTO-VIDAS-Y-ESTILOS.jpg" />
-  </programme>
-  <programme start="20191117060000 +0100" stop="20191117063000 +0100" channel="MelillaTV.TDTChannelsEPG">
-    <title lang="es">Garbanzos al horno y Rollito de Arroz</title>
-    <desc lang="es">El Chef en casa.</desc>
-    <icon src="https://www.inmusa.es/wp-content/uploads/2018/02/inmusa-tvm-1.png" />
-  </programme>
-  <programme start="20191117063000 +0100" stop="20191117070000 +0100" channel="MelillaTV.TDTChannelsEPG">
-    <title lang="es">Museos con Ñ</title>
-    <desc lang="es">Regimiento de Regulares (II).</desc>
-    <icon src="https://www.inmusa.es/wp-content/uploads/2019/03/Museos_con_%C3%B1-1024x368.jpg" />
-  </programme>
-  <programme start="20191117070000 +0100" stop="20191117073000 +0100" channel="MelillaTV.TDTChannelsEPG">
-    <title lang="es">Constantino Domínguez Sánchez</title>
-    <desc lang="es">Historias Enterradas.</desc>
-    <icon src="https://www.inmusa.es/wp-content/uploads/2018/02/inmusa-tvm-1.png" />
-  </programme>
-  <programme start="20191117073000 +0100" stop="20191117080000 +0100" channel="MelillaTV.TDTChannelsEPG">
-    <title lang="es">Raíces de Melilla</title>
-    <desc lang="es">Exposición Hermandad (II).</desc>
-    <icon src="https://www.inmusa.es/wp-content/uploads/2019/02/FOTO-RAICES.jpg" />
-  </programme>
-  <programme start="20191117080000 +0100" stop="20191117091500 +0100" channel="MelillaTV.TDTChannelsEPG">
-    <title lang="es">Minas del Rif</title>
-    <desc lang="es">El Retrovisor.</desc>
-    <icon src="https://www.inmusa.es/wp-content/uploads/2018/02/inmusa-tvm-1.png" />
-  </programme>
-  <programme start="20191117091500 +0100" stop="20191117094500 +0100" channel="MelillaTV.TDTChannelsEPG">
-    <title lang="es">Ayub Zizaoui</title>
-    <desc lang="es">Sport Héroes.</desc>
-    <icon src="https://www.inmusa.es/wp-content/uploads/2018/02/inmusa-tvm-1.png" />
-  </programme>
-  <programme start="20191117094500 +0100" stop="20191117101500 +0100" channel="MelillaTV.TDTChannelsEPG">
-    <title lang="es">Los telómeros</title>
-    <desc lang="es">La salud a toda costa.</desc>
-    <icon src="https://www.inmusa.es/wp-content/uploads/2018/02/inmusa-tvm-1.png" />
-  </programme>
-  <programme start="20191117101500 +0100" stop="20191117104500 +0100" channel="MelillaTV.TDTChannelsEPG">
-    <title lang="es">Memento</title>
-    <desc lang="es">Paqui Manzano (IV)
-Hacer un homenaje a un ser querido, una entidad, a tu familia, a un acontecimiento que marcó tu vida, acompañado de fotografías personales. Esto es Memento, para que tu recuerdo no quede en el olvido.
-Presentado por José Oña.</desc>
-    <icon src="https://www.inmusa.es/wp-content/uploads/2019/03/Memento.jpg" />
-  </programme>
-  <programme start="20191117104500 +0100" stop="20191117111500 +0100" channel="MelillaTV.TDTChannelsEPG">
-    <title lang="es">Asociación de Hostelería y Cata de Vinos</title>
-    <desc lang="es">VTRs.</desc>
-    <icon src="https://www.inmusa.es/wp-content/uploads/2018/02/inmusa-tvm-1.png" />
-  </programme>
-  <programme start="20191117111500 +0100" stop="20191117114500 +0100" channel="MelillaTV.TDTChannelsEPG">
-    <title lang="es">Rebobinando</title>
-    <desc lang="es">es un viaje semanal al pasado. Retrocedemos en el tiempo y echamos un vistazo a episodios que han marcado una época dentro de la historia de Melilla. Miramos al siglo XX desde los albores del XXI.
-Presentado por Francis Alemany.</desc>
-    <icon src="https://www.inmusa.es/wp-content/uploads/2019/03/Rebobinando-1024x368.jpg" />
-  </programme>
-  <programme start="20191117114500 +0100" stop="20191117140000 +0100" channel="MelillaTV.TDTChannelsEPG">
-    <title lang="es">Racing Club de Ferrol - UD Melilla</title>
-    <desc lang="es">Fútbol (Directo).</desc>
-    <icon src="https://www.inmusa.es/wp-content/uploads/2018/02/inmusa-tvm-1.png" />
-  </programme>
-  <programme start="20191117140000 +0100" stop="20191117143000 +0100" channel="MelillaTV.TDTChannelsEPG">
-    <title lang="es">Conozcámonos</title>
-    <desc lang="es">Vicente Domenech.</desc>
-    <icon src="https://www.inmusa.es/wp-content/uploads/2019/02/banner-tvm-conozcamonos.jpg" />
-  </programme>
-  <programme start="20191117143000 +0100" stop="20191117150000 +0100" channel="MelillaTV.TDTChannelsEPG">
-    <title lang="es">Escuela de Enseñanzas Artísticas Enrique Tierno Galván</title>
-    <desc lang="es">Melillarte.</desc>
-    <icon src="https://www.inmusa.es/wp-content/uploads/2018/02/inmusa-tvm-1.png" />
-  </programme>
-  <programme start="20191117150000 +0100" stop="20191117153000 +0100" channel="MelillaTV.TDTChannelsEPG">
-    <title lang="es">Don Juan Tenorio</title>
-    <desc lang="es">Oña 360 grados.</desc>
-    <icon src="https://www.inmusa.es/wp-content/uploads/2018/02/inmusa-tvm-1.png" />
-  </programme>
-  <programme start="20191117153000 +0100" stop="20191117160000 +0100" channel="MelillaTV.TDTChannelsEPG">
-    <title lang="es">Planes de Futuro</title>
-    <desc lang="es">Escuela Oficial de Idiomas (II).</desc>
-    <icon src="https://www.inmusa.es/wp-content/uploads/2019/05/planesdefuturo-1024x368.jpg" />
-  </programme>
   <programme start="20191117160000 +0100" stop="20191117173000 +0100" channel="MelillaTV.TDTChannelsEPG">
     <title lang="es">Miss Marple</title>
     <icon src="https://www.inmusa.es/wp-content/uploads/2018/02/inmusa-tvm-1.png" />
@@ -61664,10 +61591,11 @@ Presentado por José Oña.</desc>
     <icon src="https://www.inmusa.es/wp-content/uploads/2019/02/banner-Viento-de-Levante.jpg" />
   </programme>
   <programme start="20191118123000 +0100" stop="20191118130000 +0100" channel="MelillaTV.TDTChannelsEPG">
-    <title lang="es">Oñeando</title>
-    <desc lang="es">Paseando, callejeando, descubrimos a nuestra gente, sus asociaciones y agrupaciones, sus viajeros y sus cambios, Melilla es la protagonista. La descubrirás .
+    <title lang="es">Gustavo Apolinar</title>
+    <desc lang="es">Oñeando
+Paseando, callejeando, descubrimos a nuestra gente, sus asociaciones y agrupaciones, sus viajeros y sus cambios, Melilla es la protagonista. La descubrirás Oñeando.
 Presentado por José Oña.</desc>
-    <icon src="https://www.inmusa.es/wp-content/uploads/2019/03/O%C3%B1eando-1024x368.jpg" />
+    <icon src="https://www.inmusa.es/wp-content/uploads/2018/02/inmusa-tvm-1.png" />
   </programme>
   <programme start="20191118130000 +0100" stop="20191118140000 +0100" channel="MelillaTV.TDTChannelsEPG">
     <title lang="es">New Player</title>
@@ -61679,7 +61607,8 @@ Presentado por José Oña.</desc>
     <icon src="https://www.inmusa.es/wp-content/uploads/2019/03/Legado_militar-1024x368.jpg" />
   </programme>
   <programme start="20191118143000 +0100" stop="20191118153000 +0100" channel="MelillaTV.TDTChannelsEPG">
-    <title lang="es">La Rockola</title>
+    <title lang="es">Antonio González</title>
+    <desc lang="es">La Rockola.</desc>
     <icon src="https://www.inmusa.es/wp-content/uploads/2018/02/inmusa-tvm-1.png" />
   </programme>
   <programme start="20191118153000 +0100" stop="20191118160000 +0100" channel="MelillaTV.TDTChannelsEPG">
@@ -61687,7 +61616,8 @@ Presentado por José Oña.</desc>
     <icon src="https://www.inmusa.es/wp-content/uploads/2018/02/inmusa-tvm-1.png" />
   </programme>
   <programme start="20191118160000 +0100" stop="20191118163000 +0100" channel="MelillaTV.TDTChannelsEPG">
-    <title lang="es">Café en Compañía</title>
+    <title lang="es">María Oña</title>
+    <desc lang="es">Café en Compañía.</desc>
     <icon src="https://www.inmusa.es/wp-content/uploads/2018/02/inmusa-tvm-1.png" />
   </programme>
   <programme start="20191118163000 +0100" stop="20191118170000 +0100" channel="MelillaTV.TDTChannelsEPG">
@@ -61971,6 +61901,9 @@ Presentado por Francis Alemany.</desc>
     <category lang="es">Deportes</category>
     <category lang="es">Fútbol español</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula4/M7TVMURP1736684" />
+    <star-rating system="ES">
+      <value>4/5</value>
+    </star-rating>
   </programme>
   <programme start="20191117190000 +0100" stop="20191117200000 +0100" channel="7RM.TDTChannelsEPG">
     <title lang="es">En el corazón de la fiesta</title>
@@ -62951,7 +62884,7 @@ Presentado por Francis Alemany.</desc>
     <date>2014</date>
     <category lang="es">Información</category>
     <category lang="es">Meteorología</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M369677V1375717" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/METB1P1375717" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -64622,7 +64555,7 @@ Presentado por Francis Alemany.</desc>
       <value>TP</value>
     </rating>
     <star-rating system="ES">
-      <value>3/5</value>
+      <value>4/5</value>
     </star-rating>
   </programme>
   <programme start="20191118145800 +0100" stop="20191118155000 +0100" channel="ETB2.TDTChannelsEPG">
@@ -64695,7 +64628,7 @@ Presentado por Francis Alemany.</desc>
       <value>TP</value>
     </rating>
     <star-rating system="ES">
-      <value>3/5</value>
+      <value>2/5</value>
     </star-rating>
   </programme>
   <programme start="20191118171500 +0100" stop="20191118193500 +0100" channel="ETB2.TDTChannelsEPG">
@@ -64873,7 +64806,7 @@ Presentado por Francis Alemany.</desc>
       <value>TP</value>
     </rating>
     <star-rating system="ES">
-      <value>3/5</value>
+      <value>4/5</value>
     </star-rating>
   </programme>
   <programme start="20191119033000 +0100" stop="20191119041500 +0100" channel="ETB2.TDTChannelsEPG">
@@ -64891,7 +64824,7 @@ Presentado por Francis Alemany.</desc>
       <value>TP</value>
     </rating>
     <star-rating system="ES">
-      <value>3/5</value>
+      <value>2/5</value>
     </star-rating>
   </programme>
   <programme start="20191119041500 +0100" stop="20191119062000 +0100" channel="ETB2.TDTChannelsEPG">
@@ -65075,7 +65008,7 @@ Presentado por Francis Alemany.</desc>
       <value>TP</value>
     </rating>
     <star-rating system="ES">
-      <value>3/5</value>
+      <value>4/5</value>
     </star-rating>
   </programme>
   <programme start="20191119145800 +0100" stop="20191119155000 +0100" channel="ETB2.TDTChannelsEPG">
@@ -66121,7 +66054,7 @@ Presentado por Francis Alemany.</desc>
     <date>2017</date>
     <category lang="es">Cultural/Educativo</category>
     <category lang="es">Religión</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1020292V1241646" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MMEDITEP1241646" />
     <country lang="es">España</country>
     <star-rating system="ES">
       <value>3/5</value>
