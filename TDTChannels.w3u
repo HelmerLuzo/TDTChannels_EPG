@@ -965,19 +965,19 @@
 			{
 				"name": "betevé",
 				"image": "http://graph.facebook.com/betevecat/picture?width=320&height=320",
-				"url": "https://beteve.cat/en-directe/#"
+				"url": "https://beteve.cat/en-directe/#",
 				"isHost": "true"
 			},
 			{
 				"name": "betevé web",
 				"image": "http://graph.facebook.com/betevecat/picture?width=320&height=320",
-				"url": "https://beteve.cat/ciencia-i-tecnologia/web-area-metropolitana-open-data/#"
+				"url": "https://beteve.cat/ciencia-i-tecnologia/web-area-metropolitana-open-data/#",
 				"isHost": "true"
 			},
 			{
 				"name": "betevé xarxes",
 				"image": "http://graph.facebook.com/betevecat/picture?width=320&height=320",
-				"url": "https://beteve.cat/en-directe/xarxes/"
+				"url": "https://beteve.cat/en-directe/xarxes/",
 				"isHost": "true"
 			},
 			{
