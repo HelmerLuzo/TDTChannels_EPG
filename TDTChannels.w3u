@@ -965,17 +965,20 @@
 			{
 				"name": "betevé",
 				"image": "http://graph.facebook.com/betevecat/picture?width=320&height=320",
-				"url": "http://cdnapi.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/protocol/http/format/applehttp/a.m3u8"
+				"url": "https://beteve.cat/en-directe/#",
+				"embed": true
 			},
 			{
 				"name": "betevé web",
 				"image": "http://graph.facebook.com/betevecat/picture?width=320&height=320",
-				"url": "http://cdnapi.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_8o1kikzi/protocol/http/format/applehttp/a.m3u8"
+				"url": "https://beteve.cat/ciencia-i-tecnologia/web-area-metropolitana-open-data/#",
+				"embed": true
 			},
 			{
 				"name": "betevé xarxes",
 				"image": "http://graph.facebook.com/betevecat/picture?width=320&height=320",
-				"url": "http://cdnapi.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_hysmp9b4/protocol/http/format/applehttp/a.m3u8"
+				"url": "https://beteve.cat/en-directe/xarxes/",
+				"embed": true
 			},
 			{
 				"name": "betevé càmera del temps",
