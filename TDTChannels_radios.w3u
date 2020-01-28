@@ -3,7 +3,7 @@
    "author": "TDTChannels Team",
    "url": "https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/TDTChannels_radios.w3u",
    "image": "https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/Logo.jpg",
-   "contact": "https://t.me/tdtchannels",
+   "telegram": "tdtchannels",
    "info": "Lista de emisoras de radio que se emiten en abierto por Internet. Especialmente enfocado a España, y ampliando a canales Internacionales. Iconos propiedad de Wikipedia y freepng.es con licencia CC",
    "groups": [
 				{
