@@ -1,0 +1,143 @@
+/* ==========================================================================
+   $TABLE OF CONTENTS
+   ========================================================================== */
+
+/**
+ * BORDER-RADIUS
+ * BOX-SHADOW
+ * BOX-SIZING
+ * OPACITY
+ * TRANSFORM
+ * TRANSITION
+ */
+
+
+
+
+
+/* ==========================================================================
+   $BORDER-RADIUS
+   ========================================================================== */
+
+.border-radius(@radius) {
+    -webkit-border-radius: @radius;
+       -moz-border-radius: @radius;
+         -o-border-radius: @radius;
+            border-radius: @radius;
+}
+
+.border-top-right-radius(@radius) {
+    -webkit-border-top-right-radius: @radius;
+       -moz-border-top-right-radius: @radius;
+         -o-border-top-right-radius: @radius;
+            border-top-right-radius: @radius;
+}
+
+.border-top-left-radius(@radius) {
+    -webkit-border-top-left-radius: @radius;
+       -moz-border-top-left-radius: @radius;
+         -o-border-top-left-radius: @radius;
+            border-top-left-radius: @radius;
+}
+
+.border-bottom-right-radius(@radius) {
+    -webkit-border-bottom-right-radius: @radius;
+       -moz-border-bottom-right-radius: @radius;
+         -o-border-bottom-right-radius: @radius;
+            border-bottom-right-radius: @radius;
+}
+
+.border-bottom-left-radius(@radius) {
+    -webkit-border-bottom-left-radius: @radius;
+       -moz-border-bottom-left-radius: @radius;
+         -o-border-bottom-left-radius: @radius;
+            border-bottom-left-radius: @radius;
+}
+
+
+
+
+
+/* ==========================================================================
+   $BOX-SHADOW
+   ========================================================================== */
+
+.box-shadow(@arguments) {
+    -webkit-box-shadow: @arguments;
+       -moz-box-shadow: @arguments;
+         -o-box-shadow: @arguments;
+            box-shadow: @arguments;
+}
+
+.box-shadow-inset(@horizontal, @vertical, @blur, @alpha) {
+    -webkit-box-shadow: inset @horizontal @vertical @blur rgba(0, 0, 0, @alpha);
+       -moz-box-shadow: inset @horizontal @vertical @blur rgba(0, 0, 0, @alpha);
+         -o-box-shadow: inset @horizontal @vertical @blur rgba(0, 0, 0, @alpha);
+            box-shadow: inset @horizontal @vertical @blur rgba(0, 0, 0, @alpha);
+}
+
+
+
+
+
+/* ==========================================================================
+   $BOX-SIZING
+   ========================================================================== */
+
+.box-sizing(@arguments) {
+    -webkit-box-sizing: @arguments;
+       -moz-box-sizing: @arguments;
+         -o-box-sizing: @arguments;
+            box-sizing: @arguments;
+}
+
+
+
+
+
+/* ==========================================================================
+   $OPACITY
+   ========================================================================== */
+
+.opacity(@opacity) {
+    -webkit-opacity: @opacity;
+       -moz-opacity: @opacity;
+         -o-opacity: @opacity;
+            opacity: @opacity;
+}
+
+
+
+
+
+/* ==========================================================================
+   $TRANSFORM
+   ========================================================================== */
+
+.transform(@arguments) {
+    -webkit-transform: @arguments;
+       -moz-transform: @arguments;
+         -o-transform: @arguments;
+            transform: @arguments;
+}
+
+.transform-rotate(@deg) {
+    -webkit-transform: rotate(@deg);
+       -moz-transform: rotate(@deg);
+         -o-transform: rotate(@deg);
+            transform: rotate(@deg);
+}
+
+.transform-scale(@ratio) {
+    -webkit-transform: scale(@ratio);
+       -moz-transform: scale(@ratio);
+         -o-transform: scale(@ratio);
+            transform: scale(@ratio);
+}
+
+.transition(@arguments) {
+    -webkit-transition: @arguments;
+       -moz-transition: @arguments;
+         -o-transition: @arguments;
+            transition: @arguments;
+}

@@ -1,0 +1,481 @@
+/* ==========================================================================
+   $EPG
+   ========================================================================== */
+
+/**
+ * EPG
+ */
+
+.epg {
+    background-color: @colour-silver;
+    overflow: hidden;
+
+    /**
+     * Header
+     */
+
+    .epg-header {
+        overflow: hidden;
+        padding-top: 1em;
+        padding-bottom: 1em;
+
+        /**
+         * Title
+         */
+
+        .title {
+            margin: 0;
+
+            @media all and (min-width: @bp-small) {
+                float: left;
+            }
+        }
+
+        /**
+         * Form
+         */
+
+        .form {
+            padding-top: 0.4em;
+
+            @media all and (min-width: @bp-small) {
+                float: right;
+            }
+        }
+    }
+
+    /**
+     * Navigation
+     */
+
+    .epg-nav {
+        background-color: @colour-white-dark;
+        overflow: hidden;
+        padding-top: 1em;
+        padding-bottom: 1em;
+        width: 100%;
+
+        /**
+         * Form
+         */
+
+        .form {
+
+            @media all and (min-width: @bp-medium) {
+                float: left;
+                padding-top: 0.25em;
+            }
+        }
+
+        /**
+         * Dates
+         */
+
+        .epg-nav-dates {
+            margin-top: 1em;
+            overflow: hidden;
+
+            @media all and (min-width: @bp-medium) {
+                float: right;
+                margin-top: 0;
+            }
+
+            /**
+             * List
+             */
+
+            .list-dates {
+                background-color: @colour-white;
+                border: 1px solid @colour-grey-dark;
+                border-top: 0;
+                .border-radius(3px);
+                display: inline-block;
+                float: left;
+                list-style: none;
+                margin: 0;
+                overflow: hidden;
+                padding: 0;
+                width: 100%;
+
+                @media all and (min-width: @bp-small) {
+                    width: auto;
+                }
+
+                /**
+                 * Item
+                 */
+
+                li {
+                    border-top: 1px solid @colour-grey-dark;
+                    display: none;
+
+                    @media all and (min-width: @bp-small) {
+                        border-right: 1px solid @colour-grey-dark;
+                        border-bottom: 0;
+                        display: block;
+                        float: left;
+                        height: 2.813em; /* 45 / 16 */
+                    }
+
+                    &:first-child {
+                        border-top: 0;
+                    }
+
+                    &:last-child {
+                        border-right: 0;
+                    }
+
+                    /**
+                     * Today
+                     */
+
+                    &.today {
+                        background-color: @colour-grey-dark;
+                        border-top: 1px solid @colour-grey-dark;
+                        display: block;
+                        position: relative;
+
+                        /* Anchor */
+                        a {
+                            color: @colour-white-dark;
+                            line-height: 3.25;
+                            position: relative;
+
+                            &:focus,
+                            &:hover {
+                                background-color: @colour-grey-dark;
+                            }
+
+                            /* Toggle */
+                            &.toggle {
+                                font-size: 1.5em; /* 20 / 16 */
+                                line-height: 1.8;
+                                height: 100%;
+                                padding-right: 0.5em;
+                                padding-left: 0.5em;
+                                position: absolute;
+                                right: 0;
+                                top: 0;
+                                vertical-align: middle;
+
+                                @media all and (min-width: @bp-small) {
+                                    display: none;
+                                }
+                            }
+                        }
+                    }
+
+                    /**
+                     * Anchor
+                     */
+
+                    a {
+                        color: @colour-grey-dark;
+                        display: block;
+                        font-size: 0.875em; /* 14 / 16 */
+                        font-weight: bold;
+                        height: 100%;
+                        padding: 0 0.75em;
+                        text-align: center;
+                        text-decoration: none;
+                        .transition(all 0.25s);
+
+                        &:focus,
+                        &:hover {
+                            background-color: @colour-grey;
+                            color: @colour-white-dark;
+                        }
+
+                        /* Date */
+                        .date {
+                            display: inline-block;
+                            font-weight: normal;
+                            margin-left: 0.25em;
+                            padding: 0.5em 0;
+
+                            @media all and (min-width: @bp-small) {
+                                display: block;
+                                margin-left: 0;
+                                padding: 0;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    /**
+     * Contents
+     */
+
+    .epg-contents {
+        position: relative;
+
+        /**
+         * Controls
+         */
+
+        .control {
+            color: @colour-white;
+            display: none;
+            font-size: 1.5em;
+            height: 100%;
+            padding-top: 0.75em;
+            padding-left: 0.75em;
+            position: absolute;
+            text-decoration: none;
+            top: 41px;
+            .transition(background-color 0.25s);
+            width: 50px;
+            z-index: 4;
+
+            @media all and (min-width: @bp-small) {
+                display: block;
+            }
+
+            &:focus,
+            &:hover {
+                background-color: rgba(0,0,0, 0.5);
+
+                /* Icon */
+                .icon {
+                    .opacity(1);
+                }
+            }
+
+            /* Previous */
+            &.control-prev {
+                left: 90px;
+            }
+
+            /* Next */
+            &.control-next {
+                right: 0;
+            }
+
+            /* Icon */
+            .icon {
+                .opacity(0.75);
+                position: fixed;
+                .transition(opacity 0.25s);
+            }
+        }
+    }
+
+    /**
+     * Grid
+     */
+
+    .epg-grid {
+        background-color: @colour-silver;
+        overflow-x: visible;
+        overflow-y: hidden;
+    }
+
+    /**
+     * Timeline
+     */
+
+    .epg-timeline {
+        background-color: @colour-grey-dark;
+        padding-left: 75px;
+        width: 5850px;
+
+        @media all and (min-width: @bp-small) {
+            padding-left: 90px;
+        }
+
+        /**
+         * List
+         */
+
+        .list {
+            list-style: none;
+            margin: 0;
+            overflow: hidden;
+            padding: 0;
+
+            /**
+             * Item
+             */
+
+            li {
+                border-left: 1px solid @colour-grey;
+                color: @colour-white-dark;
+                float: left;
+                font-weight: bold;
+                padding: 0.5em 0 0.5em 0.75em;
+                width: 240px;
+            }
+        }
+    }
+
+    /**
+     * Channels
+     */
+
+    .epg-channels {
+        background-color: @colour-grey;
+        .box-shadow(5px 0 15px -10px @colour-grey-dark);
+        left: 0;
+        position: absolute;
+        width: 75px;
+        z-index: 4;
+
+        @media all and (min-width: @bp-small) {
+            width: 90px;
+        }
+
+        /**
+         * List
+         */
+
+        .list {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+
+            /**
+             * Item
+             */
+
+            li {
+                border-bottom: 1px solid @colour-grey-dark;
+                height: 100px;
+                padding-top: 1em;
+                width: 100%;
+
+                &:first-child {
+                    border-top: 1px solid transparent;
+                }
+
+                /* Anchor */
+                a {
+                    display: block;
+
+                    /* Image */
+                    img {
+                        display: block;
+                        margin: 0 auto 0.25em auto;
+                    }
+                }
+
+                /* Title */
+                .title {
+                    color: @colour-white-dark;
+                    display: block;
+                    font-size: 0.875em; /* 14 / 16 */
+                    text-align: center;
+                }
+            }
+        }
+    }
+
+    /**
+     * Programmes
+     */
+
+    .epg-programmes {
+        margin-left: 75px;
+        position: relative;
+
+        @media all and (min-width: @bp-small) {
+            margin-left: 90px;
+        }
+
+        /**
+         * Marker
+         */
+
+        .epg-marker {
+            background-color: @colour-blue;
+            .box-shadow(0 0 5px @colour-grey);
+            height: 100%;
+            position: absolute;
+            top: 0;
+            width: 3px;
+            z-index: 3;
+        }
+
+        /**
+         * List
+         */
+
+        .list {
+            list-style: none;
+            margin: 0;
+            overflow: hidden;
+            padding: 0;
+            width: 5760px;
+
+            /**
+             * Item
+             */
+
+            li {
+                float: left;
+                height: 100px;
+                overflow: hidden;
+
+                /* Programme */
+                .programme {
+
+                    &:last-of-type {
+                        border-right: 0;
+                    }
+                }
+            }
+        }
+
+        /**
+         * Programme
+         */
+
+        .programme {
+            border-right: 1px solid @colour-grey-dark;
+            border-bottom: 1px solid @colour-grey;
+            float: left;
+            height: 100%;
+            width: 240px;
+
+            /* Anchor */
+            a {
+                color: @colour-grey-dark;
+                display: block;
+                height: 100%;
+                padding: 0.75em;
+                text-decoration: none;
+                .transition(background-color 0.25s);
+
+                &:focus,
+                &:hover {
+                    background-color: @colour-white-dark;
+                }
+            }
+
+            /* Title */
+            .title {
+                font-size: 0.875em; /* 14 / 16 */
+                line-height: 1.2;
+                margin-top: 0;
+                margin-bottom: 0.25em;
+            }
+
+            /* Description */
+            .description {
+                font-size: 0.875em; /* 14 / 16 */
+                line-height: 1.2;
+                margin-top: 0;
+                margin-bottom: 0.25em;
+            }
+
+            /* Time */
+            .time {
+                display: inline-block;
+                font-size: 0.875em; /* 14 / 16 */
+                font-weight: bold;
+            }
+        }
+    }
+}
