@@ -1,0 +1,19 @@
+{
+    "name": "TDTChannels",
+    "author": "TDTChannels",
+    "url": "https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/TDTChannels_v2.w3u",
+    "image": "https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/Logo.jpg",
+    "groups": [
+        {
+            "name": "TDTChannels - Canales TV\n\n\u200F\t411\t📺",
+            "url": "http://www.tdtchannels.com/lists/channels.w3u",
+            "image": "https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/TV.jpg"
+        },
+        {
+            "name": "TDTChannels - Radios\n\n\u200F\t671\t📻",
+            "url": "http://www.tdtchannels.com/lists/radio_channels.w3u",
+            "image": "https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/Radio.jpg"
+        }
+    ]
+}
+
