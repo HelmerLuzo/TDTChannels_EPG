@@ -1,8 +1,9 @@
 {
-    "name": "TDTChannels - Canales TV",
+    "name": "TDTChannels",
     "author": "TDTChannels",
     "url": "https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/TDTChannels_v2.w3u",
     "image": "https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/Logo.jpg",
+    "telegram" : "tdtchannels",
     "groups": [
         {
             "name": "TDTChannels - Canales TV\n\n\u200F\t411\t📺",
