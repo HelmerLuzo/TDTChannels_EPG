@@ -114,6 +114,7 @@ input, select, textarea {
 		font-size: 105%;
 		vertical-align: middle;
 		margin-inline-start: 58px;
+		margin-block-start: 10px;
 		font-weight: bold;
 	}
 
