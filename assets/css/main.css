@@ -95,19 +95,18 @@ input, select, textarea {
 
 
 	.wrapper-canal {
-	display: grid;
-	margin: 10px;
-	grid-template-columns: 1fr 1fr;
-	grid-gap: 10px;
-	background-color: #424242;
-	color: #444;
+		display: grid;
+		margin: 10px;
+		grid-template-columns: 1fr 1fr;
+		grid-gap: 10px;
+		background-color: #424242;
 	}
 
 	.box-canal {
-	background-color: #212121;
-	border-radius: 5px;
+		background-color: #212121;
+		border-radius: 5px;
 	}
-
+	
 	.box-canal img{
 		border-radius: 5px 0px 0px 5px;
 		width:48px;
@@ -117,12 +116,13 @@ input, select, textarea {
 
 	.box-canal div{
 		color: #fff;
+		border-radius: 0px 5px 5px 0px;
 		font-size: 105%;
-		margin-inline-start: 10%;
+		/*margin-inline-start: 58px;*/
+		margin: 0px 0px 0px 58px;
 		font-weight: bold;
-		padding: 1.2% 0;
+		vertical-align: middle;
 	}
-
 
 
 /* Basic */
