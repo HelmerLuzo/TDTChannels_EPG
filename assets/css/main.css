@@ -112,9 +112,9 @@ input, select, textarea {
 	.text-canal {
 		color: #fff;
 		font-size: 105%;
-		vertical-align: middle;
 		margin-inline-start: 58px;
-		margin-block-start: 10px;
+		margin-block-start: 9px;
+		margin-block-end: 9px;
 		font-weight: bold;
 	}
 
