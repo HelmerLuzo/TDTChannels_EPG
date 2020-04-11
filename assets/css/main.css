@@ -80,7 +80,7 @@ body {
 
 .wrapper {
   display: grid;
-  grid-template-columns: 100px 100px 100px;
+  grid-template-columns: 200px 200px;
   grid-gap: 10px;
   background-color: #fff;
   color: #444;
