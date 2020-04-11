@@ -105,17 +105,25 @@ input, select, textarea {
 
 	.box-canal {
 	background-color: #212121;
-	color: #fff;
 	border-radius: 5px;
 	}
 
-	.text-canal {
+	.box-canal img{
+		border-radius: 5px 0px 0px 5px;
+		width:48px;
+		height:48px;
+		float : left;
+	}
+
+	.box-canal div{
 		color: #fff;
 		font-size: 105%;
-		margin-inline-start: 58px;
-		margin-block-start: 1.5%;
+		margin-inline-start: 10%;
 		font-weight: bold;
+		padding: 1.2% 0;
 	}
+
+
 
 /* Basic */
 
