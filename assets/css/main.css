@@ -82,12 +82,12 @@ body {
   display: grid;
   grid-template-columns: 190px 190px;
   grid-gap: 3px;
-  background-color: #fff;
+  background-color: #555;
   color: #444;
 }
 
 .box {
-  background-color: #444;
+  background-color: #000;
   color: #fff;
   border-radius: 5px;
   padding: 3px;
