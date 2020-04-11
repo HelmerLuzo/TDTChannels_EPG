@@ -84,15 +84,20 @@ input, select, textarea {
 		}
 
 	.box-grupo {
-	background-color: #212121;
-	color: #fff;
-	border-radius: 5px;
-	padding: 0px;
-	font-size: 120%;
-	text-align: center;
-	vertical-align: middle;
+		background-color: #212121;
+		color: #fff;
+		border-radius: 5px;
+		padding: 0px;
+		font-size: 120%;
+		text-align: center;
+		vertical-align: middle;
 	}
 
+	.box-grupo img{
+		vertical-align: middle; 
+		height: 48px; 
+		width: 48;
+	}
 
 	.wrapper-canal {
 		display: grid;
