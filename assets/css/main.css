@@ -118,7 +118,7 @@ input, select, textarea {
 	.box-canal div{
 		color: #fff;
 		font-size: 105%;
-		margin-inline-start: 10%;
+		margin-inline-start: 10px;
 		font-weight: bold;
 		padding: 1.2% 0;
 	}
