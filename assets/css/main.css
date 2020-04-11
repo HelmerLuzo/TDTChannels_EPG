@@ -80,19 +80,19 @@ body {
 
 .wrapper {
   display: grid;
-  grid-template-columns: 190px 190px;
-  grid-gap: 3px;
+  grid-template-columns: 200px 200px;
+  grid-gap: 5px;
   background-color: #555;
   /*color: #444;*/
 }
 
 .box {
   background-color: #000;
-  color: #fff;
+  /*color: #fff;*/
   border-radius: 5px;
-  padding: 3px;
+  padding: 5px;
   font-size: 150%;
-  height: 60px;
+  height: 20px;
 }
 
 /* Basic */
