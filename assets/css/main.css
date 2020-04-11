@@ -79,7 +79,7 @@ input, select, textarea {
   
   .wrapper {
 	display: grid;
-	margin: 5px;
+	margin: 10px;
 	grid-template-columns: 1fr 1fr;
 	grid-gap: 10px;
 	background-color: #424242;
@@ -87,7 +87,7 @@ input, select, textarea {
   }
   
   .box {
-	background-color: #000000;
+	background-color: #212121;
 	color: #fff;
 	border-radius: 5px;
 	padding: 0px;
