@@ -83,7 +83,7 @@ body {
   grid-template-columns: 190px 190px;
   grid-gap: 3px;
   background-color: #555;
-  color: #444;
+  /*color: #444;*/
 }
 
 .box {
@@ -92,6 +92,7 @@ body {
   border-radius: 5px;
   padding: 3px;
   font-size: 150%;
+  height: 60px;
 }
 
 /* Basic */
