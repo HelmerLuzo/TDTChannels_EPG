@@ -109,11 +109,16 @@ color: #444;
 background-color: #212121;
 color: #fff;
 border-radius: 5px;
-padding: 0px;
-font-size: 110%;
-vertical-align: middle;
+padding-left: 0px;
+
 }
 
+.text-canal {
+	font-size: 110%;
+	
+	
+	font-weight: bold;
+}
 /* Basic */
 
 	@-ms-viewport {
@@ -1703,3 +1708,4 @@ vertical-align: middle;
 		body.is-preload #footer {
 			opacity: 0;
 		}
+	
