@@ -82,7 +82,7 @@ input, select, textarea {
 	margin: 5px;
 	grid-template-columns: 1fr 1fr;
 	grid-gap: 10px;
-	background-color: #303030;
+	background-color: #212121;
 	color: #444;
   }
   
