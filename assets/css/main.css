@@ -75,12 +75,12 @@ input, select, textarea {
 
 
 body {
-  margin: 0px;
+  margin: 10px;
 }
 
 .wrapper {
   display: grid;
-  grid-template-columns: 200px 200px;
+  grid-template-columns: 190px 190px;
   grid-gap: 10px;
   background-color: #555;
   /*color: #444;*/
