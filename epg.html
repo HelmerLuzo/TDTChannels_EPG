@@ -5,37 +5,46 @@
     <head>
         <meta charset="utf-8" />
         <title>TDTChannels WEB-EPG</title>
-
-        <meta name="description" content="" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
         <link rel="stylesheet" href="assets/css/main.css" />
+        <script language="JavaScript">
+            function epg(){
+                var canal = document.URL.match('#(.*)')
+                document.getElementById("a").innerHTML = unescape(canal[1])
+                /* document.getElementById(unescape(canal[1])).style.display="block"; */
+            }
+        </script>
 
     </head>
-    <body style="background-color:#424242">
+
+    <body style="background-color:#424242" onload="epg()">
         <main>
-            <article id="Prueba1">
-                <div class="wrapper-canal">
-                    <div class="box-canal">
-                        <img src="https://graph.facebook.com/eitb/picture?width=320&height=320"/>
-                        <div>ETB 1</div>
+            <!--
+            <article  id="La 1" style="display:none">
+                <div class="wrapper-grupo">
+                    <div class="box-grupo">
+                        <b id="a"></b>
                     </div>
-                    <div class="box-canal">
-                        <img src="https://graph.facebook.com/eitb/picture?width=320&height=320"/>
-                        <div>ETB 2</div>
-                    </div>            
                 </div>
             </article>
 
-            <article id="Prueba2">
-                <div class="wrapper-canal">
-                    <div class="box-canal">
-                        <img src="https://graph.facebook.com/RTPAoficial/picture?width=320&height=320"/>
-                        <div>TPA7</div>
+            <article id="La 2" style="display:none">
+                <div class="wrapper-grupo">
+                    <div class="box-grupo">
+                        <b id="a"></b>
                     </div>
-                </div>
+                </div> 
             </article>
-        </main>
+        -->
+        <div class="wrapper-grupo">
+            <div class="box-grupo">
+                <b id="a"></b>
+            </div>
+        </div> 
+
+        </main>    
+        <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/main.js"></script>
     </body>
 </html>
 
