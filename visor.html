@@ -1,0 +1,3240 @@
+<!DOCTYPE html>
+<html lang="es" class="no-js">
+
+    <head>
+        
+        <meta charset="utf-8" />
+        <title>TDTChannels WEB-EPG</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" href="assets/css/main.css" />
+                
+        <script language="JavaScript">
+            function inicia(){
+                var canal = unescape(document.URL.match('#(.*)')[1]);
+                var tabi = document.getElementsByClassName("fecha");
+                tabi[0].style.backgroundColor="#212121";
+                tabi[0].style.bordercolor="#212121";
+                document.getElementById("l_canal").innerHTML = canal;
+                clonar(canal+'_0');
+            }
+        </script>
+
+        <script language="JavaScript">
+            function carga_epg(dia){
+                var canal = unescape(document.URL.match('#(.*)')[1])+'_'+dia;
+                var tabi = document.getElementsByClassName("fecha");
+                for (t=0; t<3; t++){
+                    tabi[t].style.backgroundColor="#424242";
+                    tabi[t].style.bordercolor="#fff";
+                } 
+                tabi[dia].style.backgroundColor="#212121";
+                tabi[dia].style.bordercolor="#424242"; 
+
+                clonar(canal);
+            }
+        </script>
+
+        <script language="JavaScript">
+            function clonar(div_orig){
+                var original = document.getElementById(div_orig);
+                var clonado = original.cloneNode(true);
+                document.getElementById("out").remove();
+                clonado.id = "out";
+                original.parentNode.appendChild(clonado);
+                document.getElementById("out").style.display="block";
+            }
+        </script>
+    
+    </head>
+
+    <body style="background-color:#424242" onload="inicia()">
+        <main>
+            
+            <div class="wrapper-grupo">
+                <div class="box-grupo">
+                    <b id="l_canal"></b>
+                </div>
+            </div>
+
+
+            <div class="tab-dia">
+                <a class="fecha" onclick=carga_epg(0)>Tab 1</a>
+                <a class="fecha" onclick=carga_epg(1)>Tab 2</a>
+                <a class="fecha" onclick=carga_epg(2)>Tab 3</a>
+            </div>
+
+            <div id="out"></div>
+
+            <div id="data">
+			<div id="La 1_0" style="display:none">
+				<div class="epg-dia">06:00  Noticias 24H</div>
+				<div class="epg-dia">07:30  Telediario Matinal</div>
+				<div class="epg-dia">09:00  Noticias 24H</div>
+				<div class="epg-dia">10:00  La mañana de La 1</div>
+				<div class="epg-dia">13:00  Coronavirus última hora</div>
+				<div class="epg-dia">15:00  Telediario 1</div>
+				<div class="epg-dia">16:00  Redifusión La1</div>
+				<div class="epg-dia">16:15  El tiempo</div>
+				<div class="epg-dia">16:30  Mercado central</div>
+				<div class="epg-dia">17:20  Servir y proteger</div>
+				<div class="epg-dia">17:50  Acacias 38</div>
+				<div class="epg-dia">18:50  España directo</div>
+				<div class="epg-dia">20:30  Aquí la Tierra</div>
+				<div class="epg-dia">21:00  Telediario 2</div>
+				<div class="epg-dia">22:05  MasterChef</div>
+			</div>
+			<div id="La 1_1" style="display:none">
+				<div class="epg-dia">01:45  Comerse el mundo</div>
+				<div class="epg-dia">02:38  Comerse el mundo</div>
+				<div class="epg-dia">03:30  Noticias 24H</div>
+				<div class="epg-dia">06:00  Noticias 24H</div>
+				<div class="epg-dia">07:30  Telediario Matinal</div>
+				<div class="epg-dia">09:00  Noticias 24H</div>
+				<div class="epg-dia">10:00  La mañana de La 1</div>
+				<div class="epg-dia">13:00  Coronavirus última hora</div>
+				<div class="epg-dia">15:00  Telediario 1</div>
+				<div class="epg-dia">16:00  Redifusión La1</div>
+				<div class="epg-dia">16:15  El tiempo</div>
+				<div class="epg-dia">16:30  Mercado central</div>
+				<div class="epg-dia">17:20  Servir y proteger</div>
+				<div class="epg-dia">17:50  Acacias 38</div>
+				<div class="epg-dia">18:50  España directo</div>
+				<div class="epg-dia">20:30  Aquí la Tierra</div>
+				<div class="epg-dia">21:00  Telediario 2</div>
+				<div class="epg-dia">22:05  Diarios de la cuarentena</div>
+				<div class="epg-dia">22:35  Sigo como Dios</div>
+			</div>
+			<div id="La 1_2" style="display:none">
+				<div class="epg-dia">00:05  Ted</div>
+				<div class="epg-dia">01:45  Trabajo temporal</div>
+				<div class="epg-dia">02:35  Noticias 24H</div>
+				<div class="epg-dia">06:00  Noticias 24H</div>
+				<div class="epg-dia">07:30  Telediario Matinal</div>
+				<div class="epg-dia">09:00  Noticias 24H</div>
+				<div class="epg-dia">10:00  La mañana de La 1</div>
+				<div class="epg-dia">13:00  Coronavirus última hora</div>
+				<div class="epg-dia">15:00  Telediario 1</div>
+				<div class="epg-dia">16:00  Redifusión La1</div>
+				<div class="epg-dia">16:15  El tiempo</div>
+				<div class="epg-dia">16:30  Mercado central</div>
+				<div class="epg-dia">17:20  Servir y proteger</div>
+				<div class="epg-dia">17:50  Acacias 38</div>
+				<div class="epg-dia">18:50  España directo</div>
+				<div class="epg-dia">20:30  Aquí la Tierra</div>
+				<div class="epg-dia">21:00  Telediario 2</div>
+				<div class="epg-dia">22:05  Al filo del mañana</div>
+				<div class="epg-dia">23:50  Danko</div>
+			</div>
+
+			<div id="La 2_0" style="display:none">
+				<div class="epg-dia">05:30  Tigres en casa. Lo que sucedió después</div>
+				<div class="epg-dia">06:25  La 2 Exprés</div>
+				<div class="epg-dia">06:30  That's English</div>
+				<div class="epg-dia">06:55  La 2 Exprés</div>
+				<div class="epg-dia">07:00  Página 2</div>
+				<div class="epg-dia">07:30  Inglés Online</div>
+				<div class="epg-dia">07:55  Buceando con cocodrilos</div>
+				<div class="epg-dia">08:45  La 2 Exprés</div>
+				<div class="epg-dia">09:00  Muévete en casa</div>
+				<div class="epg-dia">09:30  Aprendemos en casa 12-14 años</div>
+				<div class="epg-dia">10:30  Aprendemos en casa 14-16 años</div>
+				<div class="epg-dia">11:30  La 2 Exprés</div>
+				<div class="epg-dia">12:00  Tierras extremas</div>
+				<div class="epg-dia">12:45  Fort Massacre (El fuerte de la matanza)</div>
+				<div class="epg-dia">14:05  Las recetas de Julie</div>
+				<div class="epg-dia">14:55  El Nilo: 5000 años de historia</div>
+				<div class="epg-dia">15:45  Saber y ganar</div>
+				<div class="epg-dia">16:30  Rayas y estrellas</div>
+				<div class="epg-dia">17:20  Tecnología animal</div>
+				<div class="epg-dia">17:49  Tecnología animal</div>
+				<div class="epg-dia">18:20  Vida en el espacio exterior</div>
+				<div class="epg-dia">19:15  Las recetas de Julie</div>
+				<div class="epg-dia">20:10  Atrevidos con Nate</div>
+				<div class="epg-dia">20:35  Esta vida salvaje</div>
+				<div class="epg-dia">21:05  El Top 10 de la arquitectura: Museos y galerías</div>
+				<div class="epg-dia">22:00  Los pequeños asesinatos de Agatha Christie</div>
+				<div class="epg-dia">23:30  Los secretos de las seis esposas</div>
+			</div>
+			<div id="La 2_1" style="display:none">
+				<div class="epg-dia">00:30  Documentos TV</div>
+				<div class="epg-dia">01:25  Metrópolis</div>
+				<div class="epg-dia">01:55  Conciertos de Radio-3</div>
+				<div class="epg-dia">02:20  Nuestro planeta (One Strange Rock)</div>
+				<div class="epg-dia">03:10  El origen de la mafia. Nueva York</div>
+				<div class="epg-dia">03:51  El origen de la mafia. Nueva York</div>
+				<div class="epg-dia">04:25  Rayas y estrellas</div>
+				<div class="epg-dia">05:15  Tigres en casa. Lo que sucedió después</div>
+				<div class="epg-dia">06:30  That's English</div>
+				<div class="epg-dia">07:00  La 2 Exprés</div>
+				<div class="epg-dia">07:03  Diario de un nómada</div>
+				<div class="epg-dia">07:30  Inglés Online</div>
+				<div class="epg-dia">07:56  El río del cielo</div>
+				<div class="epg-dia">08:49  La 2 Exprés</div>
+				<div class="epg-dia">09:00  Muévete en casa</div>
+				<div class="epg-dia">09:31  Bajo el Polo</div>
+				<div class="epg-dia">10:26  Cine</div>
+				<div class="epg-dia">11:53  La 2 Exprés</div>
+				<div class="epg-dia">12:00  Aprendemos en casa 12-14 años</div>
+				<div class="epg-dia">12:59  Aprendemos en casa 14-16 años</div>
+				<div class="epg-dia">13:58  Las recetas de Julie</div>
+				<div class="epg-dia">14:48  Los reinos perdidos de Sudamérica</div>
+				<div class="epg-dia">15:50  Saber y ganar</div>
+				<div class="epg-dia">16:31  El Chaplin africano</div>
+				<div class="epg-dia">17:23  Supervivientes de la naturaleza</div>
+				<div class="epg-dia">18:13  Maravillas sagradas de la tierra</div>
+				<div class="epg-dia">19:08  Las recetas de Julie</div>
+				<div class="epg-dia">19:59  Página 2</div>
+				<div class="epg-dia">20:28  Esta vida salvaje</div>
+				<div class="epg-dia">21:01  La 2 Exprés</div>
+				<div class="epg-dia">21:02  El Sacre Coeur de París</div>
+				<div class="epg-dia">22:00  Cachitos de hierro y cromo</div>
+				<div class="epg-dia">22:58  Cachitos de hierro y cromo</div>
+			</div>
+			<div id="La 2_2" style="display:none">
+				<div class="epg-dia">00:00  Documentos TV</div>
+				<div class="epg-dia">00:55  Cine</div>
+				<div class="epg-dia">01:58  Conciertos de Radio-3</div>
+				<div class="epg-dia">02:28  Maravillas sagradas de la tierra</div>
+				<div class="epg-dia">03:20  Megaciudades</div>
+				<div class="epg-dia">04:15  Las recetas de Julie</div>
+				<div class="epg-dia">05:06  La 2 Exprés</div>
+				<div class="epg-dia">05:33  La aventura del saber</div>
+				<div class="epg-dia">06:30  That's English</div>
+				<div class="epg-dia">06:59  La 2 Exprés</div>
+				<div class="epg-dia">07:01  Activa-2</div>
+				<div class="epg-dia">07:30  Inglés Online</div>
+				<div class="epg-dia">07:56  Supervivientes de la naturaleza</div>
+				<div class="epg-dia">08:48  La 2 Exprés</div>
+				<div class="epg-dia">09:00  Muévete en casa</div>
+				<div class="epg-dia">09:30  Bajo el Polo</div>
+				<div class="epg-dia">10:25  Cine</div>
+				<div class="epg-dia">11:42  La 2 Exprés</div>
+				<div class="epg-dia">12:00  Aprendemos en casa 12-14 años</div>
+				<div class="epg-dia">12:56  Aprendemos en casa 14-16 años</div>
+				<div class="epg-dia">14:05  Las recetas de Julie</div>
+				<div class="epg-dia">14:56  Isla Mauricio, la joya del Índico</div>
+				<div class="epg-dia">15:51  Saber y ganar</div>
+				<div class="epg-dia">16:31  Presa contra depredadores</div>
+				<div class="epg-dia">17:20  Supervivientes de la naturaleza</div>
+				<div class="epg-dia">18:10  Maravillas sagradas de la tierra</div>
+				<div class="epg-dia">19:05  Las recetas de Julie</div>
+				<div class="epg-dia">19:56  Detrás del instante</div>
+				<div class="epg-dia">20:26  Esta vida salvaje</div>
+				<div class="epg-dia">20:58  La 2 Exprés</div>
+				<div class="epg-dia">21:02  La Basílica de San Pedro</div>
+				<div class="epg-dia">22:00  Cine</div>
+			</div>
+
+			<div id="Antena 3_0" style="display:none">
+				<div class="epg-dia">06:00  Más de uno</div>
+				<div class="epg-dia">07:50  Las noticias de la mañana</div>
+				<div class="epg-dia">08:55  Previo</div>
+				<div class="epg-dia">09:00  Espejo Público</div>
+				<div class="epg-dia">13:20  Cocina abierta de Karlos Arguiñano</div>
+				<div class="epg-dia">13:45  La ruleta de la suerte</div>
+				<div class="epg-dia">15:00  Antena 3 Noticias 1</div>
+				<div class="epg-dia">15:45  Deportes 1</div>
+				<div class="epg-dia">15:55  Tu tiempo con Roberto Brasero</div>
+				<div class="epg-dia">16:00  Una casa en el lago</div>
+				<div class="epg-dia">17:40  Un amor para toda la vida</div>
+				<div class="epg-dia">19:15  Los mejores deseos</div>
+				<div class="epg-dia">21:00  Antena 3 Noticias 2</div>
+				<div class="epg-dia">21:30  Deportes 2</div>
+				<div class="epg-dia">21:40  La previsión de las 9</div>
+				<div class="epg-dia">21:55  El hormiguero 3.0: Quédate en casa</div>
+				<div class="epg-dia">23:00  Me resbala</div>
+			</div>
+			<div id="Antena 3_1" style="display:none">
+				<div class="epg-dia">00:45  Me resbala</div>
+				<div class="epg-dia">02:40  Live casino</div>
+				<div class="epg-dia">03:25  Minutos musicales</div>
+				<div class="epg-dia">06:00  Más de uno</div>
+				<div class="epg-dia">07:50  Las noticias de la mañana</div>
+				<div class="epg-dia">08:55  Previo</div>
+				<div class="epg-dia">09:00  Espejo Público</div>
+				<div class="epg-dia">13:20  Cocina abierta de Karlos Arguiñano</div>
+				<div class="epg-dia">13:45  La ruleta de la suerte</div>
+				<div class="epg-dia">15:00  Antena 3 Noticias 1</div>
+				<div class="epg-dia">15:45  Deportes 1</div>
+				<div class="epg-dia">16:00  Cocina abierta de Karlos Arguiñano</div>
+				<div class="epg-dia">16:02  Tu tiempo con Roberto Brasero</div>
+				<div class="epg-dia">16:30  Amar es para siempre</div>
+				<div class="epg-dia">17:30  El secreto de Puente Viejo</div>
+				<div class="epg-dia">18:45  ¡Ahora caigo!</div>
+				<div class="epg-dia">20:00  ¡Boom!</div>
+				<div class="epg-dia">21:00  Antena 3 Noticias 2</div>
+				<div class="epg-dia">21:30  Deportes 2</div>
+				<div class="epg-dia">21:40  La previsión de las 9</div>
+				<div class="epg-dia">21:55  El hormiguero 3.0</div>
+				<div class="epg-dia">23:00  Cine</div>
+			</div>
+			<div id="Antena 3_2" style="display:none">
+				<div class="epg-dia">00:45  Cine</div>
+				<div class="epg-dia">02:30  Live casino</div>
+				<div class="epg-dia">03:15  Canal ruleta</div>
+				<div class="epg-dia">04:00  Minutos musicales</div>
+				<div class="epg-dia">06:00  Más de uno</div>
+				<div class="epg-dia">07:50  Las noticias de la mañana</div>
+				<div class="epg-dia">08:55  Previo</div>
+				<div class="epg-dia">09:00  Espejo Público</div>
+				<div class="epg-dia">13:20  Cocina abierta de Karlos Arguiñano</div>
+				<div class="epg-dia">13:45  La ruleta de la suerte</div>
+				<div class="epg-dia">15:00  Antena 3 Noticias 1</div>
+				<div class="epg-dia">15:45  Deportes 1</div>
+				<div class="epg-dia">16:00  Cocina abierta de Karlos Arguiñano</div>
+				<div class="epg-dia">16:02  Tu tiempo con Roberto Brasero</div>
+				<div class="epg-dia">16:30  Amar es para siempre</div>
+				<div class="epg-dia">17:30  El secreto de Puente Viejo</div>
+				<div class="epg-dia">18:45  ¡Ahora caigo!</div>
+				<div class="epg-dia">20:00  ¡Boom!</div>
+				<div class="epg-dia">21:00  Antena 3 Noticias 2</div>
+				<div class="epg-dia">21:30  Deportes 2</div>
+				<div class="epg-dia">21:40  La previsión de las 9</div>
+				<div class="epg-dia">21:55  El hormiguero 3.0</div>
+				<div class="epg-dia">23:00  Cine</div>
+			</div>
+
+			<div id="Cuatro_0" style="display:none">
+				<div class="epg-dia">00:35  Cuarto Milenio</div>
+				<div class="epg-dia">03:00  Cuarto Milenio</div>
+				<div class="epg-dia">04:00  La Tienda En Casa</div>
+				<div class="epg-dia">05:30  Puro Cuatro</div>
+				<div class="epg-dia">07:00  El Zapping De Surferos:lo Mejor</div>
+				<div class="epg-dia">08:25  ¡toma Salami!</div>
+				<div class="epg-dia">09:00  El Bribón</div>
+				<div class="epg-dia">09:50  El Concurso Del Año</div>
+				<div class="epg-dia">10:40  Alerta Cobra</div>
+				<div class="epg-dia">11:35  Alerta Cobra</div>
+				<div class="epg-dia">12:20  Alerta Cobra</div>
+				<div class="epg-dia">13:10  Alerta Cobra</div>
+				<div class="epg-dia">14:00  El Concurso Del Año</div>
+				<div class="epg-dia">15:00  Noticias Deportes Cuatro</div>
+				<div class="epg-dia">15:10  Deportes Cuatro</div>
+				<div class="epg-dia">15:25  El Tiempo</div>
+				<div class="epg-dia">15:30  Todo Es Mentira</div>
+				<div class="epg-dia">17:00  Todo Es Mentira Bis</div>
+				<div class="epg-dia">17:35  Cuatro Al Día</div>
+				<div class="epg-dia">20:00  Cuatro Al Día A Las 20h</div>
+				<div class="epg-dia">20:30  Deportes Cuatro 2</div>
+				<div class="epg-dia">20:35  El Tiempo</div>
+				<div class="epg-dia">20:45  Supervivientes Diario</div>
+				<div class="epg-dia">21:15  First Dates</div>
+				<div class="epg-dia">22:55  Un Doctor En Mi Casa</div>
+			</div>
+			<div id="Cuatro_1" style="display:none">
+				<div class="epg-dia">00:20  Héroes, Más Allá Del Deber</div>
+				<div class="epg-dia">01:50  Héroes, Más Allá Del Deber</div>
+				<div class="epg-dia">03:20  Puro Cuatro</div>
+				<div class="epg-dia">04:00  La Tienda En Casa</div>
+				<div class="epg-dia">05:15  Puro Cuatro</div>
+			</div>
+
+			<div id="Telecinco_0" style="display:none">
+				<div class="epg-dia">01:15  Supervivientes Diario</div>
+				<div class="epg-dia">01:45  Supervivientes Diario</div>
+				<div class="epg-dia">02:15  Supervivientes Diario</div>
+				<div class="epg-dia">02:40  El Horóscopo De Esperanza Gracia</div>
+				<div class="epg-dia">02:45  La Tienda En Casa</div>
+				<div class="epg-dia">03:00  Mejor Llama A Kiko</div>
+				<div class="epg-dia">03:30  Mejor Llama A Kiko</div>
+				<div class="epg-dia">04:00  El Horóscopo De Esperanza Gracia</div>
+				<div class="epg-dia">04:05  Miramimusica</div>
+				<div class="epg-dia">06:30  ¡toma Salami!</div>
+				<div class="epg-dia">07:00  Informativos Telecinco</div>
+				<div class="epg-dia">08:55  El Programa De Ana Rosa</div>
+				<div class="epg-dia">13:30  Ya Es Mediodía</div>
+				<div class="epg-dia">15:00  Informativos Telecinco</div>
+				<div class="epg-dia">15:40  Deportes</div>
+				<div class="epg-dia">15:50  El Tiempo</div>
+				<div class="epg-dia">16:00  Sálvame Limón</div>
+				<div class="epg-dia">17:00  Sálvame Naranja</div>
+				<div class="epg-dia">20:00  Sálvame Tomate</div>
+				<div class="epg-dia">21:00  Informativos Telecinco</div>
+				<div class="epg-dia">21:45  El Tiempo</div>
+				<div class="epg-dia">21:50  Deportes</div>
+				<div class="epg-dia">22:00  Supervivientes: Última Hora</div>
+				<div class="epg-dia">22:40  Cine 5 Estrellas: 'cincuenta Sombras De Grey'</div>
+			</div>
+			<div id="Telecinco_1" style="display:none">
+				<div class="epg-dia">00:50  Escenas De Matrimonio</div>
+				<div class="epg-dia">01:15  Escenas De Matrimonio</div>
+				<div class="epg-dia">01:45  Escenas De Matrimonio</div>
+				<div class="epg-dia">02:15  Escenas De Matrimonio</div>
+				<div class="epg-dia">02:40  El Horóscopo De Esperanza Gracia</div>
+				<div class="epg-dia">02:45  La Tienda En Casa</div>
+				<div class="epg-dia">03:00  Mejor Llama A Kiko</div>
+				<div class="epg-dia">03:30  Mejor Llama A Kiko</div>
+				<div class="epg-dia">04:00  El Horóscopo De Esperanza Gracia</div>
+				<div class="epg-dia">04:05  Miramimusica</div>
+			</div>
+
+			<div id="La Sexta_0" style="display:none">
+				<div class="epg-dia">03:45  Minutos musicales</div>
+				<div class="epg-dia">07:30  Previo Aruser@s</div>
+				<div class="epg-dia">09:15  Aruser@s</div>
+				<div class="epg-dia">11:00  Al rojo vivo</div>
+				<div class="epg-dia">14:00  laSexta Noticias</div>
+				<div class="epg-dia">14:55  Jugones</div>
+				<div class="epg-dia">15:30  laSexta Meteo</div>
+				<div class="epg-dia">15:45  Zapeando</div>
+				<div class="epg-dia">17:15  Más vale tarde</div>
+				<div class="epg-dia">20:00  laSexta Noticias</div>
+				<div class="epg-dia">20:55  Estación Sexta</div>
+				<div class="epg-dia">21:05  laSexta Deportes</div>
+				<div class="epg-dia">21:30  El intermedio</div>
+				<div class="epg-dia">22:30  Conspiración</div>
+			</div>
+			<div id="La Sexta_1" style="display:none">
+				<div class="epg-dia">00:35  La cura</div>
+				<div class="epg-dia">02:05  Las primeras 48 horas</div>
+				<div class="epg-dia">02:50  Poker Caribbean Adventure</div>
+				<div class="epg-dia">03:15  The game show</div>
+				<div class="epg-dia">04:00  Minutos musicales</div>
+				<div class="epg-dia">07:30  Previo Aruser@s</div>
+				<div class="epg-dia">09:15  Aruser@s</div>
+				<div class="epg-dia">11:00  Al rojo vivo</div>
+				<div class="epg-dia">14:00  laSexta Noticias</div>
+				<div class="epg-dia">14:55  Jugones</div>
+				<div class="epg-dia">15:30  laSexta Meteo</div>
+				<div class="epg-dia">15:45  Zapeando</div>
+				<div class="epg-dia">17:15  Más vale tarde</div>
+				<div class="epg-dia">20:00  laSexta Noticias</div>
+				<div class="epg-dia">20:55  Estación Sexta</div>
+				<div class="epg-dia">21:05  laSexta Deportes</div>
+				<div class="epg-dia">21:30  El intermedio</div>
+				<div class="epg-dia">22:30  Cine</div>
+			</div>
+			<div id="La Sexta_2" style="display:none">
+				<div class="epg-dia">00:25  Cine</div>
+				<div class="epg-dia">02:15  Campeonato Europeo de Póquer</div>
+				<div class="epg-dia">02:45  The game show</div>
+				<div class="epg-dia">03:30  Minutos musicales</div>
+				<div class="epg-dia">07:30  Previo Aruser@s</div>
+				<div class="epg-dia">09:15  Aruser@s</div>
+				<div class="epg-dia">11:00  Al rojo vivo</div>
+				<div class="epg-dia">14:00  laSexta Noticias</div>
+				<div class="epg-dia">14:55  Jugones</div>
+				<div class="epg-dia">15:30  laSexta Meteo</div>
+				<div class="epg-dia">15:45  Zapeando</div>
+				<div class="epg-dia">17:15  Más vale tarde</div>
+				<div class="epg-dia">20:00  laSexta Noticias</div>
+				<div class="epg-dia">20:55  Estación Sexta</div>
+				<div class="epg-dia">21:05  laSexta Deportes</div>
+				<div class="epg-dia">21:30  El intermedio</div>
+				<div class="epg-dia">22:30  Cine</div>
+			</div>
+
+			<div id="neox_0" style="display:none">
+				<div class="epg-dia">05:00  Minutos musicales</div>
+				<div class="epg-dia">06:15  Bestial</div>
+				<div class="epg-dia">07:00  Neox Kidz</div>
+				<div class="epg-dia">09:40  The Middle</div>
+				<div class="epg-dia">11:30  Big Bang</div>
+				<div class="epg-dia">13:30  Los Simpson</div>
+				<div class="epg-dia">15:35  Friends</div>
+				<div class="epg-dia">16:55  Modern Family</div>
+				<div class="epg-dia">18:15  Big Bang</div>
+				<div class="epg-dia">20:15  Brooklyn Nine-Nine</div>
+				<div class="epg-dia">21:20  Los Simpson</div>
+				<div class="epg-dia">22:30  Padre de familia</div>
+			</div>
+			<div id="neox_1" style="display:none">
+				<div class="epg-dia">05:00  Minutos musicales</div>
+				<div class="epg-dia">06:15  Bestial</div>
+				<div class="epg-dia">07:00  Neox Kidz</div>
+				<div class="epg-dia">09:40  The Middle</div>
+				<div class="epg-dia">11:30  Big Bang</div>
+				<div class="epg-dia">13:30  Los Simpson</div>
+				<div class="epg-dia">15:40  Friends</div>
+				<div class="epg-dia">16:55  Modern Family</div>
+				<div class="epg-dia">18:30  Big Bang</div>
+				<div class="epg-dia">20:10  Brooklyn Nine-Nine</div>
+				<div class="epg-dia">21:20  Los Simpson</div>
+				<div class="epg-dia">22:30  Babylon</div>
+			</div>
+			<div id="neox_2" style="display:none">
+				<div class="epg-dia">00:00  Underworld</div>
+				<div class="epg-dia">01:45  Alex Rider</div>
+				<div class="epg-dia">03:10  Padre de familia</div>
+				<div class="epg-dia">04:50  Minutos musicales</div>
+				<div class="epg-dia">06:15  Bestial</div>
+				<div class="epg-dia">07:00  Neox Kidz</div>
+				<div class="epg-dia">09:40  The Middle</div>
+				<div class="epg-dia">11:30  Big Bang</div>
+				<div class="epg-dia">13:30  Los Simpson</div>
+				<div class="epg-dia">15:40  Friends</div>
+				<div class="epg-dia">16:55  Modern Family</div>
+				<div class="epg-dia">18:20  Big Bang</div>
+				<div class="epg-dia">20:15  Brooklyn Nine-Nine</div>
+				<div class="epg-dia">21:20  Los Simpson</div>
+				<div class="epg-dia">22:30  Modern Family</div>
+			</div>
+
+			<div id="nova_0" style="display:none">
+				<div class="epg-dia">05:00  Espacios musicales</div>
+				<div class="epg-dia">06:50  Hoy cocinas tú</div>
+				<div class="epg-dia">08:30  Joyas TV</div>
+				<div class="epg-dia">09:40  Galería del coleccionista</div>
+				<div class="epg-dia">10:25  Mi marido tiene más familia</div>
+				<div class="epg-dia">12:05  Por ella soy Eva</div>
+				<div class="epg-dia">13:45  Lo que la vida me robó</div>
+				<div class="epg-dia">15:00  Cocina abierta de Karlos Arguiñano</div>
+				<div class="epg-dia">15:30  Elif</div>
+				<div class="epg-dia">16:10  Cuando me enamoro</div>
+				<div class="epg-dia">18:30  Que te perdone Dios, yo no</div>
+				<div class="epg-dia">20:00  Amor de contrabando</div>
+				<div class="epg-dia">21:15  La señora Fazilet y sus hijas</div>
+				<div class="epg-dia">21:45  Fugitiva</div>
+				<div class="epg-dia">22:40  Verdad y mentiras</div>
+			</div>
+			<div id="nova_1" style="display:none">
+				<div class="epg-dia">00:15  Doble venganza</div>
+				<div class="epg-dia">01:40  La lista de los deseos</div>
+				<div class="epg-dia">03:00  El Mentalista</div>
+				<div class="epg-dia">04:25  Espacios musicales</div>
+				<div class="epg-dia">04:30  Flip o flop</div>
+				<div class="epg-dia">04:50  Flip o flop</div>
+				<div class="epg-dia">05:15  Espacios musicales</div>
+				<div class="epg-dia">06:45  Hoy cocinas tú</div>
+				<div class="epg-dia">08:30  Joyas TV</div>
+				<div class="epg-dia">09:40  Galería del coleccionista</div>
+				<div class="epg-dia">10:25  Mi marido tiene más familia</div>
+				<div class="epg-dia">12:05  Por ella soy Eva</div>
+				<div class="epg-dia">13:45  Lo que la vida me robó</div>
+				<div class="epg-dia">15:00  Cocina abierta de Karlos Arguiñano</div>
+				<div class="epg-dia">15:30  Elif</div>
+				<div class="epg-dia">16:10  Cuando me enamoro</div>
+				<div class="epg-dia">18:25  Que te perdone Dios, yo no</div>
+				<div class="epg-dia">20:00  Amor de contrabando</div>
+				<div class="epg-dia">21:15  La señora Fazilet y sus hijas</div>
+				<div class="epg-dia">21:45  Fugitiva</div>
+				<div class="epg-dia">22:40  Una cuestión de confianza</div>
+			</div>
+			<div id="nova_2" style="display:none">
+				<div class="epg-dia">00:20  El San Valentín perdido</div>
+				<div class="epg-dia">01:55  Mi hija debe vivir</div>
+				<div class="epg-dia">03:20  El Mentalista</div>
+				<div class="epg-dia">04:40  Espacios musicales</div>
+				<div class="epg-dia">05:15  Galería del coleccionista</div>
+				<div class="epg-dia">06:00  Hoy cocinas tú</div>
+				<div class="epg-dia">08:30  Joyas TV</div>
+				<div class="epg-dia">09:40  Galería del coleccionista</div>
+				<div class="epg-dia">10:25  Mi marido tiene más familia</div>
+				<div class="epg-dia">12:05  Por ella soy Eva</div>
+				<div class="epg-dia">13:45  Lo que la vida me robó</div>
+				<div class="epg-dia">15:00  Cocina abierta de Karlos Arguiñano</div>
+				<div class="epg-dia">15:30  Elif</div>
+				<div class="epg-dia">16:15  Cuando me enamoro</div>
+				<div class="epg-dia">18:25  Que te perdone Dios, yo no</div>
+				<div class="epg-dia">20:00  Amor de contrabando</div>
+				<div class="epg-dia">21:15  La señora Fazilet y sus hijas</div>
+				<div class="epg-dia">21:45  Fugitiva</div>
+				<div class="epg-dia">22:40  Un verano en Manhattan</div>
+			</div>
+
+			<div id="mega_0" style="display:none">
+				<div class="epg-dia">04:45  Vidas anónimas</div>
+				<div class="epg-dia">07:15  La casa de empeños</div>
+				<div class="epg-dia">08:35  Locos por los coches</div>
+				<div class="epg-dia">11:25  Cazatesoros</div>
+				<div class="epg-dia">13:50  Restauradores</div>
+				<div class="epg-dia">15:00  Mountain Men</div>
+				<div class="epg-dia">16:30  La casa de empeños</div>
+				<div class="epg-dia">17:55  Cazatesoros</div>
+				<div class="epg-dia">19:25  ¿Quién da más?</div>
+				<div class="epg-dia">21:10  Crónicas carnívoras</div>
+				<div class="epg-dia">22:20  Forjado a fuego</div>
+			</div>
+			<div id="mega_1" style="display:none">
+				<div class="epg-dia">00:00  El chiringuito de jugones</div>
+				<div class="epg-dia">02:00  The game show</div>
+				<div class="epg-dia">02:45  Restaurante indiscreto</div>
+				<div class="epg-dia">04:10  American Ninja Warrior</div>
+				<div class="epg-dia">05:35  Vidas anónimas</div>
+				<div class="epg-dia">07:15  La casa de empeños</div>
+				<div class="epg-dia">08:35  Locos por los coches</div>
+				<div class="epg-dia">11:25  Cazatesoros</div>
+				<div class="epg-dia">13:50  Restauradores</div>
+				<div class="epg-dia">14:55  Mountain Men</div>
+				<div class="epg-dia">16:30  La casa de empeños</div>
+				<div class="epg-dia">17:50  Cazatesoros</div>
+				<div class="epg-dia">19:25  ¿Quién da más?</div>
+				<div class="epg-dia">21:10  Crónicas carnívoras</div>
+				<div class="epg-dia">22:20  Forjado a fuego</div>
+			</div>
+			<div id="mega_2" style="display:none">
+				<div class="epg-dia">00:00  El chiringuito de jugones</div>
+				<div class="epg-dia">02:00  The game show</div>
+				<div class="epg-dia">02:45  Restaurante indiscreto</div>
+				<div class="epg-dia">04:10  American Ninja Warrior</div>
+				<div class="epg-dia">05:00  Vidas anónimas</div>
+				<div class="epg-dia">07:15  La casa de empeños</div>
+				<div class="epg-dia">08:35  Locos por los coches</div>
+				<div class="epg-dia">11:25  Cazatesoros</div>
+				<div class="epg-dia">13:50  Restauradores</div>
+				<div class="epg-dia">15:00  Mountain Men</div>
+				<div class="epg-dia">16:30  La casa de empeños</div>
+				<div class="epg-dia">17:55  Cazatesoros</div>
+				<div class="epg-dia">19:25  ¿Quién da más?</div>
+				<div class="epg-dia">21:10  Crónicas carnívoras</div>
+				<div class="epg-dia">22:20  Justicia Extrema</div>
+			</div>
+
+			<div id="Atreseries_0" style="display:none">
+				<div class="epg-dia">06:00  La sopa boba</div>
+				<div class="epg-dia">07:15  Más de series</div>
+				<div class="epg-dia">08:20  El sindrome de Ulises</div>
+				<div class="epg-dia">09:40  Compañeros</div>
+				<div class="epg-dia">11:00  Aquí no hay quien viva</div>
+				<div class="epg-dia">14:20  Lucifer</div>
+				<div class="epg-dia">16:35  El Mentalista</div>
+				<div class="epg-dia">20:20  Ley y orden</div>
+				<div class="epg-dia">22:30  Crossing Jordan</div>
+			</div>
+			<div id="Atreseries_1" style="display:none">
+				<div class="epg-dia">02:05  Turno de Noche</div>
+				<div class="epg-dia">02:45  Aquí no hay quien viva</div>
+				<div class="epg-dia">05:05  Más de series</div>
+				<div class="epg-dia">06:00  La sopa boba</div>
+				<div class="epg-dia">07:15  Más de series</div>
+				<div class="epg-dia">08:20  El sindrome de Ulises</div>
+				<div class="epg-dia">09:40  Compañeros</div>
+				<div class="epg-dia">11:00  Aquí no hay quien viva</div>
+				<div class="epg-dia">14:15  Lucifer</div>
+				<div class="epg-dia">16:35  El Mentalista</div>
+				<div class="epg-dia">20:20  Ley y orden</div>
+				<div class="epg-dia">22:30  Forever</div>
+			</div>
+			<div id="Atreseries_2" style="display:none">
+				<div class="epg-dia">02:05  Turno de Noche</div>
+				<div class="epg-dia">02:45  Aquí no hay quien viva</div>
+				<div class="epg-dia">05:00  Más de series</div>
+				<div class="epg-dia">06:00  La sopa boba</div>
+				<div class="epg-dia">07:30  Más de series</div>
+				<div class="epg-dia">08:10  El sindrome de Ulises</div>
+				<div class="epg-dia">09:35  Compañeros</div>
+				<div class="epg-dia">11:00  Aquí no hay quien viva</div>
+				<div class="epg-dia">14:15  Lucifer</div>
+				<div class="epg-dia">16:35  El Mentalista</div>
+				<div class="epg-dia">20:20  Ley y orden</div>
+				<div class="epg-dia">22:30  Profilage</div>
+			</div>
+
+			<div id="FDF_0" style="display:none">
+				<div class="epg-dia">00:50  La Que Se Avecina</div>
+				<div class="epg-dia">02:15  La Que Se Avecina</div>
+				<div class="epg-dia">03:45  El Horóscopo De Esperanza Gracia</div>
+				<div class="epg-dia">03:50  Mejor Llama A Kiko</div>
+				<div class="epg-dia">04:20  Mejor Llama A Kiko</div>
+				<div class="epg-dia">04:50  Miramimusica</div>
+				<div class="epg-dia">05:40  La Tienda En Casa</div>
+				<div class="epg-dia">08:10  I Love Tv: Lo Mejor</div>
+				<div class="epg-dia">08:40  Siete Vidas</div>
+				<div class="epg-dia">09:35  Escenas De Matrimonio</div>
+				<div class="epg-dia">10:45  Camera Cafe</div>
+				<div class="epg-dia">11:10  Camera Cafe</div>
+				<div class="epg-dia">11:25  Camera Cafe</div>
+				<div class="epg-dia">11:50  Aida</div>
+				<div class="epg-dia">12:55  Aida</div>
+				<div class="epg-dia">14:05  La Que Se Avecina</div>
+				<div class="epg-dia">15:40  La Que Se Avecina</div>
+				<div class="epg-dia">17:00  Cámera Café (sin Cafeína)</div>
+				<div class="epg-dia">17:25  Cámera Café (sin Cafeína)</div>
+				<div class="epg-dia">17:40  Cámera Café (sin Cafeína)</div>
+				<div class="epg-dia">17:55  Cámera Café (sin Cafeína)</div>
+				<div class="epg-dia">18:05  ¡toma Salami!</div>
+				<div class="epg-dia">18:35  ¡toma Salami!</div>
+				<div class="epg-dia">19:10  ¡toma Salami!</div>
+				<div class="epg-dia">19:40  ¡toma Salami!</div>
+				<div class="epg-dia">20:40  La Que Se Avecina</div>
+				<div class="epg-dia">22:35  Cine: 'salyut 7 Héroes En El Espacio'</div>
+			</div>
+			<div id="FDF_1" style="display:none">
+				<div class="epg-dia">00:40  La Que Se Avecina</div>
+				<div class="epg-dia">02:10  La Que Se Avecina</div>
+				<div class="epg-dia">03:40  El Horóscopo De Esperanza Gracia</div>
+				<div class="epg-dia">03:45  Mejor Llama A Kiko</div>
+				<div class="epg-dia">04:15  Mejor Llama A Kiko</div>
+				<div class="epg-dia">04:45  Miramimusica</div>
+				<div class="epg-dia">05:40  La Tienda En Casa</div>
+			</div>
+
+			<div id="Energy_0" style="display:none">
+				<div class="epg-dia">00:40  C.s.i. Las Vegas</div>
+				<div class="epg-dia">01:20  C.s.i. Las Vegas</div>
+				<div class="epg-dia">02:10  C.s.i. Las Vegas</div>
+				<div class="epg-dia">02:55  C.s.i. Las Vegas</div>
+				<div class="epg-dia">03:35  C.s.i. Las Vegas</div>
+				<div class="epg-dia">04:15  Verdades Secretas</div>
+				<div class="epg-dia">04:55  Murder In The First</div>
+				<div class="epg-dia">05:35  Miramimusica</div>
+				<div class="epg-dia">05:40  La Tienda En Casa</div>
+				<div class="epg-dia">06:55  El Zapping De Surferos</div>
+				<div class="epg-dia">07:15  El Zapping De Surferos</div>
+				<div class="epg-dia">07:50  Marvel - Agentes De S.h.i.e.l.d.</div>
+				<div class="epg-dia">08:35  Marvel - Agentes De S.h.i.e.l.d.</div>
+				<div class="epg-dia">09:20  Marvel - Agentes De S.h.i.e.l.d.</div>
+				<div class="epg-dia">10:00  Al Descubierto</div>
+				<div class="epg-dia">10:45  Al Descubierto</div>
+				<div class="epg-dia">11:30  Al Descubierto</div>
+				<div class="epg-dia">12:10  C.s.i. Miami</div>
+				<div class="epg-dia">13:00  C.s.i. Miami</div>
+				<div class="epg-dia">13:50  C.s.i. Las Vegas</div>
+				<div class="epg-dia">14:30  C.s.i. Las Vegas</div>
+				<div class="epg-dia">15:20  C.s.i. Las Vegas</div>
+				<div class="epg-dia">16:05  C.s.i. Las Vegas</div>
+				<div class="epg-dia">16:55  Hawai 5.0</div>
+				<div class="epg-dia">17:40  Hawai 5.0</div>
+				<div class="epg-dia">18:25  Hawai 5.0</div>
+				<div class="epg-dia">19:05  Hawai 5.0</div>
+				<div class="epg-dia">19:45  Hawai 5.0</div>
+				<div class="epg-dia">20:20  The Sniffer</div>
+				<div class="epg-dia">21:15  The Sniffer</div>
+				<div class="epg-dia">22:10  The Sniffer</div>
+				<div class="epg-dia">23:10  The Sniffer (nueva Temporada)</div>
+			</div>
+			<div id="Energy_1" style="display:none">
+				<div class="epg-dia">00:10  The Sniffer</div>
+				<div class="epg-dia">01:00  The Sniffer</div>
+				<div class="epg-dia">01:55  Murder In The First</div>
+				<div class="epg-dia">02:35  Murder In The First</div>
+				<div class="epg-dia">03:15  Murder In The First</div>
+				<div class="epg-dia">03:55  Murder In The First</div>
+				<div class="epg-dia">04:25  Murder In The First</div>
+				<div class="epg-dia">04:55  Murder In The First</div>
+				<div class="epg-dia">05:30  Miramimusica</div>
+				<div class="epg-dia">05:35  La Tienda En Casa</div>
+				<div class="epg-dia">06:55  El Zapping De Surferos</div>
+			</div>
+
+			<div id="Divinity_0" style="display:none">
+				<div class="epg-dia">00:05  Scyd: 'tutankamón'</div>
+				<div class="epg-dia">00:50  Scyd: 'tutankamón'</div>
+				<div class="epg-dia">01:35  Scyd: 'tutankamón'</div>
+				<div class="epg-dia">02:30  Scyd: 'el Tesoro De La Montaña'</div>
+				<div class="epg-dia">03:45  Elementary</div>
+				<div class="epg-dia">04:00  Horóscopo De Esperanza Gracia</div>
+				<div class="epg-dia">04:15  La Tienda En Casa</div>
+				<div class="epg-dia">07:00  I Love Tv: Lo Mejor</div>
+				<div class="epg-dia">07:45  La Tienda En Casa</div>
+				<div class="epg-dia">08:45  Stitchers</div>
+				<div class="epg-dia">09:25  Stitchers</div>
+				<div class="epg-dia">10:00  Motive</div>
+				<div class="epg-dia">10:50  Motive</div>
+				<div class="epg-dia">11:40  Motive</div>
+				<div class="epg-dia">12:20  Motive</div>
+				<div class="epg-dia">13:10  Motive</div>
+				<div class="epg-dia">13:45  Bones</div>
+				<div class="epg-dia">14:35  Bones</div>
+				<div class="epg-dia">15:25  Bones</div>
+				<div class="epg-dia">16:15  Castle</div>
+				<div class="epg-dia">16:50  Castle</div>
+				<div class="epg-dia">17:45  Castle</div>
+				<div class="epg-dia">18:30  Sühan: Venganza Y Amor</div>
+				<div class="epg-dia">19:15  Amar Es Primavera - Cherry Season</div>
+				<div class="epg-dia">19:45  Inadina Ask: Amor Obstinado</div>
+				<div class="epg-dia">20:15  Verdades Secretas</div>
+				<div class="epg-dia">21:00  Castle</div>
+				<div class="epg-dia">21:50  Castle</div>
+				<div class="epg-dia">22:35  Castle</div>
+				<div class="epg-dia">23:20  Castle</div>
+			</div>
+			<div id="Divinity_1" style="display:none">
+				<div class="epg-dia">00:10  Castle</div>
+				<div class="epg-dia">00:55  Castle</div>
+				<div class="epg-dia">01:40  Castle</div>
+				<div class="epg-dia">02:25  Verdades Secretas</div>
+				<div class="epg-dia">03:10  Scandal</div>
+				<div class="epg-dia">03:50  Scandal</div>
+				<div class="epg-dia">04:25  Horóscopo De Esperanza Gracia</div>
+				<div class="epg-dia">04:30  La Tienda En Casa</div>
+			</div>
+
+			<div id="BeMad_0" style="display:none">
+				<div class="epg-dia">00:10  Callejeros</div>
+				<div class="epg-dia">00:50  Verdades Secretas</div>
+				<div class="epg-dia">01:30  Mejor Llama A Kiko</div>
+				<div class="epg-dia">02:05  Callejeros</div>
+				<div class="epg-dia">02:35  Callejeros</div>
+				<div class="epg-dia">03:15  Callejeros</div>
+				<div class="epg-dia">03:45  Callejeros</div>
+				<div class="epg-dia">04:20  Callejeros</div>
+				<div class="epg-dia">05:00  Callejeros</div>
+				<div class="epg-dia">06:00  Malas Pulgas</div>
+				<div class="epg-dia">06:05  Malas Pulgas</div>
+				<div class="epg-dia">06:50  Frank De La Jungla</div>
+				<div class="epg-dia">07:40  Frank De La Jungla</div>
+				<div class="epg-dia">08:30  Frank De La Jungla</div>
+				<div class="epg-dia">09:25  Frank De La Jungla</div>
+				<div class="epg-dia">10:15  Frank De La Jungla</div>
+				<div class="epg-dia">11:05  Frank De La Jungla</div>
+				<div class="epg-dia">12:00  Mejor Llama A Kiko</div>
+				<div class="epg-dia">12:35  Desafío Extremo</div>
+				<div class="epg-dia">13:35  Desafío Extremo</div>
+				<div class="epg-dia">14:25  Callejeros Viajeros</div>
+				<div class="epg-dia">14:55  Callejeros Viajeros</div>
+				<div class="epg-dia">15:45  Callejeros Viajeros</div>
+				<div class="epg-dia">16:35  Callejeros Viajeros</div>
+				<div class="epg-dia">17:15  Callejeros Viajeros</div>
+				<div class="epg-dia">18:05  Callejeros Viajeros</div>
+				<div class="epg-dia">18:55  Callejeros Viajeros</div>
+				<div class="epg-dia">19:40  Callejeros Viajeros</div>
+				<div class="epg-dia">20:15  Callejeros</div>
+				<div class="epg-dia">21:00  Callejeros</div>
+				<div class="epg-dia">21:40  Callejeros</div>
+				<div class="epg-dia">22:25  Callejeros</div>
+				<div class="epg-dia">23:00  Callejeros</div>
+				<div class="epg-dia">23:40  Callejeros</div>
+			</div>
+			<div id="BeMad_1" style="display:none">
+				<div class="epg-dia">00:20  Callejeros</div>
+				<div class="epg-dia">01:00  Callejeros</div>
+				<div class="epg-dia">01:35  Mejor Llama A Kiko</div>
+				<div class="epg-dia">02:10  Callejeros</div>
+				<div class="epg-dia">02:45  Callejeros</div>
+				<div class="epg-dia">03:20  Callejeros</div>
+				<div class="epg-dia">03:50  Callejeros</div>
+				<div class="epg-dia">04:25  Callejeros</div>
+				<div class="epg-dia">05:00  Callejeros</div>
+			</div>
+
+			<div id="Paramount Network_0" style="display:none">
+				<div class="epg-dia">05:40  Pata negra</div>
+				<div class="epg-dia">06:17  Central de Cómicos</div>
+				<div class="epg-dia">06:42  Cinexpress (piezas)</div>
+				<div class="epg-dia">07:10  Grantchester</div>
+				<div class="epg-dia">08:08  Grantchester</div>
+				<div class="epg-dia">09:00  Teletienda</div>
+				<div class="epg-dia">11:15  Cinexpress (piezas)</div>
+				<div class="epg-dia">12:10  Colombo</div>
+				<div class="epg-dia">14:07  Colombo</div>
+				<div class="epg-dia">15:47  Agatha Christie</div>
+				<div class="epg-dia">16:36  Agatha Christie</div>
+				<div class="epg-dia">18:36  Diagnóstico: asesinato</div>
+				<div class="epg-dia">19:20  Diagnóstico: asesinato</div>
+				<div class="epg-dia">20:12  Sherlock</div>
+				<div class="epg-dia">21:53  Territorio prohibido</div>
+				<div class="epg-dia">23:51  K-19</div>
+			</div>
+			<div id="Paramount Network_1" style="display:none">
+				<div class="epg-dia">02:10  Alegría, tristeza</div>
+				<div class="epg-dia">03:45  Como la espuma</div>
+				<div class="epg-dia">05:17  Pata negra</div>
+				<div class="epg-dia">05:59  Pata negra</div>
+				<div class="epg-dia">06:31  Alaska y Mario</div>
+				<div class="epg-dia">07:12  Cinexpress (piezas)</div>
+				<div class="epg-dia">07:42  Grantchester: Grantchester</div>
+				<div class="epg-dia">09:00  Teletienda</div>
+				<div class="epg-dia">11:15  Cinexpress (piezas)</div>
+				<div class="epg-dia">11:18  Agatha Christie</div>
+				<div class="epg-dia">12:29  Colombo</div>
+				<div class="epg-dia">14:02  Colombo</div>
+				<div class="epg-dia">15:40  Agatha Christie</div>
+				<div class="epg-dia">16:29  Agatha Christie</div>
+				<div class="epg-dia">18:43  Diagnóstico</div>
+				<div class="epg-dia">19:35  Diagnóstico</div>
+				<div class="epg-dia">20:19  Sherlock</div>
+				<div class="epg-dia">22:04  Espía por accidente</div>
+				<div class="epg-dia">23:32  Los olvidados</div>
+			</div>
+			<div id="Paramount Network_2" style="display:none">
+				<div class="epg-dia">00:57  Transsiberian</div>
+				<div class="epg-dia">02:52  Rottweiler</div>
+				<div class="epg-dia">04:22  Central de Cómicos</div>
+				<div class="epg-dia">04:47  Central de Cómicos</div>
+				<div class="epg-dia">05:08  10 Cómicos 10</div>
+				<div class="epg-dia">07:02  Cinexpress (piezas)</div>
+				<div class="epg-dia">07:09  Un curita cañón</div>
+				<div class="epg-dia">09:00  Teletienda</div>
+				<div class="epg-dia">11:15  Cinexpress (piezas)</div>
+				<div class="epg-dia">11:28  Agatha Christie</div>
+				<div class="epg-dia">12:35  Colombo</div>
+				<div class="epg-dia">14:10  Colombo</div>
+				<div class="epg-dia">15:45  Agatha Christie</div>
+				<div class="epg-dia">16:35  Agatha Christie</div>
+				<div class="epg-dia">18:35  Diagnóstico</div>
+				<div class="epg-dia">19:30  Diagnóstico</div>
+				<div class="epg-dia">20:15  Sherlock</div>
+				<div class="epg-dia">22:00  Lock &amp; Stock</div>
+				<div class="epg-dia">23:55  Asuntos pendientes (36, Quai des Orfèvres)</div>
+			</div>
+
+			<div id="24h_0" style="display:none">
+				<div class="epg-dia">05:30  Noticias 24H</div>
+				<div class="epg-dia">07:30  Telediario Matinal</div>
+				<div class="epg-dia">09:00  Noticias 24H</div>
+				<div class="epg-dia">10:00  Diario 24 Horas</div>
+				<div class="epg-dia">13:00  Coronavirus última hora</div>
+				<div class="epg-dia">15:00  Telediario 1</div>
+				<div class="epg-dia">16:00  Cámara abierta 2.0</div>
+				<div class="epg-dia">16:15  Zoom net</div>
+				<div class="epg-dia">16:30  Emprende</div>
+				<div class="epg-dia">16:45  Reportaje Informe semanal</div>
+				<div class="epg-dia">17:00  La tarde en 24H</div>
+				<div class="epg-dia">21:00  Telediario 2</div>
+				<div class="epg-dia">21:54  El tiempo</div>
+				<div class="epg-dia">22:05  Noticias 24H</div>
+			</div>
+			<div id="24h_1" style="display:none">
+				<div class="epg-dia">01:30  Repor</div>
+				<div class="epg-dia">02:00  Noticias 24H</div>
+				<div class="epg-dia">04:30  En portada</div>
+				<div class="epg-dia">05:15  Cámara abierta 2.0</div>
+				<div class="epg-dia">05:30  Noticias 24H</div>
+				<div class="epg-dia">07:30  Telediario Matinal</div>
+				<div class="epg-dia">09:00  Noticias 24H</div>
+				<div class="epg-dia">10:00  Diario 24 Horas</div>
+				<div class="epg-dia">13:00  Coronavirus última hora</div>
+				<div class="epg-dia">15:00  Telediario 1</div>
+				<div class="epg-dia">16:00  Repor</div>
+				<div class="epg-dia">16:30  Cámara abierta 2.0</div>
+				<div class="epg-dia">16:45  Reportaje Informe semanal</div>
+				<div class="epg-dia">17:00  La tarde en 24H</div>
+				<div class="epg-dia">21:00  Telediario 2</div>
+				<div class="epg-dia">21:54  El tiempo</div>
+				<div class="epg-dia">22:05  Noticias 24H</div>
+			</div>
+			<div id="24h_2" style="display:none">
+				<div class="epg-dia">01:30  Lab24</div>
+				<div class="epg-dia">02:00  Noticias 24H</div>
+				<div class="epg-dia">04:30  Crónicas</div>
+				<div class="epg-dia">05:15  Zoom net</div>
+				<div class="epg-dia">05:30  Noticias 24H</div>
+				<div class="epg-dia">07:30  Telediario Matinal</div>
+				<div class="epg-dia">09:00  Noticias 24H</div>
+				<div class="epg-dia">10:00  Diario 24 Horas</div>
+				<div class="epg-dia">13:00  Coronavirus última hora</div>
+				<div class="epg-dia">15:00  Telediario 1</div>
+				<div class="epg-dia">16:00  Lab24</div>
+				<div class="epg-dia">16:30  Zoom net</div>
+				<div class="epg-dia">16:45  Emprende</div>
+				<div class="epg-dia">17:00  La tarde en 24H</div>
+				<div class="epg-dia">21:00  Telediario 2</div>
+				<div class="epg-dia">21:54  El tiempo</div>
+				<div class="epg-dia">22:05  Noticias 24H</div>
+			</div>
+
+			<div id="TDP_0" style="display:none">
+				<div class="epg-dia">03:00  Teledeporte</div>
+				<div class="epg-dia">07:00  Teledeporte</div>
+				<div class="epg-dia">11:00  Teledeporte</div>
+				<div class="epg-dia">15:00  Teledeporte</div>
+				<div class="epg-dia">19:00  Teledeporte</div>
+				<div class="epg-dia">23:00  Teledeporte</div>
+			</div>
+			<div id="TDP_1" style="display:none">
+				<div class="epg-dia">03:00  Teledeporte</div>
+				<div class="epg-dia">07:00  Teledeporte</div>
+				<div class="epg-dia">11:00  Teledeporte</div>
+				<div class="epg-dia">15:00  Teledeporte</div>
+				<div class="epg-dia">19:00  Teledeporte</div>
+				<div class="epg-dia">23:00  Teledeporte</div>
+			</div>
+			<div id="TDP_2" style="display:none">
+				<div class="epg-dia">03:00  Teledeporte</div>
+				<div class="epg-dia">07:00  Teledeporte</div>
+				<div class="epg-dia">11:00  Teledeporte</div>
+				<div class="epg-dia">15:00  Teledeporte</div>
+				<div class="epg-dia">19:00  Teledeporte</div>
+				<div class="epg-dia">23:00  Teledeporte</div>
+			</div>
+
+			<div id="GOL_0" style="display:none">
+				<div class="epg-dia">02:30  Teletienda</div>
+				<div class="epg-dia">12:00  Gol Sports Total</div>
+				<div class="epg-dia">12:30  LaLiga Promises: Campeonato internacional de fútbol 7</div>
+				<div class="epg-dia">13:00  LaLiga Promises: Campeonato internacional de fútbol 7</div>
+				<div class="epg-dia">13:30  LaLiga Promises: Campeonato internacional de fútbol 7</div>
+				<div class="epg-dia">14:00  LaLiga Promises: Campeonato internacional de fútbol 7</div>
+				<div class="epg-dia">14:30  LaLiga Promises: Campeonato internacional de fútbol 7</div>
+				<div class="epg-dia">15:00  Gol desde casa</div>
+				<div class="epg-dia">15:30  Fútbol español 1ª División (T09/10)</div>
+				<div class="epg-dia">17:30  Gol desde casa</div>
+				<div class="epg-dia">18:00  LaLiga #QuédateEnCasa</div>
+				<div class="epg-dia">18:30  Real Madrid - Barcelona. Copa del Rey (T11/12)</div>
+				<div class="epg-dia">20:30  Gol desde casa</div>
+				<div class="epg-dia">21:00  Mundial 1986</div>
+				<div class="epg-dia">23:00  UFC 243: Whittaker vs Adesanya</div>
+				<div class="epg-dia">23:40  Ultimate Fighting Championship</div>
+			</div>
+			<div id="GOL_1" style="display:none">
+				<div class="epg-dia">00:10  Ultimate Fighting Championship</div>
+				<div class="epg-dia">01:00  UFC 236: Holloway vs Poirier 2</div>
+				<div class="epg-dia">01:50  UFC 243: Whittaker vs Adesanya</div>
+				<div class="epg-dia">02:30  Teletienda</div>
+				<div class="epg-dia">12:00  Gol Sports Total</div>
+				<div class="epg-dia">12:30  LaLiga Promises: Campeonato internacional de fútbol 7</div>
+				<div class="epg-dia">13:05  LaLiga Promises: Campeonato internacional de fútbol 7</div>
+				<div class="epg-dia">13:40  LaLiga Promises: Campeonato internacional de fútbol 7</div>
+				<div class="epg-dia">15:00  Gol desde casa</div>
+				<div class="epg-dia">15:30  Liga BBVA (T13/14)</div>
+				<div class="epg-dia">17:30  Gol desde casa</div>
+				<div class="epg-dia">18:00  Hoy jugamos en casa con Aitor Lagunas</div>
+				<div class="epg-dia">18:30  Barcelona - Real Madrid. Copa del Rey (T11/12)</div>
+				<div class="epg-dia">20:30  Gol desde casa</div>
+				<div class="epg-dia">21:00  Los mejores partidos de la Copa del Mundo</div>
+				<div class="epg-dia">23:00  UFC 244: Masvidal vs Diaz</div>
+				<div class="epg-dia">23:45  UFC 235: Jones vs Smith</div>
+			</div>
+			<div id="GOL_2" style="display:none">
+				<div class="epg-dia">00:15  UFC 236: Holloway vs Poirier 2</div>
+				<div class="epg-dia">01:05  UFC 235: Jones vs Smith</div>
+				<div class="epg-dia">01:30  UFC Fight Night: Jedrzejczyk vs Waterson</div>
+				<div class="epg-dia">02:00  Ultimate Fighting Championship</div>
+				<div class="epg-dia">02:30  Teletienda</div>
+				<div class="epg-dia">09:00  Gol</div>
+				<div class="epg-dia">13:00  Gol</div>
+				<div class="epg-dia">17:00  Gol</div>
+				<div class="epg-dia">21:00  Gol</div>
+			</div>
+
+			<div id="RealMadrid TV_0" style="display:none">
+				<div class="epg-dia">05:35  Historia que tú hiciste: Copa Intercontinental 1998</div>
+				<div class="epg-dia">07:15  Copa Intercontinental</div>
+				<div class="epg-dia">09:00  Aprende inglés con Vaughan en Realmadrid TV</div>
+				<div class="epg-dia">09:15  Hoy jugamos</div>
+				<div class="epg-dia">10:15  Historia que tú hiciste: Copa de Europa 87/88</div>
+				<div class="epg-dia">12:00  Historia que tú hiciste: Liga 02/03</div>
+				<div class="epg-dia">13:40  LaLiga Santander (T19/20)</div>
+				<div class="epg-dia">15:40  Las horas del verano</div>
+				<div class="epg-dia">17:25  Hoy jugamos</div>
+				<div class="epg-dia">18:00  Real Madrid Conecta</div>
+				<div class="epg-dia">21:30  Código nuclear</div>
+				<div class="epg-dia">23:00  El justiciero de la ciudad</div>
+			</div>
+			<div id="RealMadrid TV_1" style="display:none">
+				<div class="epg-dia">00:40  En el corazón de La Undécima</div>
+				<div class="epg-dia">02:25  Historia que tú hiciste: Copa de Europa 87/88</div>
+				<div class="epg-dia">04:05  Hoy jugamos</div>
+				<div class="epg-dia">04:30  Historias con alma</div>
+				<div class="epg-dia">04:55  Historias con alma</div>
+				<div class="epg-dia">05:25  Hoy jugamos</div>
+				<div class="epg-dia">05:40  LaLiga Santander (T19/20)</div>
+				<div class="epg-dia">07:20  LaLiga Santander (T19/20)</div>
+				<div class="epg-dia">09:00  Real Madrid TV</div>
+				<div class="epg-dia">13:00  Real Madrid TV</div>
+				<div class="epg-dia">17:00  Real Madrid TV</div>
+				<div class="epg-dia">21:00  Real Madrid TV</div>
+			</div>
+			<div id="RealMadrid TV_2" style="display:none">
+				<div class="epg-dia">01:00  Real Madrid TV</div>
+				<div class="epg-dia">05:00  Real Madrid TV</div>
+				<div class="epg-dia">09:00  Real Madrid TV</div>
+				<div class="epg-dia">13:00  Real Madrid TV</div>
+				<div class="epg-dia">17:00  Real Madrid TV</div>
+				<div class="epg-dia">21:00  Real Madrid TV</div>
+			</div>
+
+			<div id="Betis TV_0" style="display:none">
+				<div class="epg-dia">EPG NO DISPONIBLE</div>
+			</div>
+			<div id="Betis TV_1" style="display:none">
+				<div class="epg-dia">EPG NO DISPONIBLE</div>
+			</div>
+			<div id="Betis TV_2" style="display:none">
+				<div class="epg-dia">EPG NO DISPONIBLE</div>
+			</div>
+			<div id="Boing_0" style="display:none">
+				<div class="epg-dia">00:10  Teen Titans Go!</div>
+				<div class="epg-dia">00:20  Teen Titans Go!</div>
+				<div class="epg-dia">00:30  Teen Titans Go!</div>
+				<div class="epg-dia">00:40  Teen Titans Go!</div>
+				<div class="epg-dia">00:55  Ninjago Masters Of Spinjitzu</div>
+				<div class="epg-dia">01:15  Ninjago Masters Of Spinjitzu</div>
+				<div class="epg-dia">01:40  Mr Bean</div>
+				<div class="epg-dia">02:00  Mr Bean</div>
+				<div class="epg-dia">02:25  Mi Caballero Y Yo</div>
+				<div class="epg-dia">02:35  Mi Caballero Y Yo</div>
+				<div class="epg-dia">02:45  Mi Caballero Y Yo</div>
+				<div class="epg-dia">02:55  Mi Caballero Y Yo</div>
+				<div class="epg-dia">03:10  Mr Bean</div>
+				<div class="epg-dia">03:30  Mr Bean</div>
+				<div class="epg-dia">03:55  Ninjago Masters Of Spinjitzu</div>
+				<div class="epg-dia">04:20  Ninjago Masters Of Spinjitzu</div>
+				<div class="epg-dia">04:45  Mr Bean</div>
+				<div class="epg-dia">05:05  Mi Caballero Y Yo</div>
+				<div class="epg-dia">05:15  Mi Caballero Y Yo</div>
+				<div class="epg-dia">05:25  Chowder</div>
+				<div class="epg-dia">06:00  Mr Bean</div>
+				<div class="epg-dia">06:20  Mr Bean</div>
+				<div class="epg-dia">06:35  Taffy</div>
+				<div class="epg-dia">06:45  Taffy</div>
+				<div class="epg-dia">06:50  Taffy</div>
+				<div class="epg-dia">07:00  El Show De Tom Y Jerry</div>
+				<div class="epg-dia">07:05  El Show De Tom Y Jerry</div>
+				<div class="epg-dia">07:15  El Show De Tom Y Jerry</div>
+				<div class="epg-dia">07:20  El Show De Tom Y Jerry</div>
+				<div class="epg-dia">07:30  El Show De Tom Y Jerry</div>
+				<div class="epg-dia">07:35  El Show De Tom Y Jerry</div>
+				<div class="epg-dia">07:40  El Show De Tom Y Jerry</div>
+				<div class="epg-dia">08:00  Taffy</div>
+				<div class="epg-dia">08:05  Taffy</div>
+				<div class="epg-dia">08:10  Taffy</div>
+				<div class="epg-dia">08:25  Taffy</div>
+				<div class="epg-dia">08:35  Taffy</div>
+				<div class="epg-dia">08:40  Taffy</div>
+				<div class="epg-dia">08:45  Taffy</div>
+				<div class="epg-dia">08:50  Doraemon, El Gato Cosmico</div>
+				<div class="epg-dia">09:20  Doraemon, El Gato Cosmico</div>
+				<div class="epg-dia">09:40  Doraemon, El Gato Cosmico</div>
+				<div class="epg-dia">10:10  El Asombroso Mundo De Gumball</div>
+				<div class="epg-dia">10:35  El Asombroso Mundo De Gumball</div>
+				<div class="epg-dia">10:45  El Asombroso Mundo De Gumball</div>
+				<div class="epg-dia">10:55  Teen Titans Go!</div>
+				<div class="epg-dia">11:05  Teen Titans Go!</div>
+				<div class="epg-dia">11:15  Teen Titans Go!</div>
+				<div class="epg-dia">11:40  El Mundo De Craig</div>
+				<div class="epg-dia">11:50  El Mundo De Craig</div>
+				<div class="epg-dia">12:00  El Mundo De Craig</div>
+				<div class="epg-dia">12:10  El Mundo De Craig</div>
+				<div class="epg-dia">12:25  Víctor Y Valentino</div>
+				<div class="epg-dia">12:35  Víctor Y Valentino</div>
+				<div class="epg-dia">12:50  Somos Osos</div>
+				<div class="epg-dia">13:00  Somos Osos</div>
+				<div class="epg-dia">13:25  Real Mom</div>
+				<div class="epg-dia">14:15  Los Thundermans</div>
+				<div class="epg-dia">14:40  Los Thundermans</div>
+				<div class="epg-dia">15:00  Nicky, Ricky, Dicky Y Dawn</div>
+				<div class="epg-dia">15:25  Doraemon</div>
+				<div class="epg-dia">15:50  Doraemon</div>
+				<div class="epg-dia">16:10  Teen Titans Go!</div>
+				<div class="epg-dia">16:35  Teen Titans Go!</div>
+				<div class="epg-dia">17:00  El Asombroso Mundo De Gumball</div>
+				<div class="epg-dia">17:10  El Asombroso Mundo De Gumball</div>
+				<div class="epg-dia">17:15  El Asombroso Mundo De Gumball</div>
+				<div class="epg-dia">17:25  El Mundo De Craig</div>
+				<div class="epg-dia">17:35  El Mundo De Craig</div>
+				<div class="epg-dia">17:45  Somos Osos</div>
+				<div class="epg-dia">17:50  Somos Osos</div>
+				<div class="epg-dia">18:10  El Show De Tom Y Jerry</div>
+				<div class="epg-dia">18:15  El Show De Tom Y Jerry</div>
+				<div class="epg-dia">18:20  El Show De Tom Y Jerry</div>
+				<div class="epg-dia">18:35  El Show De Tom Y Jerry</div>
+				<div class="epg-dia">18:40  El Show De Tom Y Jerry</div>
+				<div class="epg-dia">18:45  El Show De Tom Y Jerry</div>
+				<div class="epg-dia">19:05  Taffy</div>
+				<div class="epg-dia">19:10  Taffy</div>
+				<div class="epg-dia">19:15  Taffy</div>
+				<div class="epg-dia">19:25  New Looney Tunes</div>
+				<div class="epg-dia">19:35  New Looney Tunes</div>
+				<div class="epg-dia">19:50  Ninjago</div>
+				<div class="epg-dia">20:00  Ninjago</div>
+				<div class="epg-dia">20:15  El Asombroso Mundo De Gumball</div>
+				<div class="epg-dia">20:25  El Asombroso Mundo De Gumball</div>
+				<div class="epg-dia">20:40  Doraemon</div>
+				<div class="epg-dia">21:00  Doraemon</div>
+				<div class="epg-dia">21:25  Los Thundermans</div>
+				<div class="epg-dia">21:50  Los Thundermans</div>
+				<div class="epg-dia">22:15  Nicky, Ricky, Dicky Y Dawn</div>
+				<div class="epg-dia">22:35  Dragon Ball Super</div>
+				<div class="epg-dia">23:00  Beyblade Burst</div>
+				<div class="epg-dia">23:25  Teen Titans Go!</div>
+				<div class="epg-dia">23:35  Teen Titans Go!</div>
+				<div class="epg-dia">23:50  Teen Titans Go!</div>
+			</div>
+			<div id="Boing_1" style="display:none">
+				<div class="epg-dia">00:00  Teen Titans Go!</div>
+				<div class="epg-dia">00:15  El Asombroso Mundo De Gumball</div>
+				<div class="epg-dia">00:40  El Asombroso Mundo De Gumball</div>
+				<div class="epg-dia">01:00  Mr Bean</div>
+				<div class="epg-dia">01:25  Ninjago Masters Of Spinjitzu</div>
+				<div class="epg-dia">01:45  Ninjago Masters Of Spinjitzu</div>
+				<div class="epg-dia">02:10  Mr Bean</div>
+				<div class="epg-dia">02:30  Mr Bean</div>
+				<div class="epg-dia">02:55  Mi Caballero Y Yo</div>
+				<div class="epg-dia">03:05  Mi Caballero Y Yo</div>
+				<div class="epg-dia">03:15  Mi Caballero Y Yo</div>
+				<div class="epg-dia">03:25  Mi Caballero Y Yo</div>
+				<div class="epg-dia">03:40  Ninjago Masters Of Spinjitzu</div>
+				<div class="epg-dia">04:00  Ninjago Masters Of Spinjitzu</div>
+				<div class="epg-dia">04:25  Mr Bean</div>
+				<div class="epg-dia">04:45  Mi Caballero Y Yo</div>
+				<div class="epg-dia">04:55  Mi Caballero Y Yo</div>
+				<div class="epg-dia">05:05  Mi Caballero Y Yo</div>
+				<div class="epg-dia">05:10  Mi Caballero Y Yo</div>
+				<div class="epg-dia">05:20  Mi Caballero Y Yo</div>
+				<div class="epg-dia">05:25  Mi Caballero Y Yo</div>
+				<div class="epg-dia">05:30  Chowder</div>
+			</div>
+
+			<div id="Clan_0" style="display:none">
+				<div class="epg-dia">06:00  Larga vida al rey Julien</div>
+				<div class="epg-dia">06:22  Las aventuras del Gato con Botas!</div>
+				<div class="epg-dia">06:44  El Hotel Furchester</div>
+				<div class="epg-dia">06:55  El Hotel Furchester</div>
+				<div class="epg-dia">07:06  Pumpkin Reports</div>
+				<div class="epg-dia">07:17  Pumpkin Reports</div>
+				<div class="epg-dia">07:27  Yoko</div>
+				<div class="epg-dia">07:39  Bing</div>
+				<div class="epg-dia">07:46  Bing</div>
+				<div class="epg-dia">07:53  Kitty no es un gato</div>
+				<div class="epg-dia">08:05  Kitty no es un gato</div>
+				<div class="epg-dia">08:16  Simón</div>
+				<div class="epg-dia">08:22  Simón</div>
+				<div class="epg-dia">08:27  Simón</div>
+				<div class="epg-dia">08:32  Simón</div>
+				<div class="epg-dia">08:37  Lunnis de leyenda</div>
+				<div class="epg-dia">08:48  Lunnis de leyenda</div>
+				<div class="epg-dia">09:00  Aprendemos en casa 6-8 años</div>
+				<div class="epg-dia">10:00  Aprendemos en casa 8-10 años</div>
+				<div class="epg-dia">11:00  Aprendemos en casa 10-12 años</div>
+				<div class="epg-dia">12:00  Yoko</div>
+				<div class="epg-dia">12:12  Super Wings: El fiordo del campamento</div>
+				<div class="epg-dia">12:24  Super Wings</div>
+				<div class="epg-dia">12:36  Clay kids</div>
+				<div class="epg-dia">12:48  Clay kids</div>
+				<div class="epg-dia">12:59  Yoko</div>
+				<div class="epg-dia">13:11  Yoko</div>
+				<div class="epg-dia">13:22  100 Cosas que hacer antes de ir al instituto</div>
+				<div class="epg-dia">13:43  Bob Esponja</div>
+				<div class="epg-dia">14:05  Bob Esponja</div>
+				<div class="epg-dia">14:27  Bob Esponja?</div>
+				<div class="epg-dia">14:49  Henry Danger</div>
+				<div class="epg-dia">15:11  Henry Danger</div>
+				<div class="epg-dia">15:33  Knight Squad: Academia de Caballería</div>
+				<div class="epg-dia">15:55  Star falls</div>
+				<div class="epg-dia">16:17  Yoko</div>
+				<div class="epg-dia">16:29  Peppa Pig</div>
+				<div class="epg-dia">16:34  Peppa Pig</div>
+				<div class="epg-dia">16:39  Bing</div>
+				<div class="epg-dia">16:46  Bing</div>
+				<div class="epg-dia">16:55  Simón</div>
+				<div class="epg-dia">17:01  Simón</div>
+				<div class="epg-dia">17:06  Mya Go</div>
+				<div class="epg-dia">17:12  Mya Go</div>
+				<div class="epg-dia">17:17  Peppa Pig</div>
+				<div class="epg-dia">17:36  Momonsters</div>
+				<div class="epg-dia">17:43  Momonsters</div>
+				<div class="epg-dia">17:52  Ricky Zoom</div>
+				<div class="epg-dia">18:04  La Patrulla Canina: Rescate definitivo: la patrulla salva al monstruo del pantano / Rescate definitivo</div>
+				<div class="epg-dia">18:26  Yoko</div>
+				<div class="epg-dia">18:38  Trolls: ¡No pierdas el ritmo!</div>
+				<div class="epg-dia">19:00  Dragones: Hacia nuevos confines</div>
+				<div class="epg-dia">19:22  Gormiti</div>
+				<div class="epg-dia">19:33  Gormiti</div>
+				<div class="epg-dia">19:45  Una casa de locos?</div>
+				<div class="epg-dia">20:06  Henry Danger</div>
+				<div class="epg-dia">20:28  Bob Esponja</div>
+				<div class="epg-dia">20:50  Bob Esponja</div>
+				<div class="epg-dia">21:12  Bob Esponja</div>
+				<div class="epg-dia">21:34  Henry Danger</div>
+				<div class="epg-dia">21:56  Henry Danger</div>
+				<div class="epg-dia">22:18  Star falls</div>
+				<div class="epg-dia">22:39  Knight Squad: Academia de Caballería</div>
+				<div class="epg-dia">23:00  Escuela de Rock</div>
+				<div class="epg-dia">23:21  Escuela de Rock</div>
+				<div class="epg-dia">23:42  100 Cosas que hacer antes de ir al instituto!</div>
+			</div>
+			<div id="Clan_1" style="display:none">
+				<div class="epg-dia">00:04  Victorious</div>
+				<div class="epg-dia">00:27  Escuela de Rock</div>
+				<div class="epg-dia">00:48  Cuéntame cómo pasó</div>
+				<div class="epg-dia">02:10  Cuéntame cómo pasó</div>
+				<div class="epg-dia">03:25  Bing</div>
+				<div class="epg-dia">03:32  Bing</div>
+				<div class="epg-dia">03:40  Bob Esponja</div>
+				<div class="epg-dia">04:02  El amanecer de los Croods</div>
+				<div class="epg-dia">04:24  El show del Sr. Peabody y Sherman</div>
+				<div class="epg-dia">04:46  Dinotrux</div>
+				<div class="epg-dia">05:08  Fangbone: El quebrantajuramentos: 1.ª parte/El quebrantajuramentos</div>
+				<div class="epg-dia">05:31  Las Hathaways entre fantasmas</div>
+				<div class="epg-dia">05:52  Bing</div>
+				<div class="epg-dia">06:00  Larga vida al rey Julien</div>
+				<div class="epg-dia">06:22  Las aventuras del Gato con Botas</div>
+				<div class="epg-dia">06:44  El Hotel Furchester</div>
+				<div class="epg-dia">06:55  El Hotel Furchester</div>
+				<div class="epg-dia">07:06  Pumpkin Reports</div>
+				<div class="epg-dia">07:17  Pumpkin Reports</div>
+				<div class="epg-dia">07:27  Yoko</div>
+				<div class="epg-dia">07:39  Bing</div>
+				<div class="epg-dia">07:46  Bing</div>
+				<div class="epg-dia">07:53  Kitty no es un gato</div>
+				<div class="epg-dia">08:05  Kitty no es un gato</div>
+				<div class="epg-dia">08:16  Simón</div>
+				<div class="epg-dia">08:22  Simón</div>
+				<div class="epg-dia">08:27  Simón</div>
+				<div class="epg-dia">08:32  Simón</div>
+				<div class="epg-dia">08:37  Lunnis de leyenda</div>
+				<div class="epg-dia">08:48  Lunnis de leyenda</div>
+				<div class="epg-dia">09:00  Aprendemos en casa 6-8 años</div>
+				<div class="epg-dia">10:00  Aprendemos en casa 8-10 años</div>
+				<div class="epg-dia">11:00  Aprendemos en casa 10-12 años</div>
+				<div class="epg-dia">12:00  Yoko</div>
+				<div class="epg-dia">12:12  Super Wings</div>
+				<div class="epg-dia">12:24  Super Wings: El fiordo del campamento</div>
+				<div class="epg-dia">12:36  Clay kids</div>
+				<div class="epg-dia">12:48  Clay kids</div>
+				<div class="epg-dia">12:59  Gormiti</div>
+				<div class="epg-dia">13:11  Gormiti</div>
+				<div class="epg-dia">13:22  100 Cosas que hacer antes de ir al instituto</div>
+				<div class="epg-dia">13:43  Bob Esponja</div>
+				<div class="epg-dia">14:05  Bob Esponja</div>
+				<div class="epg-dia">14:27  Bob Esponja</div>
+				<div class="epg-dia">14:49  Henry Danger</div>
+				<div class="epg-dia">15:11  Henry Danger</div>
+				<div class="epg-dia">15:33  Knight Squad: Academia de Caballería</div>
+				<div class="epg-dia">15:55  Star falls</div>
+				<div class="epg-dia">16:17  Super Wings: El fiordo del campamento</div>
+				<div class="epg-dia">16:29  Peppa Pig</div>
+				<div class="epg-dia">16:34  Peppa Pig</div>
+				<div class="epg-dia">16:39  Bing</div>
+				<div class="epg-dia">16:46  Bing</div>
+				<div class="epg-dia">16:55  Simón</div>
+				<div class="epg-dia">17:01  Simón</div>
+				<div class="epg-dia">17:06  Mya Go</div>
+				<div class="epg-dia">17:12  Mya Go</div>
+				<div class="epg-dia">17:17  Peppa Pig</div>
+				<div class="epg-dia">17:36  Momonsters</div>
+				<div class="epg-dia">17:43  Momonsters</div>
+				<div class="epg-dia">17:52  Ricky Zoom</div>
+				<div class="epg-dia">18:04  La Patrulla Canina</div>
+				<div class="epg-dia">18:26  Yoko</div>
+				<div class="epg-dia">18:38  Trolls: ¡No pierdas el ritmo!</div>
+				<div class="epg-dia">19:00  Dragones: Hacia nuevos confines</div>
+				<div class="epg-dia">19:22  Gormiti</div>
+				<div class="epg-dia">19:33  Gormiti</div>
+				<div class="epg-dia">19:45  Una casa de locos</div>
+				<div class="epg-dia">20:06  Henry Danger</div>
+				<div class="epg-dia">20:28  Bob Esponja</div>
+				<div class="epg-dia">20:50  Bob Esponja</div>
+				<div class="epg-dia">21:12  Bob Esponja</div>
+				<div class="epg-dia">21:34  Henry Danger</div>
+				<div class="epg-dia">21:56  Henry Danger</div>
+				<div class="epg-dia">22:18  Star falls</div>
+				<div class="epg-dia">22:39  Knight Squad: Academia de Caballería</div>
+				<div class="epg-dia">23:00  Escuela de Rock</div>
+				<div class="epg-dia">23:21  Escuela de Rock</div>
+				<div class="epg-dia">23:42  100 Cosas que hacer antes de ir al instituto!</div>
+			</div>
+			<div id="Clan_2" style="display:none">
+				<div class="epg-dia">00:04  Victorious</div>
+				<div class="epg-dia">00:27  Escuela de Rock</div>
+				<div class="epg-dia">00:48  Cuéntame cómo pasó</div>
+				<div class="epg-dia">02:02  Cuéntame cómo pasó</div>
+				<div class="epg-dia">03:13  Las Tortugas Ninja</div>
+				<div class="epg-dia">03:35  Peppa Pig</div>
+				<div class="epg-dia">03:40  El amanecer de los Croods</div>
+				<div class="epg-dia">04:02  El amanecer de los Croods</div>
+				<div class="epg-dia">04:24  El show del Sr. Peabody y Sherman</div>
+				<div class="epg-dia">04:46  Dinotrux</div>
+				<div class="epg-dia">05:08  Fangbone</div>
+				<div class="epg-dia">05:31  Las Hathaways entre fantasmas</div>
+				<div class="epg-dia">05:53  Bing</div>
+				<div class="epg-dia">06:00  Larga vida al rey Julien</div>
+				<div class="epg-dia">06:22  Las aventuras del Gato con Botas</div>
+				<div class="epg-dia">06:44  El Hotel Furchester</div>
+				<div class="epg-dia">06:55  El Hotel Furchester</div>
+				<div class="epg-dia">07:06  Pumpkin Reports</div>
+				<div class="epg-dia">07:17  Pumpkin Reports</div>
+				<div class="epg-dia">07:27  Yoko</div>
+				<div class="epg-dia">07:39  Bing</div>
+				<div class="epg-dia">07:46  Bing</div>
+				<div class="epg-dia">07:53  Kitty no es un gato</div>
+				<div class="epg-dia">08:05  Kitty no es un gato</div>
+				<div class="epg-dia">08:16  Simón</div>
+				<div class="epg-dia">08:22  Simón</div>
+				<div class="epg-dia">08:27  Simón</div>
+				<div class="epg-dia">08:32  Simón</div>
+				<div class="epg-dia">08:37  Lunnis de leyenda</div>
+				<div class="epg-dia">08:48  Lunnis de leyenda</div>
+				<div class="epg-dia">09:00  Aprendemos en casa 6-8 años</div>
+				<div class="epg-dia">10:00  Aprendemos en casa 8-10 años</div>
+				<div class="epg-dia">11:00  Aprendemos en casa 10-12 años</div>
+				<div class="epg-dia">12:00  Yoko</div>
+				<div class="epg-dia">12:12  Super Wings</div>
+				<div class="epg-dia">12:24  Super Wings</div>
+				<div class="epg-dia">12:36  Clay kids</div>
+				<div class="epg-dia">12:48  Clay kids</div>
+				<div class="epg-dia">12:59  Gormiti</div>
+				<div class="epg-dia">13:11  Gormiti</div>
+				<div class="epg-dia">13:22  100 Cosas que hacer antes de ir al instituto!</div>
+				<div class="epg-dia">13:43  Bob Esponja</div>
+				<div class="epg-dia">14:05  Bob Esponja</div>
+				<div class="epg-dia">14:27  Bob Esponja</div>
+				<div class="epg-dia">14:49  Henry Danger</div>
+				<div class="epg-dia">15:11  Henry Danger</div>
+				<div class="epg-dia">15:33  Knight Squad: Academia de Caballería</div>
+				<div class="epg-dia">15:55  Star falls</div>
+				<div class="epg-dia">16:17  Super Wings</div>
+				<div class="epg-dia">16:29  Peppa Pig</div>
+				<div class="epg-dia">16:34  Peppa Pig!</div>
+				<div class="epg-dia">16:39  Bing</div>
+				<div class="epg-dia">16:46  Bing</div>
+				<div class="epg-dia">16:55  Simón</div>
+				<div class="epg-dia">17:01  Simón</div>
+				<div class="epg-dia">17:06  Mya Go</div>
+				<div class="epg-dia">17:12  Mya Go</div>
+				<div class="epg-dia">17:17  Peppa Pig</div>
+				<div class="epg-dia">17:36  Momonsters</div>
+				<div class="epg-dia">17:43  Momonsters</div>
+				<div class="epg-dia">17:52  Ricky Zoom</div>
+				<div class="epg-dia">18:04  La Patrulla Canina</div>
+				<div class="epg-dia">18:26  Yoko</div>
+				<div class="epg-dia">18:38  Trolls: ¡No pierdas el ritmo!</div>
+				<div class="epg-dia">19:00  Dragones: Hacia nuevos confines</div>
+				<div class="epg-dia">19:22  Gormiti</div>
+				<div class="epg-dia">19:33  Gormiti</div>
+				<div class="epg-dia">19:45  Una casa de locos</div>
+				<div class="epg-dia">20:06  Henry Danger</div>
+				<div class="epg-dia">20:28  Bob Esponja</div>
+				<div class="epg-dia">20:50  Bob Esponja</div>
+				<div class="epg-dia">21:12  Bob Esponja</div>
+				<div class="epg-dia">21:34  Henry Danger</div>
+				<div class="epg-dia">21:56  Henry Danger</div>
+				<div class="epg-dia">22:18  Star falls</div>
+				<div class="epg-dia">22:39  Knight Squad: Academia de Caballería</div>
+				<div class="epg-dia">23:00  Escuela de Rock</div>
+				<div class="epg-dia">23:21  Escuela de Rock</div>
+				<div class="epg-dia">23:42  100 Cosas que hacer antes de ir al instituto!</div>
+			</div>
+
+			<div id="Canal Sur A._0" style="display:none">
+				<div class="epg-dia">04:00  Conexión CSTV</div>
+				<div class="epg-dia">07:00  Al Sur</div>
+				<div class="epg-dia">08:30  Destino Andalucía</div>
+				<div class="epg-dia">09:00  Buenos días, Andalucía</div>
+				<div class="epg-dia">10:00  Hoy en día</div>
+				<div class="epg-dia">14:15  Canal Sur Noticias 1</div>
+				<div class="epg-dia">15:45  La tarde, aquí y ahora</div>
+				<div class="epg-dia">18:00  Andalucía Directo</div>
+				<div class="epg-dia">20:00  Cómetelo</div>
+				<div class="epg-dia">20:30  Canal Sur Noticias 2</div>
+				<div class="epg-dia">21:30  Esta es tu noche</div>
+				<div class="epg-dia">22:05  Campechanos</div>
+				<div class="epg-dia">23:30  Los Repobladores</div>
+			</div>
+			<div id="Canal Sur A._1" style="display:none">
+				<div class="epg-dia">01:45  Lo Flamenco</div>
+				<div class="epg-dia">02:40  Al sur del tiempo</div>
+				<div class="epg-dia">03:00  Andaluces por el mundo</div>
+				<div class="epg-dia">04:00  Conexión CSTV</div>
+				<div class="epg-dia">07:00  Los Reporteros</div>
+				<div class="epg-dia">07:30  Lances</div>
+				<div class="epg-dia">08:00  Buenos días, Andalucía</div>
+				<div class="epg-dia">10:00  Hoy en día</div>
+				<div class="epg-dia">14:15  Canal Sur Noticias 1</div>
+				<div class="epg-dia">15:30  La tarde, aquí y ahora</div>
+				<div class="epg-dia">18:00  Andalucía Directo</div>
+				<div class="epg-dia">19:50  Cómetelo</div>
+				<div class="epg-dia">20:30  Canal Sur Noticias 2</div>
+				<div class="epg-dia">22:20  El Sol, la Sal, el Son</div>
+				<div class="epg-dia">23:30  Hijos de Andalucía</div>
+			</div>
+			<div id="Canal Sur A._2" style="display:none">
+				<div class="epg-dia">00:00  Canal Andalucía Turismo</div>
+				<div class="epg-dia">00:15  Documentales andaluces</div>
+				<div class="epg-dia">01:45  Lo Flamenco</div>
+				<div class="epg-dia">02:45  Al sur del tiempo</div>
+				<div class="epg-dia">03:05  Andaluces por el mundo</div>
+				<div class="epg-dia">04:00  Conexión CSTV</div>
+				<div class="epg-dia">07:00  Solidarios</div>
+				<div class="epg-dia">07:30  Con-ciencia</div>
+				<div class="epg-dia">08:00  Buenos días, Andalucía</div>
+				<div class="epg-dia">10:00  Hoy en día</div>
+				<div class="epg-dia">14:15  Canal Sur Noticias 1</div>
+				<div class="epg-dia">15:35  La tarde, aquí y ahora</div>
+				<div class="epg-dia">18:00  Andalucía Directo</div>
+				<div class="epg-dia">19:50  Cómetelo</div>
+				<div class="epg-dia">20:30  Canal Sur Noticias 2</div>
+				<div class="epg-dia">22:00  Andalucía en movimiento</div>
+				<div class="epg-dia">23:40  Andaluces por España</div>
+			</div>
+
+			<div id="Onda Cádiz_0" style="display:none">
+				<div class="epg-dia">02:00  Zona Historia</div>
+				<div class="epg-dia">03:00  EL FAROL</div>
+				<div class="epg-dia">04:00  Fin emisión</div>
+			</div>
+
+			<div id="CanalCosta_0" style="display:none">
+				<div class="epg-dia">EPG NO DISPONIBLE</div>
+			</div>
+			<div id="CanalCosta_1" style="display:none">
+				<div class="epg-dia">EPG NO DISPONIBLE</div>
+			</div>
+			<div id="CanalCosta_2" style="display:none">
+				<div class="epg-dia">EPG NO DISPONIBLE</div>
+			</div>
+			<div id="Condavisión HD_0" style="display:none">
+				<div class="epg-dia">EPG NO DISPONIBLE</div>
+			</div>
+			<div id="Condavisión HD_1" style="display:none">
+				<div class="epg-dia">EPG NO DISPONIBLE</div>
+			</div>
+			<div id="Condavisión HD_2" style="display:none">
+				<div class="epg-dia">EPG NO DISPONIBLE</div>
+			</div>
+			<div id="Aragón TV_0" style="display:none">
+				<div class="epg-dia">05:00  EuroNews</div>
+				<div class="epg-dia">07:30  EuroNews</div>
+				<div class="epg-dia">08:00  Buenos días Aragón</div>
+				<div class="epg-dia">10:00  EuroNews</div>
+				<div class="epg-dia">11:20  Activos</div>
+				<div class="epg-dia">11:35  Reino y Corona</div>
+				<div class="epg-dia">12:05  ADN aragonés</div>
+				<div class="epg-dia">12:45  La ventana indiscreta</div>
+				<div class="epg-dia">13:20  La pera limonera</div>
+				<div class="epg-dia">14:00  Aragón Noticias 1</div>
+				<div class="epg-dia">15:00  EuroNews</div>
+				<div class="epg-dia">16:35  Otro punto de vista</div>
+				<div class="epg-dia">17:30  La vida por delante</div>
+				<div class="epg-dia">18:00  Zarrios</div>
+				<div class="epg-dia">19:00  Otro punto de vista</div>
+				<div class="epg-dia">20:10  Esta es mi tierra</div>
+				<div class="epg-dia">20:30  Aragón Noticias 2</div>
+				<div class="epg-dia">21:30  Objetivo</div>
+				<div class="epg-dia">22:00  Aragoneses por el mundo</div>
+				<div class="epg-dia">22:53  Aragoneses por el mundo</div>
+				<div class="epg-dia">23:50  Otro punto de vista</div>
+			</div>
+			<div id="Aragón TV_1" style="display:none">
+				<div class="epg-dia">00:45  Aragón Noticias 2</div>
+				<div class="epg-dia">01:45  La pera limonera</div>
+				<div class="epg-dia">02:15  La ventana indiscreta</div>
+				<div class="epg-dia">02:40  Vaughan 4.0</div>
+				<div class="epg-dia">03:30  Common Mistakes</div>
+				<div class="epg-dia">03:35  Stuff</div>
+				<div class="epg-dia">03:40  Vaughan 4.0</div>
+				<div class="epg-dia">04:30  EuroNews</div>
+				<div class="epg-dia">07:30  EuroNews</div>
+				<div class="epg-dia">08:00  Buenos días Aragón</div>
+				<div class="epg-dia">10:00  EuroNews</div>
+				<div class="epg-dia">11:20  Activos</div>
+				<div class="epg-dia">11:35  Reino y Corona</div>
+				<div class="epg-dia">12:05  ADN aragonés</div>
+				<div class="epg-dia">12:45  La ventana indiscreta</div>
+				<div class="epg-dia">13:20  La pera limonera</div>
+				<div class="epg-dia">14:00  Aragón Noticias 1</div>
+				<div class="epg-dia">15:00  EuroNews</div>
+				<div class="epg-dia">16:35  Otro punto de vista</div>
+				<div class="epg-dia">17:30  La vida por delante</div>
+				<div class="epg-dia">18:00  Zarrios</div>
+				<div class="epg-dia">19:00  Otro punto de vista</div>
+				<div class="epg-dia">20:10  Esta es mi tierra</div>
+				<div class="epg-dia">20:30  Aragón Noticias 2</div>
+				<div class="epg-dia">21:30  Héroes</div>
+				<div class="epg-dia">22:00  EuroNews</div>
+			</div>
+			<div id="Aragón TV_2" style="display:none">
+				<div class="epg-dia">01:35  Otro punto de vista</div>
+				<div class="epg-dia">02:30  Aragón Noticias 2</div>
+				<div class="epg-dia">03:30  La pera limonera</div>
+				<div class="epg-dia">04:00  La ventana indiscreta</div>
+				<div class="epg-dia">04:25  Vaughan 4.0</div>
+				<div class="epg-dia">05:15  Common Mistakes</div>
+				<div class="epg-dia">05:20  Stuff</div>
+				<div class="epg-dia">05:25  Vaughan 4.0</div>
+				<div class="epg-dia">06:15  EuroNews</div>
+				<div class="epg-dia">07:30  EuroNews</div>
+				<div class="epg-dia">08:00  Buenos días Aragón</div>
+				<div class="epg-dia">10:00  EuroNews</div>
+				<div class="epg-dia">11:20  Activos</div>
+				<div class="epg-dia">11:35  Reino y Corona</div>
+				<div class="epg-dia">12:05  ADN aragonés</div>
+				<div class="epg-dia">12:45  La ventana indiscreta</div>
+				<div class="epg-dia">13:20  La pera limonera</div>
+				<div class="epg-dia">14:00  Aragón Noticias 1</div>
+				<div class="epg-dia">15:00  EuroNews</div>
+				<div class="epg-dia">16:40  Otro punto de vista</div>
+				<div class="epg-dia">17:30  La vida por delante</div>
+				<div class="epg-dia">18:00  Zarrios</div>
+				<div class="epg-dia">19:00  Otro punto de vista</div>
+				<div class="epg-dia">20:10  Esta es mi tierra</div>
+				<div class="epg-dia">20:30  Aragón Noticias 2</div>
+				<div class="epg-dia">21:30  Un lugar para quedarme</div>
+				<div class="epg-dia">22:15  EuroNews</div>
+				<div class="epg-dia">23:50  Otro punto de vista</div>
+			</div>
+
+			<div id="TPA7_0" style="display:none">
+				<div class="epg-dia">01:15  Redifusión</div>
+				<div class="epg-dia">08:00  Asturias Hoy 1ª edición</div>
+				<div class="epg-dia">09:00  TPA Noticias Matinal</div>
+				<div class="epg-dia">10:00  Medicina TV.com Salud</div>
+				<div class="epg-dia">10:30  Aprende con TPA</div>
+				<div class="epg-dia">11:30  El Picu</div>
+				<div class="epg-dia">12:05  Ayalgueros</div>
+				<div class="epg-dia">13:15  Sabor de verano</div>
+				<div class="epg-dia">14:00  TPA Noticias</div>
+				<div class="epg-dia">15:10  Asturias Semanal</div>
+				<div class="epg-dia">15:40  Para mí el oro, para ti el plomo</div>
+				<div class="epg-dia">17:15  Siempre al día</div>
+				<div class="epg-dia">19:00  Conexión Asturias</div>
+				<div class="epg-dia">20:30  TPA Noticias</div>
+				<div class="epg-dia">21:40  El Picu</div>
+				<div class="epg-dia">22:15  Pueblos</div>
+			</div>
+			<div id="TPA7_1" style="display:none">
+				<div class="epg-dia">01:35  Redifusión</div>
+				<div class="epg-dia">08:00  Asturias Hoy 1ª edición</div>
+				<div class="epg-dia">09:00  TPA Noticias Matinal</div>
+				<div class="epg-dia">10:00  Medicina TV.com Salud</div>
+				<div class="epg-dia">10:30  Aprende con TPA</div>
+				<div class="epg-dia">11:30  El Picu</div>
+				<div class="epg-dia">12:05  Ayalgueros</div>
+				<div class="epg-dia">13:15  Sabor de verano</div>
+				<div class="epg-dia">14:00  TPA Noticias</div>
+				<div class="epg-dia">15:10  Mochileros</div>
+				<div class="epg-dia">15:40  Cine</div>
+				<div class="epg-dia">17:15  Siempre al día</div>
+				<div class="epg-dia">19:00  Conexión Asturias</div>
+				<div class="epg-dia">20:30  TPA Noticias</div>
+				<div class="epg-dia">21:40  El Picu</div>
+				<div class="epg-dia">22:15  Asturias.Repor</div>
+				<div class="epg-dia">23:10  Asturias.doc</div>
+			</div>
+			<div id="TPA7_2" style="display:none">
+				<div class="epg-dia">01:55  Redifusión</div>
+				<div class="epg-dia">08:00  Asturias Hoy 1ª edición</div>
+				<div class="epg-dia">09:00  TPA Noticias Matinal</div>
+				<div class="epg-dia">10:00  Medicina TV.com Salud</div>
+				<div class="epg-dia">10:30  Aprende con TPA</div>
+				<div class="epg-dia">11:30  El Picu</div>
+				<div class="epg-dia">12:05  Ayalgueros</div>
+				<div class="epg-dia">13:15  Sabor de verano</div>
+				<div class="epg-dia">14:00  TPA Noticias</div>
+				<div class="epg-dia">15:10  Mochileros</div>
+				<div class="epg-dia">15:40  Sam Whiskey</div>
+				<div class="epg-dia">17:15  Siempre al día</div>
+				<div class="epg-dia">19:00  Conexión Asturias</div>
+				<div class="epg-dia">20:30  TPA Noticias</div>
+				<div class="epg-dia">21:40  El Picu</div>
+				<div class="epg-dia">22:15  Asturianos en el mundo</div>
+			</div>
+
+			<div id="Televisión Canaria_0" style="display:none">
+				<div class="epg-dia">05:00  Abriendo puertas</div>
+				<div class="epg-dia">07:00  Zona Motor</div>
+				<div class="epg-dia">08:15  La rosa de Guadalupe</div>
+				<div class="epg-dia">09:00  Buenos Días Canarias</div>
+				<div class="epg-dia">10:00  Érase una vez...el cuerpo humano</div>
+				<div class="epg-dia">10:25  Érase una vez el hombre</div>
+				<div class="epg-dia">10:55  Historia de Canarias</div>
+				<div class="epg-dia">11:10  Avance informativo</div>
+				<div class="epg-dia">11:45  Historia de Canarias</div>
+				<div class="epg-dia">12:00  Canarias submarina</div>
+				<div class="epg-dia">12:40  Somos gente fantástica</div>
+				<div class="epg-dia">13:00  Avance informativo</div>
+				<div class="epg-dia">13:30  Canarias al Natural</div>
+				<div class="epg-dia">14:10  Cúanto hemos cambiado</div>
+				<div class="epg-dia">14:15  Somos gente fantástica</div>
+				<div class="epg-dia">14:35  Quédate con nosotros</div>
+				<div class="epg-dia">14:55  Telenoticias 1</div>
+				<div class="epg-dia">16:15  TN Deportes 1</div>
+				<div class="epg-dia">16:20  El Tiempo 1</div>
+				<div class="epg-dia">16:30  Bolívar</div>
+				<div class="epg-dia">17:15  Buenas tardes Canarias</div>
+				<div class="epg-dia">21:25  Telenoticias 2</div>
+				<div class="epg-dia">22:30  Una hora menos. En casa contigo</div>
+				<div class="epg-dia">23:20  La huella isleña</div>
+			</div>
+			<div id="Televisión Canaria_1" style="display:none">
+				<div class="epg-dia">00:20  Fuera de plano</div>
+				<div class="epg-dia">00:55  Diario Covid-19</div>
+				<div class="epg-dia">01:00  Bolívar</div>
+				<div class="epg-dia">01:50  Fuerte Utah</div>
+				<div class="epg-dia">03:05  Buenas tardes Canarias</div>
+				<div class="epg-dia">06:45  Abriendo puertas</div>
+				<div class="epg-dia">07:00  Donacción</div>
+				<div class="epg-dia">08:15  La rosa de Guadalupe</div>
+				<div class="epg-dia">09:00  Buenos Días Canarias</div>
+				<div class="epg-dia">10:00  Érase una vez...el cuerpo humano</div>
+				<div class="epg-dia">10:25  Érase una vez el hombre</div>
+				<div class="epg-dia">10:55  Historia de Canarias</div>
+				<div class="epg-dia">11:10  Avance informativo</div>
+				<div class="epg-dia">11:45  Historia de Canarias</div>
+				<div class="epg-dia">12:00  Canarias submarina</div>
+				<div class="epg-dia">12:30  Somos gente fantástica</div>
+				<div class="epg-dia">13:00  Avance informativo</div>
+				<div class="epg-dia">13:25  Canarias al Natural</div>
+				<div class="epg-dia">13:50  Cúanto hemos cambiado</div>
+				<div class="epg-dia">14:10  Somos gente fantástica</div>
+				<div class="epg-dia">14:30  Quédate con nosotros</div>
+				<div class="epg-dia">14:55  Telenoticias 1</div>
+				<div class="epg-dia">16:15  TN Deportes 1</div>
+				<div class="epg-dia">16:20  El Tiempo 1</div>
+				<div class="epg-dia">16:30  Bolívar</div>
+				<div class="epg-dia">17:20  Buenas tardes Canarias</div>
+				<div class="epg-dia">21:25  Telenoticias 2</div>
+				<div class="epg-dia">22:35  Una hora menos. En casa contigo</div>
+				<div class="epg-dia">23:25  Noveleros</div>
+			</div>
+			<div id="Televisión Canaria_2" style="display:none">
+				<div class="epg-dia">00:25  Con todos ustedes</div>
+				<div class="epg-dia">00:50  Diario Covid-19</div>
+				<div class="epg-dia">01:00  Bolívar</div>
+				<div class="epg-dia">01:45  Pasaje al Oeste</div>
+				<div class="epg-dia">03:05  Buenas tardes Canarias</div>
+				<div class="epg-dia">06:25  Abriendo puertas</div>
+				<div class="epg-dia">07:00  Canarios de campo y mar</div>
+				<div class="epg-dia">08:15  La rosa de Guadalupe</div>
+				<div class="epg-dia">09:00  Buenos Días Canarias</div>
+				<div class="epg-dia">10:00  Érase una vez...el cuerpo humano</div>
+				<div class="epg-dia">10:25  Érase una vez el hombre</div>
+				<div class="epg-dia">10:55  Historia de Canarias</div>
+				<div class="epg-dia">11:10  Avance informativo</div>
+				<div class="epg-dia">11:45  Historia de Canarias</div>
+				<div class="epg-dia">12:00  Canarias submarina</div>
+				<div class="epg-dia">12:40  Somos gente fantástica</div>
+				<div class="epg-dia">13:00  Avance informativo</div>
+				<div class="epg-dia">13:30  Canarias al Natural</div>
+				<div class="epg-dia">14:15  Somos gente fantástica</div>
+				<div class="epg-dia">14:35  Quédate con nosotros</div>
+				<div class="epg-dia">14:55  Telenoticias 1</div>
+				<div class="epg-dia">16:10  TN Deportes 1</div>
+				<div class="epg-dia">16:20  El Tiempo 1</div>
+				<div class="epg-dia">16:30  Bolívar</div>
+				<div class="epg-dia">17:15  Buenas tardes Canarias</div>
+				<div class="epg-dia">21:25  Telenoticias 2</div>
+				<div class="epg-dia">22:35  Una hora menos. En casa contigo</div>
+				<div class="epg-dia">23:20  Mi vida es un zoo</div>
+			</div>
+
+			<div id="Mírame TV_0" style="display:none">
+				<div class="epg-dia">EPG NO DISPONIBLE</div>
+			</div>
+			<div id="Mírame TV_1" style="display:none">
+				<div class="epg-dia">EPG NO DISPONIBLE</div>
+			</div>
+			<div id="Mírame TV_2" style="display:none">
+				<div class="epg-dia">EPG NO DISPONIBLE</div>
+			</div>
+			<div id="Popular TV Cantabria_0" style="display:none">
+				<div class="epg-dia">EPG NO DISPONIBLE</div>
+			</div>
+			<div id="Popular TV Cantabria_1" style="display:none">
+				<div class="epg-dia">EPG NO DISPONIBLE</div>
+			</div>
+			<div id="Popular TV Cantabria_2" style="display:none">
+				<div class="epg-dia">EPG NO DISPONIBLE</div>
+			</div>
+			<div id="CMM_0" style="display:none">
+				<div class="epg-dia">06:00  ¡¡Al vino... vino!!</div>
+				<div class="epg-dia">06:45  X la cara</div>
+				<div class="epg-dia">07:15  ¿Tienes un minuto?</div>
+				<div class="epg-dia">07:45  Nuestro Campo Bravo</div>
+				<div class="epg-dia">08:30  Documental</div>
+				<div class="epg-dia">09:30  Fenómeno Fan</div>
+				<div class="epg-dia">11:00  Especial informativo</div>
+				<div class="epg-dia">11:30  Las chicas del mercadillo</div>
+				<div class="epg-dia">13:30  El cuenta kilómetros</div>
+				<div class="epg-dia">14:00  Castilla-La Mancha a las 2</div>
+				<div class="epg-dia">14:55  El tiempo</div>
+				<div class="epg-dia">15:00  Castilla la mancha, un lugar donde vivir</div>
+				<div class="epg-dia">16:00  Lo mejor de \</div>
+				<div class="epg-dia">18:15  La pradera sin ley</div>
+				<div class="epg-dia">20:00  Castilla-La Mancha a las 8</div>
+				<div class="epg-dia">20:25  El tiempo 2</div>
+				<div class="epg-dia">20:30  Castellano-manchegos por el mundo</div>
+				<div class="epg-dia">22:30  La voz del arrabal</div>
+			</div>
+			<div id="CMM_1" style="display:none">
+				<div class="epg-dia">01:15  Alma de copla</div>
+				<div class="epg-dia">04:30  Castilla-La Mancha a las 8</div>
+				<div class="epg-dia">04:55  El tiempo 2</div>
+				<div class="epg-dia">05:00  El Faro</div>
+				<div class="epg-dia">05:30  Estando contigo</div>
+				<div class="epg-dia">06:00  ¡¡Al vino... vino!!</div>
+				<div class="epg-dia">06:45  X la cara</div>
+				<div class="epg-dia">07:15  ¿Tienes un minuto?</div>
+				<div class="epg-dia">07:45  Nuestro Campo Bravo</div>
+				<div class="epg-dia">08:15  Castilla-la mancha hoy</div>
+				<div class="epg-dia">09:00  Castilla-La Mancha Despierta</div>
+				<div class="epg-dia">10:00  Abuelos reporteros</div>
+				<div class="epg-dia">11:00  Especial informativo</div>
+				<div class="epg-dia">11:30  Las chicas del mercadillo</div>
+				<div class="epg-dia">12:30  Estando contigo</div>
+				<div class="epg-dia">14:00  Castilla-La Mancha a las 2</div>
+				<div class="epg-dia">14:55  El tiempo</div>
+				<div class="epg-dia">15:00  Castilla la mancha, un lugar donde vivir</div>
+				<div class="epg-dia">16:00  Lo mejor de \</div>
+				<div class="epg-dia">18:15  El día más largo de Kansas City</div>
+				<div class="epg-dia">20:00  Castilla-La Mancha a las 8</div>
+				<div class="epg-dia">20:55  El tiempo 2</div>
+				<div class="epg-dia">21:00  Castellano-manchegos por el mundo</div>
+				<div class="epg-dia">22:30  Castilla-La Mancha me gusta en casa</div>
+				<div class="epg-dia">23:30  Castilla-La Mancha me gusta en casa</div>
+			</div>
+			<div id="CMM_2" style="display:none">
+				<div class="epg-dia">00:30  El viaje de tu vida</div>
+				<div class="epg-dia">01:30  Alma de copla</div>
+				<div class="epg-dia">04:00  Castilla-La Mancha a las 8</div>
+				<div class="epg-dia">04:55  El tiempo 2</div>
+				<div class="epg-dia">05:00  El Faro</div>
+				<div class="epg-dia">05:30  Estando contigo</div>
+				<div class="epg-dia">06:30  Fortalezas de Castilla La Mancha</div>
+				<div class="epg-dia">07:00  Nuestro Campo Bravo</div>
+				<div class="epg-dia">07:40  El campo</div>
+				<div class="epg-dia">08:00  Castilla-La Mancha Despierta</div>
+				<div class="epg-dia">10:30  Ancha es Castilla-La Mancha</div>
+				<div class="epg-dia">12:15  Estando contigo</div>
+				<div class="epg-dia">14:00  Castilla-La Mancha a las 2</div>
+				<div class="epg-dia">14:45  La Cancha</div>
+				<div class="epg-dia">15:00  Castilla-La Mancha a las 3</div>
+				<div class="epg-dia">15:15  El campo</div>
+				<div class="epg-dia">15:35  El tiempo</div>
+				<div class="epg-dia">15:45  Lo mejor de \</div>
+				<div class="epg-dia">18:15  Cine</div>
+				<div class="epg-dia">20:00  Castilla-La Mancha a las 8</div>
+				<div class="epg-dia">20:45  La Cancha 2</div>
+				<div class="epg-dia">21:00  El campo</div>
+				<div class="epg-dia">21:10  El tiempo 2</div>
+				<div class="epg-dia">21:15  Ancha es Castilla-La Mancha</div>
+				<div class="epg-dia">22:30  Cine</div>
+			</div>
+
+			<div id="La 7_0" style="display:none">
+				<div class="epg-dia">01:15  Redifusión</div>
+				<div class="epg-dia">08:00  Buenos días, Castilla y León</div>
+				<div class="epg-dia">11:00  El arcón</div>
+				<div class="epg-dia">12:00  Coronavirus. Comparecencia del Comité de Gestión Técnica</div>
+				<div class="epg-dia">12:45  Comparte tu experiencia</div>
+				<div class="epg-dia">13:00  Coronavirus. Comparecencia Consejería de Sanidad de la Junta de Castilla y León</div>
+				<div class="epg-dia">14:00  Comparte tu experiencia</div>
+				<div class="epg-dia">14:30  CyLTV Noticias (I)</div>
+				<div class="epg-dia">16:15  Sherlock</div>
+				<div class="epg-dia">17:45  Comparte tu experiencia</div>
+				<div class="epg-dia">18:00  Vamos a ver</div>
+				<div class="epg-dia">19:50  Comparte tu experiencia</div>
+				<div class="epg-dia">20:00  Agro en acción</div>
+				<div class="epg-dia">20:30  CyLTV Noticias (II)</div>
+				<div class="epg-dia">21:15  El tiempo</div>
+				<div class="epg-dia">21:30  De casa en casa</div>
+				<div class="epg-dia">22:30  Me vuelvo al pueblo</div>
+			</div>
+			<div id="La 7_1" style="display:none">
+				<div class="epg-dia">00:10  CyLTV Noticias (II)</div>
+				<div class="epg-dia">00:50  El tiempo</div>
+				<div class="epg-dia">01:00  Vamos a ver</div>
+				<div class="epg-dia">03:00  De casa en casa</div>
+				<div class="epg-dia">04:00  Redifusión</div>
+				<div class="epg-dia">07:30  Agro en acción</div>
+				<div class="epg-dia">08:00  Buenos días, Castilla y León</div>
+				<div class="epg-dia">10:30  Más que palabras</div>
+				<div class="epg-dia">11:15  Infocomercial</div>
+				<div class="epg-dia">11:45  Vamos a ver</div>
+				<div class="epg-dia">13:10  Me vuelvo al pueblo</div>
+				<div class="epg-dia">14:00  Agro en acción</div>
+				<div class="epg-dia">14:30  CyLTV Noticias (I)</div>
+				<div class="epg-dia">16:15  Veterinarios</div>
+				<div class="epg-dia">17:10  Cuentos en la bruma</div>
+				<div class="epg-dia">18:00  Vamos a ver</div>
+				<div class="epg-dia">19:50  Flash Cierre de Mercado</div>
+				<div class="epg-dia">20:00  El aperitivo</div>
+				<div class="epg-dia">20:30  CyLTV Noticias (II)</div>
+				<div class="epg-dia">21:15  El tiempo</div>
+				<div class="epg-dia">21:30  Más que palabras</div>
+				<div class="epg-dia">22:15  Ellas mandan</div>
+			</div>
+			<div id="La 7_2" style="display:none">
+				<div class="epg-dia">00:00  CyLTV Noticias (II)</div>
+				<div class="epg-dia">00:50  El tiempo</div>
+				<div class="epg-dia">01:00  Más que palabras</div>
+				<div class="epg-dia">01:40  Infocomercial</div>
+				<div class="epg-dia">01:55  Vamos a ver</div>
+				<div class="epg-dia">02:20  Redifusión</div>
+				<div class="epg-dia">07:30  El aperitivo</div>
+				<div class="epg-dia">08:00  Buenos días, Castilla y León</div>
+				<div class="epg-dia">10:30  Más que palabras</div>
+				<div class="epg-dia">11:15  Infocomercial</div>
+				<div class="epg-dia">11:45  Vamos a ver</div>
+				<div class="epg-dia">13:10  Ellas mandan</div>
+				<div class="epg-dia">14:00  El aperitivo</div>
+				<div class="epg-dia">14:30  CyLTV Noticias (I)</div>
+				<div class="epg-dia">16:15  Veterinarios</div>
+				<div class="epg-dia">17:10  Cuentos en la bruma</div>
+				<div class="epg-dia">18:00  Vamos a ver</div>
+				<div class="epg-dia">19:50  Flash Cierre de Mercado</div>
+				<div class="epg-dia">20:00  El aperitivo</div>
+				<div class="epg-dia">20:30  CyLTV Noticias (II)</div>
+				<div class="epg-dia">21:15  El tiempo</div>
+				<div class="epg-dia">21:30  Más que palabras</div>
+				<div class="epg-dia">22:15  Mujeres en la granja</div>
+			</div>
+
+			<div id="TV Benavente_0" style="display:none">
+				<div class="epg-dia">EPG NO DISPONIBLE</div>
+			</div>
+			<div id="TV Benavente_1" style="display:none">
+				<div class="epg-dia">EPG NO DISPONIBLE</div>
+			</div>
+			<div id="TV Benavente_2" style="display:none">
+				<div class="epg-dia">EPG NO DISPONIBLE</div>
+			</div>
+			<div id="TV3_0" style="display:none">
+				<div class="epg-dia">06:00  Notícies 3/24</div>
+				<div class="epg-dia">11:45  Reizen Waes: Dakota del Norte</div>
+				<div class="epg-dia">12:30  Reizen Waes</div>
+				<div class="epg-dia">13:20  Planta baixa</div>
+				<div class="epg-dia">14:30  Telenotícies migdia</div>
+				<div class="epg-dia">15:50  Cuines</div>
+				<div class="epg-dia">16:06  Joc de cartes estiu</div>
+				<div class="epg-dia">17:05  Laia, el regal d'aniversari</div>
+				<div class="epg-dia">18:33  L'estratègia del cucut</div>
+				<div class="epg-dia">20:13  Thalassa</div>
+				<div class="epg-dia">20:35  No tenim vergonya</div>
+				<div class="epg-dia">21:00  Telenotícies vespre</div>
+				<div class="epg-dia">22:15  Les de l'hoquei</div>
+				<div class="epg-dia">23:15  El suplent</div>
+			</div>
+			<div id="TV3_1" style="display:none">
+				<div class="epg-dia">00:05  Sota terra: Roses: La porta d'entrada dels grecs a Catalunya</div>
+				<div class="epg-dia">00:55  Notícies 3/24</div>
+				<div class="epg-dia">06:00  Notícies 3/24</div>
+				<div class="epg-dia">11:00  Planta baixa</div>
+				<div class="epg-dia">14:30  Telenotícies migdia</div>
+				<div class="epg-dia">15:50  Cuines</div>
+				<div class="epg-dia">16:05  Cuines</div>
+				<div class="epg-dia">16:20  Jo també em quedo a casa</div>
+				<div class="epg-dia">16:35  Joc de cartes</div>
+				<div class="epg-dia">17:35  Tot es mou</div>
+				<div class="epg-dia">20:30  Està passant</div>
+				<div class="epg-dia">21:00  Telenotícies vespre</div>
+				<div class="epg-dia">22:15  Primera línia</div>
+				<div class="epg-dia">22:25  Sense ficció</div>
+				<div class="epg-dia">23:35  Sense ficció</div>
+			</div>
+			<div id="TV3_2" style="display:none">
+				<div class="epg-dia">00:45  Còmics</div>
+				<div class="epg-dia">01:52  Notícies 3/24</div>
+				<div class="epg-dia">06:00  Notícies 3/24</div>
+				<div class="epg-dia">11:00  Planta baixa</div>
+				<div class="epg-dia">14:30  Telenotícies migdia</div>
+				<div class="epg-dia">15:50  Cuines</div>
+				<div class="epg-dia">16:05  Cuines</div>
+				<div class="epg-dia">16:20  Jo també em quedo a casa</div>
+				<div class="epg-dia">16:35  Joc de cartes</div>
+				<div class="epg-dia">17:35  Tot es mou</div>
+				<div class="epg-dia">20:30  Està passant</div>
+				<div class="epg-dia">21:00  Telenotícies vespre</div>
+				<div class="epg-dia">22:15  Tabús</div>
+				<div class="epg-dia">23:30  L'ofici de viure</div>
+			</div>
+
+			<div id="3 24_0" style="display:none">
+				<div class="epg-dia">06:00  Notícies 3/24</div>
+				<div class="epg-dia">06:30  Notícies 3/24</div>
+				<div class="epg-dia">07:00  Notícies 3/24</div>
+				<div class="epg-dia">07:30  Notícies 3/24</div>
+				<div class="epg-dia">08:00  Notícies 3/24</div>
+				<div class="epg-dia">08:30  Notícies 3/24</div>
+				<div class="epg-dia">09:00  Notícies 3/24</div>
+				<div class="epg-dia">09:30  Notícies 3/24</div>
+				<div class="epg-dia">10:00  Notícies 3/24</div>
+				<div class="epg-dia">10:30  Notícies 3/24</div>
+				<div class="epg-dia">11:00  Notícies 3/24</div>
+				<div class="epg-dia">11:30  Notícies 3/24</div>
+				<div class="epg-dia">12:00  Notícies 3/24</div>
+				<div class="epg-dia">12:30  Notícies 3/24</div>
+				<div class="epg-dia">13:00  Notícies 3/24</div>
+				<div class="epg-dia">13:20  Planta baixa</div>
+				<div class="epg-dia">14:30  Telenotícies migdia</div>
+				<div class="epg-dia">15:50  Cuines</div>
+				<div class="epg-dia">16:06  Joc de cartes estiu</div>
+				<div class="epg-dia">17:01  L'editor de llibres</div>
+				<div class="epg-dia">18:40  El somriure de la Mona Lisa</div>
+				<div class="epg-dia">20:35  No tenim vergonya</div>
+				<div class="epg-dia">21:00  Telenotícies vespre</div>
+				<div class="epg-dia">22:15  Les de l'hoquei</div>
+				<div class="epg-dia">23:15  El suplent</div>
+			</div>
+			<div id="3 24_1" style="display:none">
+				<div class="epg-dia">00:05  El último reino</div>
+				<div class="epg-dia">00:55  Notícies 3/24</div>
+				<div class="epg-dia">01:10  Notícies 3/24</div>
+				<div class="epg-dia">01:30  Notícies 3/24</div>
+				<div class="epg-dia">02:00  Notícies 3/24</div>
+				<div class="epg-dia">02:30  Notícies 3/24</div>
+				<div class="epg-dia">03:00  Notícies 3/24</div>
+				<div class="epg-dia">03:30  Notícies 3/24</div>
+				<div class="epg-dia">04:00  Notícies 3/24</div>
+				<div class="epg-dia">04:30  Notícies 3/24</div>
+				<div class="epg-dia">05:00  Notícies 3/24</div>
+				<div class="epg-dia">05:30  Notícies 3/24</div>
+				<div class="epg-dia">06:00  Notícies 3/24</div>
+				<div class="epg-dia">06:30  Notícies 3/24</div>
+				<div class="epg-dia">07:00  Notícies 3/24</div>
+				<div class="epg-dia">07:30  Notícies 3/24</div>
+				<div class="epg-dia">08:00  Notícies 3/24</div>
+				<div class="epg-dia">08:30  Notícies 3/24</div>
+				<div class="epg-dia">09:00  Notícies 3/24</div>
+				<div class="epg-dia">09:30  Notícies 3/24</div>
+				<div class="epg-dia">10:00  Notícies 3/24</div>
+				<div class="epg-dia">10:30  Notícies 3/24</div>
+				<div class="epg-dia">11:00  Planta baixa</div>
+				<div class="epg-dia">14:30  Telenotícies migdia</div>
+				<div class="epg-dia">15:50  Cuines</div>
+				<div class="epg-dia">16:05  Cuines</div>
+				<div class="epg-dia">16:20  Jo també em quedo a casa</div>
+				<div class="epg-dia">16:35  Joc de cartes</div>
+				<div class="epg-dia">17:35  Tot es mou</div>
+				<div class="epg-dia">20:30  Està passant</div>
+				<div class="epg-dia">21:00  Telenotícies vespre</div>
+				<div class="epg-dia">22:15  Primera línia</div>
+				<div class="epg-dia">22:25  Sense ficció</div>
+				<div class="epg-dia">23:35  Buscant l'Oremus</div>
+			</div>
+			<div id="3 24_2" style="display:none">
+				<div class="epg-dia">00:45  Còmics</div>
+				<div class="epg-dia">01:52  Notícies 3/24</div>
+				<div class="epg-dia">02:00  Notícies 3/24</div>
+				<div class="epg-dia">02:30  Notícies 3/24</div>
+				<div class="epg-dia">03:00  Notícies 3/24</div>
+				<div class="epg-dia">03:30  Notícies 3/24</div>
+				<div class="epg-dia">04:00  Notícies 3/24</div>
+				<div class="epg-dia">04:30  Notícies 3/24</div>
+				<div class="epg-dia">05:00  Notícies 3/24</div>
+				<div class="epg-dia">05:30  Notícies 3/24</div>
+				<div class="epg-dia">06:00  Notícies 3/24</div>
+				<div class="epg-dia">06:30  Notícies 3/24</div>
+				<div class="epg-dia">07:00  Notícies 3/24</div>
+				<div class="epg-dia">07:30  Notícies 3/24</div>
+				<div class="epg-dia">08:00  Notícies 3/24</div>
+				<div class="epg-dia">08:30  Notícies 3/24</div>
+				<div class="epg-dia">09:00  Notícies 3/24</div>
+				<div class="epg-dia">09:30  Notícies 3/24</div>
+				<div class="epg-dia">10:00  Notícies 3/24</div>
+				<div class="epg-dia">10:30  Notícies 3/24</div>
+				<div class="epg-dia">11:00  Planta baixa</div>
+				<div class="epg-dia">14:30  Telenotícies migdia</div>
+				<div class="epg-dia">15:50  Cuines</div>
+				<div class="epg-dia">16:05  Cuines</div>
+				<div class="epg-dia">16:20  Jo també em quedo a casa</div>
+				<div class="epg-dia">16:35  Joc de cartes</div>
+				<div class="epg-dia">17:35  Tot es mou</div>
+				<div class="epg-dia">20:30  Està passant</div>
+				<div class="epg-dia">21:00  Telenotícies vespre</div>
+				<div class="epg-dia">22:15  Tabús</div>
+				<div class="epg-dia">23:30  L'ofici de viure</div>
+			</div>
+
+			<div id="Super3-C33_0" style="display:none">
+				<div class="epg-dia">06:00  Megamínimals</div>
+				<div class="epg-dia">06:06  Megamínimals</div>
+				<div class="epg-dia">06:12  Megamínimals</div>
+				<div class="epg-dia">06:17  Megamínimals</div>
+				<div class="epg-dia">06:23  Megamínimals</div>
+				<div class="epg-dia">06:28  Megamínimals</div>
+				<div class="epg-dia">06:38  Les tres bessones</div>
+				<div class="epg-dia">07:05  Les tres bessones</div>
+				<div class="epg-dia">07:32  Dinotren</div>
+				<div class="epg-dia">07:44  Dinotren</div>
+				<div class="epg-dia">07:58  El Mic i els seus amics</div>
+				<div class="epg-dia">08:23  El dia que el Henry va conèixer</div>
+				<div class="epg-dia">08:28  El dia que el Henry va conèixer</div>
+				<div class="epg-dia">08:33  El dia que el Henry va conèixer</div>
+				<div class="epg-dia">08:40  La caleta de la Lily</div>
+				<div class="epg-dia">08:47  La caleta de la Lily</div>
+				<div class="epg-dia">08:53  La caleta de la Lily</div>
+				<div class="epg-dia">09:05  Espies de veritat</div>
+				<div class="epg-dia">10:29  El regne de les granotes. Missió a l'Àrtic</div>
+				<div class="epg-dia">11:53  Khumba</div>
+				<div class="epg-dia">13:11  El xai Shaun</div>
+				<div class="epg-dia">13:17  El xai Shaun</div>
+				<div class="epg-dia">13:23  El xai Shaun</div>
+				<div class="epg-dia">13:29  El xai Shaun</div>
+				<div class="epg-dia">13:35  El xai Shaun</div>
+				<div class="epg-dia">13:41  El xai Shaun</div>
+				<div class="epg-dia">13:47  El xai Shaun</div>
+				<div class="epg-dia">13:53  El xai Shaun</div>
+				<div class="epg-dia">13:59  El xai Shaun</div>
+				<div class="epg-dia">14:05  El xai Shaun</div>
+				<div class="epg-dia">14:16  El secret del llibre de Kells</div>
+				<div class="epg-dia">15:30  Ballerina</div>
+				<div class="epg-dia">16:53  Una mà de contes</div>
+				<div class="epg-dia">17:01  Una mà de contes</div>
+				<div class="epg-dia">17:07  Una mà de contes</div>
+				<div class="epg-dia">17:15  Una mà de contes</div>
+				<div class="epg-dia">17:21  Una mà de contes</div>
+				<div class="epg-dia">17:29  El Mic i els seus amics</div>
+				<div class="epg-dia">17:55  El dia que el Henry va conèixer</div>
+				<div class="epg-dia">18:00  El dia que el Henry va conèixer</div>
+				<div class="epg-dia">18:04  El dia que el Henry va conèixer</div>
+				<div class="epg-dia">18:10  Oddbods</div>
+				<div class="epg-dia">18:17  Oddbods</div>
+				<div class="epg-dia">18:25  Oddbods</div>
+				<div class="epg-dia">18:32  Oddbods</div>
+				<div class="epg-dia">18:40  Els germans Kratt</div>
+				<div class="epg-dia">19:01  Els germans Kratt</div>
+				<div class="epg-dia">19:25  Robin Hood, el trapella de Sherwood</div>
+				<div class="epg-dia">19:36  Robin Hood, el trapella de Sherwood</div>
+				<div class="epg-dia">19:48  Robin Hood, el trapella de Sherwood</div>
+				<div class="epg-dia">20:03  Prodigiosa</div>
+				<div class="epg-dia">20:24  Prodigiosa</div>
+				<div class="epg-dia">20:46  Prodigiosa</div>
+				<div class="epg-dia">21:09  Les Sisters</div>
+				<div class="epg-dia">21:20  Les Sisters</div>
+				<div class="epg-dia">21:32  Les Sisters</div>
+				<div class="epg-dia">21:43  Les Sisters</div>
+				<div class="epg-dia">21:55  El gran dictat</div>
+				<div class="epg-dia">22:09  La rebotiga de l'òpera</div>
+			</div>
+			<div id="Super3-C33_1" style="display:none">
+				<div class="epg-dia">00:14  Porca Misèria</div>
+				<div class="epg-dia">01:12  Los fuera de la ley</div>
+				<div class="epg-dia">01:58  Fuerzas de la naturaleza: Forma</div>
+				<div class="epg-dia">02:47  Ben Fogle: New Lives In The Wild: Isla de Rum</div>
+				<div class="epg-dia">03:31  Cuina nòrdica amb Tareq Taylor</div>
+				<div class="epg-dia">04:00  Karakia</div>
+				<div class="epg-dia">04:36  Thalassa</div>
+				<div class="epg-dia">05:00  El Faro</div>
+				<div class="epg-dia">05:47  Videoclips catalans</div>
+				<div class="epg-dia">06:00  Megamínimals</div>
+				<div class="epg-dia">06:06  Megamínimals</div>
+				<div class="epg-dia">06:12  Megamínimals</div>
+				<div class="epg-dia">06:18  Dracs</div>
+				<div class="epg-dia">06:43  Les tres bessones</div>
+				<div class="epg-dia">07:08  Les tres bessones</div>
+				<div class="epg-dia">07:31  Zafari</div>
+				<div class="epg-dia">07:43  Zafari</div>
+				<div class="epg-dia">08:00  Robin Hood, el trapella de Sherwood</div>
+				<div class="epg-dia">08:11  Robin Hood, el trapella de Sherwood</div>
+				<div class="epg-dia">08:22  Robin Hood, el trapella de Sherwood</div>
+				<div class="epg-dia">08:33  Robin Hood, el trapella de Sherwood</div>
+				<div class="epg-dia">08:46  El dia que el Henry va conèixer</div>
+				<div class="epg-dia">08:51  El dia que el Henry va conèixer</div>
+				<div class="epg-dia">08:56  El dia que el Henry va conèixer</div>
+				<div class="epg-dia">09:01  El Mic i els seus amics</div>
+				<div class="epg-dia">09:26  WOW! English Method</div>
+				<div class="epg-dia">09:30  WOW! English Method</div>
+				<div class="epg-dia">09:31  Comptem amb la Paula</div>
+				<div class="epg-dia">09:42  Comptem amb la Paula</div>
+				<div class="epg-dia">09:53  La caleta de la Lily</div>
+				<div class="epg-dia">10:00  BabyRiki</div>
+				<div class="epg-dia">10:05  WOW! English Method</div>
+				<div class="epg-dia">10:17  Dinàmiks</div>
+				<div class="epg-dia">10:45  Veterinaris</div>
+				<div class="epg-dia">11:16  Els germans Kratt</div>
+				<div class="epg-dia">11:39  Els germans Kratt</div>
+				<div class="epg-dia">12:03  Yakari</div>
+				<div class="epg-dia">12:15  Yakari</div>
+				<div class="epg-dia">12:26  Yakari</div>
+				<div class="epg-dia">12:41  Grizzy y los lemmings</div>
+				<div class="epg-dia">12:47  Grizzy y los lemmings</div>
+				<div class="epg-dia">12:54  Grizzy y los lemmings</div>
+				<div class="epg-dia">13:00  Grizzy y los lemmings</div>
+				<div class="epg-dia">13:07  Grizzy y los lemmings</div>
+				<div class="epg-dia">13:13  Grizzy y los lemmings</div>
+				<div class="epg-dia">13:20  Grizzy y los lemmings</div>
+				<div class="epg-dia">13:26  Grizzy y los lemmings</div>
+				<div class="epg-dia">13:33  Grizzy y los lemmings</div>
+				<div class="epg-dia">13:42  Prodigiosa</div>
+				<div class="epg-dia">14:05  Les Sisters</div>
+				<div class="epg-dia">14:16  Les Sisters</div>
+				<div class="epg-dia">14:27  Les Sisters</div>
+				<div class="epg-dia">14:40  Les Sisters</div>
+				<div class="epg-dia">14:51  Les Sisters</div>
+				<div class="epg-dia">15:02  Les Sisters</div>
+				<div class="epg-dia">15:16  Manduka: Crema de carbassa divertida</div>
+				<div class="epg-dia">15:50  El xai Shaun</div>
+				<div class="epg-dia">15:56  El xai Shaun</div>
+				<div class="epg-dia">16:02  El xai Shaun</div>
+				<div class="epg-dia">16:10  Les tres bessones</div>
+				<div class="epg-dia">16:33  Les tres bessones</div>
+				<div class="epg-dia">16:56  Comptem amb la Paula</div>
+				<div class="epg-dia">17:07  Comptem amb la Paula</div>
+				<div class="epg-dia">17:16  Comptem amb la Paula</div>
+				<div class="epg-dia">17:26  El Mic i els seus amics</div>
+				<div class="epg-dia">17:53  El dia que el Henry va conèixer</div>
+				<div class="epg-dia">17:58  El dia que el Henry va conèixer</div>
+				<div class="epg-dia">18:03  Una mà de contes</div>
+				<div class="epg-dia">18:11  Una mà de contes</div>
+				<div class="epg-dia">18:22  Oddbods</div>
+				<div class="epg-dia">18:29  Oddbods</div>
+				<div class="epg-dia">18:36  Oddbods</div>
+				<div class="epg-dia">18:44  Els germans Kratt</div>
+				<div class="epg-dia">19:06  Els germans Kratt</div>
+				<div class="epg-dia">19:30  InfoK</div>
+				<div class="epg-dia">19:46  Robin Hood, el trapella de Sherwood</div>
+				<div class="epg-dia">19:57  Robin Hood, el trapella de Sherwood</div>
+				<div class="epg-dia">20:10  Robin Hood, el trapella de Sherwood</div>
+				<div class="epg-dia">20:21  Robin Hood, el trapella de Sherwood</div>
+				<div class="epg-dia">20:34  InfoK</div>
+				<div class="epg-dia">20:50  Dinàmiks</div>
+				<div class="epg-dia">21:21  Caminos para ir a la escuela: El camino para ir a la escuela de Luz Maria</div>
+				<div class="epg-dia">21:47  Grizzy y los lemmings</div>
+				<div class="epg-dia">21:55  El gran dictat</div>
+				<div class="epg-dia">22:10  Tot el temps del món</div>
+				<div class="epg-dia">22:52  L'enigma Verdaguer</div>
+			</div>
+			<div id="Super3-C33_2" style="display:none">
+				<div class="epg-dia">00:31  Porca Misèria</div>
+				<div class="epg-dia">01:28  Tot el temps del món</div>
+				<div class="epg-dia">02:10  Fuerzas de la naturaleza: Movimiento</div>
+				<div class="epg-dia">02:59  Ben Fogle: New Lives In The Wild</div>
+				<div class="epg-dia">03:42  Cuina nòrdica amb Tareq Taylor</div>
+				<div class="epg-dia">04:11  Karakia</div>
+				<div class="epg-dia">04:47  Thalassa</div>
+				<div class="epg-dia">05:05  El Faro</div>
+				<div class="epg-dia">05:54  Videoclips catalans</div>
+				<div class="epg-dia">06:00  Megamínimals</div>
+				<div class="epg-dia">06:05  Megamínimals</div>
+				<div class="epg-dia">06:11  Megamínimals</div>
+				<div class="epg-dia">06:19  Dracs</div>
+				<div class="epg-dia">06:42  Les tres bessones</div>
+				<div class="epg-dia">07:06  Les tres bessones</div>
+				<div class="epg-dia">07:32  Zafari</div>
+				<div class="epg-dia">07:44  Zafari</div>
+				<div class="epg-dia">07:57  Robin Hood, el trapella de Sherwood</div>
+				<div class="epg-dia">08:08  Robin Hood, el trapella de Sherwood</div>
+				<div class="epg-dia">08:20  Robin Hood, el trapella de Sherwood</div>
+				<div class="epg-dia">08:32  Robin Hood, el trapella de Sherwood</div>
+				<div class="epg-dia">08:45  El dia que el Henry va conèixer</div>
+				<div class="epg-dia">08:49  El dia que el Henry va conèixer</div>
+				<div class="epg-dia">08:54  El dia que el Henry va conèixer</div>
+				<div class="epg-dia">09:00  El Mic i els seus amics</div>
+				<div class="epg-dia">09:28  WOW! English Method</div>
+				<div class="epg-dia">09:34  Comptem amb la Paula</div>
+				<div class="epg-dia">09:43  La caleta de la Lily</div>
+				<div class="epg-dia">09:49  BabyRiki</div>
+				<div class="epg-dia">09:54  WOW! English Method</div>
+				<div class="epg-dia">10:00  InfoK</div>
+				<div class="epg-dia">10:17  Dinàmiks</div>
+				<div class="epg-dia">10:47  Veterinaris</div>
+				<div class="epg-dia">11:19  Els germans Kratt</div>
+				<div class="epg-dia">11:41  Els germans Kratt</div>
+				<div class="epg-dia">12:05  Yakari</div>
+				<div class="epg-dia">12:17  Yakari</div>
+				<div class="epg-dia">12:29  Yakari</div>
+				<div class="epg-dia">12:41  Grizzy y los lemmings</div>
+				<div class="epg-dia">12:47  Grizzy y los lemmings</div>
+				<div class="epg-dia">12:54  Grizzy y los lemmings</div>
+				<div class="epg-dia">13:01  Grizzy y los lemmings</div>
+				<div class="epg-dia">13:07  Grizzy y los lemmings</div>
+				<div class="epg-dia">13:14  Grizzy y los lemmings</div>
+				<div class="epg-dia">13:21  Grizzy y los lemmings</div>
+				<div class="epg-dia">13:27  Grizzy y los lemmings</div>
+				<div class="epg-dia">13:34  Grizzy y los lemmings</div>
+				<div class="epg-dia">13:42  Prodigiosa</div>
+				<div class="epg-dia">14:06  Les Sisters</div>
+				<div class="epg-dia">14:17  Les Sisters</div>
+				<div class="epg-dia">14:29  Les Sisters</div>
+				<div class="epg-dia">14:40  Les Sisters</div>
+				<div class="epg-dia">14:52  Les Sisters</div>
+				<div class="epg-dia">15:03  Les Sisters</div>
+				<div class="epg-dia">15:17  Manduka: Inundació de tomàquet</div>
+				<div class="epg-dia">15:40  El xai Shaun</div>
+				<div class="epg-dia">15:46  El xai Shaun</div>
+				<div class="epg-dia">15:53  El xai Shaun</div>
+				<div class="epg-dia">16:00  El xai Shaun</div>
+				<div class="epg-dia">16:09  Les tres bessones</div>
+				<div class="epg-dia">16:33  Les tres bessones</div>
+				<div class="epg-dia">16:58  Comptem amb la Paula</div>
+				<div class="epg-dia">17:08  Comptem amb la Paula</div>
+				<div class="epg-dia">17:19  Comptem amb la Paula</div>
+				<div class="epg-dia">17:30  El Mic i els seus amics</div>
+				<div class="epg-dia">17:56  El dia que el Henry va conèixer</div>
+				<div class="epg-dia">18:01  El dia que el Henry va conèixer</div>
+				<div class="epg-dia">18:06  Una mà de contes</div>
+				<div class="epg-dia">18:13  Una mà de contes</div>
+				<div class="epg-dia">18:24  Oddbods</div>
+				<div class="epg-dia">18:31  Oddbods</div>
+				<div class="epg-dia">18:38  Oddbods</div>
+				<div class="epg-dia">18:46  Els germans Kratt</div>
+				<div class="epg-dia">19:07  Els germans Kratt</div>
+				<div class="epg-dia">19:30  InfoK</div>
+				<div class="epg-dia">19:45  Robin Hood, el trapella de Sherwood</div>
+				<div class="epg-dia">19:56  Robin Hood, el trapella de Sherwood</div>
+				<div class="epg-dia">20:07  Robin Hood, el trapella de Sherwood</div>
+				<div class="epg-dia">20:18  Robin Hood, el trapella de Sherwood</div>
+				<div class="epg-dia">20:31  InfoK</div>
+				<div class="epg-dia">20:47  Dinàmiks</div>
+				<div class="epg-dia">21:18  Caminos para ir a la escuela: El camino para ir a la escuela de Israel</div>
+				<div class="epg-dia">21:45  Grizzy y los lemmings</div>
+				<div class="epg-dia">21:50  Grizzy y los lemmings</div>
+				<div class="epg-dia">21:55  El gran dictat</div>
+				<div class="epg-dia">22:10  Tot el temps del món</div>
+				<div class="epg-dia">22:40  Incerta glòria</div>
+			</div>
+
+			<div id="Esport 3_0" style="display:none">
+				<div class="epg-dia">06:00  Megamínimals</div>
+				<div class="epg-dia">06:03  Programes Externs Esports</div>
+				<div class="epg-dia">06:06  Megamínimals</div>
+				<div class="epg-dia">06:12  Megamínimals</div>
+				<div class="epg-dia">06:17  Megamínimals</div>
+				<div class="epg-dia">06:23  Megamínimals</div>
+				<div class="epg-dia">06:28  Megamínimals</div>
+				<div class="epg-dia">06:38  Les tres bessones</div>
+				<div class="epg-dia">07:05  Les tres bessones</div>
+				<div class="epg-dia">07:32  Dinotren</div>
+				<div class="epg-dia">07:44  Dinotren</div>
+				<div class="epg-dia">07:58  El Mic i els seus amics</div>
+				<div class="epg-dia">08:23  El dia que el Henry va conèixer</div>
+				<div class="epg-dia">08:28  El dia que el Henry va conèixer</div>
+				<div class="epg-dia">08:33  El dia que el Henry va conèixer</div>
+				<div class="epg-dia">08:40  La caleta de la Lily</div>
+				<div class="epg-dia">08:47  La caleta de la Lily</div>
+				<div class="epg-dia">08:53  La caleta de la Lily</div>
+				<div class="epg-dia">09:05  Espies de veritat</div>
+				<div class="epg-dia">10:29  El regne de les granotes. Missió a l'Àrtic</div>
+				<div class="epg-dia">11:53  Khumba</div>
+				<div class="epg-dia">13:11  El xai Shaun</div>
+				<div class="epg-dia">13:17  El xai Shaun</div>
+				<div class="epg-dia">13:23  El xai Shaun</div>
+				<div class="epg-dia">13:29  El xai Shaun</div>
+				<div class="epg-dia">13:35  El xai Shaun</div>
+				<div class="epg-dia">13:41  El xai Shaun</div>
+				<div class="epg-dia">13:47  El xai Shaun</div>
+				<div class="epg-dia">13:53  El xai Shaun</div>
+				<div class="epg-dia">13:59  El xai Shaun</div>
+				<div class="epg-dia">14:05  El xai Shaun</div>
+				<div class="epg-dia">14:16  El secret del llibre de Kells</div>
+				<div class="epg-dia">15:30  Ballerina</div>
+				<div class="epg-dia">16:53  Una mà de contes</div>
+				<div class="epg-dia">17:01  Una mà de contes</div>
+				<div class="epg-dia">17:07  Una mà de contes</div>
+				<div class="epg-dia">17:15  Una mà de contes</div>
+				<div class="epg-dia">17:21  Una mà de contes</div>
+				<div class="epg-dia">17:29  El Mic i els seus amics</div>
+				<div class="epg-dia">17:55  El dia que el Henry va conèixer</div>
+				<div class="epg-dia">18:00  El dia que el Henry va conèixer</div>
+				<div class="epg-dia">18:04  El dia que el Henry va conèixer</div>
+				<div class="epg-dia">18:10  Oddbods</div>
+				<div class="epg-dia">18:17  Oddbods</div>
+				<div class="epg-dia">18:25  Oddbods</div>
+				<div class="epg-dia">18:32  Oddbods</div>
+				<div class="epg-dia">18:40  Els germans Kratt</div>
+				<div class="epg-dia">19:01  Els germans Kratt</div>
+				<div class="epg-dia">19:25  Robin Hood, el trapella de Sherwood</div>
+				<div class="epg-dia">19:36  Robin Hood, el trapella de Sherwood</div>
+				<div class="epg-dia">19:48  Robin Hood, el trapella de Sherwood</div>
+				<div class="epg-dia">20:03  Prodigiosa</div>
+				<div class="epg-dia">20:24  Prodigiosa</div>
+				<div class="epg-dia">20:46  Prodigiosa</div>
+				<div class="epg-dia">21:09  Les Sisters</div>
+				<div class="epg-dia">21:20  Les Sisters</div>
+				<div class="epg-dia">21:32  Les Sisters</div>
+				<div class="epg-dia">21:43  Les Sisters</div>
+				<div class="epg-dia">21:56  Zona Zàping</div>
+				<div class="epg-dia">22:33  Programes Externs Esports</div>
+				<div class="epg-dia">23:06  Kilian Jornet, el comptador de llacs</div>
+			</div>
+			<div id="Esport 3_1" style="display:none">
+				<div class="epg-dia">00:04  Especials d'esports: 360</div>
+				<div class="epg-dia">00:16  Alpinisme</div>
+				<div class="epg-dia">02:40  El cercle de Mingote</div>
+				<div class="epg-dia">03:13  Transmissions esportives</div>
+				<div class="epg-dia">06:00  Megamínimals</div>
+				<div class="epg-dia">06:06  Megamínimals</div>
+				<div class="epg-dia">06:12  Megamínimals</div>
+				<div class="epg-dia">06:18  Dracs</div>
+				<div class="epg-dia">06:43  Les tres bessones</div>
+				<div class="epg-dia">07:08  Les tres bessones</div>
+				<div class="epg-dia">07:31  Zafari</div>
+				<div class="epg-dia">07:43  Zafari</div>
+				<div class="epg-dia">08:00  Robin Hood, el trapella de Sherwood</div>
+				<div class="epg-dia">08:11  Robin Hood, el trapella de Sherwood</div>
+				<div class="epg-dia">08:22  Robin Hood, el trapella de Sherwood</div>
+				<div class="epg-dia">08:33  Robin Hood, el trapella de Sherwood</div>
+				<div class="epg-dia">08:46  El dia que el Henry va conèixer</div>
+				<div class="epg-dia">08:51  El dia que el Henry va conèixer</div>
+				<div class="epg-dia">08:56  El dia que el Henry va conèixer</div>
+				<div class="epg-dia">09:01  El Mic i els seus amics</div>
+				<div class="epg-dia">09:26  WOW! English Method</div>
+				<div class="epg-dia">09:30  WOW! English Method</div>
+				<div class="epg-dia">09:31  Comptem amb la Paula</div>
+				<div class="epg-dia">09:42  Comptem amb la Paula</div>
+				<div class="epg-dia">09:53  La caleta de la Lily</div>
+				<div class="epg-dia">10:00  BabyRiki</div>
+				<div class="epg-dia">10:05  WOW! English Method</div>
+				<div class="epg-dia">10:17  Dinàmiks</div>
+				<div class="epg-dia">10:45  Veterinaris</div>
+				<div class="epg-dia">11:16  Els germans Kratt</div>
+				<div class="epg-dia">11:39  Els germans Kratt</div>
+				<div class="epg-dia">12:03  Yakari</div>
+				<div class="epg-dia">12:15  Yakari</div>
+				<div class="epg-dia">12:26  Yakari</div>
+				<div class="epg-dia">12:41  Grizzy y los lemmings</div>
+				<div class="epg-dia">12:47  Grizzy y los lemmings</div>
+				<div class="epg-dia">12:54  Grizzy y los lemmings</div>
+				<div class="epg-dia">13:00  Grizzy y los lemmings</div>
+				<div class="epg-dia">13:07  Grizzy y los lemmings</div>
+				<div class="epg-dia">13:13  Grizzy y los lemmings</div>
+				<div class="epg-dia">13:20  Grizzy y los lemmings</div>
+				<div class="epg-dia">13:26  Grizzy y los lemmings</div>
+				<div class="epg-dia">13:33  Grizzy y los lemmings</div>
+				<div class="epg-dia">13:42  Prodigiosa</div>
+				<div class="epg-dia">14:05  Les Sisters</div>
+				<div class="epg-dia">14:16  Les Sisters</div>
+				<div class="epg-dia">14:27  Les Sisters</div>
+				<div class="epg-dia">14:40  Les Sisters</div>
+				<div class="epg-dia">14:51  Les Sisters</div>
+				<div class="epg-dia">15:02  Les Sisters</div>
+				<div class="epg-dia">15:16  Manduka: Crema de carbassa divertida</div>
+				<div class="epg-dia">15:50  El xai Shaun</div>
+				<div class="epg-dia">15:56  El xai Shaun</div>
+				<div class="epg-dia">16:02  El xai Shaun</div>
+				<div class="epg-dia">16:10  Les tres bessones</div>
+				<div class="epg-dia">16:33  Les tres bessones</div>
+				<div class="epg-dia">16:56  Comptem amb la Paula</div>
+				<div class="epg-dia">17:07  Comptem amb la Paula</div>
+				<div class="epg-dia">17:16  Comptem amb la Paula</div>
+				<div class="epg-dia">17:26  El Mic i els seus amics</div>
+				<div class="epg-dia">17:53  El dia que el Henry va conèixer</div>
+				<div class="epg-dia">17:58  El dia que el Henry va conèixer</div>
+				<div class="epg-dia">18:03  Una mà de contes</div>
+				<div class="epg-dia">18:11  Una mà de contes</div>
+				<div class="epg-dia">18:22  Oddbods</div>
+				<div class="epg-dia">18:29  Oddbods</div>
+				<div class="epg-dia">18:36  Oddbods</div>
+				<div class="epg-dia">18:44  Els germans Kratt</div>
+				<div class="epg-dia">19:06  Els germans Kratt</div>
+				<div class="epg-dia">19:30  InfoK</div>
+				<div class="epg-dia">19:46  Robin Hood, el trapella de Sherwood</div>
+				<div class="epg-dia">19:57  Robin Hood, el trapella de Sherwood</div>
+				<div class="epg-dia">20:10  Robin Hood, el trapella de Sherwood</div>
+				<div class="epg-dia">20:21  Robin Hood, el trapella de Sherwood</div>
+				<div class="epg-dia">20:34  InfoK</div>
+				<div class="epg-dia">20:50  Dinàmiks</div>
+				<div class="epg-dia">21:21  Caminos para ir a la escuela: El camino para ir a la escuela de Luz Maria</div>
+				<div class="epg-dia">21:47  Grizzy y los lemmings</div>
+				<div class="epg-dia">21:56  Zona UFEC</div>
+				<div class="epg-dia">22:07  Ferran Latorre, camí cap als 8.000</div>
+				<div class="epg-dia">22:58  Una línia fina</div>
+				<div class="epg-dia">23:52  L'altra cara del K2</div>
+			</div>
+			<div id="Esport 3_2" style="display:none">
+				<div class="epg-dia">00:36  Hem fet el cim</div>
+				<div class="epg-dia">01:27  El misteri de l'Everest</div>
+				<div class="epg-dia">02:22  El cercle de Mingote</div>
+				<div class="epg-dia">02:53  Transmissions esportives</div>
+				<div class="epg-dia">21:55  Programes Externs Esports</div>
+				<div class="epg-dia">22:10  Programes Externs Esports</div>
+				<div class="epg-dia">22:33  Programes Externs Esports</div>
+				<div class="epg-dia">23:00  Una línia fina</div>
+			</div>
+
+			<div id="Canal Terres de l'Ebre_0" style="display:none">
+				<div class="epg-dia">EPG NO DISPONIBLE</div>
+			</div>
+			<div id="Canal Terres de l'Ebre_1" style="display:none">
+				<div class="epg-dia">EPG NO DISPONIBLE</div>
+			</div>
+			<div id="Canal Terres de l'Ebre_2" style="display:none">
+				<div class="epg-dia">EPG NO DISPONIBLE</div>
+			</div>
+			<div id="Canal Extremadura_0" style="display:none">
+				<div class="epg-dia">05:45  Extremadura Noticias Fin de semana</div>
+				<div class="epg-dia">06:10  Desde el balcón</div>
+				<div class="epg-dia">06:30  Trastos y tesoros</div>
+				<div class="epg-dia">07:25  Extrenatura</div>
+				<div class="epg-dia">08:00  Primera Hora</div>
+				<div class="epg-dia">08:55  Ahora Extremadura</div>
+				<div class="epg-dia">09:30  Larga vida al rey Julien</div>
+				<div class="epg-dia">09:50  Egyxos</div>
+				<div class="epg-dia">10:15  Mia and me</div>
+				<div class="epg-dia">10:35  Tashi</div>
+				<div class="epg-dia">10:50  The Shadownsters</div>
+				<div class="epg-dia">10:55  El huerto de Renato</div>
+				<div class="epg-dia">11:50  Veterinarios de Extremadura</div>
+				<div class="epg-dia">12:40  Desde el balcón</div>
+				<div class="epg-dia">13:00  A esta hora</div>
+				<div class="epg-dia">13:25  Entre caldos y viandas</div>
+				<div class="epg-dia">13:57  Extremadura Noticias 1</div>
+				<div class="epg-dia">14:25  Psych</div>
+				<div class="epg-dia">15:10  El camino del pino solitario</div>
+				<div class="epg-dia">16:45  A esta hora</div>
+				<div class="epg-dia">18:55  A esta hora</div>
+				<div class="epg-dia">20:30  Extremadura Noticias 2</div>
+				<div class="epg-dia">21:00  Desde el balcón</div>
+				<div class="epg-dia">21:20  Puerta con puerta</div>
+				<div class="epg-dia">22:10  Cazadores de lances</div>
+				<div class="epg-dia">23:55  X La Cara</div>
+			</div>
+			<div id="Canal Extremadura_1" style="display:none">
+				<div class="epg-dia">00:25  De otra manera</div>
+				<div class="epg-dia">01:20  El huerto de Renato</div>
+				<div class="epg-dia">02:15  Interferencias.tv</div>
+				<div class="epg-dia">02:25  Extremadura Noticias 2</div>
+				<div class="epg-dia">03:00  Con permiso rural</div>
+				<div class="epg-dia">03:50  A esta hora</div>
+				<div class="epg-dia">06:00  A esta hora</div>
+				<div class="epg-dia">07:30  Extrenatura</div>
+				<div class="epg-dia">08:00  Primera Hora</div>
+				<div class="epg-dia">09:00  Ahora Extremadura</div>
+				<div class="epg-dia">09:30  Larga vida al rey Julien</div>
+				<div class="epg-dia">09:55  Egyxos</div>
+				<div class="epg-dia">10:15  Mia and me</div>
+				<div class="epg-dia">10:35  Tashi</div>
+				<div class="epg-dia">10:50  The Shadownsters</div>
+				<div class="epg-dia">11:00  El huerto de Renato</div>
+				<div class="epg-dia">11:55  Veterinarios de Extremadura</div>
+				<div class="epg-dia">12:50  Desde el balcón</div>
+				<div class="epg-dia">13:00  A esta hora</div>
+				<div class="epg-dia">13:25  Entre caldos y viandas</div>
+				<div class="epg-dia">13:57  Extremadura Noticias 1</div>
+				<div class="epg-dia">14:35  Psych</div>
+				<div class="epg-dia">15:15  Para mí el oro, para ti el plomo</div>
+				<div class="epg-dia">17:00  A esta hora</div>
+				<div class="epg-dia">19:00  A esta hora</div>
+				<div class="epg-dia">20:30  Extremadura Noticias 2</div>
+				<div class="epg-dia">21:00  Desde el balcón</div>
+				<div class="epg-dia">21:20  Puerta con puerta</div>
+				<div class="epg-dia">22:15  Mujeres en la granja</div>
+				<div class="epg-dia">23:50  Hay un lugar</div>
+			</div>
+			<div id="Canal Extremadura_2" style="display:none">
+				<div class="epg-dia">00:00  X La Cara</div>
+				<div class="epg-dia">00:35  De otra manera</div>
+				<div class="epg-dia">01:30  El huerto de Renato</div>
+				<div class="epg-dia">02:10  Interferencias.tv</div>
+				<div class="epg-dia">02:30  Extremadura Noticias 2</div>
+				<div class="epg-dia">03:00  Con permiso rural</div>
+				<div class="epg-dia">04:00  A esta hora</div>
+				<div class="epg-dia">06:00  A esta hora</div>
+				<div class="epg-dia">07:30  Extrenatura</div>
+				<div class="epg-dia">08:00  Primera Hora</div>
+				<div class="epg-dia">09:00  Ahora Extremadura</div>
+				<div class="epg-dia">09:30  Larga vida al rey Julien</div>
+				<div class="epg-dia">09:55  Egyxos</div>
+				<div class="epg-dia">10:15  Mia and me</div>
+				<div class="epg-dia">10:35  Tashi</div>
+				<div class="epg-dia">10:50  The Shadownsters</div>
+				<div class="epg-dia">11:00  El huerto de Renato</div>
+				<div class="epg-dia">11:55  Veterinarios de Extremadura</div>
+				<div class="epg-dia">12:50  Desde el balcón</div>
+				<div class="epg-dia">13:00  A esta hora</div>
+				<div class="epg-dia">13:25  Entre caldos y viandas</div>
+				<div class="epg-dia">13:57  Extremadura Noticias 1</div>
+				<div class="epg-dia">14:30  Psych</div>
+				<div class="epg-dia">15:15  La pradera sin ley</div>
+				<div class="epg-dia">17:00  A esta hora</div>
+				<div class="epg-dia">19:00  A esta hora</div>
+				<div class="epg-dia">20:30  Extremadura Noticias 2</div>
+				<div class="epg-dia">21:00  Desde el balcón</div>
+				<div class="epg-dia">21:20  Puerta con puerta</div>
+				<div class="epg-dia">22:15  Velaí</div>
+				<div class="epg-dia">23:20  Velaí</div>
+			</div>
+
+			<div id="TVG_0" style="display:none">
+				<div class="epg-dia">05:50  A Revista Fin de Semana</div>
+				<div class="epg-dia">07:55  Estado do Mar</div>
+				<div class="epg-dia">08:00  Bos Días</div>
+				<div class="epg-dia">11:00  Estache bo</div>
+				<div class="epg-dia">11:25  A Revista</div>
+				<div class="epg-dia">13:50  Galicia Noticias Mediodía</div>
+				<div class="epg-dia">14:25  Telexornal Mediodía</div>
+				<div class="epg-dia">15:35  O Tempo</div>
+				<div class="epg-dia">15:45  Quen anda aí?</div>
+				<div class="epg-dia">18:25  Polo Rego</div>
+				<div class="epg-dia">18:55  Fun polo aire</div>
+				<div class="epg-dia">20:25  Telexornal Serán</div>
+				<div class="epg-dia">21:45  O Tempo</div>
+				<div class="epg-dia">21:55  Malicia noticias</div>
+				<div class="epg-dia">22:25  Desmontando Galicia</div>
+				<div class="epg-dia">23:20  Actualizad@s</div>
+			</div>
+			<div id="TVG_1" style="display:none">
+				<div class="epg-dia">00:25  Ruta a modiño por</div>
+				<div class="epg-dia">00:55  El año que vivimos peligrosamente</div>
+				<div class="epg-dia">02:45  Fun polo aire</div>
+				<div class="epg-dia">04:10  Ponte en forma</div>
+				<div class="epg-dia">04:25  Quen anda aí?</div>
+				<div class="epg-dia">07:00  TV Galicia</div>
+				<div class="epg-dia">07:20  Zigzag</div>
+				<div class="epg-dia">07:45  Estado do Mar</div>
+				<div class="epg-dia">07:50  Desconexions locais</div>
+				<div class="epg-dia">08:00  Bos Días</div>
+				<div class="epg-dia">11:05  Malicia noticias</div>
+				<div class="epg-dia">11:40  Estache bo</div>
+				<div class="epg-dia">12:00  A bóla extra</div>
+				<div class="epg-dia">12:30  A Revista</div>
+				<div class="epg-dia">13:50  Galicia Noticias Mediodía</div>
+				<div class="epg-dia">14:25  Telexornal Mediodía</div>
+				<div class="epg-dia">15:35  O Tempo</div>
+				<div class="epg-dia">15:50  Coma un allo</div>
+				<div class="epg-dia">16:35  Quen anda aí?</div>
+				<div class="epg-dia">18:55  Fun polo aire</div>
+				<div class="epg-dia">20:15  Larpeiros</div>
+				<div class="epg-dia">20:25  Telexornal Serán</div>
+				<div class="epg-dia">21:50  O Tempo</div>
+				<div class="epg-dia">21:55  Malicia noticias</div>
+				<div class="epg-dia">22:25  Larpeiros Social Club</div>
+				<div class="epg-dia">23:30  Vou que teño que ir</div>
+			</div>
+			<div id="TVG_2" style="display:none">
+				<div class="epg-dia">00:35  Cine</div>
+				<div class="epg-dia">02:00  Nacer de Novo</div>
+				<div class="epg-dia">02:15  A bóla extra</div>
+				<div class="epg-dia">02:40  A Revista</div>
+				<div class="epg-dia">03:50  Fun polo aire</div>
+				<div class="epg-dia">05:05  Quen anda aí?</div>
+				<div class="epg-dia">07:20  Zigzag</div>
+				<div class="epg-dia">07:45  Estado do Mar</div>
+				<div class="epg-dia">07:50  Desconexions locais</div>
+				<div class="epg-dia">08:00  Bos Días</div>
+				<div class="epg-dia">11:10  Fun polo aire</div>
+				<div class="epg-dia">11:40  Estache bo</div>
+				<div class="epg-dia">12:00  A bóla extra</div>
+				<div class="epg-dia">12:30  A Revista</div>
+				<div class="epg-dia">13:45  Galicia Noticias Mediodía</div>
+				<div class="epg-dia">14:25  Telexornal Mediodía</div>
+				<div class="epg-dia">15:35  O Tempo</div>
+				<div class="epg-dia">15:45  Coma un allo</div>
+				<div class="epg-dia">16:35  Pola Cara</div>
+				<div class="epg-dia">17:10  Fun polo aire</div>
+				<div class="epg-dia">18:05  Vin polo vento</div>
+				<div class="epg-dia">19:25  Ti Verás</div>
+				<div class="epg-dia">20:25  Telexornal Serán</div>
+				<div class="epg-dia">21:50  O Tempo</div>
+				<div class="epg-dia">22:05  A Noite de... Arsenio Iglesias</div>
+				<div class="epg-dia">23:25  En xogo</div>
+			</div>
+
+			<div id="IB3_0" style="display:none">
+				<div class="epg-dia">05:25  Palma pam a pam</div>
+				<div class="epg-dia">06:20  Pitiüses, entre pins i savines</div>
+				<div class="epg-dia">07:40  Agafa'm si pots!</div>
+				<div class="epg-dia">08:20  Rupert &amp; Sam</div>
+				<div class="epg-dia">08:25  Maria Bimbolles</div>
+				<div class="epg-dia">08:30  Ramon Llull</div>
+				<div class="epg-dia">08:40  Son mai</div>
+				<div class="epg-dia">08:50  Ucs i clics, grans i petits</div>
+				<div class="epg-dia">09:30  Tothom a casa en forma</div>
+				<div class="epg-dia">09:55  Xarxa Natura 2000 a les Illes Balears</div>
+				<div class="epg-dia">10:25  La jaqueta de molts colors de Dolly Parton</div>
+				<div class="epg-dia">11:50  Això és mel</div>
+				<div class="epg-dia">13:00  Darrera hora</div>
+				<div class="epg-dia">13:20  Mira per on!</div>
+				<div class="epg-dia">13:30  Passejades</div>
+				<div class="epg-dia">13:56  IB3 Notícies Migdia</div>
+				<div class="epg-dia">15:00  El temps</div>
+				<div class="epg-dia">15:05  Agafa'm si pots!</div>
+				<div class="epg-dia">16:05  La pesca del salmó al Iemen</div>
+				<div class="epg-dia">17:40  Ghost</div>
+				<div class="epg-dia">19:40  Téntol</div>
+				<div class="epg-dia">20:05  Cuina amb Santi Taura</div>
+				<div class="epg-dia">20:30  IB3 Notícies Vespre</div>
+				<div class="epg-dia">21:25  El temps</div>
+				<div class="epg-dia">21:30  Jo en sé més que tu</div>
+				<div class="epg-dia">22:15  Pep a ca nostra</div>
+				<div class="epg-dia">23:00  Alzheimer</div>
+			</div>
+			<div id="IB3_1" style="display:none">
+				<div class="epg-dia">00:00  Fusions</div>
+				<div class="epg-dia">00:55  Zoom</div>
+				<div class="epg-dia">01:30  IB3 Notícies Vespre</div>
+				<div class="epg-dia">02:20  El temps</div>
+				<div class="epg-dia">02:25  Engrescats</div>
+				<div class="epg-dia">03:20  Això és mel</div>
+				<div class="epg-dia">04:35  Paisatges</div>
+				<div class="epg-dia">04:45  Palma pam a pam</div>
+				<div class="epg-dia">06:35  Pitiüses, entre pins i savines</div>
+				<div class="epg-dia">07:30  L'hora del conte</div>
+				<div class="epg-dia">07:40  Rupert &amp; Sam</div>
+				<div class="epg-dia">07:50  L'hora del conte</div>
+				<div class="epg-dia">08:00  Agafa'm si pots!</div>
+				<div class="epg-dia">08:40  Tothom a casa en forma</div>
+				<div class="epg-dia">09:05  Al Dia</div>
+				<div class="epg-dia">10:30  Els dematins</div>
+				<div class="epg-dia">13:35  Cuina amb Santi Taura</div>
+				<div class="epg-dia">13:58  IB3 Notícies Migdia</div>
+				<div class="epg-dia">15:25  Agafa'm si pots!</div>
+				<div class="epg-dia">16:20  Cinc dies</div>
+				<div class="epg-dia">20:05  Cuina amb Santi Taura</div>
+				<div class="epg-dia">20:30  IB3 Notícies Vespre</div>
+				<div class="epg-dia">21:25  El temps</div>
+				<div class="epg-dia">21:30  Jo en sé més que tu</div>
+				<div class="epg-dia">22:15  Arrels</div>
+				<div class="epg-dia">23:15  Al costat de l'enemic</div>
+			</div>
+			<div id="IB3_2" style="display:none">
+				<div class="epg-dia">01:05  IB3 Notícies Vespre</div>
+				<div class="epg-dia">02:00  El temps</div>
+				<div class="epg-dia">02:05  Cinc dies</div>
+				<div class="epg-dia">05:50  Paisatges</div>
+				<div class="epg-dia">05:55  Pitiüses, entre pins i savines</div>
+				<div class="epg-dia">07:35  L'hora del conte</div>
+				<div class="epg-dia">07:45  Rupert &amp; Sam</div>
+				<div class="epg-dia">07:55  L'hora del conte</div>
+				<div class="epg-dia">08:05  Agafa'm si pots!</div>
+				<div class="epg-dia">08:40  Tothom a casa en forma</div>
+				<div class="epg-dia">09:05  Al Dia</div>
+				<div class="epg-dia">10:30  Els dematins</div>
+				<div class="epg-dia">13:20  Mira per on!</div>
+				<div class="epg-dia">13:30  Cuina amb Santi Taura</div>
+				<div class="epg-dia">13:58  IB3 Notícies Migdia</div>
+				<div class="epg-dia">15:25  Agafa'm si pots!</div>
+				<div class="epg-dia">16:35  Cinc dies</div>
+				<div class="epg-dia">20:05  Cuina amb Santi Taura</div>
+				<div class="epg-dia">20:30  IB3 Notícies Vespre</div>
+				<div class="epg-dia">21:25  El temps</div>
+				<div class="epg-dia">21:30  Jo en sé més que tu</div>
+				<div class="epg-dia">22:15  Fred i calent</div>
+				<div class="epg-dia">23:15  Fred i calent</div>
+			</div>
+
+			<div id="TV Rioja_0" style="display:none">
+				<div class="epg-dia">EPG NO DISPONIBLE</div>
+			</div>
+			<div id="TV Rioja_1" style="display:none">
+				<div class="epg-dia">EPG NO DISPONIBLE</div>
+			</div>
+			<div id="TV Rioja_2" style="display:none">
+				<div class="epg-dia">EPG NO DISPONIBLE</div>
+			</div>
+			<div id="Telemadrid_0" style="display:none">
+				<div class="epg-dia">05:35  Madrid de sol a sol</div>
+				<div class="epg-dia">06:03  No te duermas</div>
+				<div class="epg-dia">06:15  No te duermas</div>
+				<div class="epg-dia">06:30  Madrid barrio a barrio: Tetuán</div>
+				<div class="epg-dia">07:00  Madrid directo</div>
+				<div class="epg-dia">08:00  Madrid contra el coronavirus</div>
+				<div class="epg-dia">08:25  En acción en casa</div>
+				<div class="epg-dia">08:40  En acción en casa</div>
+				<div class="epg-dia">08:55  Buenos Días, Madrid</div>
+				<div class="epg-dia">11:20  Madrid contra el coronavirus</div>
+				<div class="epg-dia">11:30  120 Minutos</div>
+				<div class="epg-dia">14:00  Telenoticias 1</div>
+				<div class="epg-dia">15:00  El tiempo</div>
+				<div class="epg-dia">15:15  Madrid directo</div>
+				<div class="epg-dia">15:40  El gran combate</div>
+				<div class="epg-dia">18:05  Travesía del desierto</div>
+				<div class="epg-dia">19:20  Madrid directo</div>
+				<div class="epg-dia">20:30  Telenoticias 2</div>
+				<div class="epg-dia">21:15  El tiempo</div>
+				<div class="epg-dia">21:25  Madrid contra el coronavirus</div>
+				<div class="epg-dia">22:40  Huellas de elefante</div>
+			</div>
+			<div id="Telemadrid_1" style="display:none">
+				<div class="epg-dia">01:00  Aquellos maravillosos años</div>
+				<div class="epg-dia">01:20  Aquellos maravillosos años</div>
+				<div class="epg-dia">02:05  Ruta 179</div>
+				<div class="epg-dia">02:45  Ruta 179</div>
+				<div class="epg-dia">03:25  Ruta 179</div>
+				<div class="epg-dia">04:05  Hazlo por mil</div>
+				<div class="epg-dia">04:45  Atrápame si puedes</div>
+				<div class="epg-dia">05:35  No te duermas</div>
+				<div class="epg-dia">05:45  No te duermas</div>
+				<div class="epg-dia">05:55  No te duermas</div>
+				<div class="epg-dia">06:00  Madrid directo</div>
+				<div class="epg-dia">06:30  Zapsports</div>
+				<div class="epg-dia">06:36  Madrid directo</div>
+				<div class="epg-dia">07:45  Madrid contra el coronavirus</div>
+				<div class="epg-dia">08:55  Buenos Días, Madrid</div>
+				<div class="epg-dia">11:30  120 Minutos</div>
+				<div class="epg-dia">14:07  Telenoticias 1</div>
+				<div class="epg-dia">15:01  El tiempo</div>
+				<div class="epg-dia">15:13  Madrid directo</div>
+				<div class="epg-dia">15:38  Cine</div>
+				<div class="epg-dia">18:30  Semana Santa 2018</div>
+				<div class="epg-dia">20:30  Telenoticias 2</div>
+				<div class="epg-dia">21:20  El tiempo</div>
+				<div class="epg-dia">21:27  Madrid contra el coronavirus</div>
+				<div class="epg-dia">22:39  Madrileños por el mundo</div>
+				<div class="epg-dia">23:47  Madrileños por el mundo</div>
+			</div>
+			<div id="Telemadrid_2" style="display:none">
+				<div class="epg-dia">01:00  Madrileños por el mundo</div>
+				<div class="epg-dia">02:10  Ruta 179</div>
+				<div class="epg-dia">03:23  Ruta 179</div>
+				<div class="epg-dia">04:06  Hazlo por mil</div>
+				<div class="epg-dia">04:42  Atrápame si puedes</div>
+				<div class="epg-dia">05:30  De origen Madrid</div>
+				<div class="epg-dia">06:10  No te duermas</div>
+				<div class="epg-dia">06:24  No te duermas</div>
+				<div class="epg-dia">06:30  Zapsports</div>
+				<div class="epg-dia">06:33  Madrid directo</div>
+				<div class="epg-dia">07:42  Madrid contra el coronavirus</div>
+				<div class="epg-dia">08:55  Buenos Días, Madrid</div>
+				<div class="epg-dia">11:20  Madrid contra el coronavirus</div>
+				<div class="epg-dia">11:30  120 Minutos</div>
+				<div class="epg-dia">14:07  Telenoticias 1</div>
+				<div class="epg-dia">15:00  El tiempo</div>
+				<div class="epg-dia">15:09  Madrid directo</div>
+				<div class="epg-dia">15:34  Cine</div>
+				<div class="epg-dia">17:43  Cine</div>
+				<div class="epg-dia">19:16  Madrid directo</div>
+				<div class="epg-dia">20:30  Telenoticias 2</div>
+				<div class="epg-dia">21:20  El tiempo</div>
+				<div class="epg-dia">21:27  Madrid contra el coronavirus</div>
+				<div class="epg-dia">22:41  Mi cámara y yo</div>
+				<div class="epg-dia">23:35  Mi cámara y yo</div>
+			</div>
+
+			<div id="La Otra_0" style="display:none">
+				<div class="epg-dia">05:33  Con dos fogones</div>
+				<div class="epg-dia">06:08  Madrid en moto</div>
+				<div class="epg-dia">06:30  Instinto animal</div>
+				<div class="epg-dia">07:05  Instinto animal</div>
+				<div class="epg-dia">07:35  Érase una vez... los inventores</div>
+				<div class="epg-dia">08:00  Érase una vez... los exploradores</div>
+				<div class="epg-dia">08:25  Érase una vez... los exploradores</div>
+				<div class="epg-dia">08:50  WOW! English Method</div>
+				<div class="epg-dia">08:55  WOW! English Method</div>
+				<div class="epg-dia">09:00  WOW! English Method</div>
+				<div class="epg-dia">09:05  WOW! English Method</div>
+				<div class="epg-dia">09:10  WOW! English Method!</div>
+				<div class="epg-dia">09:15  WOW! English Method</div>
+				<div class="epg-dia">09:20  La vuelta al mundo de Willy Fog</div>
+				<div class="epg-dia">09:45  Heidi</div>
+				<div class="epg-dia">10:10  Heidi</div>
+				<div class="epg-dia">10:35  David, el Gnomo</div>
+				<div class="epg-dia">11:00  David, el Gnomo</div>
+				<div class="epg-dia">11:25  Instinto animal</div>
+				<div class="epg-dia">11:50  Instinto animal</div>
+				<div class="epg-dia">12:20  Animalia</div>
+				<div class="epg-dia">12:50  Animalia</div>
+				<div class="epg-dia">13:25  Hazlo por mil</div>
+				<div class="epg-dia">14:00  Telenoticias 1</div>
+				<div class="epg-dia">15:00  El tiempo</div>
+				<div class="epg-dia">15:15  El desierto australiano</div>
+				<div class="epg-dia">16:10  Tierra de Gremlins</div>
+				<div class="epg-dia">16:55  Tierra de Gremlins</div>
+				<div class="epg-dia">17:40  América desde el aire</div>
+				<div class="epg-dia">18:40  Pongamos que hablo de Telemadrid</div>
+				<div class="epg-dia">19:05  Atrápame si puedes</div>
+				<div class="epg-dia">20:00  En acción en casa</div>
+				<div class="epg-dia">20:15  En acción en casa</div>
+				<div class="epg-dia">20:30  Telenoticias 2</div>
+				<div class="epg-dia">21:15  El tiempo</div>
+				<div class="epg-dia">21:25  Madrid contra el coronavirus</div>
+				<div class="epg-dia">22:40  La historia del Universo</div>
+				<div class="epg-dia">23:25  La historia del Universo</div>
+			</div>
+			<div id="La Otra_1" style="display:none">
+				<div class="epg-dia">00:10  Lugares sagrados</div>
+				<div class="epg-dia">01:00  Lugares sagrados</div>
+				<div class="epg-dia">01:50  Desaparecidos</div>
+				<div class="epg-dia">02:35  Desaparecidos</div>
+				<div class="epg-dia">03:20  El banco</div>
+				<div class="epg-dia">04:00  LaOtra Ciencia</div>
+				<div class="epg-dia">05:00  Un plan perfecto</div>
+				<div class="epg-dia">05:50  Con dos fogones</div>
+				<div class="epg-dia">06:20  Madrid en moto</div>
+				<div class="epg-dia">06:30  Instinto animal</div>
+				<div class="epg-dia">06:59  Instinto animal</div>
+				<div class="epg-dia">07:30  Érase una vez...los inventores</div>
+				<div class="epg-dia">07:56  Érase una vez...los inventores</div>
+				<div class="epg-dia">08:24  La vuelta al mundo de Willy Fog</div>
+				<div class="epg-dia">08:47  David, el Gnomo</div>
+				<div class="epg-dia">09:11  Heidi</div>
+				<div class="epg-dia">09:35  Cifras y letras</div>
+				<div class="epg-dia">10:10  Cifras y letras</div>
+				<div class="epg-dia">10:44  Cine</div>
+				<div class="epg-dia">12:27  Desaparecidos</div>
+				<div class="epg-dia">13:16  Desaparecidos</div>
+				<div class="epg-dia">14:00  Telenoticias 1</div>
+				<div class="epg-dia">15:10  Hora Deportiva</div>
+				<div class="epg-dia">15:31  El tiempo</div>
+				<div class="epg-dia">15:45  Nueva Zelanda desde el aire</div>
+				<div class="epg-dia">16:29  Wild Brasil</div>
+				<div class="epg-dia">17:25  Wild Brasil</div>
+				<div class="epg-dia">18:19  Cuba, refugio de vida</div>
+				<div class="epg-dia">19:16  Pongamos que hablo de Telemadrid</div>
+				<div class="epg-dia">19:30  Cifras y letras</div>
+				<div class="epg-dia">20:00  Cifras y letras</div>
+				<div class="epg-dia">20:30  Telenoticias 2</div>
+				<div class="epg-dia">21:22  Hora Deportiva</div>
+				<div class="epg-dia">21:33  El tiempo</div>
+				<div class="epg-dia">21:47  El punto sobre la historia</div>
+				<div class="epg-dia">22:23  Cine</div>
+			</div>
+			<div id="La Otra_2" style="display:none">
+				<div class="epg-dia">00:40  Cine</div>
+				<div class="epg-dia">02:28  Cine</div>
+				<div class="epg-dia">03:55  Madrid, la ciudad de los 100 paises</div>
+				<div class="epg-dia">04:40  Madrid de sol a sol</div>
+				<div class="epg-dia">05:07  Madrid de sol a sol</div>
+				<div class="epg-dia">05:35  De origen Madrid</div>
+				<div class="epg-dia">06:16  Madrid en moto</div>
+				<div class="epg-dia">06:30  Instinto animal</div>
+				<div class="epg-dia">07:00  Instinto animal</div>
+				<div class="epg-dia">07:30  Érase una vez...los inventores</div>
+				<div class="epg-dia">08:00  Érase una vez...los inventores</div>
+				<div class="epg-dia">08:30  La vuelta al mundo de Willy Fog</div>
+				<div class="epg-dia">08:55  David, el Gnomo</div>
+				<div class="epg-dia">09:20  Heidi</div>
+				<div class="epg-dia">09:45  Cifras y letras</div>
+				<div class="epg-dia">10:15  Cifras y letras</div>
+				<div class="epg-dia">10:50  Cine</div>
+				<div class="epg-dia">12:30  Desaparecidos</div>
+				<div class="epg-dia">13:15  Desaparecidos</div>
+				<div class="epg-dia">14:00  Telenoticias 1</div>
+				<div class="epg-dia">15:10  Hora Deportiva</div>
+				<div class="epg-dia">15:30  El tiempo</div>
+				<div class="epg-dia">15:45  América desde el aire</div>
+				<div class="epg-dia">16:40  Latinoamérica salvaje</div>
+				<div class="epg-dia">17:30  Latinoamérica salvaje</div>
+				<div class="epg-dia">18:25  Los últimos paraísos</div>
+				<div class="epg-dia">19:20  Pongamos que hablo de Telemadrid</div>
+				<div class="epg-dia">19:30  Cifras y letras</div>
+				<div class="epg-dia">20:00  Cifras y letras</div>
+				<div class="epg-dia">20:30  Telenoticias 2</div>
+				<div class="epg-dia">21:20  Hora Deportiva</div>
+				<div class="epg-dia">21:30  El tiempo</div>
+				<div class="epg-dia">21:50  El punto sobre la historia</div>
+				<div class="epg-dia">22:20  Grandes misterios del universo con Morgan Freeman</div>
+				<div class="epg-dia">23:05  Grandes misterios del universo con Morgan Freeman</div>
+				<div class="epg-dia">23:50  La historia del Universo</div>
+			</div>
+
+			<div id="Melilla TV HD_0" style="display:none">
+				<div class="epg-dia">EPG NO DISPONIBLE</div>
+			</div>
+			<div id="Melilla TV HD_1" style="display:none">
+				<div class="epg-dia">EPG NO DISPONIBLE</div>
+			</div>
+			<div id="Melilla TV HD_2" style="display:none">
+				<div class="epg-dia">EPG NO DISPONIBLE</div>
+			</div>
+			<div id="7 RM_0" style="display:none">
+				<div class="epg-dia">00:45  Murcia en vivo</div>
+				<div class="epg-dia">08:00  7Noticias Matinal</div>
+				<div class="epg-dia">12:00  En su punto con Baró</div>
+				<div class="epg-dia">13:30  Diario de campo</div>
+				<div class="epg-dia">14:00  7Noticias 1ª edición</div>
+				<div class="epg-dia">15:30  Ailoviu</div>
+				<div class="epg-dia">17:30  Murcia conecta</div>
+				<div class="epg-dia">20:00  7Noticias 2ªEdición</div>
+				<div class="epg-dia">21:00  El pinchazo</div>
+				<div class="epg-dia">22:00  Especial Informativo Covid-19</div>
+				<div class="epg-dia">23:30  Saborenado con...</div>
+			</div>
+			<div id="7 RM_1" style="display:none">
+				<div class="epg-dia">00:30  El día en imágenes</div>
+				<div class="epg-dia">01:00  Murcia conecta</div>
+				<div class="epg-dia">03:00  Murcia en vivo</div>
+				<div class="epg-dia">05:30  Entre mujeres</div>
+				<div class="epg-dia">06:15  Oro Molio</div>
+				<div class="epg-dia">07:30  Diario de campo</div>
+				<div class="epg-dia">08:00  7Noticias Matinal</div>
+				<div class="epg-dia">12:00  En su punto con Baró</div>
+				<div class="epg-dia">13:30  Diario de campo</div>
+				<div class="epg-dia">14:00  7Noticias 1ª edición</div>
+				<div class="epg-dia">15:30  Murcia conecta</div>
+				<div class="epg-dia">17:15  Fiestas de la Primavera Murcia</div>
+				<div class="epg-dia">20:00  7Noticias 2ªEdición</div>
+				<div class="epg-dia">21:00  El pinchazo</div>
+				<div class="epg-dia">22:00  Oro Molio</div>
+			</div>
+			<div id="7 RM_2" style="display:none">
+				<div class="epg-dia">01:00  El día en imágenes</div>
+				<div class="epg-dia">01:30  Murcia conecta</div>
+				<div class="epg-dia">02:15  Murcia en vivo</div>
+				<div class="epg-dia">05:30  Entre mujeres</div>
+				<div class="epg-dia">06:15  Oro Molio</div>
+				<div class="epg-dia">07:30  Diario de campo</div>
+				<div class="epg-dia">08:00  7Noticias Matinal</div>
+				<div class="epg-dia">12:00  En su punto con Baró</div>
+				<div class="epg-dia">13:30  Diario de campo</div>
+				<div class="epg-dia">14:00  7Noticias 1ª edición</div>
+				<div class="epg-dia">15:30  Ailoviu</div>
+				<div class="epg-dia">17:30  Murcia conecta</div>
+				<div class="epg-dia">20:00  7Noticias 2ªEdición</div>
+				<div class="epg-dia">21:00  El pinchazo</div>
+				<div class="epg-dia">22:00  En la piel de...</div>
+				<div class="epg-dia">23:15  Entre mujeres</div>
+			</div>
+
+			<div id="ETB 1_0" style="display:none">
+				<div class="epg-dia">04:15  Wazemank</div>
+				<div class="epg-dia">06:50  Bisitaria</div>
+				<div class="epg-dia">07:50  Herri people</div>
+				<div class="epg-dia">08:40  Tribuaren Berbak</div>
+				<div class="epg-dia">09:35  EiTB Kultura</div>
+				<div class="epg-dia">10:05  Domingo Garat pastorala</div>
+				<div class="epg-dia">12:30  Agerraldi Informatiboa</div>
+				<div class="epg-dia">13:00  Domingo Garat pastorala</div>
+				<div class="epg-dia">14:00  Gaur Egun</div>
+				<div class="epg-dia">14:45  Eguraldia</div>
+				<div class="epg-dia">15:00  Txoriene</div>
+				<div class="epg-dia">15:40  Gure bideoteka</div>
+				<div class="epg-dia">17:00  Gure bideoteka</div>
+				<div class="epg-dia">20:00  Gaur egun</div>
+				<div class="epg-dia">20:45  Eguraldia</div>
+				<div class="epg-dia">20:55  EiTB Kultura</div>
+				<div class="epg-dia">21:10  Muga deitzen da pausoa. IRA 26-2</div>
+				<div class="epg-dia">22:25  Beste egun bat bizirik</div>
+				<div class="epg-dia">23:40  Hitzetik hortzera</div>
+			</div>
+			<div id="ETB 1_1" style="display:none">
+				<div class="epg-dia">00:40  Gure bideoteka</div>
+				<div class="epg-dia">01:55  Gure bideoteka</div>
+				<div class="epg-dia">04:55  Martin</div>
+				<div class="epg-dia">05:15  Hizkamizka</div>
+				<div class="epg-dia">05:45  Mihiluze</div>
+				<div class="epg-dia">07:10  Bisitaria</div>
+				<div class="epg-dia">08:05  Herri people</div>
+				<div class="epg-dia">09:00  Egun on Euskadi</div>
+				<div class="epg-dia">11:00  Adinberri</div>
+				<div class="epg-dia">11:20  Sustraia</div>
+				<div class="epg-dia">11:50  Txoriene</div>
+				<div class="epg-dia">12:30  Agerraldi Informatiboa</div>
+				<div class="epg-dia">13:00  Gure Kasa</div>
+				<div class="epg-dia">14:00  Gaur Egun</div>
+				<div class="epg-dia">14:45  Eguraldia</div>
+				<div class="epg-dia">15:00  Txoriene</div>
+				<div class="epg-dia">15:45  Gure bideoteka</div>
+				<div class="epg-dia">17:55  Gure bideoteka</div>
+				<div class="epg-dia">20:00  Gaur egun</div>
+				<div class="epg-dia">20:45  Eguraldia</div>
+				<div class="epg-dia">21:00  EiTB Kultura</div>
+				<div class="epg-dia">21:10  DBH</div>
+				<div class="epg-dia">21:30  Eztabaidan</div>
+				<div class="epg-dia">22:30  Ur Handitan</div>
+			</div>
+			<div id="ETB 1_2" style="display:none">
+				<div class="epg-dia">00:20  Gure bideoteka</div>
+				<div class="epg-dia">02:20  Gure bideoteka</div>
+				<div class="epg-dia">04:20  Hasiberriak</div>
+				<div class="epg-dia">04:40  Martin</div>
+				<div class="epg-dia">05:10  Hizkamizka</div>
+				<div class="epg-dia">05:35  Mihiluze</div>
+				<div class="epg-dia">06:55  Bisitaria</div>
+				<div class="epg-dia">07:55  Herri people</div>
+				<div class="epg-dia">09:00  Egun on Euskadi</div>
+				<div class="epg-dia">10:30  Hitzetik hortzera</div>
+				<div class="epg-dia">11:30  Tribuaren Berbak</div>
+				<div class="epg-dia">12:00  Txoriene</div>
+				<div class="epg-dia">12:30  Agerraldi Informatiboa</div>
+				<div class="epg-dia">13:05  Gure Kasa</div>
+				<div class="epg-dia">14:00  Gaur Egun</div>
+				<div class="epg-dia">14:50  Eguraldia</div>
+				<div class="epg-dia">15:00  Txoriene</div>
+				<div class="epg-dia">15:50  Gure bideoteka</div>
+				<div class="epg-dia">17:30  Sustraia</div>
+				<div class="epg-dia">18:00  Batek Daki</div>
+				<div class="epg-dia">19:00  Mihiluze</div>
+				<div class="epg-dia">20:00  Gaur egun</div>
+				<div class="epg-dia">20:45  Eguraldia</div>
+				<div class="epg-dia">21:05  EiTB Kultura</div>
+				<div class="epg-dia">21:20  DBH</div>
+				<div class="epg-dia">21:30  Eztabaidan</div>
+				<div class="epg-dia">22:30  Saio berezia</div>
+				<div class="epg-dia">23:30  Mara Mara</div>
+			</div>
+
+			<div id="ETB 2_0" style="display:none">
+				<div class="epg-dia">05:50  Vaya semanita</div>
+				<div class="epg-dia">07:35  Rutas por Euskal Herria</div>
+				<div class="epg-dia">08:00  Chiloé</div>
+				<div class="epg-dia">08:30  Vascos por el mundo</div>
+				<div class="epg-dia">09:35  Escapadas con Joseba Arguiñano</div>
+				<div class="epg-dia">10:25  Wineman</div>
+				<div class="epg-dia">10:55  Rutas por Euskal Herria</div>
+				<div class="epg-dia">11:20  Red Álava, la red de mujeres invisibles</div>
+				<div class="epg-dia">12:30  Agerraldi Informatiboa</div>
+				<div class="epg-dia">12:50  Batallón Gernika. Esperanza de Libertad (1945-2015)</div>
+				<div class="epg-dia">14:05  Atrápame si puedes</div>
+				<div class="epg-dia">14:58  Teleberri 1</div>
+				<div class="epg-dia">15:45  Eguraldia</div>
+				<div class="epg-dia">16:00  Sin perdón</div>
+				<div class="epg-dia">18:10  Winnitou</div>
+				<div class="epg-dia">20:10  A bocados</div>
+				<div class="epg-dia">21:00  Teleberri 2</div>
+				<div class="epg-dia">21:45  Eguraldia</div>
+				<div class="epg-dia">22:00  El conquistador del Caribe</div>
+			</div>
+			<div id="ETB 2_1" style="display:none">
+				<div class="epg-dia">00:30  Conquistour</div>
+				<div class="epg-dia">02:05  Vaya semanita</div>
+				<div class="epg-dia">02:55  Atrápame si puedes</div>
+				<div class="epg-dia">03:45  Iñaki &amp; Cía</div>
+				<div class="epg-dia">04:45  Todos los apellidos vascos</div>
+				<div class="epg-dia">05:55  Basque Country Vertical</div>
+				<div class="epg-dia">07:05  A bocados</div>
+				<div class="epg-dia">07:45  Rutas por Euskal Herria</div>
+				<div class="epg-dia">08:10  Chiloé</div>
+				<div class="epg-dia">08:40  Vascos por el mundo</div>
+				<div class="epg-dia">09:45  Del país de los vascos</div>
+				<div class="epg-dia">10:35  Wineman</div>
+				<div class="epg-dia">11:05  Rutas por Euskal Herria</div>
+				<div class="epg-dia">11:30  En Jake</div>
+				<div class="epg-dia">14:10  Atrápame si puedes</div>
+				<div class="epg-dia">14:58  Teleberri 1</div>
+				<div class="epg-dia">15:55  Eguraldia</div>
+				<div class="epg-dia">16:25  Yo se más que tú</div>
+				<div class="epg-dia">17:15  ¡Qué me estás contando!</div>
+				<div class="epg-dia">20:15  A bocados</div>
+				<div class="epg-dia">21:00  Teleberri 2</div>
+				<div class="epg-dia">22:00  Eguraldia</div>
+				<div class="epg-dia">22:20  La teoría del todo</div>
+			</div>
+			<div id="ETB 2_2" style="display:none">
+				<div class="epg-dia">00:45  Los asesinatos de Midsomer</div>
+				<div class="epg-dia">02:25  Los asesinatos de Midsomer</div>
+				<div class="epg-dia">04:05  Vaya semanita</div>
+				<div class="epg-dia">04:20  Yo se más que tú</div>
+				<div class="epg-dia">05:05  Iñaki &amp; Cía</div>
+				<div class="epg-dia">06:05  ETB 2</div>
+				<div class="epg-dia">07:00  A bocados</div>
+				<div class="epg-dia">07:15  Rutas por Euskal Herria</div>
+				<div class="epg-dia">07:45  Chiloé</div>
+				<div class="epg-dia">08:15  Vascos por el mundo</div>
+				<div class="epg-dia">09:20  Escapadas con Joseba Arguiñano</div>
+				<div class="epg-dia">10:10  Wineman</div>
+				<div class="epg-dia">11:00  Teknopolis</div>
+				<div class="epg-dia">11:30  En Jake</div>
+				<div class="epg-dia">14:05  Atrápame si puedes</div>
+				<div class="epg-dia">14:58  Teleberri 1</div>
+				<div class="epg-dia">15:55  Eguraldia</div>
+				<div class="epg-dia">16:25  Yo se más que tú</div>
+				<div class="epg-dia">17:10  ¡Qué me estás contando!</div>
+				<div class="epg-dia">20:15  A bocados</div>
+				<div class="epg-dia">21:00  Teleberri 2</div>
+				<div class="epg-dia">22:00  Eguraldia</div>
+				<div class="epg-dia">22:20  El Conquis</div>
+			</div>
+
+			<div id="À Punt_0" style="display:none">
+				<div class="epg-dia">06:00  La colla</div>
+				<div class="epg-dia">08:40  Celebrity School</div>
+				<div class="epg-dia">11:00  Avanç informatiu</div>
+				<div class="epg-dia">11:30  Retransmissions esportives</div>
+				<div class="epg-dia">13:55  À Punt Notícies migdia</div>
+				<div class="epg-dia">15:00  Evolució</div>
+				<div class="epg-dia">15:45  Hatfields &amp; McCoys</div>
+				<div class="epg-dia">20:30  À Punt Notícies nit</div>
+				<div class="epg-dia">21:30  Cantant al cotxe</div>
+				<div class="epg-dia">22:00  Trau la llengua</div>
+				<div class="epg-dia">23:00  Trau la llengua</div>
+			</div>
+			<div id="À Punt_1" style="display:none">
+				<div class="epg-dia">00:00  Trau la llengua</div>
+				<div class="epg-dia">01:00  Redifusió</div>
+				<div class="epg-dia">06:00  La colla</div>
+				<div class="epg-dia">08:00  Les notícies del matí</div>
+				<div class="epg-dia">11:00  Avanç informatiu</div>
+				<div class="epg-dia">11:30  Comunitat Valenciana des de l'aire</div>
+				<div class="epg-dia">12:00  Avanç informatiu</div>
+				<div class="epg-dia">12:30  Comunitat Valenciana des de l'aire</div>
+				<div class="epg-dia">13:00  Terra viva</div>
+				<div class="epg-dia">13:55  À Punt Notícies migdia</div>
+				<div class="epg-dia">15:00  Atrapa'm si pots</div>
+				<div class="epg-dia">16:00  El paradís de les senyores</div>
+				<div class="epg-dia">16:50  À Punt Directe</div>
+				<div class="epg-dia">19:40  Jo en sé més que tu</div>
+				<div class="epg-dia">20:30  À Punt Notícies nit</div>
+				<div class="epg-dia">21:30  Cantant al cotxe</div>
+				<div class="epg-dia">22:00  Magnífics</div>
+				<div class="epg-dia">22:55  Ciutats desaparegudes</div>
+			</div>
+			<div id="À Punt_2" style="display:none">
+				<div class="epg-dia">00:00  Los Kennedy</div>
+				<div class="epg-dia">01:00  À Punt Directe</div>
+				<div class="epg-dia">03:55  Redifusió</div>
+				<div class="epg-dia">06:00  La colla</div>
+				<div class="epg-dia">08:00  Les notícies del matí</div>
+				<div class="epg-dia">11:00  Avanç informatiu</div>
+				<div class="epg-dia">11:30  Comunitat Valenciana des de l'aire</div>
+				<div class="epg-dia">12:00  Avanç informatiu</div>
+				<div class="epg-dia">12:30  Comunitat Valenciana des de l'aire</div>
+				<div class="epg-dia">13:00  Terra viva</div>
+				<div class="epg-dia">13:55  À Punt Notícies migdia</div>
+				<div class="epg-dia">15:00  Atrapa'm si pots</div>
+				<div class="epg-dia">16:00  El paradís de les senyores</div>
+				<div class="epg-dia">16:40  À Punt Directe</div>
+				<div class="epg-dia">19:45  Jo en sé més que tu</div>
+				<div class="epg-dia">20:30  À Punt Notícies nit</div>
+				<div class="epg-dia">21:30  Cantant al cotxe</div>
+				<div class="epg-dia">22:00  No tenim trellat</div>
+				<div class="epg-dia">22:50  Assumptes interns</div>
+				<div class="epg-dia">23:35  Assumptes interns</div>
+			</div>
+
+			<div id="La 8_0" style="display:none">
+				<div class="epg-dia">06:00  Con España a Cuesta</div>
+				<div class="epg-dia">08:15  España de leyenda</div>
+				<div class="epg-dia">09:15  EHS</div>
+				<div class="epg-dia">10:15  Reflexiones</div>
+				<div class="epg-dia">10:30  Missa</div>
+				<div class="epg-dia">11:00  EHS</div>
+				<div class="epg-dia">12:45  Galería del coleccionista</div>
+				<div class="epg-dia">13:30  Bous i pobles</div>
+				<div class="epg-dia">14:45  Cocina familiar</div>
+				<div class="epg-dia">15:15  Editorial de Carlos Herrera (COPE)</div>
+				<div class="epg-dia">15:30  Noticias de las 8h COPE</div>
+				<div class="epg-dia">15:45  El arte de vivir... pero bien</div>
+				<div class="epg-dia">17:15  Visto y No Visto</div>
+				<div class="epg-dia">17:30  Mundo Natural</div>
+				<div class="epg-dia">18:00  Hotel</div>
+				<div class="epg-dia">18:45  Hotel</div>
+				<div class="epg-dia">19:30  Missa</div>
+				<div class="epg-dia">20:00  Viajeros</div>
+				<div class="epg-dia">21:00  Wallander</div>
+				<div class="epg-dia">21:45  Los Intocables</div>
+				<div class="epg-dia">23:45  Bous i pobles</div>
+			</div>
+			<div id="La 8_1" style="display:none">
+				<div class="epg-dia">00:15  Galería del coleccionista</div>
+				<div class="epg-dia">02:30  Nieve que quema</div>
+				<div class="epg-dia">04:00  Bous i pobles</div>
+				<div class="epg-dia">05:30  Los Intocables</div>
+				<div class="epg-dia">07:00  Cocina familiar</div>
+				<div class="epg-dia">07:30  Hotel</div>
+				<div class="epg-dia">08:15  Tiempos modernos</div>
+				<div class="epg-dia">08:45  Encuentros</div>
+				<div class="epg-dia">09:15  EHS</div>
+				<div class="epg-dia">10:15  Reflexiones</div>
+				<div class="epg-dia">10:30  Missa</div>
+				<div class="epg-dia">11:00  EHS</div>
+				<div class="epg-dia">12:45  Galería del coleccionista</div>
+				<div class="epg-dia">13:30  Bous i pobles</div>
+				<div class="epg-dia">14:45  Cocina familiar</div>
+				<div class="epg-dia">15:15  Editorial de Carlos Herrera (COPE)</div>
+				<div class="epg-dia">15:30  Noticias de las 8h COPE</div>
+				<div class="epg-dia">15:45  Anatomía de un hospital</div>
+				<div class="epg-dia">17:15  Visto y No Visto</div>
+				<div class="epg-dia">17:30  Mundo Natural</div>
+				<div class="epg-dia">18:00  Hotel</div>
+				<div class="epg-dia">18:45  Hotel</div>
+				<div class="epg-dia">19:30  Missa</div>
+				<div class="epg-dia">20:00  El Destino + TOP</div>
+				<div class="epg-dia">20:30  Noticias de las 8h COPE</div>
+				<div class="epg-dia">20:45  El tiempo</div>
+				<div class="epg-dia">21:00  Wallander</div>
+				<div class="epg-dia">21:45  Los hermanos Karamazov</div>
+			</div>
+			<div id="La 8_2" style="display:none">
+				<div class="epg-dia">00:15  Galería del coleccionista</div>
+				<div class="epg-dia">01:15  Bous i pobles</div>
+				<div class="epg-dia">08:00  La 8 Notícies</div>
+				<div class="epg-dia">08:45  L'Oratge</div>
+				<div class="epg-dia">09:00  EHS</div>
+				<div class="epg-dia">10:30  Missa</div>
+				<div class="epg-dia">11:00  Audiencia Vaticana</div>
+				<div class="epg-dia">11:25  EHS</div>
+				<div class="epg-dia">13:00  Bous i pobles</div>
+				<div class="epg-dia">13:25  Cocina familiar</div>
+				<div class="epg-dia">13:50  La 8 Notícies</div>
+				<div class="epg-dia">14:30  L'Oratge</div>
+				<div class="epg-dia">14:45  Cine</div>
+				<div class="epg-dia">16:45  Misioneros por el mundo</div>
+				<div class="epg-dia">17:30  Mundo Natural</div>
+				<div class="epg-dia">18:00  Bous i pobles</div>
+				<div class="epg-dia">18:30  Las aventuras de Sherlock Holmes</div>
+				<div class="epg-dia">19:30  Anem de festa</div>
+				<div class="epg-dia">20:30  La 8 Notícies</div>
+				<div class="epg-dia">21:15  El vestuario</div>
+				<div class="epg-dia">21:30  L'Oratge</div>
+				<div class="epg-dia">21:45  El Faro</div>
+				<div class="epg-dia">23:00  Cine</div>
+			</div>
+
+			<div id="Andorra TV HD_0" style="display:none">
+				<div class="epg-dia">EPG NO DISPONIBLE</div>
+			</div>
+			<div id="Andorra TV HD_1" style="display:none">
+				<div class="epg-dia">EPG NO DISPONIBLE</div>
+			</div>
+			<div id="Andorra TV HD_2" style="display:none">
+				<div class="epg-dia">EPG NO DISPONIBLE</div>
+			</div>
+			<div id="Andorra TV CW_0" style="display:none">
+				<div class="epg-dia">EPG NO DISPONIBLE</div>
+			</div>
+			<div id="Andorra TV CW_1" style="display:none">
+				<div class="epg-dia">EPG NO DISPONIBLE</div>
+			</div>
+			<div id="Andorra TV CW_2" style="display:none">
+				<div class="epg-dia">EPG NO DISPONIBLE</div>
+			</div>
+			</div>
+                    
+        </main>
+    </body>
+</html>
+
