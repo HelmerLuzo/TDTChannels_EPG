@@ -10,7 +10,7 @@
                 
         <script language="JavaScript">
             function inicia(){
-                var canal = unescape(document.URL.match('#(.*)')[1]);
+                var canal = decodeURI(document.URL.match('#(.*)')[1]);
                 var tabi = document.getElementsByClassName("fecha");
                 tabi[0].style.backgroundColor="#212121";
                 tabi[0].style.bordercolor="#212121";
@@ -21,7 +21,7 @@
 
         <script language="JavaScript">
             function carga_epg(dia){
-                var canal = unescape(document.URL.match('#(.*)')[1])+'_'+dia;
+                var canal = decodeURI(document.URL.match('#(.*)')[1])+'_'+dia;
                 var tabi = document.getElementsByClassName("fecha");
                 for (t=0; t<3; t++){
                     tabi[t].style.backgroundColor="#424242";
