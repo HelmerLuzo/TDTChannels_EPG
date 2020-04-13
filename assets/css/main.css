@@ -133,6 +133,42 @@ input, select, textarea {
 		transform: translateY(-50%);
 	}
 
+/* Tabs */
+
+	.tab-dia {
+		display: grid;
+		margin: 10px;
+		grid-template-columns: 1fr 1fr 1fr;
+		grid-gap: 10px;
+		background-color: #424242;
+	}
+
+	.fecha {
+		background-color: #424242;
+		height: 48px;
+		border: 1px solid #fff;
+		border-radius: 5px;
+		font-weight: bold;
+		font-size: 120%;
+		text-align: center;
+		padding: 5px;
+	}
+
+	.fecha:hover{
+		background-color: #757575;
+		border-color: #757575;
+	}
+
+
+	.epg-dia {
+		background-color: #212121;
+		border-radius: 5px;
+		font-weight: bold;
+		font-size: 120%;
+		padding: 10px;
+		margin: 0px 10px 0px 10px;
+	}
+	
 
 /* Basic */
 
