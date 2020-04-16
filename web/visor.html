@@ -10,18 +10,18 @@
                 
         <script language="JavaScript">
             function inicia(){
-                var canal = decodeURI(document.URL.match('#id=(.*),name=(.*)')[1]);
+                var canal = decodeURI(document.URL.match('#xmltv=(.*),name=(.*)')[1]);
                 var tabi = document.getElementsByClassName("fecha");
                 tabi[0].style.backgroundColor="#212121";
                 tabi[0].style.bordercolor="#212121";
-                document.getElementById("l_canal").innerHTML = decodeURI(document.URL.match('#id=(.*),name=(.*)')[2]);
+                document.getElementById("l_canal").innerHTML = decodeURI(document.URL.match('#xmltv=(.*),name=(.*)')[2]);
                 clonar(canal+'_0');
             }
         </script>
 
         <script language="JavaScript">
             function carga_epg(dia){
-                var canal = decodeURI(document.URL.match('#id=(.*),name=(.*)')[1])+'_'+dia;
+                var canal = decodeURI(document.URL.match('#xmltv=(.*),name=(.*)')[1])+'_'+dia;
                 var tabi = document.getElementsByClassName("fecha");
                 for (t=0; t<3; t++){
                     tabi[t].style.backgroundColor="#424242";
