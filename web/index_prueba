@@ -16,7 +16,7 @@
 				<div class="box-grupo">Generalistas</div>
 			</div>
 			<div class="wrapper-canal">
-				<div class="box-canal" onclick="location.href='https://rtvelivestream.akamaized.net/la1_dvr.m3u8'" ondblclick="location.href='visor.html#xmltv=La1,name=La 1'">
+				<div class="box-canal" mimetype="application/x-mpegURL" onclick="location.href='https://rtvelivestream.akamaized.net/la1_dvr.m3u8'" ondblclick="location.href='visor.html#xmltv=La1,name=La 1'">
 					<img src="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg"/>
 					<div>La 1</div>
 				</div>
