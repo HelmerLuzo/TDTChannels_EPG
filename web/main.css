@@ -106,6 +106,8 @@ input, select, textarea {
 		grid-template-columns: 1fr 1fr;
 		grid-gap: 10px;
 		background-color: #424242;
+		border-right: 5px solid springgreen;
+	;
 	}
 
 	.box-canal {
