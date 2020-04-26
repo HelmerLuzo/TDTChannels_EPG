@@ -162,6 +162,9 @@
   <channel id="CGTN.TDTChannelsEPG">
     <display-name lang="es">CGTN</display-name>
   </channel>
+  <channel id="TeleSUR.TDTChannelsEPG">
+    <display-name lang="es">TeleSUR Venezuela</display-name>
+  </channel>
   <channel id="ATVHD.TDTChannelsEPG">
     <display-name lang="es">ATV</display-name>
   </channel>
@@ -192,6 +195,9 @@
     <rating system="ES">
       <value>TP</value>
     </rating>
+    <star-rating system="ES">
+      <value>4/5</value>
+    </star-rating>
   </programme>
   <programme start="20200426102000 +0200" stop="20200426111000 +0200" channel="La1.TDTChannelsEPG">
     <title lang="es">El paisano</title>
@@ -1982,6 +1988,9 @@
     <rating system="ES">
       <value>7</value>
     </rating>
+    <star-rating system="ES">
+      <value>5/5</value>
+    </star-rating>
   </programme>
   <programme start="20200427154500 +0200" stop="20200427163000 +0200" channel="La2.TDTChannelsEPG">
     <title lang="es">Saber y ganar</title>
@@ -2974,6 +2983,9 @@
     <rating system="ES">
       <value>12</value>
     </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
   </programme>
   <programme start="20200426210000 +0200" stop="20200426214500 +0200" channel="Antena3.TDTChannelsEPG">
     <title lang="es">Antena 3 Noticias (Fin de semana)</title>
@@ -4583,7 +4595,7 @@
     <date>2018</date>
     <category lang="es">Información</category>
     <category lang="es">Meteorología</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MSEXTAP1573241" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1073665V1573241" />
     <country lang="es">España</country>
     <star-rating system="ES">
       <value>3/5</value>
@@ -4888,7 +4900,7 @@
     <date>2018</date>
     <category lang="es">Información</category>
     <category lang="es">Meteorología</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MSEXTAP1573241" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1073665V1573241" />
     <country lang="es">España</country>
     <star-rating system="ES">
       <value>3/5</value>
@@ -12671,6 +12683,9 @@
     <rating system="ES">
       <value>TP</value>
     </rating>
+    <star-rating system="ES">
+      <value>5/5</value>
+    </star-rating>
   </programme>
   <programme start="20200426201000 +0200" stop="20200426220000 +0200" channel="TDP.TDTChannelsEPG">
     <title lang="es">Copa del Rey de Baloncesto (T05/06): Baloncesto: Copa del Rey 2006</title>
@@ -12890,7 +12905,7 @@
     <category lang="es">Otros</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula4/MGOLP1736241" />
     <star-rating system="ES">
-      <value>2/5</value>
+      <value>3/5</value>
     </star-rating>
   </programme>
   <programme start="20200426124000 +0200" stop="20200426142500 +0200" channel="GOL.TDTChannelsEPG">
@@ -13353,6 +13368,9 @@
     <category lang="es">Deportes</category>
     <category lang="es">Fútbol español</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula4/MGOLP728984" />
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
   </programme>
   <programme start="20200428160000 +0200" stop="20200428163000 +0200" channel="GOL.TDTChannelsEPG">
     <title lang="es">Gol desde casa</title>
@@ -36440,7 +36458,7 @@ A través de las distintas secciones del programa recordaremos la historia del c
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1083059V1383154" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MESP3P1383154" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -37830,7 +37848,7 @@ A través de las distintas secciones del programa recordaremos la historia del c
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1083059V1383154" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MESP3P1383154" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -38437,7 +38455,7 @@ A través de las distintas secciones del programa recordaremos la historia del c
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Preescolar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1083059V1383154" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MESP3P1383154" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -55504,6 +55522,1673 @@ A través de las distintas secciones del programa recordaremos la historia del c
     <category lang="es">Tecnologías</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula4/M325498V1248273" />
     <country lang="es">China</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200426060000 +0200" stop="20200426063000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Goles al bate</title>
+    <desc lang="es">Espacio informativo dedicado al fútbol y al béisbol. El programa profundiza en la actualidad nacional e internacional de estos dos deportes y habla de sus jugadores más destacados.</desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230163" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200426063000 +0200" stop="20200426070000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">TeleSUR Noticias</title>
+    <desc lang="es">Programa informativo de TeleSUR que cuenta con diez corresponsalías y múltiples periodistas y colaboradores especializados que garantizan un detallado análisis de la de la actualidad latinoamericana más inmediata.</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230196" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200426070000 +0200" stop="20200426073000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Entrevista con Jorge Gestoso</title>
+    <desc lang="es">Espacio de entrevistas presentado por el periodista uruguayo Jorge Gestoso.</desc>
+    <date>2016</date>
+    <category lang="es">Información</category>
+    <category lang="es">Entrevista</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1268820" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200426073000 +0200" stop="20200426080000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">TeleSUR Noticias</title>
+    <desc lang="es">Programa informativo de TeleSUR que cuenta con diez corresponsalías y múltiples periodistas y colaboradores especializados que garantizan un detallado análisis de la de la actualidad latinoamericana más inmediata.</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230196" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200426080000 +0200" stop="20200426083000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Cruce de palabras</title>
+    <desc lang="es">Espacio de Telesur que conversa con hombres y mujeres alrededor del mundo. Una manera de conocer como sus vidas, sus tareas y sus luchas inciden en el curso de la historia y de la humanidad.</desc>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Entrevista</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230234" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200426083000 +0200" stop="20200426090000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">TeleSUR Noticias</title>
+    <desc lang="es">Programa informativo de TeleSUR que cuenta con diez corresponsalías y múltiples periodistas y colaboradores especializados que garantizan un detallado análisis de la de la actualidad latinoamericana más inmediata.</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230196" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200426090000 +0200" stop="20200426093000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Cuba, mujeres en revolución</title>
+    <desc lang="es">Documental que narra el papel desempeñado por las mujeres tanto en la lucha guerrillera como en el devenir de la revolución cubana hasta la actualidad. Trabajadoras, doctoras, científicas, artistas y militantes sociales y políticas surgen en voz e imagen.</desc>
+    <credits>
+      <director>Maria Torrellas Liebana</director>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Documentales</category>
+    <category lang="es">Historia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1778390" />
+    <country lang="es">Argentina y Cuba</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200426093000 +0200" stop="20200426100000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Reportajes TeleSUR: Fighting fire</title>
+    <title lang="xx">Reportajes TeleSUR</title>
+    <sub-title lang="es">The indigenous struggle for the Amazon</sub-title>
+    <desc lang="es">Espacio que emite reportajes de tipo social sobre hechos ocurridos en distintos países de latinoamérica. Se trata de espacios de denuncia que, en muchos casos, reflejan la realidad de conflictos y lugares olvidados.</desc>
+    <date>2020</date>
+    <category lang="es">Información</category>
+    <category lang="es">Otros</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1778832" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200426100000 +0200" stop="20200426103000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Goles al bate</title>
+    <desc lang="es">Espacio informativo dedicado al fútbol y al béisbol. El programa profundiza en la actualidad nacional e internacional de estos dos deportes y habla de sus jugadores más destacados.</desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230163" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200426103000 +0200" stop="20200426110000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">TeleSUR Noticias</title>
+    <desc lang="es">Programa informativo de TeleSUR que cuenta con diez corresponsalías y múltiples periodistas y colaboradores especializados que garantizan un detallado análisis de la de la actualidad latinoamericana más inmediata.</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230196" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200426110000 +0200" stop="20200426113000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Entre fronteras</title>
+    <desc lang="es">Espacio semanal que repasa la actualidad en el ámbito de las migraciones. Además, el programa busca la participación del público y trata de acercar a familias separadas por la migración de algunos de sus miembros en busca de un futuro mejor.</desc>
+    <date>2012</date>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230220" />
+    <country lang="es">Venezuela</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200426113000 +0200" stop="20200426120000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">TeleSUR Noticias</title>
+    <desc lang="es">Programa informativo de TeleSUR que cuenta con diez corresponsalías y múltiples periodistas y colaboradores especializados que garantizan un detallado análisis de la de la actualidad latinoamericana más inmediata.</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230196" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200426120000 +0200" stop="20200426123000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Síntesis</title>
+    <desc lang="es">Informativo de teleSur que hace un repaso a las noticias más destacadas de la semana en América Latina.</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230223" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200426123000 +0200" stop="20200426130000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">TeleSUR Noticias</title>
+    <desc lang="es">Programa informativo de TeleSUR que cuenta con diez corresponsalías y múltiples periodistas y colaboradores especializados que garantizan un detallado análisis de la de la actualidad latinoamericana más inmediata.</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230196" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200426130000 +0200" stop="20200426133000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Birregionales</title>
+    <date>2017</date>
+    <category lang="es">Documentales</category>
+    <category lang="es">Otros</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1411734" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200426133000 +0200" stop="20200426140000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Congénero</title>
+    <desc lang="es">Programa que difunde información útil para la mujer actual. Paridad, Igualdad y equilibrio marcan este espacio dedicado a la mujer como individuo social como agente del cambio social, político, cultural y económico de Latinoamérica.</desc>
+    <date>2013</date>
+    <category lang="es">Cultural/Educativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230221" />
+    <country lang="es">Venezuela</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200426140000 +0200" stop="20200426143000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Cuba, mujeres en revolución</title>
+    <desc lang="es">Documental que narra el papel desempeñado por las mujeres tanto en la lucha guerrillera como en el devenir de la revolución cubana hasta la actualidad. Trabajadoras, doctoras, científicas, artistas y militantes sociales y políticas surgen en voz e imagen.</desc>
+    <credits>
+      <director>Maria Torrellas Liebana</director>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Documentales</category>
+    <category lang="es">Historia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1778390" />
+    <country lang="es">Argentina y Cuba</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200426143000 +0200" stop="20200426150000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">TeleSUR Noticias</title>
+    <desc lang="es">Programa informativo de TeleSUR que cuenta con diez corresponsalías y múltiples periodistas y colaboradores especializados que garantizan un detallado análisis de la de la actualidad latinoamericana más inmediata.</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230196" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200426150000 +0200" stop="20200426153000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Entrevista con Jorge Gestoso</title>
+    <desc lang="es">Espacio de entrevistas presentado por el periodista uruguayo Jorge Gestoso.</desc>
+    <date>2016</date>
+    <category lang="es">Información</category>
+    <category lang="es">Entrevista</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1268820" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200426153000 +0200" stop="20200426160000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Zona verde</title>
+    <desc lang="es">Informativo medioambiental en el que se describen las principales causas de la contaminación en diferentes puntos del mundo.</desc>
+    <date>2012</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230215" />
+    <country lang="es">Venezuela</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200426160000 +0200" stop="20200426163000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Vidas</title>
+    <desc lang="es">Espacio que redescubre la cultura de América Latina. La diversidad y pluralidad hacen de esta región una inagotable fuente de riqueza en experiencias. A través de historias y crónicas, "Vidas" propone un reencuentro con sus orígenes y la proyección latinoamericana.</desc>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Cultura y espectáculos</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230233" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200426163000 +0200" stop="20200426170000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">TeleSUR Noticias</title>
+    <desc lang="es">Programa informativo de TeleSUR que cuenta con diez corresponsalías y múltiples periodistas y colaboradores especializados que garantizan un detallado análisis de la de la actualidad latinoamericana más inmediata.</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230196" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200426170000 +0200" stop="20200426173000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">N.A.D.</title>
+    <desc lang="es">Espacio deportivo de Telesur que ofrece el análisis más completo de todas las competiciones, imágenes de las jugadas más polémicas y declaraciones de los mejores atletas del mundo.</desc>
+    <date>2015</date>
+    <category lang="es">Información</category>
+    <category lang="es">Deporte</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1240902" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200426173000 +0200" stop="20200426180000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">TeleSUR Noticias</title>
+    <desc lang="es">Programa informativo de TeleSUR que cuenta con diez corresponsalías y múltiples periodistas y colaboradores especializados que garantizan un detallado análisis de la de la actualidad latinoamericana más inmediata.</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230196" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200426180000 +0200" stop="20200426183000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Guía tu cuerpo</title>
+    <desc lang="es">Informativo semanal de Telesur que muestra desde una óptica propia y diferente la Salud en Latinoamérica. Además, el espacio se propone ser una guía hacia la vida saludable para los espectadores.</desc>
+    <date>2012</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Salud y bienestar</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230211" />
+    <country lang="es">Venezuela</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200426183000 +0200" stop="20200426190000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Birregionales</title>
+    <date>2017</date>
+    <category lang="es">Documentales</category>
+    <category lang="es">Otros</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1411734" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200426190000 +0200" stop="20200426193000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Cuba, mujeres en revolución</title>
+    <desc lang="es">Documental que narra el papel desempeñado por las mujeres tanto en la lucha guerrillera como en el devenir de la revolución cubana hasta la actualidad. Trabajadoras, doctoras, científicas, artistas y militantes sociales y políticas surgen en voz e imagen.</desc>
+    <credits>
+      <director>Maria Torrellas Liebana</director>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Documentales</category>
+    <category lang="es">Historia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1778390" />
+    <country lang="es">Argentina y Cuba</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200426193000 +0200" stop="20200426200000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Cruce de palabras</title>
+    <desc lang="es">Espacio de Telesur que conversa con hombres y mujeres alrededor del mundo. Una manera de conocer como sus vidas, sus tareas y sus luchas inciden en el curso de la historia y de la humanidad.</desc>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Entrevista</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230234" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200426200000 +0200" stop="20200426203000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Síntesis</title>
+    <desc lang="es">Informativo de teleSur que hace un repaso a las noticias más destacadas de la semana en América Latina.</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230223" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200426203000 +0200" stop="20200426210000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">TeleSUR Noticias</title>
+    <desc lang="es">Programa informativo de TeleSUR que cuenta con diez corresponsalías y múltiples periodistas y colaboradores especializados que garantizan un detallado análisis de la de la actualidad latinoamericana más inmediata.</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230196" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200426210000 +0200" stop="20200426213000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Entre fronteras</title>
+    <desc lang="es">Espacio semanal que repasa la actualidad en el ámbito de las migraciones. Además, el programa busca la participación del público y trata de acercar a familias separadas por la migración de algunos de sus miembros en busca de un futuro mejor.</desc>
+    <date>2012</date>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230220" />
+    <country lang="es">Venezuela</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200426213000 +0200" stop="20200426220000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">TeleSUR Noticias</title>
+    <desc lang="es">Programa informativo de TeleSUR que cuenta con diez corresponsalías y múltiples periodistas y colaboradores especializados que garantizan un detallado análisis de la de la actualidad latinoamericana más inmediata.</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230196" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200426220000 +0200" stop="20200426223000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Zona verde</title>
+    <desc lang="es">Informativo medioambiental en el que se describen las principales causas de la contaminación en diferentes puntos del mundo.</desc>
+    <date>2012</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230215" />
+    <country lang="es">Venezuela</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200426223000 +0200" stop="20200426230000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">TeleSUR Noticias</title>
+    <desc lang="es">Programa informativo de TeleSUR que cuenta con diez corresponsalías y múltiples periodistas y colaboradores especializados que garantizan un detallado análisis de la de la actualidad latinoamericana más inmediata.</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230196" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200426230000 +0200" stop="20200426233000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Congénero</title>
+    <desc lang="es">Programa que difunde información útil para la mujer actual. Paridad, Igualdad y equilibrio marcan este espacio dedicado a la mujer como individuo social como agente del cambio social, político, cultural y económico de Latinoamérica.</desc>
+    <date>2013</date>
+    <category lang="es">Cultural/Educativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230221" />
+    <country lang="es">Venezuela</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200426233000 +0200" stop="20200427000000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">TeleSUR Noticias</title>
+    <desc lang="es">Programa informativo de TeleSUR que cuenta con diez corresponsalías y múltiples periodistas y colaboradores especializados que garantizan un detallado análisis de la de la actualidad latinoamericana más inmediata.</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230196" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200427000000 +0200" stop="20200427003000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Goles al bate</title>
+    <desc lang="es">Espacio informativo dedicado al fútbol y al béisbol. El programa profundiza en la actualidad nacional e internacional de estos dos deportes y habla de sus jugadores más destacados.</desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230163" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200427003000 +0200" stop="20200427010000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Atomun</title>
+    <desc lang="es">Espacio informativo enfocado a las noticias de ciencia y tecnología latinoamericanas. Los temas tratados estarán relacionados con los avances en la materia que contribuyan al planeta, al medio ambiente, al desarrollo y las demandas del ser humano.</desc>
+    <date>2012</date>
+    <category lang="es">Información</category>
+    <category lang="es">Investigación</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230206" />
+    <country lang="es">Venezuela</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200427010000 +0200" stop="20200427013000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Cruce de palabras</title>
+    <desc lang="es">Espacio de Telesur que conversa con hombres y mujeres alrededor del mundo. Una manera de conocer como sus vidas, sus tareas y sus luchas inciden en el curso de la historia y de la humanidad.</desc>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Entrevista</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230234" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200427013000 +0200" stop="20200427020000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">TeleSUR Noticias</title>
+    <desc lang="es">Programa informativo de TeleSUR que cuenta con diez corresponsalías y múltiples periodistas y colaboradores especializados que garantizan un detallado análisis de la de la actualidad latinoamericana más inmediata.</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230196" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200427020000 +0200" stop="20200427030000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Documentales Telesur</title>
+    <sub-title lang="es">Fusiles y pintadas</sub-title>
+    <desc lang="es">Espacio que emite un documental relacionado con acontecimientos históricos, sociales y culturales que han marcado Latinoamérica y el resto del mundo.</desc>
+    <date>2019</date>
+    <category lang="es">Documentales</category>
+    <category lang="es">Actualidad</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1633779" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200427030000 +0200" stop="20200427033000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Entrevista con Jorge Gestoso</title>
+    <desc lang="es">Espacio de entrevistas presentado por el periodista uruguayo Jorge Gestoso.</desc>
+    <date>2016</date>
+    <category lang="es">Información</category>
+    <category lang="es">Entrevista</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1268820" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200427033000 +0200" stop="20200427040000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Texto y contexto</title>
+    <desc lang="es">Texto y contexto.</desc>
+    <date>2018</date>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Debate</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1511983" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200427040000 +0200" stop="20200427043000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">El punto en la i</title>
+    <desc lang="es">Espacio de análisis e investigación conducido por Marcela Heredia.</desc>
+    <date>2016</date>
+    <category lang="es">Información</category>
+    <category lang="es">Investigación</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230224" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200427043000 +0200" stop="20200427050000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">TeleSUR Noticias</title>
+    <desc lang="es">Programa informativo de TeleSUR que cuenta con diez corresponsalías y múltiples periodistas y colaboradores especializados que garantizan un detallado análisis de la de la actualidad latinoamericana más inmediata.</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230196" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200427050000 +0200" stop="20200427053000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Reportajes TeleSUR: Fighting fire</title>
+    <title lang="xx">Reportajes TeleSUR</title>
+    <sub-title lang="es">The indigenous struggle for the Amazon</sub-title>
+    <desc lang="es">Espacio que emite reportajes de tipo social sobre hechos ocurridos en distintos países de latinoamérica. Se trata de espacios de denuncia que, en muchos casos, reflejan la realidad de conflictos y lugares olvidados.</desc>
+    <date>2020</date>
+    <category lang="es">Información</category>
+    <category lang="es">Otros</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1778832" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200427053000 +0200" stop="20200427060000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Birregionales</title>
+    <date>2017</date>
+    <category lang="es">Documentales</category>
+    <category lang="es">Otros</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1411734" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200427060000 +0200" stop="20200427063000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Goles al bate</title>
+    <desc lang="es">Espacio informativo dedicado al fútbol y al béisbol. El programa profundiza en la actualidad nacional e internacional de estos dos deportes y habla de sus jugadores más destacados.</desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230163" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200427063000 +0200" stop="20200427070000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Entre fronteras</title>
+    <desc lang="es">Espacio semanal que repasa la actualidad en el ámbito de las migraciones. Además, el programa busca la participación del público y trata de acercar a familias separadas por la migración de algunos de sus miembros en busca de un futuro mejor.</desc>
+    <date>2012</date>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230220" />
+    <country lang="es">Venezuela</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200427070000 +0200" stop="20200427073000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Cuba, mujeres en revolución</title>
+    <desc lang="es">Documental que narra el papel desempeñado por las mujeres tanto en la lucha guerrillera como en el devenir de la revolución cubana hasta la actualidad. Trabajadoras, doctoras, científicas, artistas y militantes sociales y políticas surgen en voz e imagen.</desc>
+    <credits>
+      <director>Maria Torrellas Liebana</director>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Documentales</category>
+    <category lang="es">Historia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1778390" />
+    <country lang="es">Argentina y Cuba</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200427073000 +0200" stop="20200427080000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">TeleSUR Noticias</title>
+    <desc lang="es">Programa informativo de TeleSUR que cuenta con diez corresponsalías y múltiples periodistas y colaboradores especializados que garantizan un detallado análisis de la de la actualidad latinoamericana más inmediata.</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230196" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200427080000 +0200" stop="20200427083000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Texto y contexto</title>
+    <desc lang="es">Texto y contexto.</desc>
+    <date>2018</date>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Debate</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1511983" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200427083000 +0200" stop="20200427090000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">TeleSUR Noticias</title>
+    <desc lang="es">Programa informativo de TeleSUR que cuenta con diez corresponsalías y múltiples periodistas y colaboradores especializados que garantizan un detallado análisis de la de la actualidad latinoamericana más inmediata.</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230196" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200427090000 +0200" stop="20200427100000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Documentales Telesur</title>
+    <sub-title lang="es">Fusiles y pintadas</sub-title>
+    <desc lang="es">Espacio que emite un documental relacionado con acontecimientos históricos, sociales y culturales que han marcado Latinoamérica y el resto del mundo.</desc>
+    <date>2019</date>
+    <category lang="es">Documentales</category>
+    <category lang="es">Actualidad</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1633779" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200427100000 +0200" stop="20200427103000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Atomun</title>
+    <desc lang="es">Espacio informativo enfocado a las noticias de ciencia y tecnología latinoamericanas. Los temas tratados estarán relacionados con los avances en la materia que contribuyan al planeta, al medio ambiente, al desarrollo y las demandas del ser humano.</desc>
+    <date>2012</date>
+    <category lang="es">Información</category>
+    <category lang="es">Investigación</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230206" />
+    <country lang="es">Venezuela</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200427103000 +0200" stop="20200427110000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">TeleSUR Noticias</title>
+    <desc lang="es">Programa informativo de TeleSUR que cuenta con diez corresponsalías y múltiples periodistas y colaboradores especializados que garantizan un detallado análisis de la de la actualidad latinoamericana más inmediata.</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230196" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200427110000 +0200" stop="20200427113000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Reportajes TeleSUR: Fighting fire</title>
+    <title lang="xx">Reportajes TeleSUR</title>
+    <sub-title lang="es">The indigenous struggle for the Amazon</sub-title>
+    <desc lang="es">Espacio que emite reportajes de tipo social sobre hechos ocurridos en distintos países de latinoamérica. Se trata de espacios de denuncia que, en muchos casos, reflejan la realidad de conflictos y lugares olvidados.</desc>
+    <date>2020</date>
+    <category lang="es">Información</category>
+    <category lang="es">Otros</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1778832" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200427113000 +0200" stop="20200427120000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">TeleSUR Noticias</title>
+    <desc lang="es">Programa informativo de TeleSUR que cuenta con diez corresponsalías y múltiples periodistas y colaboradores especializados que garantizan un detallado análisis de la de la actualidad latinoamericana más inmediata.</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230196" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200427120000 +0200" stop="20200427123000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Entre fronteras</title>
+    <desc lang="es">Espacio semanal que repasa la actualidad en el ámbito de las migraciones. Además, el programa busca la participación del público y trata de acercar a familias separadas por la migración de algunos de sus miembros en busca de un futuro mejor.</desc>
+    <date>2012</date>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230220" />
+    <country lang="es">Venezuela</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200427123000 +0200" stop="20200427130000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">TeleSUR Noticias</title>
+    <desc lang="es">Programa informativo de TeleSUR que cuenta con diez corresponsalías y múltiples periodistas y colaboradores especializados que garantizan un detallado análisis de la de la actualidad latinoamericana más inmediata.</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230196" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200427130000 +0200" stop="20200427133000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Birregionales</title>
+    <date>2017</date>
+    <category lang="es">Documentales</category>
+    <category lang="es">Otros</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1411734" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200427133000 +0200" stop="20200427140000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">En clave mediática</title>
+    <desc lang="es">En clave mediática.</desc>
+    <date>2018</date>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1589213" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200427140000 +0200" stop="20200427143000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Vidas</title>
+    <desc lang="es">Espacio que redescubre la cultura de América Latina. La diversidad y pluralidad hacen de esta región una inagotable fuente de riqueza en experiencias. A través de historias y crónicas, "Vidas" propone un reencuentro con sus orígenes y la proyección latinoamericana.</desc>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Cultura y espectáculos</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230233" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200427143000 +0200" stop="20200427153000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Agenda Abierta</title>
+    <desc lang="es">Informativo matinal de media hora que ofrece un espacio de información y opinión sobre lo más destacado que ocurre en Latinoamérica.</desc>
+    <date>2009</date>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230238" />
+    <country lang="es">Venezuela</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200427153000 +0200" stop="20200427160000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Reporte 360º</title>
+    <desc lang="es">Las noticias de actualidad que se producen más allá del continente latinoamericano.</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230236" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200427160000 +0200" stop="20200427163000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Impacto económico estelar</title>
+    <desc lang="es">Programa que analiza la situación económica de América Latina poniendo el acento en que el libre mercado no puede resolver los principales problemas de pobreza que viven algunas regiones y plantea como se podría poner fin a esta y otras cuestiones.</desc>
+    <credits>
+      <presenter>Javier Vega</presenter>
+    </credits>
+    <category lang="es">Información</category>
+    <category lang="es">Economía</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230180" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200427163000 +0200" stop="20200427170000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">TeleSUR Noticias</title>
+    <desc lang="es">Programa informativo de TeleSUR que cuenta con diez corresponsalías y múltiples periodistas y colaboradores especializados que garantizan un detallado análisis de la de la actualidad latinoamericana más inmediata.</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230196" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200427170000 +0200" stop="20200427173000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Deportes TeleSUR</title>
+    <desc lang="es">Informativo deportivo de TeleSur que analiza las competiciones más destacadas. Un espacio diario con un amplio equipo de reporteros que ofrecen información detallada de lo que pasa en el mundo del deporte.</desc>
+    <date>2017</date>
+    <category lang="es">Información</category>
+    <category lang="es">Deporte</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230200" />
+    <country lang="es">Venezuela</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200427173000 +0200" stop="20200427183000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Conexión Global</title>
+    <desc lang="es">Espacio informativo de Telesur que recoge los temas de interés de la vida política, económica y social de toda América Latina.</desc>
+    <credits>
+      <presenter>Luis Blandón</presenter>
+      <presenter>Mirayira Chirinos</presenter>
+    </credits>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230202" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200427183000 +0200" stop="20200427193000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Jugada crítica</title>
+    <date>2015</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1248055" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200427193000 +0200" stop="20200427200000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Conexión digital</title>
+    <desc lang="es">Programa sobre la información que circula en portales de internet, blogs y redes sociales de todo el mundo. Conducido por Marayira Chirinos, pretende saber qué se dice en el planeta digital, quién lo dice, por qué y qué impacto tiene en la sociedad.</desc>
+    <credits>
+      <presenter>Marayira Chirinos</presenter>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1434956" />
+    <country lang="es">Venezuela</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200427200000 +0200" stop="20200427203000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Birregionales</title>
+    <date>2017</date>
+    <category lang="es">Documentales</category>
+    <category lang="es">Otros</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1411734" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200427203000 +0200" stop="20200427210000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">TeleSUR Noticias</title>
+    <desc lang="es">Programa informativo de TeleSUR que cuenta con diez corresponsalías y múltiples periodistas y colaboradores especializados que garantizan un detallado análisis de la de la actualidad latinoamericana más inmediata.</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230196" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200427210000 +0200" stop="20200427213000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Somos</title>
+    <date>2018</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Cultura y espectáculos</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1528836" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200427213000 +0200" stop="20200427220000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">TeleSUR Noticias</title>
+    <desc lang="es">Programa informativo de TeleSUR que cuenta con diez corresponsalías y múltiples periodistas y colaboradores especializados que garantizan un detallado análisis de la de la actualidad latinoamericana más inmediata.</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230196" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200427220000 +0200" stop="20200427223000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Impacto económico estelar</title>
+    <desc lang="es">Programa que analiza la situación económica de América Latina poniendo el acento en que el libre mercado no puede resolver los principales problemas de pobreza que viven algunas regiones y plantea como se podría poner fin a esta y otras cuestiones.</desc>
+    <credits>
+      <presenter>Javier Vega</presenter>
+    </credits>
+    <category lang="es">Información</category>
+    <category lang="es">Economía</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230180" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200427223000 +0200" stop="20200427230000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Temas del día</title>
+    <desc lang="es">Espacio informativo que ofrece cada día un análisis detallado de las noticias de la jornada.</desc>
+    <date>2012</date>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230186" />
+    <country lang="es">Venezuela</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200427230000 +0200" stop="20200427233000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Deportes TeleSUR</title>
+    <desc lang="es">Informativo deportivo de TeleSur que analiza las competiciones más destacadas. Un espacio diario con un amplio equipo de reporteros que ofrecen información detallada de lo que pasa en el mundo del deporte.</desc>
+    <date>2017</date>
+    <category lang="es">Información</category>
+    <category lang="es">Deporte</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230200" />
+    <country lang="es">Venezuela</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200427233000 +0200" stop="20200428000000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">TeleSUR Noticias</title>
+    <desc lang="es">Programa informativo de TeleSUR que cuenta con diez corresponsalías y múltiples periodistas y colaboradores especializados que garantizan un detallado análisis de la de la actualidad latinoamericana más inmediata.</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230196" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200428000000 +0200" stop="20200428003000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Texto y contexto</title>
+    <desc lang="es">Texto y contexto.</desc>
+    <date>2018</date>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Debate</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1511983" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200428003000 +0200" stop="20200428010000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Reporte 360º</title>
+    <desc lang="es">Las noticias de actualidad que se producen más allá del continente latinoamericano.</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230236" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200428010000 +0200" stop="20200428013000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Impacto económico estelar</title>
+    <desc lang="es">Programa que analiza la situación económica de América Latina poniendo el acento en que el libre mercado no puede resolver los principales problemas de pobreza que viven algunas regiones y plantea como se podría poner fin a esta y otras cuestiones.</desc>
+    <credits>
+      <presenter>Javier Vega</presenter>
+    </credits>
+    <category lang="es">Información</category>
+    <category lang="es">Economía</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230180" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200428013000 +0200" stop="20200428023000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Edición Central</title>
+    <desc lang="es">Espacio informativo de Telesur que recoge los temas de interés de la vida política, económica y social de toda América Latina.</desc>
+    <credits>
+      <presenter>Abraham Istillarte</presenter>
+      <presenter>Tatiana Pérez</presenter>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230235" />
+    <country lang="es">Venezuela</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200428023000 +0200" stop="20200428033000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Es noticia</title>
+    <desc lang="es">Resumen diario de los hechos noticiosos ocurridos en latinoamérica y el mundo del canal Telesur.</desc>
+    <date>2016</date>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1279806" />
+    <country lang="es">Venezuela</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200428033000 +0200" stop="20200428040000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">En clave política</title>
+    <desc lang="es">Orlando Pérez, director del diario ecuatoriano "El Telégrafo", conduce este programa dedicado a analizar el panorama político de Ecuador.</desc>
+    <date>2016</date>
+    <category lang="es">Información</category>
+    <category lang="es">Política</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1334880" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200428040000 +0200" stop="20200428043000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">El punto en la i</title>
+    <desc lang="es">Espacio de análisis e investigación conducido por Marcela Heredia.</desc>
+    <date>2016</date>
+    <category lang="es">Información</category>
+    <category lang="es">Investigación</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230224" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200428043000 +0200" stop="20200428050000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">TeleSUR Noticias</title>
+    <desc lang="es">Programa informativo de TeleSUR que cuenta con diez corresponsalías y múltiples periodistas y colaboradores especializados que garantizan un detallado análisis de la de la actualidad latinoamericana más inmediata.</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230196" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200428050000 +0200" stop="20200428060000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Jugada crítica</title>
+    <date>2015</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1248055" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200428060000 +0200" stop="20200428063000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Entre fronteras</title>
+    <desc lang="es">Espacio semanal que repasa la actualidad en el ámbito de las migraciones. Además, el programa busca la participación del público y trata de acercar a familias separadas por la migración de algunos de sus miembros en busca de un futuro mejor.</desc>
+    <date>2012</date>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230220" />
+    <country lang="es">Venezuela</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200428063000 +0200" stop="20200428070000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Reportajes TeleSUR: Fighting fire</title>
+    <title lang="xx">Reportajes TeleSUR</title>
+    <sub-title lang="es">The indigenous struggle for the Amazon</sub-title>
+    <desc lang="es">Espacio que emite reportajes de tipo social sobre hechos ocurridos en distintos países de latinoamérica. Se trata de espacios de denuncia que, en muchos casos, reflejan la realidad de conflictos y lugares olvidados.</desc>
+    <date>2020</date>
+    <category lang="es">Información</category>
+    <category lang="es">Otros</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1778832" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200428070000 +0200" stop="20200428073000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">En clave política</title>
+    <desc lang="es">Orlando Pérez, director del diario ecuatoriano "El Telégrafo", conduce este programa dedicado a analizar el panorama político de Ecuador.</desc>
+    <date>2016</date>
+    <category lang="es">Información</category>
+    <category lang="es">Política</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1334880" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200428073000 +0200" stop="20200428080000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">TeleSUR Noticias</title>
+    <desc lang="es">Programa informativo de TeleSUR que cuenta con diez corresponsalías y múltiples periodistas y colaboradores especializados que garantizan un detallado análisis de la de la actualidad latinoamericana más inmediata.</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230196" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200428080000 +0200" stop="20200428083000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Somos</title>
+    <date>2018</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Cultura y espectáculos</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1528836" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200428083000 +0200" stop="20200428090000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">TeleSUR Noticias</title>
+    <desc lang="es">Programa informativo de TeleSUR que cuenta con diez corresponsalías y múltiples periodistas y colaboradores especializados que garantizan un detallado análisis de la de la actualidad latinoamericana más inmediata.</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230196" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200428090000 +0200" stop="20200428093000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Impacto económico estelar</title>
+    <desc lang="es">Programa que analiza la situación económica de América Latina poniendo el acento en que el libre mercado no puede resolver los principales problemas de pobreza que viven algunas regiones y plantea como se podría poner fin a esta y otras cuestiones.</desc>
+    <credits>
+      <presenter>Javier Vega</presenter>
+    </credits>
+    <category lang="es">Información</category>
+    <category lang="es">Economía</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230180" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200428093000 +0200" stop="20200428103000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Es noticia</title>
+    <desc lang="es">Resumen diario de los hechos noticiosos ocurridos en latinoamérica y el mundo del canal Telesur.</desc>
+    <date>2016</date>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1279806" />
+    <country lang="es">Venezuela</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200428103000 +0200" stop="20200428110000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">TeleSUR Noticias</title>
+    <desc lang="es">Programa informativo de TeleSUR que cuenta con diez corresponsalías y múltiples periodistas y colaboradores especializados que garantizan un detallado análisis de la de la actualidad latinoamericana más inmediata.</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230196" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200428110000 +0200" stop="20200428113000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">En clave política</title>
+    <desc lang="es">Orlando Pérez, director del diario ecuatoriano "El Telégrafo", conduce este programa dedicado a analizar el panorama político de Ecuador.</desc>
+    <date>2016</date>
+    <category lang="es">Información</category>
+    <category lang="es">Política</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1334880" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200428113000 +0200" stop="20200428120000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">TeleSUR Noticias</title>
+    <desc lang="es">Programa informativo de TeleSUR que cuenta con diez corresponsalías y múltiples periodistas y colaboradores especializados que garantizan un detallado análisis de la de la actualidad latinoamericana más inmediata.</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230196" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200428120000 +0200" stop="20200428123000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Somos</title>
+    <date>2018</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Cultura y espectáculos</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1528836" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200428123000 +0200" stop="20200428130000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">TeleSUR Noticias</title>
+    <desc lang="es">Programa informativo de TeleSUR que cuenta con diez corresponsalías y múltiples periodistas y colaboradores especializados que garantizan un detallado análisis de la de la actualidad latinoamericana más inmediata.</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230196" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200428130000 +0200" stop="20200428133000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Reportajes TeleSUR: Fighting fire</title>
+    <title lang="xx">Reportajes TeleSUR</title>
+    <sub-title lang="es">The indigenous struggle for the Amazon</sub-title>
+    <desc lang="es">Espacio que emite reportajes de tipo social sobre hechos ocurridos en distintos países de latinoamérica. Se trata de espacios de denuncia que, en muchos casos, reflejan la realidad de conflictos y lugares olvidados.</desc>
+    <date>2020</date>
+    <category lang="es">Información</category>
+    <category lang="es">Otros</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1778832" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200428133000 +0200" stop="20200428140000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">En clave mediática</title>
+    <desc lang="es">En clave mediática.</desc>
+    <date>2018</date>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1589213" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200428140000 +0200" stop="20200428143000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Guía tu cuerpo</title>
+    <desc lang="es">Informativo semanal de Telesur que muestra desde una óptica propia y diferente la Salud en Latinoamérica. Además, el espacio se propone ser una guía hacia la vida saludable para los espectadores.</desc>
+    <date>2012</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Salud y bienestar</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230211" />
+    <country lang="es">Venezuela</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200428143000 +0200" stop="20200428153000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Agenda Abierta</title>
+    <desc lang="es">Informativo matinal de media hora que ofrece un espacio de información y opinión sobre lo más destacado que ocurre en Latinoamérica.</desc>
+    <date>2009</date>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230238" />
+    <country lang="es">Venezuela</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200428153000 +0200" stop="20200428160000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Reporte 360º</title>
+    <desc lang="es">Las noticias de actualidad que se producen más allá del continente latinoamericano.</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230236" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200428160000 +0200" stop="20200428163000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Impacto económico estelar</title>
+    <desc lang="es">Programa que analiza la situación económica de América Latina poniendo el acento en que el libre mercado no puede resolver los principales problemas de pobreza que viven algunas regiones y plantea como se podría poner fin a esta y otras cuestiones.</desc>
+    <credits>
+      <presenter>Javier Vega</presenter>
+    </credits>
+    <category lang="es">Información</category>
+    <category lang="es">Economía</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230180" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200428163000 +0200" stop="20200428170000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">TeleSUR Noticias</title>
+    <desc lang="es">Programa informativo de TeleSUR que cuenta con diez corresponsalías y múltiples periodistas y colaboradores especializados que garantizan un detallado análisis de la de la actualidad latinoamericana más inmediata.</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230196" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200428170000 +0200" stop="20200428173000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Deportes TeleSUR</title>
+    <desc lang="es">Informativo deportivo de TeleSur que analiza las competiciones más destacadas. Un espacio diario con un amplio equipo de reporteros que ofrecen información detallada de lo que pasa en el mundo del deporte.</desc>
+    <date>2017</date>
+    <category lang="es">Información</category>
+    <category lang="es">Deporte</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230200" />
+    <country lang="es">Venezuela</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200428173000 +0200" stop="20200428183000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Conexión Global</title>
+    <desc lang="es">Espacio informativo de Telesur que recoge los temas de interés de la vida política, económica y social de toda América Latina.</desc>
+    <credits>
+      <presenter>Luis Blandón</presenter>
+      <presenter>Mirayira Chirinos</presenter>
+    </credits>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230202" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200428183000 +0200" stop="20200428193000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Jugada crítica</title>
+    <date>2015</date>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1248055" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200428193000 +0200" stop="20200428200000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Conexión digital</title>
+    <desc lang="es">Programa sobre la información que circula en portales de internet, blogs y redes sociales de todo el mundo. Conducido por Marayira Chirinos, pretende saber qué se dice en el planeta digital, quién lo dice, por qué y qué impacto tiene en la sociedad.</desc>
+    <credits>
+      <presenter>Marayira Chirinos</presenter>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1434956" />
+    <country lang="es">Venezuela</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200428200000 +0200" stop="20200428203000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Guía tu cuerpo</title>
+    <desc lang="es">Informativo semanal de Telesur que muestra desde una óptica propia y diferente la Salud en Latinoamérica. Además, el espacio se propone ser una guía hacia la vida saludable para los espectadores.</desc>
+    <date>2012</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Salud y bienestar</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230211" />
+    <country lang="es">Venezuela</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200428203000 +0200" stop="20200428210000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">TeleSUR Noticias</title>
+    <desc lang="es">Programa informativo de TeleSUR que cuenta con diez corresponsalías y múltiples periodistas y colaboradores especializados que garantizan un detallado análisis de la de la actualidad latinoamericana más inmediata.</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230196" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200428210000 +0200" stop="20200428213000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Somos</title>
+    <date>2018</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Cultura y espectáculos</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1528836" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200428213000 +0200" stop="20200428220000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">TeleSUR Noticias</title>
+    <desc lang="es">Programa informativo de TeleSUR que cuenta con diez corresponsalías y múltiples periodistas y colaboradores especializados que garantizan un detallado análisis de la de la actualidad latinoamericana más inmediata.</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230196" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200428220000 +0200" stop="20200428223000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Impacto económico estelar</title>
+    <desc lang="es">Programa que analiza la situación económica de América Latina poniendo el acento en que el libre mercado no puede resolver los principales problemas de pobreza que viven algunas regiones y plantea como se podría poner fin a esta y otras cuestiones.</desc>
+    <credits>
+      <presenter>Javier Vega</presenter>
+    </credits>
+    <category lang="es">Información</category>
+    <category lang="es">Economía</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230180" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200428223000 +0200" stop="20200428230000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Temas del día</title>
+    <desc lang="es">Espacio informativo que ofrece cada día un análisis detallado de las noticias de la jornada.</desc>
+    <date>2012</date>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230186" />
+    <country lang="es">Venezuela</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200428230000 +0200" stop="20200428233000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">Deportes TeleSUR</title>
+    <desc lang="es">Informativo deportivo de TeleSur que analiza las competiciones más destacadas. Un espacio diario con un amplio equipo de reporteros que ofrecen información detallada de lo que pasa en el mundo del deporte.</desc>
+    <date>2017</date>
+    <category lang="es">Información</category>
+    <category lang="es">Deporte</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230200" />
+    <country lang="es">Venezuela</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200428233000 +0200" stop="20200429000000 +0200" channel="TeleSUR.TDTChannelsEPG">
+    <title lang="es">TeleSUR Noticias</title>
+    <desc lang="es">Programa informativo de TeleSUR que cuenta con diez corresponsalías y múltiples periodistas y colaboradores especializados que garantizan un detallado análisis de la de la actualidad latinoamericana más inmediata.</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M307055V1230196" />
     <rating system="ES">
       <value>TP</value>
     </rating>
