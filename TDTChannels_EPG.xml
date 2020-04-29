@@ -177,10 +177,10 @@
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="ATVHD.TDTChannelsEPG">
-    <display-name lang="es">ATV</display-name>
+    <display-name lang="es">ATV Andorra</display-name>
   </channel>
   <channel id="ATVCW.TDTChannelsEPG">
-    <display-name lang="es">ATV Web</display-name>
+    <display-name lang="es">ATV Web Andorra</display-name>
   </channel>
   <programme start="20200429060000 +0200" stop="20200429073000 +0200" channel="La1.TDTChannelsEPG">
     <title lang="es">Noticias 24H</title>
