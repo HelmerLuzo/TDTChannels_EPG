@@ -422,6 +422,9 @@
     <rating system="ES">
       <value>TP</value>
     </rating>
+    <star-rating system="ES">
+      <value>5/5</value>
+    </star-rating>
   </programme>
   <programme start="20200501210000 +0200" stop="20200501215200 +0200" channel="La1.TDTChannelsEPG">
     <title lang="es">Telediario 2</title>
@@ -1431,6 +1434,9 @@
     <rating system="ES">
       <value>TP</value>
     </rating>
+    <star-rating system="ES">
+      <value>4/5</value>
+    </star-rating>
   </programme>
   <programme start="20200501170500 +0200" stop="20200501175600 +0200" channel="La2.TDTChannelsEPG">
     <title lang="es">Japón desde el cielo</title>
@@ -1681,7 +1687,7 @@
       <value>TP</value>
     </rating>
     <star-rating system="ES">
-      <value>3/5</value>
+      <value>4/5</value>
     </star-rating>
   </programme>
   <programme start="20200502035500 +0200" stop="20200502044500 +0200" channel="La2.TDTChannelsEPG">
@@ -3159,6 +3165,9 @@
     <rating system="ES">
       <value>TP</value>
     </rating>
+    <star-rating system="ES">
+      <value>1/5</value>
+    </star-rating>
   </programme>
   <programme start="20200502024500 +0200" stop="20200502033000 +0200" channel="Antena3.TDTChannelsEPG">
     <title lang="es">Live casino</title>
@@ -8658,7 +8667,7 @@
       <value>7</value>
     </rating>
     <star-rating system="ES">
-      <value>3/5</value>
+      <value>4/5</value>
     </star-rating>
   </programme>
   <programme start="20200502201500 +0200" stop="20200502210000 +0200" channel="Nova.TDTChannelsEPG">
@@ -8847,6 +8856,9 @@
     <rating system="ES">
       <value>16</value>
     </rating>
+    <star-rating system="ES">
+      <value>5/5</value>
+    </star-rating>
   </programme>
   <programme start="20200503031500 +0200" stop="20200503035200 +0200" channel="Nova.TDTChannelsEPG">
     <title lang="es">Ley y orden</title>
@@ -13124,7 +13136,7 @@
       <value>18</value>
     </rating>
     <star-rating system="ES">
-      <value>4/5</value>
+      <value>3/5</value>
     </star-rating>
   </programme>
   <programme start="20200502000200 +0200" stop="20200502013900 +0200" channel="Paramount.TDTChannelsEPG">
@@ -13776,7 +13788,7 @@
     <desc lang="es">Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
     <category lang="es">Ocio y Aficiones</category>
     <category lang="es">Televenta</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M322812V1080638" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1099347V1080638" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -23490,6 +23502,66 @@ Siempre con la participación de los protagonistas: autores, componentes, artesa
     <desc lang="es">La previsión de la previsión meteorológica de la provincia.</desc>
     <icon src="https://www.canalcostatv.es/wp-content/uploads/2019/09/CARTON-EL-TIEMPO-FATI-2019-20-1-230x150.jpg" />
   </programme>
+  <programme start="20200501095000 +0200" stop="20200501120000 +0200" channel="CanalCosta.TDTChannelsEPG">
+    <title lang="es">Especial Reportajes</title>
+    <desc lang="es">Los eventos, reportajes y galas más destacadas de la costa.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/01/cabecera-reportajes.jpg" />
+  </programme>
+  <programme start="20200501120000 +0200" stop="20200501130000 +0200" channel="CanalCosta.TDTChannelsEPG">
+    <title lang="es">Redifusión Triduo Virgen de la Bella</title>
+    <desc lang="es">Desde la Parroquia Santo Domingo de Guzmán.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/01/logo-canalcosta-tv.jpg" />
+  </programme>
+  <programme start="20200501130000 +0200" stop="20200501133000 +0200" channel="CanalCosta.TDTChannelsEPG">
+    <title lang="es">Caballería Romería de la Peña</title>
+    <desc lang="es">Los eventos más destacados de la costa.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/01/cabecera-reportajes.jpg" />
+  </programme>
+  <programme start="20200501133000 +0200" stop="20200501143000 +0200" channel="CanalCosta.TDTChannelsEPG">
+    <title lang="es">Procesión Virgen de la Peña 2019</title>
+    <desc lang="es">Los eventos más destacados de la costa.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/01/cabecera-reportajes.jpg" />
+  </programme>
+  <programme start="20200501143000 +0200" stop="20200501170000 +0200" channel="CanalCosta.TDTChannelsEPG">
+    <title lang="es">Informativo Especial Fin de Semana</title>
+    <desc lang="es">Las noticas más destacadas de la semana.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/11/Informativo2-300x170.jpg" />
+  </programme>
+  <programme start="20200501170000 +0200" stop="20200501191000 +0200" channel="CanalCosta.TDTChannelsEPG">
+    <title lang="es">Gala fin de curso de baile de Cartaya</title>
+    <desc lang="es">Los eventos, reportajes y galas más destacadas de la costa.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/01/cabecera-reportajes.jpg" />
+  </programme>
+  <programme start="20200501191000 +0200" stop="20200501193000 +0200" channel="CanalCosta.TDTChannelsEPG">
+    <title lang="es">Especial Reportajes</title>
+    <desc lang="es">Los eventos más destacados de la costa.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/01/cabecera-reportajes.jpg" />
+  </programme>
+  <programme start="20200501193000 +0200" stop="20200501203000 +0200" channel="CanalCosta.TDTChannelsEPG">
+    <title lang="es">DIRECTO TRIDUO VIRGEN DE LA BELLA</title>
+    <desc lang="es">Desde la Parroquia Santo Domingo de Guzmán.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/01/logo-canalcosta-tv.jpg" />
+  </programme>
+  <programme start="20200501203000 +0200" stop="20200501230000 +0200" channel="CanalCosta.TDTChannelsEPG">
+    <title lang="es">Recordando Lepe por Sevillanas 2019</title>
+    <desc lang="es">Los eventos, reportajes y galas más destacadas de la costa.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/01/cabecera-reportajes.jpg" />
+  </programme>
+  <programme start="20200501230000 +0200" stop="20200502000000 +0200" channel="CanalCosta.TDTChannelsEPG">
+    <title lang="es">La Pará Rociera</title>
+    <desc lang="es">El sentir rociero en la provincia.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2016/10/LA-PARA-ROCIERA-300x168.jpg" />
+  </programme>
+  <programme start="20200502000000 +0200" stop="20200502020000 +0200" channel="CanalCosta.TDTChannelsEPG">
+    <title lang="es">Informativo Especial Fin de Semana</title>
+    <desc lang="es">Las noticas más destacadas de la semana.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/11/Informativo2-300x170.jpg" />
+  </programme>
+  <programme start="20200502020000 +0200" stop="20200502090000 +0200" channel="CanalCosta.TDTChannelsEPG">
+    <title lang="es">Redifusión</title>
+    <desc lang="es">Redifusión de los porgramas más destacados de la jornada.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/01/logo-canalcosta-tv.jpg" />
+  </programme>
   <programme start="20200501090000 +0200" stop="20200501100000 +0200" channel="Condavision.TDTChannelsEPG">
     <title lang="es">Informativos</title>
     <desc lang="es">Informativo comarcal que repasará toda la actualidad del Condado de Huelva.</desc>
@@ -28404,7 +28476,7 @@ Cada fin de semana, de viernes a domingo, decenas de premios increíbles que ll
     <date>2020</date>
     <category lang="es">Cultural/Educativo</category>
     <category lang="es">Teatro</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MCYLTVV1784181" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M365232V1784181" />
   </programme>
   <programme start="20200501200000 +0200" stop="20200501203000 +0200" channel="La7.TDTChannelsEPG">
     <title lang="es">Nuestras Cortes</title>
@@ -31100,7 +31172,7 @@ Todo ello producido, dirigido y realizado por Eugenio Monesma.</desc>
     <date>2018</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Zapping</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M3_24P1608690" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1083572V1608690" />
     <country lang="es">España</country>
     <star-rating system="ES">
       <value>3/5</value>
@@ -31603,7 +31675,7 @@ Todo ello producido, dirigido y realizado por Eugenio Monesma.</desc>
     <date>2018</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Zapping</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M3_24P1608690" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1083572V1608690" />
     <country lang="es">España</country>
     <star-rating system="ES">
       <value>3/5</value>
@@ -36694,6 +36766,7 @@ Todo ello producido, dirigido y realizado por Eugenio Monesma.</desc>
     <date>2020</date>
     <category lang="es">Documentales</category>
     <category lang="es">Biografía</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M357642V1783974" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -41928,7 +42001,7 @@ Todo ello producido, dirigido y realizado por Eugenio Monesma.</desc>
     <date>2016</date>
     <category lang="es">Series</category>
     <category lang="es">Animación</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MESP3V1646005" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1099103V1646005" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -41945,7 +42018,7 @@ Todo ello producido, dirigido y realizado por Eugenio Monesma.</desc>
     <date>2016</date>
     <category lang="es">Series</category>
     <category lang="es">Animación</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MESP3V1646005" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1099103V1646005" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -45625,7 +45698,7 @@ Todo ello producido, dirigido y realizado por Eugenio Monesma.</desc>
     <date>2020</date>
     <category lang="es">Deportes</category>
     <category lang="es">Deportes Acuáticos</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVGALV1436471" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1099399V1436471" />
     <star-rating system="ES">
       <value>3/5</value>
     </star-rating>
@@ -46460,7 +46533,7 @@ Todo ello producido, dirigido y realizado por Eugenio Monesma.</desc>
     <date>2018</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Tele Realidad</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1085718V1575775" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MIB3P1575775" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -52731,7 +52804,7 @@ Todo ello producido, dirigido y realizado por Eugenio Monesma.</desc>
     <date>2020</date>
     <category lang="es">Documentales</category>
     <category lang="es">Antropología</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/METB1V1784061" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M369623V1784061" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -53141,6 +53214,7 @@ Todo ello producido, dirigido y realizado por Eugenio Monesma.</desc>
     <date>2010</date>
     <category lang="es">Cine</category>
     <category lang="es">Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M369687V1784075" />
     <country lang="es">Italia</country>
     <rating system="ES">
       <value>16</value>
@@ -53736,7 +53810,7 @@ Todo ello producido, dirigido y realizado por Eugenio Monesma.</desc>
     <date>2020</date>
     <category lang="es">Información</category>
     <category lang="es">Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M369687V1779603" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M369687V1784071" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S1 E2</episode-num>
     <rating system="ES">
@@ -55942,7 +56016,7 @@ Todo ello producido, dirigido y realizado por Eugenio Monesma.</desc>
     <date>1982</date>
     <category lang="es">Cine</category>
     <category lang="es">Aventuras</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M959854V19017" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1099155V19017" />
     <country lang="es">Francia</country>
     <rating system="ES">
       <value>TP</value>
@@ -62254,8 +62328,11 @@ Todo ello producido, dirigido y realizado por Eugenio Monesma.</desc>
   <programme start="20200502160000 -0500" stop="20200502170000 -0500" channel="NTN24.TDTChannelsEPG">
     <title lang="es">Club Prensa</title>
   </programme>
-  <programme start="20200502170000 -0500" stop="20200502210000 -0500" channel="NTN24.TDTChannelsEPG">
+  <programme start="20200502170000 -0500" stop="20200502183000 -0500" channel="NTN24.TDTChannelsEPG">
     <title lang="es">Climax</title>
+  </programme>
+  <programme start="20200502183000 -0500" stop="20200502210000 -0500" channel="NTN24.TDTChannelsEPG">
+    <title lang="es">CST</title>
   </programme>
   <programme start="20200502210000 -0500" stop="20200502230000 -0500" channel="NTN24.TDTChannelsEPG">
     <title lang="es">Visión Global</title>
