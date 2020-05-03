@@ -328,6 +328,9 @@
     <rating system="ES">
       <value>TP</value>
     </rating>
+    <star-rating system="ES">
+      <value>4/5</value>
+    </star-rating>
   </programme>
   <programme start="20200503173000 +0200" stop="20200503190000 +0200" channel="La1.TDTChannelsEPG">
     <title lang="es">La mujer del acantilado</title>
@@ -378,7 +381,7 @@
       <value>7</value>
     </rating>
     <star-rating system="ES">
-      <value>2/5</value>
+      <value>3/5</value>
     </star-rating>
   </programme>
   <programme start="20200503203000 +0200" stop="20200503210000 +0200" channel="La1.TDTChannelsEPG">
@@ -1399,7 +1402,7 @@
       <value>TP</value>
     </rating>
     <star-rating system="ES">
-      <value>3/5</value>
+      <value>4/5</value>
     </star-rating>
   </programme>
   <programme start="20200503113000 +0200" stop="20200503115500 +0200" channel="La2.TDTChannelsEPG">
@@ -1657,6 +1660,9 @@
     <rating system="ES">
       <value>TP</value>
     </rating>
+    <star-rating system="ES">
+      <value>5/5</value>
+    </star-rating>
   </programme>
   <programme start="20200503212500 +0200" stop="20200503223000 +0200" channel="La2.TDTChannelsEPG">
     <title lang="es">Buero Vallejo</title>
@@ -2280,6 +2286,9 @@
     <rating system="ES">
       <value>TP</value>
     </rating>
+    <star-rating system="ES">
+      <value>5/5</value>
+    </star-rating>
   </programme>
   <programme start="20200505031000 +0200" stop="20200505040500 +0200" channel="La2.TDTChannelsEPG">
     <title lang="es">Las recetas de Julie</title>
@@ -2416,6 +2425,9 @@
     <rating system="ES">
       <value>TP</value>
     </rating>
+    <star-rating system="ES">
+      <value>4/5</value>
+    </star-rating>
   </programme>
   <programme start="20200505073000 +0200" stop="20200505075500 +0200" channel="La2.TDTChannelsEPG">
     <title lang="es">Inglés Online</title>
@@ -2844,6 +2856,9 @@
     <rating system="ES">
       <value>TP</value>
     </rating>
+    <star-rating system="ES">
+      <value>5/5</value>
+    </star-rating>
   </programme>
   <programme start="20200503104500 +0200" stop="20200503123500 +0200" channel="Antena3.TDTChannelsEPG">
     <title lang="es">Los más</title>
@@ -2989,6 +3004,9 @@
     <rating system="ES">
       <value>TP</value>
     </rating>
+    <star-rating system="ES">
+      <value>5/5</value>
+    </star-rating>
   </programme>
   <programme start="20200503193000 +0200" stop="20200503210000 +0200" channel="Antena3.TDTChannelsEPG">
     <title lang="es">Una estudiante ejemplar</title>
@@ -4532,6 +4550,9 @@
     <rating system="ES">
       <value>12</value>
     </rating>
+    <star-rating system="ES">
+      <value>2/5</value>
+    </star-rating>
   </programme>
   <programme start="20200503200000 +0200" stop="20200503204500 +0200" channel="LaSexta.TDTChannelsEPG">
     <title lang="es">laSexta Noticias Fin de Semana</title>
@@ -4590,7 +4611,7 @@
       <value>7</value>
     </rating>
     <star-rating system="ES">
-      <value>5/5</value>
+      <value>3/5</value>
     </star-rating>
   </programme>
   <programme start="20200503223000 +0200" stop="20200503234500 +0200" channel="LaSexta.TDTChannelsEPG">
@@ -4608,6 +4629,9 @@
     <rating system="ES">
       <value>7</value>
     </rating>
+    <star-rating system="ES">
+      <value>1/5</value>
+    </star-rating>
   </programme>
   <programme start="20200503234500 +0200" stop="20200504014000 +0200" channel="LaSexta.TDTChannelsEPG">
     <title lang="es">laSexta Columna</title>
@@ -4792,6 +4816,9 @@
     <rating system="ES">
       <value>7</value>
     </rating>
+    <star-rating system="ES">
+      <value>1/5</value>
+    </star-rating>
   </programme>
   <programme start="20200504171500 +0200" stop="20200504200000 +0200" channel="LaSexta.TDTChannelsEPG">
     <title lang="es">Más vale tarde</title>
@@ -5104,6 +5131,9 @@
     <rating system="ES">
       <value>7</value>
     </rating>
+    <star-rating system="ES">
+      <value>1/5</value>
+    </star-rating>
   </programme>
   <programme start="20200505171500 +0200" stop="20200505200000 +0200" channel="LaSexta.TDTChannelsEPG">
     <title lang="es">Más vale tarde</title>
@@ -11482,7 +11512,7 @@
     <category lang="es">Fútbol español</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula4/MGOLP729242" />
     <star-rating system="ES">
-      <value>5/5</value>
+      <value>3/5</value>
     </star-rating>
   </programme>
   <programme start="20200503213000 +0200" stop="20200503220000 +0200" channel="GOL.TDTChannelsEPG">
@@ -18522,7 +18552,7 @@
       <value>7</value>
     </rating>
     <star-rating system="ES">
-      <value>5/5</value>
+      <value>4/5</value>
     </star-rating>
   </programme>
   <programme start="20200503093000 +0200" stop="20200503101500 +0200" channel="CanalSurA.TDTChannelsEPG">
@@ -20339,7 +20369,7 @@ Siempre con la participación de los protagonistas: autores, componentes, artesa
     <date>2019</date>
     <category lang="es">Información</category>
     <category lang="es">Política</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MARAGONP1712058" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1015026V1712058" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>7</value>
@@ -20975,6 +21005,9 @@ Siempre con la participación de los protagonistas: autores, componentes, artesa
     <rating system="ES">
       <value>TP</value>
     </rating>
+    <star-rating system="ES">
+      <value>5/5</value>
+    </star-rating>
   </programme>
   <programme start="20200503235000 +0200" stop="20200504012500 +0200" channel="TPA.TDTChannelsEPG">
     <title lang="es">Sones</title>
@@ -55916,11 +55949,8 @@ A través de las distintas secciones del programa recordaremos la historia del c
   <programme start="20200504070000 -0500" stop="20200504080100 -0500" channel="NTN24.TDTChannelsEPG">
     <title lang="es">Informativo NTN</title>
   </programme>
-  <programme start="20200504080100 -0500" stop="20200504100000 -0500" channel="NTN24.TDTChannelsEPG">
+  <programme start="20200504080100 -0500" stop="20200504110000 -0500" channel="NTN24.TDTChannelsEPG">
     <title lang="es">La Tarde</title>
-  </programme>
-  <programme start="20200504100000 -0500" stop="20200504110000 -0500" channel="NTN24.TDTChannelsEPG">
-    <title lang="es">Planeta Gente</title>
   </programme>
   <programme start="20200504110000 -0500" stop="20200504140000 -0500" channel="NTN24.TDTChannelsEPG">
     <title lang="es">Efecto Naím</title>
@@ -56564,10 +56594,7 @@ A través de las distintas secciones del programa recordaremos la historia del c
   <programme start="20200503164500 +0200" stop="20200503170000 +0200" channel="ATVHD.TDTChannelsEPG">
     <title lang="es">Exercicis físics per la gent gran</title>
   </programme>
-  <programme start="20200503170000 +0200" stop="20200503180000 +0200" channel="ATVHD.TDTChannelsEPG">
-    <title lang="es">Roda de premsa del Govern informant sobre les novetats i les mesures adoptades sobre la COVID-19</title>
-  </programme>
-  <programme start="20200503180000 +0200" stop="20200503190000 +0200" channel="ATVHD.TDTChannelsEPG">
+  <programme start="20200503170000 +0200" stop="20200503190000 +0200" channel="ATVHD.TDTChannelsEPG">
     <title lang="es">El Trànsit</title>
   </programme>
   <programme start="20200503190000 +0200" stop="20200503195500 +0200" channel="ATVHD.TDTChannelsEPG">
@@ -56588,10 +56615,7 @@ A través de las distintas secciones del programa recordaremos la historia del c
   <programme start="20200503211000 +0200" stop="20200503215500 +0200" channel="ATVHD.TDTChannelsEPG">
     <title lang="es">Recull setmanal</title>
   </programme>
-  <programme start="20200503215500 +0200" stop="20200503224000 +0200" channel="ATVHD.TDTChannelsEPG">
-    <title lang="es">Roda de premsa del Govern informant sobre les novetats i les mesures adoptades sobre la COVID-19</title>
-  </programme>
-  <programme start="20200503224000 +0200" stop="20200504010000 +0200" channel="ATVHD.TDTChannelsEPG">
+  <programme start="20200503215500 +0200" stop="20200504010000 +0200" channel="ATVHD.TDTChannelsEPG">
     <title lang="es">Informatiu vespre</title>
   </programme>
   <programme start="20200504010000 +0200" stop="20200504070000 +0200" channel="ATVHD.TDTChannelsEPG">
@@ -56618,13 +56642,7 @@ A través de las distintas secciones del programa recordaremos la historia del c
   <programme start="20200503153000 +0200" stop="20200503160000 +0200" channel="ATVCW.TDTChannelsEPG">
     <title lang="es">El Trànsit</title>
   </programme>
-  <programme start="20200503160000 +0200" stop="20200503170000 +0200" channel="ATVCW.TDTChannelsEPG">
-    <title lang="es">Notícies andorradifusio.ad</title>
-  </programme>
-  <programme start="20200503170000 +0200" stop="20200503180000 +0200" channel="ATVCW.TDTChannelsEPG">
-    <title lang="es">Roda de premsa del Govern informant sobre les novetats i les mesures adoptades sobre la COVID-19</title>
-  </programme>
-  <programme start="20200503180000 +0200" stop="20200503200000 +0200" channel="ATVCW.TDTChannelsEPG">
+  <programme start="20200503160000 +0200" stop="20200503200000 +0200" channel="ATVCW.TDTChannelsEPG">
     <title lang="es">Notícies andorradifusio.ad</title>
   </programme>
   <programme start="20200503200000 +0200" stop="20200503204500 +0200" channel="ATVCW.TDTChannelsEPG">
@@ -56636,10 +56654,7 @@ A través de las distintas secciones del programa recordaremos la historia del c
   <programme start="20200503211000 +0200" stop="20200503214500 +0200" channel="ATVCW.TDTChannelsEPG">
     <title lang="es">Recull setmanal</title>
   </programme>
-  <programme start="20200503214500 +0200" stop="20200503224500 +0200" channel="ATVCW.TDTChannelsEPG">
-    <title lang="es">Roda de premsa del Govern informant sobre les novetats i les mesures adoptades sobre la COVID-19</title>
-  </programme>
-  <programme start="20200503224500 +0200" stop="20200504010000 +0200" channel="ATVCW.TDTChannelsEPG">
+  <programme start="20200503214500 +0200" stop="20200504010000 +0200" channel="ATVCW.TDTChannelsEPG">
     <title lang="es">Informatiu vespre</title>
   </programme>
   <programme start="20200504010000 +0200" stop="20200504070000 +0200" channel="ATVCW.TDTChannelsEPG">
