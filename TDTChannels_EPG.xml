@@ -4717,6 +4717,9 @@
     <rating system="ES">
       <value>12</value>
     </rating>
+    <star-rating system="ES">
+      <value>1/5</value>
+    </star-rating>
   </programme>
   <programme start="20200510023000 +0200" stop="20200510030000 +0200" channel="LaSexta.TDTChannelsEPG">
     <title lang="es">World Poker Tour</title>
@@ -7363,6 +7366,9 @@
     <rating system="ES">
       <value>7</value>
     </rating>
+    <star-rating system="ES">
+      <value>5/5</value>
+    </star-rating>
   </programme>
   <programme start="20200511182000 +0200" stop="20200511184000 +0200" channel="Neox.TDTChannelsEPG">
     <title lang="es">Los Goldberg</title>
@@ -7779,7 +7785,7 @@
       <value>7</value>
     </rating>
     <star-rating system="ES">
-      <value>4/5</value>
+      <value>5/5</value>
     </star-rating>
   </programme>
   <programme start="20200509163000 +0200" stop="20200509171500 +0200" channel="Nova.TDTChannelsEPG">
@@ -18453,6 +18459,9 @@
     <rating system="ES">
       <value>TP</value>
     </rating>
+    <star-rating system="ES">
+      <value>5/5</value>
+    </star-rating>
   </programme>
   <programme start="20200509101700 +0200" stop="20200509102300 +0200" channel="Clan.TDTChannelsEPG">
     <title lang="es">Mya Go</title>
@@ -27495,7 +27504,7 @@ Siempre con la participación de los protagonistas: autores, componentes, artesa
     <date>2020</date>
     <category lang="es">Documentales</category>
     <category lang="es">Actualidad</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MCANARV1785646" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M353964V1785646" />
     <country lang="es">España</country>
   </programme>
   <programme start="20200511231500 +0200" stop="20200511232500 +0200" channel="Canarias.TDTChannelsEPG">
@@ -30204,7 +30213,7 @@ A través de las distintas secciones del programa recordaremos la historia del c
     <date>2020</date>
     <category lang="es">Documentales</category>
     <category lang="es">Antropología</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVCV1784988" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1102121V1784988" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -31314,7 +31323,7 @@ A través de las distintas secciones del programa recordaremos la historia del c
     <date>2020</date>
     <category lang="es">Documentales</category>
     <category lang="es">Antropología</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M3_24V1784988" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1102180V1784988" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -47483,7 +47492,7 @@ A través de las distintas secciones del programa recordaremos la historia del c
     <date>2020</date>
     <category lang="es">Documentales</category>
     <category lang="es">Otros</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MIB3V1785497" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M367523V1785497" />
     <country lang="es">España</country>
   </programme>
   <programme start="20200510231000 +0200" stop="20200511012000 +0200" channel="IB3.TDTChannelsEPG">
@@ -52978,7 +52987,7 @@ A través de las distintas secciones del programa recordaremos la historia del c
     <desc lang="es">Espacio de emisión de reportajes deportivos.</desc>
     <date>2020</date>
     <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/METB1V1785589" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M369623V1785589" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -53388,7 +53397,7 @@ A través de las distintas secciones del programa recordaremos la historia del c
     <date>2014</date>
     <category lang="es">Información</category>
     <category lang="es">Meteorología</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/METB1P1247541" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M569703V1247541" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -54408,7 +54417,7 @@ A través de las distintas secciones del programa recordaremos la historia del c
     <date>2020</date>
     <category lang="es">Información</category>
     <category lang="es">Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M369687V1779603" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M369687V1785593" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S1 E3</episode-num>
     <rating system="ES">
@@ -56280,7 +56289,7 @@ A través de las distintas secciones del programa recordaremos la historia del c
     <date>1945</date>
     <category lang="es">Cine</category>
     <category lang="es">Drama</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MMEDITEV198752" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M372091V198752" />
     <country lang="es">EE.UU</country>
     <star-rating system="ES">
       <value>3/5</value>
@@ -58281,7 +58290,7 @@ A través de las distintas secciones del programa recordaremos la historia del c
     <date>2020</date>
     <category lang="es">Información</category>
     <category lang="es">Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M304916V1766836" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M304916V1785567" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S2020 E376</episode-num>
     <rating system="ES">
@@ -58296,7 +58305,7 @@ A través de las distintas secciones del programa recordaremos la historia del c
     <date>2020</date>
     <category lang="es">Información</category>
     <category lang="es">Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M304916V1766836" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M304916V1785568" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S2020 E377</episode-num>
     <rating system="ES">
@@ -58339,7 +58348,7 @@ A través de las distintas secciones del programa recordaremos la historia del c
     <date>2020</date>
     <category lang="es">Información</category>
     <category lang="es">Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M304916V1766836" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M304916V1785567" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S2020 E376</episode-num>
     <rating system="ES">
@@ -58425,7 +58434,7 @@ A través de las distintas secciones del programa recordaremos la historia del c
     <date>2020</date>
     <category lang="es">Información</category>
     <category lang="es">Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M304916V1766836" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M304916V1785567" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S2020 E376</episode-num>
     <rating system="ES">
@@ -58454,7 +58463,7 @@ A través de las distintas secciones del programa recordaremos la historia del c
     <date>2020</date>
     <category lang="es">Información</category>
     <category lang="es">Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M304916V1766836" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M304916V1785568" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S2020 E377</episode-num>
     <rating system="ES">
@@ -58511,7 +58520,7 @@ A través de las distintas secciones del programa recordaremos la historia del c
     <date>2020</date>
     <category lang="es">Información</category>
     <category lang="es">Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M304916V1766836" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M304916V1785567" />
     <country lang="es">España</country>
     <episode-num system="onscreen">S2020 E376</episode-num>
     <rating system="ES">
@@ -62772,11 +62781,8 @@ A través de las distintas secciones del programa recordaremos la historia del c
   <programme start="20200510063000 -0500" stop="20200510080000 -0500" channel="NTN24.TDTChannelsEPG">
     <title lang="es">Líderes</title>
   </programme>
-  <programme start="20200510080000 -0500" stop="20200510100000 -0500" channel="NTN24.TDTChannelsEPG">
+  <programme start="20200510080000 -0500" stop="20200510170000 -0500" channel="NTN24.TDTChannelsEPG">
     <title lang="es">La tarde, fin de semana</title>
-  </programme>
-  <programme start="20200510100000 -0500" stop="20200510170000 -0500" channel="NTN24.TDTChannelsEPG">
-    <title lang="es">Planeta Gente</title>
   </programme>
   <programme start="20200510170000 -0500" stop="20200510180000 -0500" channel="NTN24.TDTChannelsEPG">
     <title lang="es">Poder Latino</title>
