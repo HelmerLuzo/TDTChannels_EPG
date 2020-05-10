@@ -247,6 +247,9 @@
     <rating system="ES">
       <value>TP</value>
     </rating>
+    <star-rating system="ES">
+      <value>5/5</value>
+    </star-rating>
   </programme>
   <programme start="20200510102000 +0200" stop="20200510111000 +0200" channel="La1.TDTChannelsEPG">
     <title lang="es">El paisano</title>
@@ -363,7 +366,7 @@
       <value>TP</value>
     </rating>
     <star-rating system="ES">
-      <value>3/5</value>
+      <value>4/5</value>
     </star-rating>
   </programme>
   <programme start="20200510173000 +0200" stop="20200510190000 +0200" channel="La1.TDTChannelsEPG">
@@ -1703,6 +1706,9 @@
     <rating system="ES">
       <value>7</value>
     </rating>
+    <star-rating system="ES">
+      <value>5/5</value>
+    </star-rating>
   </programme>
   <programme start="20200510223000 +0200" stop="20200511001500 +0200" channel="La2.TDTChannelsEPG">
     <title lang="es">Handia</title>
@@ -3003,7 +3009,7 @@
       <value>7</value>
     </rating>
     <star-rating system="ES">
-      <value>3/5</value>
+      <value>4/5</value>
     </star-rating>
   </programme>
   <programme start="20200510192000 +0200" stop="20200510210000 +0200" channel="Antena3.TDTChannelsEPG">
@@ -3508,7 +3514,7 @@
       <value>7</value>
     </rating>
     <star-rating system="ES">
-      <value>2/5</value>
+      <value>3/5</value>
     </star-rating>
   </programme>
   <programme start="20200512004500 +0200" stop="20200512024500 +0200" channel="Antena3.TDTChannelsEPG">
@@ -6043,7 +6049,7 @@
       <value>7</value>
     </rating>
     <star-rating system="ES">
-      <value>3/5</value>
+      <value>4/5</value>
     </star-rating>
   </programme>
   <programme start="20200511184000 +0200" stop="20200511200500 +0200" channel="Neox.TDTChannelsEPG">
@@ -12796,6 +12802,9 @@
     <rating system="ES">
       <value>12</value>
     </rating>
+    <star-rating system="ES">
+      <value>5/5</value>
+    </star-rating>
   </programme>
   <programme start="20200510170500 +0200" stop="20200510173000 +0200" channel="GOL.TDTChannelsEPG">
     <title lang="es">LaLiga Nations</title>
@@ -48392,7 +48401,7 @@ A través de las distintas secciones del programa recordaremos la historia del c
     <date>2012</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Concurso</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1062408V1400208" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/METB2P1400208" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>12</value>
@@ -57023,11 +57032,8 @@ A través de las distintas secciones del programa recordaremos la historia del c
   <programme start="20200511070000 -0500" stop="20200511080100 -0500" channel="NTN24.TDTChannelsEPG">
     <title lang="es">Informativo NTN</title>
   </programme>
-  <programme start="20200511080100 -0500" stop="20200511100000 -0500" channel="NTN24.TDTChannelsEPG">
+  <programme start="20200511080100 -0500" stop="20200511110000 -0500" channel="NTN24.TDTChannelsEPG">
     <title lang="es">La Tarde</title>
-  </programme>
-  <programme start="20200511100000 -0500" stop="20200511110000 -0500" channel="NTN24.TDTChannelsEPG">
-    <title lang="es">Planeta Gente</title>
   </programme>
   <programme start="20200511110000 -0500" stop="20200511140000 -0500" channel="NTN24.TDTChannelsEPG">
     <title lang="es">Efecto Naím</title>
@@ -57417,7 +57423,7 @@ A través de las distintas secciones del programa recordaremos la historia del c
     <title lang="es">DW Noticias</title>
   </programme>
   <programme start="20200511203000 -0500" stop="20200511210000 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">Aquí estoy</title>
+    <title lang="es">¡Aquí estoy</title>
   </programme>
   <programme start="20200511210000 -0500" stop="20200511210300 -0500" channel="DW.TDTChannelsEPG">
     <title lang="es">DW Noticias</title>
@@ -57507,7 +57513,7 @@ A través de las distintas secciones del programa recordaremos la historia del c
     <title lang="es">Todo gol</title>
   </programme>
   <programme start="20200512113000 -0500" stop="20200512120000 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">Aquí estoy</title>
+    <title lang="es">¡Aquí estoy</title>
   </programme>
   <programme start="20200512120000 -0500" stop="20200512120300 -0500" channel="DW.TDTChannelsEPG">
     <title lang="es">DW Noticias</title>
