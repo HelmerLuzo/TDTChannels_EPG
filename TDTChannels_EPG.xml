@@ -11,9 +11,11 @@
   </channel>
   <channel id="Cuatro.TDTChannelsEPG">
     <display-name lang="es">Cuatro</display-name>
+    <url>http://www.pyTV</url>
   </channel>
   <channel id="Telecinco.TDTChannelsEPG">
     <display-name lang="es">Telecinco</display-name>
+    <url>http://www.pyTV</url>
   </channel>
   <channel id="LaSexta.TDTChannelsEPG">
     <display-name lang="es">laSexta</display-name>
@@ -32,15 +34,19 @@
   </channel>
   <channel id="FDF.TDTChannelsEPG">
     <display-name lang="es">FDF</display-name>
+    <url>http://www.pyTV</url>
   </channel>
   <channel id="Energy.TDTChannelsEPG">
     <display-name lang="es">Energy</display-name>
+    <url>http://www.pyTV</url>
   </channel>
   <channel id="Divinity.TDTChannelsEPG">
     <display-name lang="es">Divinity</display-name>
+    <url>http://www.pyTV</url>
   </channel>
   <channel id="Bemad.TDTChannelsEPG">
     <display-name lang="es">Be Mad</display-name>
+    <url>http://www.pyTV</url>
   </channel>
   <channel id="Paramount.TDTChannelsEPG">
     <display-name lang="es">Paramount Network</display-name>
@@ -59,9 +65,11 @@
   </channel>
   <channel id="BetisTV.TDTChannelsEPG">
     <display-name lang="es">Betis TV</display-name>
+    <url>http://www.pyTV</url>
   </channel>
   <channel id="Boing.TDTChannelsEPG">
     <display-name lang="es">Boing</display-name>
+    <url>http://www.pyTV</url>
   </channel>
   <channel id="Clan.TDTChannelsEPG">
     <display-name lang="es">Clan</display-name>
@@ -71,15 +79,19 @@
   </channel>
   <channel id="OndaCadiz.TDTChannelsEPG">
     <display-name lang="es">Onda Cádiz</display-name>
+    <url>http://www.pyTV</url>
   </channel>
   <channel id="CanalCosta.TDTChannelsEPG">
     <display-name lang="es">CanalCosta</display-name>
+    <url>http://www.pyTV</url>
   </channel>
   <channel id="Condavision.TDTChannelsEPG">
     <display-name lang="es">Condavisión</display-name>
+    <url>http://www.pyTV</url>
   </channel>
   <channel id="Teleonuba.TDTChannelsEPG">
     <display-name lang="es">Teleonuba</display-name>
+    <url>http://www.pyTV</url>
   </channel>
   <channel id="AragonTV.TDTChannelsEPG">
     <display-name lang="es">Aragón TV</display-name>
@@ -92,9 +104,11 @@
   </channel>
   <channel id="MirameTV.TDTChannelsEPG">
     <display-name lang="es">Mírame TV</display-name>
+    <url>http://www.pyTV</url>
   </channel>
   <channel id="PopularTV_S.TDTChannelsEPG">
     <display-name lang="es">Popular TV Cantabria</display-name>
+    <url>http://www.pyTV</url>
   </channel>
   <channel id="CMM.TDTChannelsEPG">
     <display-name lang="es">CMM</display-name>
@@ -104,6 +118,7 @@
   </channel>
   <channel id="Benavente.TDTChannelsEPG">
     <display-name lang="es">TV Benavente</display-name>
+    <url>http://www.pyTV</url>
   </channel>
   <channel id="TV3.TDTChannelsEPG">
     <display-name lang="es">TV3</display-name>
@@ -122,6 +137,7 @@
   </channel>
   <channel id="Terres.TDTChannelsEPG">
     <display-name lang="es">Canal Terres de l'Ebre</display-name>
+    <url>http://www.pyTV</url>
   </channel>
   <channel id="Extremadura.TDTChannelsEPG">
     <display-name lang="es">Canal Extremadura</display-name>
@@ -134,6 +150,7 @@
   </channel>
   <channel id="TVR.TDTChannelsEPG">
     <display-name lang="es">TV Rioja</display-name>
+    <url>http://www.pyTV</url>
   </channel>
   <channel id="TeleMadrid.TDTChannelsEPG">
     <display-name lang="es">Telemadrid</display-name>
@@ -143,6 +160,7 @@
   </channel>
   <channel id="MelillaTV.TDTChannelsEPG">
     <display-name lang="es">Melilla TV HD</display-name>
+    <url>http://www.pyTV</url>
   </channel>
   <channel id="7RM.TDTChannelsEPG">
     <display-name lang="es">7 R. de Murcia</display-name>
@@ -183,9 +201,27 @@
   </channel>
   <channel id="ATVHD.TDTChannelsEPG">
     <display-name lang="es">ATV Andorra</display-name>
+    <url>http://www.pyTV</url>
   </channel>
   <channel id="ATVCW.TDTChannelsEPG">
     <display-name lang="es">ATV Web Andorra</display-name>
+    <url>http://www.pyTV</url>
+  </channel>
+  <channel id="los40.TDTChannelsEPG">
+    <display-name lang="es">LOS40</display-name>
+    <url>http://www.pyRadio</url>
+  </channel>
+  <channel id="los40classic.TDTChannelsEPG">
+    <display-name lang="es">LOS40 Classic</display-name>
+    <url>http://www.pyRadio</url>
+  </channel>
+  <channel id="los40dance.TDTChannelsEPG">
+    <display-name lang="es">LOS40 Dance</display-name>
+    <url>http://www.pyRadio</url>
+  </channel>
+  <channel id="los40urban.TDTChannelsEPG">
+    <display-name lang="es">LOS40 Urban</display-name>
+    <url>http://www.pyRadio</url>
   </channel>
   <programme start="20200510060000 +0200" stop="20200510095000 +0200" channel="La1.TDTChannelsEPG">
     <title lang="es">Noticias 24H</title>
@@ -1282,7 +1318,7 @@
       <value>TP</value>
     </rating>
     <star-rating system="ES">
-      <value>4/5</value>
+      <value>5/5</value>
     </star-rating>
   </programme>
   <programme start="20200510091500 +0200" stop="20200510093000 +0200" channel="La2.TDTChannelsEPG">
@@ -1900,6 +1936,9 @@
     <rating system="ES">
       <value>TP</value>
     </rating>
+    <star-rating system="ES">
+      <value>5/5</value>
+    </star-rating>
   </programme>
   <programme start="20200511093000 +0200" stop="20200511103000 +0200" channel="La2.TDTChannelsEPG">
     <title lang="es">Aprendemos en casa 12-14 años</title>
@@ -22908,7 +22947,7 @@ Siempre con la participación de los protagonistas: autores, componentes, artesa
     <date>2014</date>
     <category lang="es">Información</category>
     <category lang="es">Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M353984V413114" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MCANARP413114" />
     <country lang="es">España</country>
     <star-rating system="ES">
       <value>3/5</value>
@@ -23398,7 +23437,7 @@ Siempre con la participación de los protagonistas: autores, componentes, artesa
     <date>2014</date>
     <category lang="es">Información</category>
     <category lang="es">Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M353984V413114" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MCANARP413114" />
     <country lang="es">España</country>
     <star-rating system="ES">
       <value>3/5</value>
@@ -47171,7 +47210,7 @@ A través de las distintas secciones del programa recordaremos la historia del c
     <date>2014</date>
     <category lang="es">Información</category>
     <category lang="es">Meteorología</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M569703V1247541" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/METB1P1247541" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -47333,7 +47372,7 @@ A través de las distintas secciones del programa recordaremos la historia del c
     <date>2014</date>
     <category lang="es">Información</category>
     <category lang="es">Meteorología</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M569703V1247541" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/METB1P1247541" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -48353,7 +48392,7 @@ A través de las distintas secciones del programa recordaremos la historia del c
     <date>2012</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Concurso</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/METB2P1400208" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1062408V1400208" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>12</value>
@@ -48747,7 +48786,7 @@ A través de las distintas secciones del programa recordaremos la historia del c
     <date>2012</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Concurso</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/METB2P1400208" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1062408V1400208" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>12</value>
@@ -56900,84 +56939,6 @@ A través de las distintas secciones del programa recordaremos la historia del c
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme start="20200509010000 -0500" stop="20200509020000 -0500" channel="NTN24.TDTChannelsEPG">
-    <title lang="es">La Noche</title>
-  </programme>
-  <programme start="20200509020000 -0500" stop="20200509030000 -0500" channel="NTN24.TDTChannelsEPG">
-    <title lang="es">Informativo NTN</title>
-  </programme>
-  <programme start="20200509030000 -0500" stop="20200509040000 -0500" channel="NTN24.TDTChannelsEPG">
-    <title lang="es">Zoom a la Noticia</title>
-  </programme>
-  <programme start="20200509040000 -0500" stop="20200509050000 -0500" channel="NTN24.TDTChannelsEPG">
-    <title lang="es">Informativo NTN</title>
-  </programme>
-  <programme start="20200509050000 -0500" stop="20200509060000 -0500" channel="NTN24.TDTChannelsEPG">
-    <title lang="es">Nuestra Tele Deportes</title>
-  </programme>
-  <programme start="20200509060000 -0500" stop="20200509070000 -0500" channel="NTN24.TDTChannelsEPG">
-    <title lang="es">La Noche</title>
-  </programme>
-  <programme start="20200509070000 -0500" stop="20200509080000 -0500" channel="NTN24.TDTChannelsEPG">
-    <title lang="es">Informativo NTN</title>
-  </programme>
-  <programme start="20200509080000 -0500" stop="20200509093000 -0500" channel="NTN24.TDTChannelsEPG">
-    <title lang="es">La Tarde</title>
-  </programme>
-  <programme start="20200509093000 -0500" stop="20200509100000 -0500" channel="NTN24.TDTChannelsEPG">
-    <title lang="es">CST</title>
-  </programme>
-  <programme start="20200509100000 -0500" stop="20200509110000 -0500" channel="NTN24.TDTChannelsEPG">
-    <title lang="es">Planeta Gente</title>
-  </programme>
-  <programme start="20200509110000 -0500" stop="20200509120000 -0500" channel="NTN24.TDTChannelsEPG">
-    <title lang="es">La Noche</title>
-  </programme>
-  <programme start="20200509120000 -0500" stop="20200509130000 -0500" channel="NTN24.TDTChannelsEPG">
-    <title lang="es">Informativo NTN</title>
-  </programme>
-  <programme start="20200509130000 -0500" stop="20200509133000 -0500" channel="NTN24.TDTChannelsEPG">
-    <title lang="es">Flash Fashion</title>
-  </programme>
-  <programme start="20200509133000 -0500" stop="20200509140000 -0500" channel="NTN24.TDTChannelsEPG">
-    <title lang="es">Contador de Historias</title>
-  </programme>
-  <programme start="20200509140000 -0500" stop="20200509150000 -0500" channel="NTN24.TDTChannelsEPG">
-    <title lang="es">Nuestra Tele Deportes</title>
-  </programme>
-  <programme start="20200509150000 -0500" stop="20200509160000 -0500" channel="NTN24.TDTChannelsEPG">
-    <title lang="es">Informativo NTN</title>
-  </programme>
-  <programme start="20200509160000 -0500" stop="20200509170000 -0500" channel="NTN24.TDTChannelsEPG">
-    <title lang="es">Club Prensa</title>
-  </programme>
-  <programme start="20200509170000 -0500" stop="20200509173000 -0500" channel="NTN24.TDTChannelsEPG">
-    <title lang="es">Climax</title>
-  </programme>
-  <programme start="20200509173000 -0500" stop="20200509183000 -0500" channel="NTN24.TDTChannelsEPG">
-    <title lang="es">La Noche</title>
-  </programme>
-  <programme start="20200509183000 -0500" stop="20200509190000 -0500" channel="NTN24.TDTChannelsEPG">
-    <title lang="es">CST</title>
-  </programme>
-  <programme start="20200509190000 -0500" stop="20200509200000 -0500" channel="NTN24.TDTChannelsEPG">
-    <title lang="es">Informativo NTN</title>
-  </programme>
-  <programme start="20200509200000 -0500" stop="20200509210000 -0500" channel="NTN24.TDTChannelsEPG">
-    <title lang="es">Planeta Gente</title>
-  </programme>
-  <programme start="20200509210000 -0500" stop="20200509220000 -0500" channel="NTN24.TDTChannelsEPG">
-    <title lang="es">Visión Global</title>
-  </programme>
-  <programme start="20200509220000 -0500" stop="20200509223000 -0500" channel="NTN24.TDTChannelsEPG">
-    <title lang="es">Contador de Historias</title>
-  </programme>
-  <programme start="20200509223000 -0500" stop="20200509230000 -0500" channel="NTN24.TDTChannelsEPG">
-    <title lang="es">Flash Fashion</title>
-  </programme>
-  <programme start="20200509230000 -0500" stop="20200510010000 -0500" channel="NTN24.TDTChannelsEPG">
-    <title lang="es">La tarde, fin de semana</title>
-  </programme>
   <programme start="20200510010000 -0500" stop="20200510020000 -0500" channel="NTN24.TDTChannelsEPG">
     <title lang="es">Planeta Gente</title>
   </programme>
@@ -56999,11 +56960,41 @@ A través de las distintas secciones del programa recordaremos la historia del c
   <programme start="20200510060000 -0500" stop="20200510063000 -0500" channel="NTN24.TDTChannelsEPG">
     <title lang="es">Efecto Naím</title>
   </programme>
-  <programme start="20200510063000 -0500" stop="20200510080000 -0500" channel="NTN24.TDTChannelsEPG">
+  <programme start="20200510063000 -0500" stop="20200510070000 -0500" channel="NTN24.TDTChannelsEPG">
     <title lang="es">Líderes</title>
   </programme>
-  <programme start="20200510080000 -0500" stop="20200510170000 -0500" channel="NTN24.TDTChannelsEPG">
+  <programme start="20200510070000 -0500" stop="20200510080000 -0500" channel="NTN24.TDTChannelsEPG">
+    <title lang="es">Informativo NTN</title>
+  </programme>
+  <programme start="20200510080000 -0500" stop="20200510093000 -0500" channel="NTN24.TDTChannelsEPG">
     <title lang="es">La tarde, fin de semana</title>
+  </programme>
+  <programme start="20200510093000 -0500" stop="20200510100000 -0500" channel="NTN24.TDTChannelsEPG">
+    <title lang="es">CST</title>
+  </programme>
+  <programme start="20200510100000 -0500" stop="20200510110000 -0500" channel="NTN24.TDTChannelsEPG">
+    <title lang="es">Planeta Gente</title>
+  </programme>
+  <programme start="20200510110000 -0500" stop="20200510120000 -0500" channel="NTN24.TDTChannelsEPG">
+    <title lang="es">La Noche</title>
+  </programme>
+  <programme start="20200510120000 -0500" stop="20200510130000 -0500" channel="NTN24.TDTChannelsEPG">
+    <title lang="es">Informativo NTN</title>
+  </programme>
+  <programme start="20200510130000 -0500" stop="20200510133000 -0500" channel="NTN24.TDTChannelsEPG">
+    <title lang="es">Flash Fashion</title>
+  </programme>
+  <programme start="20200510133000 -0500" stop="20200510140000 -0500" channel="NTN24.TDTChannelsEPG">
+    <title lang="es">Contador de Historias</title>
+  </programme>
+  <programme start="20200510140000 -0500" stop="20200510150000 -0500" channel="NTN24.TDTChannelsEPG">
+    <title lang="es">Nuestra Tele Deportes</title>
+  </programme>
+  <programme start="20200510150000 -0500" stop="20200510160000 -0500" channel="NTN24.TDTChannelsEPG">
+    <title lang="es">Informativo NTN</title>
+  </programme>
+  <programme start="20200510160000 -0500" stop="20200510170000 -0500" channel="NTN24.TDTChannelsEPG">
+    <title lang="es">Club Prensa</title>
   </programme>
   <programme start="20200510170000 -0500" stop="20200510180000 -0500" channel="NTN24.TDTChannelsEPG">
     <title lang="es">Poder Latino</title>
@@ -57020,14 +57011,23 @@ A través de las distintas secciones del programa recordaremos la historia del c
   <programme start="20200510210000 -0500" stop="20200510213000 -0500" channel="NTN24.TDTChannelsEPG">
     <title lang="es">Climax</title>
   </programme>
-  <programme start="20200510213000 -0500" stop="20200511070000 -0500" channel="NTN24.TDTChannelsEPG">
+  <programme start="20200510213000 -0500" stop="20200510220000 -0500" channel="NTN24.TDTChannelsEPG">
     <title lang="es">CST</title>
+  </programme>
+  <programme start="20200510220000 -0500" stop="20200510223000 -0500" channel="NTN24.TDTChannelsEPG">
+    <title lang="es">Contador de Historias</title>
+  </programme>
+  <programme start="20200510223000 -0500" stop="20200511070000 -0500" channel="NTN24.TDTChannelsEPG">
+    <title lang="es">Flash Fashion</title>
   </programme>
   <programme start="20200511070000 -0500" stop="20200511080100 -0500" channel="NTN24.TDTChannelsEPG">
     <title lang="es">Informativo NTN</title>
   </programme>
-  <programme start="20200511080100 -0500" stop="20200511110000 -0500" channel="NTN24.TDTChannelsEPG">
+  <programme start="20200511080100 -0500" stop="20200511100000 -0500" channel="NTN24.TDTChannelsEPG">
     <title lang="es">La Tarde</title>
+  </programme>
+  <programme start="20200511100000 -0500" stop="20200511110000 -0500" channel="NTN24.TDTChannelsEPG">
+    <title lang="es">Planeta Gente</title>
   </programme>
   <programme start="20200511110000 -0500" stop="20200511140000 -0500" channel="NTN24.TDTChannelsEPG">
     <title lang="es">Efecto Naím</title>
@@ -57050,212 +57050,23 @@ A través de las distintas secciones del programa recordaremos la historia del c
   <programme start="20200511210000 -0500" stop="20200511230000 -0500" channel="NTN24.TDTChannelsEPG">
     <title lang="es">Club Prensa</title>
   </programme>
-  <programme start="20200509003000 -0500" stop="20200509010000 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">En Forma</title>
+  <programme start="20200511230000 -0500" stop="20200512030000 -0500" channel="NTN24.TDTChannelsEPG">
+    <title lang="es">La Tarde</title>
   </programme>
-  <programme start="20200509010000 -0500" stop="20200509011500 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">DW Noticias</title>
+  <programme start="20200512030000 -0500" stop="20200512040000 -0500" channel="NTN24.TDTChannelsEPG">
+    <title lang="es">Zoom a la Noticia</title>
   </programme>
-  <programme start="20200509011500 -0500" stop="20200509013000 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">Economía creativa</title>
+  <programme start="20200512040000 -0500" stop="20200512050000 -0500" channel="NTN24.TDTChannelsEPG">
+    <title lang="es">Informativo NTN</title>
   </programme>
-  <programme start="20200509013000 -0500" stop="20200509020000 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">Euromaxx</title>
+  <programme start="20200512050000 -0500" stop="20200512060000 -0500" channel="NTN24.TDTChannelsEPG">
+    <title lang="es">Nuestra Tele Deportes</title>
   </programme>
-  <programme start="20200509020000 -0500" stop="20200509023000 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">DW Noticias</title>
+  <programme start="20200512060000 -0500" stop="20200512080000 -0500" channel="NTN24.TDTChannelsEPG">
+    <title lang="es">Poder Latino</title>
   </programme>
-  <programme start="20200509023000 -0500" stop="20200509030000 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">Economía creativa</title>
-  </programme>
-  <programme start="20200509030000 -0500" stop="20200509031500 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">DW Noticias</title>
-  </programme>
-  <programme start="20200509031500 -0500" stop="20200509033000 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">Economía creativa</title>
-  </programme>
-  <programme start="20200509033000 -0500" stop="20200509040000 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">Euromaxx</title>
-  </programme>
-  <programme start="20200509040000 -0500" stop="20200509040300 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">DW Noticias</title>
-  </programme>
-  <programme start="20200509040300 -0500" stop="20200509041500 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">El reportero: Sobre el terreno</title>
-  </programme>
-  <programme start="20200509041500 -0500" stop="20200509050000 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">Europa en concierto</title>
-  </programme>
-  <programme start="20200509050000 -0500" stop="20200509050300 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">DW Noticias</title>
-  </programme>
-  <programme start="20200509050300 -0500" stop="20200509053000 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">Economía creativa</title>
-  </programme>
-  <programme start="20200509053000 -0500" stop="20200509060000 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">Con sabor y saber</title>
-  </programme>
-  <programme start="20200509060000 -0500" stop="20200509061500 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">DW Noticias</title>
-  </programme>
-  <programme start="20200509061500 -0500" stop="20200509063000 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">Economía creativa</title>
-  </programme>
-  <programme start="20200509063000 -0500" stop="20200509070000 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">Global 3000-El Magacín de la Globalización</title>
-  </programme>
-  <programme start="20200509070000 -0500" stop="20200509071500 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">DW Noticias</title>
-  </programme>
-  <programme start="20200509071500 -0500" stop="20200509080000 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">La Segunda Guerra Mundial</title>
-  </programme>
-  <programme start="20200509080000 -0500" stop="20200509080300 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">DW Noticias</title>
-  </programme>
-  <programme start="20200509080300 -0500" stop="20200509083000 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">Euromaxx</title>
-  </programme>
-  <programme start="20200509083000 -0500" stop="20200509090000 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">Visión futuro</title>
-  </programme>
-  <programme start="20200509090000 -0500" stop="20200509090300 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">DW Noticias</title>
-  </programme>
-  <programme start="20200509090300 -0500" stop="20200509091500 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">Economía creativa</title>
-  </programme>
-  <programme start="20200509091500 -0500" stop="20200509100000 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">Afro.Alemania</title>
-  </programme>
-  <programme start="20200509100000 -0500" stop="20200509100300 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">DW Noticias</title>
-  </programme>
-  <programme start="20200509100300 -0500" stop="20200509103000 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">RPM</title>
-  </programme>
-  <programme start="20200509103000 -0500" stop="20200509110000 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">Cultura.21</title>
-  </programme>
-  <programme start="20200509110000 -0500" stop="20200509110300 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">DW Noticias</title>
-  </programme>
-  <programme start="20200509110300 -0500" stop="20200509113000 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">En Forma</title>
-  </programme>
-  <programme start="20200509113000 -0500" stop="20200509120000 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">Enfoque europa: Países, gentes, destinos</title>
-  </programme>
-  <programme start="20200509120000 -0500" stop="20200509120300 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">DW Noticias</title>
-  </programme>
-  <programme start="20200509120300 -0500" stop="20200509121500 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">El reportero: Sobre el terreno</title>
-  </programme>
-  <programme start="20200509121500 -0500" stop="20200509130000 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">Europa en concierto</title>
-  </programme>
-  <programme start="20200509130000 -0500" stop="20200509131500 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">DW Noticias</title>
-  </programme>
-  <programme start="20200509131500 -0500" stop="20200509133000 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">Economía creativa</title>
-  </programme>
-  <programme start="20200509133000 -0500" stop="20200509140000 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">Euromaxx</title>
-  </programme>
-  <programme start="20200509140000 -0500" stop="20200509141500 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">DW Noticias</title>
-  </programme>
-  <programme start="20200509141500 -0500" stop="20200509143000 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">Economía creativa</title>
-  </programme>
-  <programme start="20200509143000 -0500" stop="20200509150000 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">¡Escápate</title>
-  </programme>
-  <programme start="20200509150000 -0500" stop="20200509150300 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">DW Noticias</title>
-  </programme>
-  <programme start="20200509150300 -0500" stop="20200509151500 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">El reportero: Sobre el terreno</title>
-  </programme>
-  <programme start="20200509151500 -0500" stop="20200509160000 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">La batalla del bosque de Hürtgen</title>
-  </programme>
-  <programme start="20200509160000 -0500" stop="20200509160300 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">DW Noticias</title>
-  </programme>
-  <programme start="20200509160300 -0500" stop="20200509163000 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">Global 3000-El Magacín de la Globalización</title>
-  </programme>
-  <programme start="20200509163000 -0500" stop="20200509170000 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">Euromaxx</title>
-  </programme>
-  <programme start="20200509170000 -0500" stop="20200509171500 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">DW Noticias</title>
-  </programme>
-  <programme start="20200509171500 -0500" stop="20200509173000 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">Economía creativa</title>
-  </programme>
-  <programme start="20200509173000 -0500" stop="20200509180000 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">Con sabor y saber</title>
-  </programme>
-  <programme start="20200509180000 -0500" stop="20200509180300 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">DW Noticias</title>
-  </programme>
-  <programme start="20200509180300 -0500" stop="20200509183000 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">Aquí estoy</title>
-  </programme>
-  <programme start="20200509183000 -0500" stop="20200509190000 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">Cultura.21</title>
-  </programme>
-  <programme start="20200509190000 -0500" stop="20200509190300 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">DW Noticias</title>
-  </programme>
-  <programme start="20200509190300 -0500" stop="20200509191500 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">Economía creativa</title>
-  </programme>
-  <programme start="20200509191500 -0500" stop="20200509200000 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">La Segunda Guerra Mundial</title>
-  </programme>
-  <programme start="20200509200000 -0500" stop="20200509201500 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">DW Noticias</title>
-  </programme>
-  <programme start="20200509201500 -0500" stop="20200509203000 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">Reporteros en el Mundo</title>
-  </programme>
-  <programme start="20200509203000 -0500" stop="20200509210000 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">Enfoque europa: Países, gentes, destinos</title>
-  </programme>
-  <programme start="20200509210000 -0500" stop="20200509210300 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">DW Noticias</title>
-  </programme>
-  <programme start="20200509210300 -0500" stop="20200509211500 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">Economía creativa</title>
-  </programme>
-  <programme start="20200509211500 -0500" stop="20200509220000 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">Líbano - Un país rehén</title>
-  </programme>
-  <programme start="20200509220000 -0500" stop="20200509221500 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">DW Noticias</title>
-  </programme>
-  <programme start="20200509221500 -0500" stop="20200509223000 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">Todo deporte</title>
-  </programme>
-  <programme start="20200509223000 -0500" stop="20200509230000 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">Euromaxx</title>
-  </programme>
-  <programme start="20200509230000 -0500" stop="20200509230300 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">DW Noticias</title>
-  </programme>
-  <programme start="20200509230300 -0500" stop="20200509231500 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">Economía creativa</title>
-  </programme>
-  <programme start="20200509231500 -0500" stop="20200510000000 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">MUNDObauhaus</title>
-  </programme>
-  <programme start="20200510000000 -0500" stop="20200510001500 -0500" channel="DW.TDTChannelsEPG">
-    <title lang="es">DW Noticias</title>
+  <programme start="20200512080000 -0500" stop="20200512160000 -0500" channel="NTN24.TDTChannelsEPG">
+    <title lang="es">La Tarde</title>
   </programme>
   <programme start="20200510001500 -0500" stop="20200510003000 -0500" channel="DW.TDTChannelsEPG">
     <title lang="es">El reportero: Sobre el terreno</title>
@@ -57278,23 +57089,41 @@ A través de las distintas secciones del programa recordaremos la historia del c
   <programme start="20200510021500 -0500" stop="20200510023000 -0500" channel="DW.TDTChannelsEPG">
     <title lang="es">La semana: En América Latina</title>
   </programme>
-  <programme start="20200510023000 -0500" stop="20200510033000 -0500" channel="DW.TDTChannelsEPG">
+  <programme start="20200510023000 -0500" stop="20200510030000 -0500" channel="DW.TDTChannelsEPG">
     <title lang="es">Cultura.21</title>
   </programme>
-  <programme start="20200510033000 -0500" stop="20200510040300 -0500" channel="DW.TDTChannelsEPG">
+  <programme start="20200510030000 -0500" stop="20200510031500 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20200510031500 -0500" stop="20200510033000 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">Economía creativa</title>
+  </programme>
+  <programme start="20200510033000 -0500" stop="20200510040000 -0500" channel="DW.TDTChannelsEPG">
     <title lang="es">En Forma</title>
+  </programme>
+  <programme start="20200510040000 -0500" stop="20200510040300 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">DW Noticias</title>
   </programme>
   <programme start="20200510040300 -0500" stop="20200510041500 -0500" channel="DW.TDTChannelsEPG">
     <title lang="es">La semana: En América Latina</title>
   </programme>
-  <programme start="20200510041500 -0500" stop="20200510050300 -0500" channel="DW.TDTChannelsEPG">
+  <programme start="20200510041500 -0500" stop="20200510050000 -0500" channel="DW.TDTChannelsEPG">
     <title lang="es">MUNDObauhaus</title>
+  </programme>
+  <programme start="20200510050000 -0500" stop="20200510050300 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">DW Noticias</title>
   </programme>
   <programme start="20200510050300 -0500" stop="20200510053000 -0500" channel="DW.TDTChannelsEPG">
     <title lang="es">¡Escápate</title>
   </programme>
-  <programme start="20200510053000 -0500" stop="20200510063000 -0500" channel="DW.TDTChannelsEPG">
+  <programme start="20200510053000 -0500" stop="20200510060000 -0500" channel="DW.TDTChannelsEPG">
     <title lang="es">Euromaxx</title>
+  </programme>
+  <programme start="20200510060000 -0500" stop="20200510061500 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20200510061500 -0500" stop="20200510063000 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">Economía creativa</title>
   </programme>
   <programme start="20200510063000 -0500" stop="20200510070000 -0500" channel="DW.TDTChannelsEPG">
     <title lang="es">RPM</title>
@@ -57335,50 +57164,74 @@ A través de las distintas secciones del programa recordaremos la historia del c
   <programme start="20200510101500 -0500" stop="20200510103000 -0500" channel="DW.TDTChannelsEPG">
     <title lang="es">El reportero: Sobre el terreno</title>
   </programme>
-  <programme start="20200510103000 -0500" stop="20200510110300 -0500" channel="DW.TDTChannelsEPG">
+  <programme start="20200510103000 -0500" stop="20200510110000 -0500" channel="DW.TDTChannelsEPG">
     <title lang="es">Euromaxx</title>
+  </programme>
+  <programme start="20200510110000 -0500" stop="20200510110300 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">DW Noticias</title>
   </programme>
   <programme start="20200510110300 -0500" stop="20200510113000 -0500" channel="DW.TDTChannelsEPG">
     <title lang="es">¡Escápate</title>
   </programme>
-  <programme start="20200510113000 -0500" stop="20200510120300 -0500" channel="DW.TDTChannelsEPG">
+  <programme start="20200510113000 -0500" stop="20200510120000 -0500" channel="DW.TDTChannelsEPG">
     <title lang="es">Cultura.21</title>
+  </programme>
+  <programme start="20200510120000 -0500" stop="20200510120300 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">DW Noticias</title>
   </programme>
   <programme start="20200510120300 -0500" stop="20200510121500 -0500" channel="DW.TDTChannelsEPG">
     <title lang="es">La semana: En América Latina</title>
   </programme>
-  <programme start="20200510121500 -0500" stop="20200510131500 -0500" channel="DW.TDTChannelsEPG">
+  <programme start="20200510121500 -0500" stop="20200510130000 -0500" channel="DW.TDTChannelsEPG">
     <title lang="es">La Segunda Guerra Mundial</title>
+  </programme>
+  <programme start="20200510130000 -0500" stop="20200510131500 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">DW Noticias</title>
   </programme>
   <programme start="20200510131500 -0500" stop="20200510133000 -0500" channel="DW.TDTChannelsEPG">
     <title lang="es">El reportero: Sobre el terreno</title>
   </programme>
-  <programme start="20200510133000 -0500" stop="20200510141500 -0500" channel="DW.TDTChannelsEPG">
+  <programme start="20200510133000 -0500" stop="20200510140000 -0500" channel="DW.TDTChannelsEPG">
     <title lang="es">Enfoque europa: Países, gentes, destinos</title>
+  </programme>
+  <programme start="20200510140000 -0500" stop="20200510141500 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">DW Noticias</title>
   </programme>
   <programme start="20200510141500 -0500" stop="20200510143000 -0500" channel="DW.TDTChannelsEPG">
     <title lang="es">Todo deporte</title>
   </programme>
-  <programme start="20200510143000 -0500" stop="20200510150300 -0500" channel="DW.TDTChannelsEPG">
+  <programme start="20200510143000 -0500" stop="20200510150000 -0500" channel="DW.TDTChannelsEPG">
     <title lang="es">Economía creativa</title>
+  </programme>
+  <programme start="20200510150000 -0500" stop="20200510150300 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">DW Noticias</title>
   </programme>
   <programme start="20200510150300 -0500" stop="20200510151500 -0500" channel="DW.TDTChannelsEPG">
     <title lang="es">La semana: En América Latina</title>
   </programme>
-  <programme start="20200510151500 -0500" stop="20200510160300 -0500" channel="DW.TDTChannelsEPG">
+  <programme start="20200510151500 -0500" stop="20200510160000 -0500" channel="DW.TDTChannelsEPG">
     <title lang="es">Europa en concierto</title>
+  </programme>
+  <programme start="20200510160000 -0500" stop="20200510160300 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">DW Noticias</title>
   </programme>
   <programme start="20200510160300 -0500" stop="20200510163000 -0500" channel="DW.TDTChannelsEPG">
     <title lang="es">Enfoque europa: Países, gentes, destinos</title>
   </programme>
-  <programme start="20200510163000 -0500" stop="20200510171500 -0500" channel="DW.TDTChannelsEPG">
+  <programme start="20200510163000 -0500" stop="20200510170000 -0500" channel="DW.TDTChannelsEPG">
     <title lang="es">¡Escápate</title>
+  </programme>
+  <programme start="20200510170000 -0500" stop="20200510171500 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">DW Noticias</title>
   </programme>
   <programme start="20200510171500 -0500" stop="20200510173000 -0500" channel="DW.TDTChannelsEPG">
     <title lang="es">El reportero: Sobre el terreno</title>
   </programme>
-  <programme start="20200510173000 -0500" stop="20200510180300 -0500" channel="DW.TDTChannelsEPG">
+  <programme start="20200510173000 -0500" stop="20200510180000 -0500" channel="DW.TDTChannelsEPG">
     <title lang="es">Cultura.21</title>
+  </programme>
+  <programme start="20200510180000 -0500" stop="20200510180300 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">DW Noticias</title>
   </programme>
   <programme start="20200510180300 -0500" stop="20200510181500 -0500" channel="DW.TDTChannelsEPG">
     <title lang="es">La semana: En América Latina</title>
@@ -57512,11 +57365,17 @@ A través de las distintas secciones del programa recordaremos la historia del c
   <programme start="20200511120300 -0500" stop="20200511121500 -0500" channel="DW.TDTChannelsEPG">
     <title lang="es">Reporteros en el Mundo</title>
   </programme>
-  <programme start="20200511121500 -0500" stop="20200511133000 -0500" channel="DW.TDTChannelsEPG">
+  <programme start="20200511121500 -0500" stop="20200511131500 -0500" channel="DW.TDTChannelsEPG">
     <title lang="es">MUNDObauhaus</title>
   </programme>
-  <programme start="20200511133000 -0500" stop="20200511143000 -0500" channel="DW.TDTChannelsEPG">
+  <programme start="20200511131500 -0500" stop="20200511133000 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">Economía creativa</title>
+  </programme>
+  <programme start="20200511133000 -0500" stop="20200511141500 -0500" channel="DW.TDTChannelsEPG">
     <title lang="es">Global 3000-El Magacín de la Globalización</title>
+  </programme>
+  <programme start="20200511141500 -0500" stop="20200511143000 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">Economía creativa</title>
   </programme>
   <programme start="20200511143000 -0500" stop="20200511150300 -0500" channel="DW.TDTChannelsEPG">
     <title lang="es">Cultura.21</title>
@@ -57530,8 +57389,11 @@ A través de las distintas secciones del programa recordaremos la historia del c
   <programme start="20200511160300 -0500" stop="20200511163000 -0500" channel="DW.TDTChannelsEPG">
     <title lang="es">Visión futuro</title>
   </programme>
-  <programme start="20200511163000 -0500" stop="20200511173000 -0500" channel="DW.TDTChannelsEPG">
+  <programme start="20200511163000 -0500" stop="20200511171500 -0500" channel="DW.TDTChannelsEPG">
     <title lang="es">RPM</title>
+  </programme>
+  <programme start="20200511171500 -0500" stop="20200511173000 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">Economía creativa</title>
   </programme>
   <programme start="20200511173000 -0500" stop="20200511180300 -0500" channel="DW.TDTChannelsEPG">
     <title lang="es">Economía creativa</title>
@@ -57554,8 +57416,14 @@ A través de las distintas secciones del programa recordaremos la historia del c
   <programme start="20200511200000 -0500" stop="20200511203000 -0500" channel="DW.TDTChannelsEPG">
     <title lang="es">DW Noticias</title>
   </programme>
-  <programme start="20200511203000 -0500" stop="20200511211500 -0500" channel="DW.TDTChannelsEPG">
+  <programme start="20200511203000 -0500" stop="20200511210000 -0500" channel="DW.TDTChannelsEPG">
     <title lang="es">Aquí estoy</title>
+  </programme>
+  <programme start="20200511210000 -0500" stop="20200511210300 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20200511210300 -0500" stop="20200511211500 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">Economía creativa</title>
   </programme>
   <programme start="20200511211500 -0500" stop="20200511220000 -0500" channel="DW.TDTChannelsEPG">
     <title lang="es">La Segunda Guerra Mundial</title>
@@ -57568,6 +57436,153 @@ A través de las distintas secciones del programa recordaremos la historia del c
   </programme>
   <programme start="20200511230300 -0500" stop="20200511231500 -0500" channel="DW.TDTChannelsEPG">
     <title lang="es">Economía creativa</title>
+  </programme>
+  <programme start="20200511231500 -0500" stop="20200512000000 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">Stammheim - Juicio a la RAF</title>
+  </programme>
+  <programme start="20200512000000 -0500" stop="20200512003000 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20200512003000 -0500" stop="20200512010000 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">Global 3000-El Magacín de la Globalización</title>
+  </programme>
+  <programme start="20200512010000 -0500" stop="20200512011500 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20200512011500 -0500" stop="20200512013000 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">Economía creativa</title>
+  </programme>
+  <programme start="20200512013000 -0500" stop="20200512020000 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">Primer Plano</title>
+  </programme>
+  <programme start="20200512020000 -0500" stop="20200512023000 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20200512023000 -0500" stop="20200512033000 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">Todo gol</title>
+  </programme>
+  <programme start="20200512033000 -0500" stop="20200512040300 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">Primer Plano</title>
+  </programme>
+  <programme start="20200512040300 -0500" stop="20200512041500 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">Patrimonio mundial</title>
+  </programme>
+  <programme start="20200512041500 -0500" stop="20200512050300 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">Stammheim - Juicio a la RAF</title>
+  </programme>
+  <programme start="20200512050300 -0500" stop="20200512053000 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">Todo gol</title>
+  </programme>
+  <programme start="20200512053000 -0500" stop="20200512063000 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">Fuerza latina, mujeres inspiradoras de América Latina</title>
+  </programme>
+  <programme start="20200512063000 -0500" stop="20200512070300 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">Visión futuro</title>
+  </programme>
+  <programme start="20200512070300 -0500" stop="20200512071500 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">Patrimonio mundial</title>
+  </programme>
+  <programme start="20200512071500 -0500" stop="20200512080300 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">Los infieles del Hindú Kush - La colorida cultura de los kalash</title>
+  </programme>
+  <programme start="20200512080300 -0500" stop="20200512083000 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">Con sabor y saber</title>
+  </programme>
+  <programme start="20200512083000 -0500" stop="20200512091500 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">Todo gol</title>
+  </programme>
+  <programme start="20200512091500 -0500" stop="20200512100300 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">Stammheim - Juicio a la RAF</title>
+  </programme>
+  <programme start="20200512100300 -0500" stop="20200512103000 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">Global 3000</title>
+  </programme>
+  <programme start="20200512103000 -0500" stop="20200512110000 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">Primer Plano</title>
+  </programme>
+  <programme start="20200512110000 -0500" stop="20200512110300 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20200512110300 -0500" stop="20200512113000 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">Todo gol</title>
+  </programme>
+  <programme start="20200512113000 -0500" stop="20200512120000 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">Aquí estoy</title>
+  </programme>
+  <programme start="20200512120000 -0500" stop="20200512120300 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20200512120300 -0500" stop="20200512121500 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">Patrimonio mundial</title>
+  </programme>
+  <programme start="20200512121500 -0500" stop="20200512130000 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">Los infieles del Hindú Kush - La colorida cultura de los kalash</title>
+  </programme>
+  <programme start="20200512130000 -0500" stop="20200512131500 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20200512131500 -0500" stop="20200512133000 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">Economía creativa</title>
+  </programme>
+  <programme start="20200512133000 -0500" stop="20200512140000 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">Primer Plano</title>
+  </programme>
+  <programme start="20200512140000 -0500" stop="20200512141500 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20200512141500 -0500" stop="20200512143000 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">Economía creativa</title>
+  </programme>
+  <programme start="20200512143000 -0500" stop="20200512150000 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">Todo gol</title>
+  </programme>
+  <programme start="20200512150000 -0500" stop="20200512150300 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20200512150300 -0500" stop="20200512151500 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">Todo deporte</title>
+  </programme>
+  <programme start="20200512151500 -0500" stop="20200512160000 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">Stammheim - Juicio a la RAF</title>
+  </programme>
+  <programme start="20200512160000 -0500" stop="20200512160300 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20200512160300 -0500" stop="20200512163000 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">En Forma</title>
+  </programme>
+  <programme start="20200512163000 -0500" stop="20200512170000 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">Enlaces: Ventana Abierta Al Mundo Digital</title>
+  </programme>
+  <programme start="20200512170000 -0500" stop="20200512171500 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20200512171500 -0500" stop="20200512173000 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">Economía creativa</title>
+  </programme>
+  <programme start="20200512173000 -0500" stop="20200512180000 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">Todo gol</title>
+  </programme>
+  <programme start="20200512180000 -0500" stop="20200512180300 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20200512180300 -0500" stop="20200512183000 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">Visión futuro</title>
+  </programme>
+  <programme start="20200512183000 -0500" stop="20200512191500 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">Con sabor y saber</title>
+  </programme>
+  <programme start="20200512191500 -0500" stop="20200512203000 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">Los infieles del Hindú Kush - La colorida cultura de los kalash</title>
+  </programme>
+  <programme start="20200512203000 -0500" stop="20200512211500 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">Todo gol</title>
+  </programme>
+  <programme start="20200512211500 -0500" stop="20200512223000 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">MUNDObauhaus</title>
+  </programme>
+  <programme start="20200512223000 -0500" stop="20200512231500 -0500" channel="DW.TDTChannelsEPG">
+    <title lang="es">Primer Plano</title>
   </programme>
   <programme start="20200510010000 +0200" stop="20200510080000 +0200" channel="ATVHD.TDTChannelsEPG">
     <title lang="es">Àrea Andorra Difusió</title>
