@@ -50,6 +50,7 @@
   </channel>
   <channel id="TDP.TV">
     <display-name lang="es">Teledeporte GEO</display-name>
+    <icon src="https://programacion-tv.elpais.com/imagenes/canales/9.jpg" />
   </channel>
   <channel id="GOL.TV">
     <display-name lang="es">GOL</display-name>
@@ -147,7 +148,6 @@
   <channel id="NaTV.TV">
     <display-name lang="es">Navarra TV</display-name>
     <icon src="https://programacion-tv.elpais.com/imagenes/canales/771.jpg" />
-    <url>http://www.elpais.com.E</url>
   </channel>
   <channel id="ETB1.TV">
     <display-name lang="es">ETB 1</display-name>
@@ -184,12 +184,10 @@
   </channel>
   <channel id="RaiN.TV">
     <display-name lang="pt">Rai News 24 Italia</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
   <channel id="DW.TV">
     <display-name lang="es">DW Alemania</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/dw_latinoamerica-mediano.png" />
-    <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Bloom.TV">
     <display-name lang="es">Bloomberg Europe</display-name>
@@ -197,34 +195,27 @@
   <channel id="SkyN.TV">
     <display-name lang="pl">Sky News UK</display-name>
     <icon src="https://fwcdn.pl/chan/326.1.png" />
-    <url>http://www.filmweb.pl</url>
   </channel>
   <channel id="RTP1.TV">
     <display-name lang="pt">RTP 1 Portugal</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
   <channel id="RTP2.TV">
     <display-name lang="pt">RTP 2 Portugal</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
   <channel id="RTP3.TV">
     <display-name lang="pt">RTP 3 Portugal</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
   <channel id="RTDoc.TV">
     <display-name lang="pl">RT Documentary</display-name>
     <icon src="https://fwcdn.pl/chan/306.1.png" />
-    <url>http://www.filmweb.pl</url>
   </channel>
   <channel id="Zee.TV">
     <display-name lang="es">Zee Mundo USA</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/zee_mundo-mediano.png" />
-    <url>http://www.gatotv.com</url>
   </channel>
   <channel id="NTN24.TV">
     <display-name lang="es">NTN24</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/ntn24_nuestra_tele_noticias-mediano.png" />
-    <url>http://www.gatotv.com</url>
   </channel>
   <channel id="TeleSUR.TV">
     <display-name lang="es">TeleSUR Venezuela</display-name>
@@ -235,11 +226,9 @@
   <channel id="CGTNN.TV">
     <display-name lang="pl">CGTN News</display-name>
     <icon src="https://fwcdn.pl/chan/159.1.png" />
-    <url>http://www.filmweb.pl</url>
   </channel>
   <channel id="CGTNDoc.TV">
     <display-name lang="en">CGTN Documentary</display-name>
-    <url>http://www.yourtv.com.au</url>
   </channel>
   <channel id="AlJQ.TV">
     <display-name lang="es">Al Jazeera Qatar</display-name>
@@ -247,12 +236,10 @@
   <channel id="NHK.TV">
     <display-name lang="pl">NHK World Japan</display-name>
     <icon src="https://fwcdn.pl/chan/262.1.png" />
-    <url>http://www.filmweb.pl</url>
   </channel>
   <channel id="Arirang.TV">
     <display-name lang="pl">Arirang TV Korea</display-name>
     <icon src="https://fwcdn.pl/chan/138.1.png" />
-    <url>http://www.filmweb.pl</url>
   </channel>
   <channel id="los40.Radio">
     <display-name lang="es">LOS40</display-name>
@@ -377,7 +364,7 @@
   </programme>
   <programme start="20200514000000 +0200" stop="20200514004500 +0200" channel="Cuatro.TV">
     <title lang="es">Supervivientes: Última Hora (continuación)</title>
-    <desc lang="es">La última hora de todo lo que ocurre en Honduras, con Lara Álvarez.</desc>
+    <desc lang="es">La última hora de todo lo que ocurre en Honduras.</desc>
     <icon src="https://album.mediaset.es//parrillas/2020/02/24/89778c67dadc57d7e607b1a41a554aff1582534461.jpg" />
   </programme>
   <programme start="20200514004500 +0200" stop="20200514012000 +0200" channel="Cuatro.TV">
@@ -626,7 +613,7 @@
   </programme>
   <programme start="20200513220000 +0200" stop="20200513224000 +0200" channel="Telecinco.TV">
     <title lang="es">Supervivientes: Última Hora</title>
-    <desc lang="es">La última hora de todo lo que ocurre en Honduras, con Lara Álvarez.</desc>
+    <desc lang="es">La última hora de todo lo que ocurre en Honduras.</desc>
     <icon src="https://album.mediaset.es//parrillas/2020/02/24/89778c67dadc57d7e607b1a41a554aff1582534461.jpg" />
   </programme>
   <programme start="20200513224000 +0200" stop="20200514003000 +0200" channel="Telecinco.TV">
@@ -739,47 +726,47 @@
     <desc lang="es">Programa presentado por Jorge Javier Vázquez y Lara Álvarez. Un grupo de famosos viaja hasta Honduras, donde deberán demostrar sus dotes de supervivencia en el entorno hostil.</desc>
     <icon src="https://album.mediaset.es//parrillas/2020/04/30/4a964e642290161d3382a222324b8cbe1588256297.jpg" />
   </programme>
-  <programme start="20200515013000 +0200" stop="20200515020000 +0200" channel="Telecinco.TV">
+  <programme start="20200515013000 +0200" stop="20200515020500 +0200" channel="Telecinco.TV">
     <title lang="es">Supervivientes Diario</title>
     <desc lang="es">La última hora del reality.</desc>
     <icon src="https://album.mediaset.es//parrillas/2020/02/24/a9d44426a912db39b5ee9fa4824e4a971582534471.jpg" />
   </programme>
-  <programme start="20200515020000 +0200" stop="20200515023500 +0200" channel="Telecinco.TV">
+  <programme start="20200515020500 +0200" stop="20200515024000 +0200" channel="Telecinco.TV">
     <title lang="es">Supervivientes Diario</title>
     <desc lang="es">La última hora del reality.</desc>
     <icon src="https://album.mediaset.es//parrillas/2020/02/24/a9d44426a912db39b5ee9fa4824e4a971582534471.jpg" />
   </programme>
-  <programme start="20200515023500 +0200" stop="20200515024000 +0200" channel="Telecinco.TV">
+  <programme start="20200515024000 +0200" stop="20200515024500 +0200" channel="Telecinco.TV">
     <title lang="es">El Horóscopo De Esperanza Gracia</title>
     <desc lang="es">Descubre qué te depara tu futuro a través de las predicciones de los astros de Esperanza Gracia.</desc>
     <icon src="https://album.mediaset.es//parrillas/2018/05/14/9239141515419b0cf45f2800bfedf7e91526295386.jpg" />
   </programme>
-  <programme start="20200515024000 +0200" stop="20200515025500 +0200" channel="Telecinco.TV">
+  <programme start="20200515024500 +0200" stop="20200515030000 +0200" channel="Telecinco.TV">
     <title lang="es">La Tienda En Casa</title>
     <desc lang="es">Espacio de televenta.</desc>
     <icon src="https://album.mediaset.es//parrillas/2019/03/12/f4a4de9fcb8412104f13c91b44a320df1552411717.jpg" />
   </programme>
-  <programme start="20200515025500 +0200" stop="20200515032500 +0200" channel="Telecinco.TV">
+  <programme start="20200515030000 +0200" stop="20200515033000 +0200" channel="Telecinco.TV">
     <title lang="es">Mejor Llama A Kiko</title>
     <desc lang="es">Programa de televenta con Kiko Hernández.</desc>
     <icon src="https://album.mediaset.es//parrillas/2019/01/29/c146cc18ff8004baa5b2f27746cb071a1548751945.jpg" />
   </programme>
-  <programme start="20200515032500 +0200" stop="20200515035500 +0200" channel="Telecinco.TV">
+  <programme start="20200515033000 +0200" stop="20200515040000 +0200" channel="Telecinco.TV">
     <title lang="es">Mejor Llama A Kiko</title>
     <desc lang="es">Programa de televenta con Kiko Hernández.</desc>
     <icon src="https://album.mediaset.es//parrillas/2019/01/29/c146cc18ff8004baa5b2f27746cb071a1548751945.jpg" />
   </programme>
-  <programme start="20200515035500 +0200" stop="20200515040000 +0200" channel="Telecinco.TV">
+  <programme start="20200515040000 +0200" stop="20200515040500 +0200" channel="Telecinco.TV">
     <title lang="es">Uppers</title>
     <desc lang="es">Programa destinado a satisfacer la demanda de contenidos e información de mayores de 45 años.</desc>
     <icon src="https://album.mediaset.es//parrillas/2019/08/07/f84d48d47d35ab462573268b3f382f7c1565179338.jpg" />
   </programme>
-  <programme start="20200515040000 +0200" stop="20200515040500 +0200" channel="Telecinco.TV">
+  <programme start="20200515040500 +0200" stop="20200515041000 +0200" channel="Telecinco.TV">
     <title lang="es">El Horóscopo De Esperanza Gracia</title>
     <desc lang="es">Descubre qué te depara tu futuro a través de las predicciones de los astros de Esperanza Gracia.</desc>
     <icon src="https://album.mediaset.es//parrillas/2018/05/14/9239141515419b0cf45f2800bfedf7e91526295386.jpg" />
   </programme>
-  <programme start="20200515040500 +0200" stop="19700101010000 +0200" channel="Telecinco.TV">
+  <programme start="20200515041000 +0200" stop="19700101010000 +0200" channel="Telecinco.TV">
     <title lang="es">Miramimusica</title>
     <desc lang="es">El espacio musical (conciertos y videoclips) de Telecinco.</desc>
     <icon src="https://album.mediaset.es//parrillas/2017/03/06/c0605f7049cf8ca32a4fcf4e698a9abf1488807944.jpg" />
@@ -2024,6 +2011,396 @@
     <title lang="es">Los Gipsy Kings</title>
     <desc lang="es">Son miembros de cuatro grandes dinastías gitanas y han abierto las puertas de sus hogares para que los espectadores de Cuatro conozcan su día a día, sus costumbres, sus profesiones, sus momentos de ocio y su vida familiar.</desc>
     <icon src="https://album.mediaset.es//parrillas/2017/03/06/41ed6a95b304269aefa9bafe9c41e4891488817071.jpg" />
+  </programme>
+  <programme start="20200513004000 +0200" stop="20200513011500 +0200" channel="TDP.TV">
+    <title lang="es">Conexión Vintage</title>
+    <desc lang="es">Conexión Vintage dedica un programa al jugador salvadoreño Mágico González, estrella de su selección y también del Cádiz C.F. en los años 80.</desc>
+    <credits>
+      <presenter>Paco Grande</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Programa</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/482079.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">E185</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200513011500 +0200" stop="20200513025500 +0200" channel="TDP.TV">
+    <title lang="es">Copa del Rey de Rugby 2016</title>
+    <desc lang="es">Final desde Valladolid.</desc>
+    <date>2016</date>
+    <category lang="es">Rugby</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/8287.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200513025500 +0200" stop="20200513053000 +0200" channel="TDP.TV">
+    <title lang="es">Maratón Valencia Trinidad Alfonso 2019</title>
+    <desc lang="es">Carrera de 42,195 kilómetros que se ha convertido en una de las citas más destacadas del panorama nacional.</desc>
+    <date>2019</date>
+    <category lang="es">Atletismo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2569836.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200513053000 +0200" stop="20200513071000 +0200" channel="TDP.TV">
+    <title lang="es">Copa SSMM Los Reyes de Tenis de Mesa 2020</title>
+    <desc lang="es">La ciudad de Granada es el centro de los focos del tenis de mesa con la celebración de los Campeonatos de España Absolutos, Copas de SSMM Los Reyes y Seamaster ITTF Challenge Spanish Open 2020.</desc>
+    <date>2020</date>
+    <category lang="es">Tenis</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2624701.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200513071000 +0200" stop="20200513073000 +0200" channel="TDP.TV">
+    <title lang="es">Reportajes Teledeporte</title>
+    <desc lang="es">El protagonista será el ciclismo con la presencia del ciclista del Bahrein McLaren Pello Bilbao y del director deportivo del Trek-Segafredo Josu Larrazabal.</desc>
+    <date>2020</date>
+    <category lang="es">Programa</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2100271.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">E399</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200513073000 +0200" stop="20200513083000 +0200" channel="TDP.TV">
+    <title lang="es">Estudio Estadio</title>
+    <desc lang="es">Incluye lo más relevante de lo acontecido durante la jornada de fútbol resumiendo, a través de breves reportajes, los partidos de LaLiga Santander y con entrevistas a sus protagonistas.</desc>
+    <date>2020</date>
+    <category lang="es">Programa</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2049231.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">E163</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200513083000 +0200" stop="20200513093000 +0200" channel="TDP.TV">
+    <title lang="es">Cto. del Mundo Atletismo Paralímpico</title>
+    <desc lang="es">Programa que informa de la actualidad de los deportistas con discapacidad.</desc>
+    <date>2019</date>
+    <category lang="es">Atletismo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2052491.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">E9</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200513093000 +0200" stop="20200513132000 +0200" channel="TDP.TV">
+    <title lang="es">Campeonato de Europa de Patinaje Artístico sobre Hielo 2019</title>
+    <desc lang="es">El CX Campeonato Europeo de Patinaje Artístico sobre Hielo se celebra en la ciudad Minsk (Bielorrusia) del 21 al 27 de enero de 2019.</desc>
+    <date>2019</date>
+    <category lang="es">Patinaje</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2279444.jpg" />
+    <country lang="es">Bielorrusia</country>
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="ES">
+      <value>ISU</value>
+    </rating>
+  </programme>
+  <programme start="20200513132000 +0200" stop="20200513135000 +0200" channel="TDP.TV">
+    <title lang="es">Karate 1 Premier League 2019</title>
+    <desc lang="es">La Karate 1 Premier League es una competencia de Karate presentada por la Federación Mundial de Karate en 2011 para proporcionar un sistema homogéneo de clasificación para el torneo olímpico de Karate.</desc>
+    <date>2019</date>
+    <category lang="es">Artes marciales</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2570296.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200513135000 +0200" stop="20200513152500 +0200" channel="TDP.TV">
+    <title lang="es">Reportajes Teledeporte</title>
+    <desc lang="es">El Atlético Navalcarnero se ha proclamado en su cancha campeón de la I Copa de Europa femenina de fútbol sala al vencer en la gran final al ASDC Montesilvano de Italia por 3-2, después de ir perdiendo por 0-1.</desc>
+    <date>2020</date>
+    <category lang="es">Programa</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2100271.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">E403</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200513152500 +0200" stop="20200513173000 +0200" channel="TDP.TV">
+    <title lang="es">Vuelta ciclista a España 2017</title>
+    <desc lang="es">La penúltima etapa de la competición viene cargada de emociones fuertes, con un interesante final en el Alto de l'Angliru -todo un clásico ya en La Vuelta- y un recorrido total de 117.5 kilómetros.</desc>
+    <date>2017</date>
+    <category lang="es">Ciclismo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1574478.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">E20</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200513173000 +0200" stop="20200513174500 +0200" channel="TDP.TV">
+    <title lang="es">Reportajes Teledeporte</title>
+    <desc lang="es">TDP en casa con Carlos Sainz. Es bicampeón del mundo de rally en 1990 y 1992 con Toyota, logrando otros cuatro subcampeonatos y cinco terceros puestos. Es considerado el mejor piloto español de rally de la historia​.</desc>
+    <date>2020</date>
+    <category lang="es">Programa</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2100271.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">E404</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200513174500 +0200" stop="20200513175500 +0200" channel="TDP.TV">
+    <title lang="es">Reportajes Teledeporte</title>
+    <desc lang="es">Nos movemos con Maverik Viñales, piloto de motociclismo español campeón del mundo. En 2013 se proclamó campeón del mundo en Moto3.​ En la temporada 2014 compitió en la categoría de Moto2 en el equipo PONS Racing.</desc>
+    <date>2020</date>
+    <category lang="es">Programa</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2100271.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">E405</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200513175500 +0200" stop="20200513203500 +0200" channel="TDP.TV">
+    <title lang="es">Reportajes Teledeporte</title>
+    <desc lang="es">Rafael Nadal ha ganado el Trofeo Conde de Godó por segundo año consecutivo al vencer en la final a su compatriota Tommy Robredo.</desc>
+    <date>2020</date>
+    <category lang="es">Programa</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2100271.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">E406</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200513203500 +0200" stop="20200513220000 +0200" channel="TDP.TV">
+    <title lang="es">Reportajes Teledeporte</title>
+    <desc lang="es">El Bera Bera revalidó el título de la Copa de la Reina, tras imponerse por 21-26 al BM. Rocasa Ace Gran Canaria, el mismo rival al que ya derrotó el pasado año, en la final disputada en el pabellón Amaya Valdemoro.</desc>
+    <date>2020</date>
+    <category lang="es">Programa</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2100271.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">E407</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200513220000 +0200" stop="20200513234500 +0200" channel="TDP.TV">
+    <title lang="es">Reportajes Teledeporte</title>
+    <desc lang="es">Los contendientes fueron el Athletic Club y el Atlético. Pese a la vitola de favorito del conjunto vizcaíno y a tener más y mejores ocasiones durante el encuentro, el resultado final de 1-2 sonrió al conjunto colchonero.</desc>
+    <date>2020</date>
+    <category lang="es">Programa</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2100271.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">E408</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200513234500 +0200" stop="20200514004500 +0200" channel="TDP.TV">
+    <title lang="es">Estudio Estadio</title>
+    <desc lang="es">Incluye lo más relevante de lo acontecido durante la jornada de fútbol resumiendo, a través de breves reportajes, los partidos de LaLiga Santander y con entrevistas a sus protagonistas.</desc>
+    <date>2020</date>
+    <category lang="es">Programa</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2049231.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">E164</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200514004500 +0200" stop="20200514014500 +0200" channel="TDP.TV">
+    <title lang="es">CONEXIÓN TEMÁTICOS</title>
+    <desc lang="es">Programa temático diario de deporte por día, en la franja de Conexión Teledeporte.</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
+    <country lang="es">Otros</country>
+    <episode-num system="onscreen">E118</episode-num>
+  </programme>
+  <programme start="20200514014500 +0200" stop="20200514021000 +0200" channel="TDP.TV">
+    <title lang="es">Karate 1 Premier League 2019</title>
+    <desc lang="es">La Karate 1 Premier League es una competencia de Karate presentada por la Federación Mundial de Karate en 2011 para proporcionar un sistema homogéneo de clasificación para el torneo olímpico de Karate.</desc>
+    <date>2019</date>
+    <category lang="es">Artes marciales</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2570296.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200514021000 +0200" stop="20200514034500 +0200" channel="TDP.TV">
+    <title lang="es">Reportajes Teledeporte</title>
+    <desc lang="es">El Atlético Navalcarnero se ha proclamado en su cancha campeón de la I Copa de Europa femenina de fútbol sala al vencer en la gran final al ASDC Montesilvano de Italia por 3-2, después de ir perdiendo por 0-1.</desc>
+    <date>2020</date>
+    <category lang="es">Programa</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2100271.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">E403</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200514034500 +0200" stop="20200514060000 +0200" channel="TDP.TV">
+    <title lang="es">Reportajes Teledeporte</title>
+    <desc lang="es">Rafael Nadal ha ganado el Trofeo Conde de Godó por segundo año consecutivo al vencer en la final a su compatriota Tommy Robredo.</desc>
+    <date>2020</date>
+    <category lang="es">Programa</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2100271.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">E406</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200514060000 +0200" stop="20200514080000 +0200" channel="TDP.TV">
+    <title lang="es">Teledeporte</title>
+    <desc lang="es">El canal de deportes de TVE.</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
+    <country lang="es">Otros</country>
+  </programme>
+  <programme start="20200514080000 +0200" stop="20200514100000 +0200" channel="TDP.TV">
+    <title lang="es">Teledeporte</title>
+    <desc lang="es">El canal de deportes de TVE.</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
+    <country lang="es">Otros</country>
+  </programme>
+  <programme start="20200514100000 +0200" stop="20200514120000 +0200" channel="TDP.TV">
+    <title lang="es">Teledeporte</title>
+    <desc lang="es">El canal de deportes de TVE.</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
+    <country lang="es">Otros</country>
+  </programme>
+  <programme start="20200514120000 +0200" stop="20200514140000 +0200" channel="TDP.TV">
+    <title lang="es">Teledeporte</title>
+    <desc lang="es">El canal de deportes de TVE.</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
+    <country lang="es">Otros</country>
+  </programme>
+  <programme start="20200514140000 +0200" stop="20200514160000 +0200" channel="TDP.TV">
+    <title lang="es">Teledeporte</title>
+    <desc lang="es">El canal de deportes de TVE.</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
+    <country lang="es">Otros</country>
+  </programme>
+  <programme start="20200514160000 +0200" stop="20200514180000 +0200" channel="TDP.TV">
+    <title lang="es">Teledeporte</title>
+    <desc lang="es">El canal de deportes de TVE.</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
+    <country lang="es">Otros</country>
+  </programme>
+  <programme start="20200514180000 +0200" stop="20200514200000 +0200" channel="TDP.TV">
+    <title lang="es">Teledeporte</title>
+    <desc lang="es">El canal de deportes de TVE.</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
+    <country lang="es">Otros</country>
+  </programme>
+  <programme start="20200514200000 +0200" stop="20200514220000 +0200" channel="TDP.TV">
+    <title lang="es">Teledeporte</title>
+    <desc lang="es">El canal de deportes de TVE.</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
+    <country lang="es">Otros</country>
+  </programme>
+  <programme start="20200514220000 +0200" stop="20200515000000 +0200" channel="TDP.TV">
+    <title lang="es">Teledeporte</title>
+    <desc lang="es">El canal de deportes de TVE.</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
+    <country lang="es">Otros</country>
+  </programme>
+  <programme start="20200515000000 +0200" stop="20200515020000 +0200" channel="TDP.TV">
+    <title lang="es">Teledeporte</title>
+    <desc lang="es">El canal de deportes de TVE.</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
+    <country lang="es">Otros</country>
+  </programme>
+  <programme start="20200515020000 +0200" stop="20200515040000 +0200" channel="TDP.TV">
+    <title lang="es">Teledeporte</title>
+    <desc lang="es">El canal de deportes de TVE.</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
+    <country lang="es">Otros</country>
+  </programme>
+  <programme start="20200515040000 +0200" stop="20200515060000 +0200" channel="TDP.TV">
+    <title lang="es">Teledeporte</title>
+    <desc lang="es">El canal de deportes de TVE.</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
+    <country lang="es">Otros</country>
+  </programme>
+  <programme start="20200515060000 +0200" stop="20200515080000 +0200" channel="TDP.TV">
+    <title lang="es">Teledeporte</title>
+    <desc lang="es">El canal de deportes de TVE.</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
+    <country lang="es">Otros</country>
+  </programme>
+  <programme start="20200515080000 +0200" stop="20200515100000 +0200" channel="TDP.TV">
+    <title lang="es">Teledeporte</title>
+    <desc lang="es">El canal de deportes de TVE.</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
+    <country lang="es">Otros</country>
+  </programme>
+  <programme start="20200515100000 +0200" stop="20200515120000 +0200" channel="TDP.TV">
+    <title lang="es">Teledeporte</title>
+    <desc lang="es">El canal de deportes de TVE.</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
+    <country lang="es">Otros</country>
+  </programme>
+  <programme start="20200515120000 +0200" stop="20200515140000 +0200" channel="TDP.TV">
+    <title lang="es">Teledeporte</title>
+    <desc lang="es">El canal de deportes de TVE.</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
+    <country lang="es">Otros</country>
+  </programme>
+  <programme start="20200515140000 +0200" stop="20200515160000 +0200" channel="TDP.TV">
+    <title lang="es">Teledeporte</title>
+    <desc lang="es">El canal de deportes de TVE.</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
+    <country lang="es">Otros</country>
+  </programme>
+  <programme start="20200515160000 +0200" stop="20200515180000 +0200" channel="TDP.TV">
+    <title lang="es">Teledeporte</title>
+    <desc lang="es">El canal de deportes de TVE.</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
+    <country lang="es">Otros</country>
+  </programme>
+  <programme start="20200515180000 +0200" stop="20200515200000 +0200" channel="TDP.TV">
+    <title lang="es">Teledeporte</title>
+    <desc lang="es">El canal de deportes de TVE.</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
+    <country lang="es">Otros</country>
+  </programme>
+  <programme start="20200515200000 +0200" stop="20200515220000 +0200" channel="TDP.TV">
+    <title lang="es">Teledeporte</title>
+    <desc lang="es">El canal de deportes de TVE.</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
+    <country lang="es">Otros</country>
   </programme>
   <programme start="20200513000000 +0200" stop="20200513003000 +0200" channel="BetisTV.TV">
     <title lang="es">Betis en Casa</title>
@@ -3291,11 +3668,6 @@
     <title lang="es">Sabor Gourmet</title>
     <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
   </programme>
-  <programme start="20200513133000 +0200" stop="20200513140000 +0200" channel="OndaCadiz.TV">
-    <title lang="es">Noticias OC 1ª Edición</title>
-    <desc lang="es">Desde Onda Cádiz Televisión, ofrecemos a nuestros espectadores, la posibilidad de que puedan tomar, con nosotros, el pulso diario de nuestra ciudad. Política, cultura, sucesos, ocio, deportes, información meteorológica y toda la información puntual que genera nuestra ciudad, con el máximo rigor y pluralidad que debe de tener una televisión municipal.</desc>
-    <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/noticias_cadiz.jpg?itok=N_oSD2Vc" />
-  </programme>
   <programme start="20200513140000 +0200" stop="20200513150000 +0200" channel="OndaCadiz.TV">
     <title lang="es">El palenque</title>
     <icon src="http://tv.ocadizdigital.es/sites/default/files/styles/ancho-350/public/imagenes_programas/http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png" />
@@ -3589,6 +3961,86 @@
     <title lang="es">Vozpopuli-Redifusión</title>
     <desc lang="es">Redifusión de la tertulia de actualidad .</desc>
     <icon src="https://www.canalcostatv.es/wp-content/uploads/2016/10/vozpopuli-300x169.jpg" />
+  </programme>
+  <programme start="20200513143000 +0200" stop="20200513151000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Informativo-Directo</title>
+    <desc lang="es">La actualidad de la jornada en nuestros servicios informativos.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/11/Informativo2-300x170.jpg" />
+  </programme>
+  <programme start="20200513151000 +0200" stop="20200513164000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Especial Reportajes</title>
+    <desc lang="es">Los eventos, reportajes y galas más destacadas de la costa.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/01/cabecera-reportajes.jpg" />
+  </programme>
+  <programme start="20200513164000 +0200" stop="20200513181000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Especial Reportajes</title>
+    <desc lang="es">Los eventos, reportajes y galas más destacadas de la costa.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/01/cabecera-reportajes.jpg" />
+  </programme>
+  <programme start="20200513181000 +0200" stop="20200513203000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Especial Reportajes</title>
+    <desc lang="es">Los eventos, reportajes y galas más destacadas de la costa.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/01/cabecera-reportajes.jpg" />
+  </programme>
+  <programme start="20200513203000 +0200" stop="20200513211000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Informativo-Redifusión</title>
+    <desc lang="es">La actualidad de la jornada en nuestros servicios informativos.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/11/Informativo2-300x170.jpg" />
+  </programme>
+  <programme start="20200513211000 +0200" stop="20200513212000 +0200" channel="CanalCosta.TV">
+    <title lang="es">El Tiempo</title>
+    <desc lang="es">La previsión de la previsión meteorológica de la provincia.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2019/09/CARTON-EL-TIEMPO-FATI-2019-20-1-230x150.jpg" />
+  </programme>
+  <programme start="20200513212000 +0200" stop="20200513230000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Vivencias Romeras</title>
+    <desc lang="es">Hablamos sobre las romerías de nuestra provincia.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2020/04/9d67018f-5de9-41d4-a3bf-9bdbbc2897d3-1-300x200.jpg" />
+  </programme>
+  <programme start="20200513230000 +0200" stop="20200513233000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Somos Turismo</title>
+    <desc lang="es">Redifusión de nuestro programa de ISlantilla, Lepe e Isla Cristina.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2018/04/somos-turismo-ok-300x158.jpg" />
+  </programme>
+  <programme start="20200513233000 +0200" stop="20200514000000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Informativo-Redifusión</title>
+    <desc lang="es">La actualidad de la jornada en nuestros servicios informativos.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/11/Informativo2-300x170.jpg" />
+  </programme>
+  <programme start="20200514000000 +0200" stop="20200514001000 +0200" channel="CanalCosta.TV">
+    <title lang="es">El Tiempo</title>
+    <desc lang="es">La previsión de la previsión meteorológica de la provincia.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2019/09/CARTON-EL-TIEMPO-FATI-2019-20-1-230x150.jpg" />
+  </programme>
+  <programme start="20200514001000 +0200" stop="20200514090000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Redifusión</title>
+    <desc lang="es">Redifusión de los porgramas más destacados de la jornada.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/01/logo-canalcosta-tv.jpg" />
+  </programme>
+  <programme start="20200514090000 +0200" stop="20200514094000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Informativo-Redifusión</title>
+    <desc lang="es">La actualidad de la jornada en nuestros servicios informativos.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/11/Informativo2-300x170.jpg" />
+  </programme>
+  <programme start="20200514094000 +0200" stop="20200514095000 +0200" channel="CanalCosta.TV">
+    <title lang="es">El Tiempo</title>
+    <desc lang="es">La previsión de la previsión meteorológica de la provincia.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2019/09/CARTON-EL-TIEMPO-FATI-2019-20-1-230x150.jpg" />
+  </programme>
+  <programme start="20200514095000 +0200" stop="20200514112000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Especial Reportajes</title>
+    <desc lang="es">Los eventos, reportajes y galas más destacadas de la costa.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/01/cabecera-reportajes.jpg" />
+  </programme>
+  <programme start="20200514112000 +0200" stop="20200514130000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Especial Reportajes</title>
+    <desc lang="es">Los eventos, reportajes y galas más destacadas de la costa.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/01/cabecera-reportajes.jpg" />
+  </programme>
+  <programme start="20200514130000 +0200" stop="20200514143000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Vivencias Romeras</title>
+    <desc lang="es">Hablamos sobre las romerías de nuestra provincia.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2020/04/9d67018f-5de9-41d4-a3bf-9bdbbc2897d3-1-300x200.jpg" />
   </programme>
   <programme start="20200513090000 +0200" stop="20200513100000 +0200" channel="Condavision.TV">
     <title lang="es">Informativos</title>
@@ -4104,7 +4556,7 @@ Cada fin de semana, de viernes a domingo, decenas de premios increíbles que ll
   </programme>
   <programme start="20200513090000 +0200" stop="20200513093000 +0200" channel="Benavente.TV">
     <title lang="es">NOTICIAS Benavente Hoy</title>
-    <desc lang="es">NOTICIAS BENAVENTE HOY: 
+    <desc lang="es">TICIAS BENAVENTE HOY: 
 El programa informativo para encontrarse con las noticias de actualidad, utilidad y todo aquello que afecte o beneficie explicado en términos sencillos de la mano de profesionales.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2013/03/wp_logo.jpg" />
   </programme>
@@ -4114,48 +4566,47 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
   </programme>
   <programme start="20200513133000 +0200" stop="20200513140000 +0200" channel="Benavente.TV">
     <title lang="es">Cocina Familiar</title>
-    <desc lang="es">Recetas de cocina fáciles y accesibles con el chef Javier Romero.</desc>
+    <desc lang="es">cetas de cocina fáciles y accesibles con el chef Javier Romero.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2018/08/cocina-familiar.jpg" />
   </programme>
   <programme start="20200513140000 +0200" stop="20200513143000 +0200" channel="Benavente.TV">
     <title lang="es">Documental</title>
-    <desc lang="es">Documentales etnográficos más importantes de nuestro país sobre la cultura tradicional de España (oficios, fiestas, rituales). Todo ello producido, dirigido y realizado por Eugenio Monesma.</desc>
+    <desc lang="es">cumentales etnográficos más importantes de nuestro país sobre la cultura tradicional de España (oficios, fiestas, rituales). Todo ello producido, dirigido y realizado por Eugenio Monesma.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2018/04/DOCUMENTALES.jpg" />
   </programme>
   <programme start="20200513143000 +0200" stop="20200513150000 +0200" channel="Benavente.TV">
     <title lang="es">NOTICIAS Benavente Hoy</title>
-    <desc lang="es">NOTICIAS BENAVENTE HOY: 
+    <desc lang="es">TICIAS BENAVENTE HOY: 
 El programa informativo para encontrarse con las noticias de actualidad, utilidad y todo aquello que afecte o beneficie explicado en términos sencillos de la mano de profesionales.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2013/03/wp_logo.jpg" />
   </programme>
   <programme start="20200513150000 +0200" stop="20200513153000 +0200" channel="Benavente.TV">
     <title lang="es">I Love España</title>
-    <desc lang="es">Un País impresionante por descubrir. 
+    <desc lang="es">País impresionante por descubrir. 
 Enamórate de sus paisajes, tradiciones, costumbres y sabores de los extraordinarios lugares que conforman España. 
 Programa de 25 minutos con reportajes, sugerencias y sensaciones de los lugares más bellos de nuestro país.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2015/08/I-LOVE-ESPAÑA.jpg" />
   </programme>
   <programme start="20200513153000 +0200" stop="20200513160000 +0200" channel="Benavente.TV">
     <title lang="es">Documental</title>
-    <desc lang="es">TRADICIONES Y COSTUMBRES: Los documentales con más premios y reconocimientos de la televisión. Líderes en todas sus emisiones.</desc>
+    <desc lang="es">ADICIONES Y COSTUMBRES: Los documentales con más premios y reconocimientos de la televisión. Líderes en todas sus emisiones.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2015/08/DOCUMENTALES-TRADICIONES-Y-COSTUMBRES.jpg" />
   </programme>
   <programme start="20200513160000 +0200" stop="20200513163000 +0200" channel="Benavente.TV">
     <title lang="es">NOTICIAS Benavente Hoy</title>
-    <desc lang="es">NOTICIAS BENAVENTE HOY: 
+    <desc lang="es">TICIAS BENAVENTE HOY: 
 El programa informativo para encontrarse con las noticias de actualidad, utilidad y todo aquello que afecte o beneficie explicado en términos sencillos de la mano de profesionales.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2013/03/wp_logo.jpg" />
   </programme>
   <programme start="20200513163000 +0200" stop="20200513183000 +0200" channel="Benavente.TV">
     <title lang="es">Cine Western</title>
-    <desc lang="es">El Western es uno de los géneros más populares del cine durante el siglo XX.
-
+    <desc lang="es">Western es uno de los géneros más populares del cine durante el siglo XX.
 Buena parte de las películas más taquilleras de Hollywood se deben a las películas del Oeste y películas de vaqueros.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2019/07/Cine-Western.jpg" />
   </programme>
   <programme start="20200513183000 +0200" stop="20200513190000 +0200" channel="Benavente.TV">
     <title lang="es">Documental</title>
-    <desc lang="es">Documentales etnográficos sobre los oficios más antiguos de España, muchos de ellos ya perdidos. Producción y dirección Eugenio Monesma.</desc>
+    <desc lang="es">cumentales etnográficos sobre los oficios más antiguos de España, muchos de ellos ya perdidos. Producción y dirección Eugenio Monesma.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2015/08/TIERRA-DE-OFICIOS.jpg" />
   </programme>
   <programme start="20200513190000 +0200" stop="20200513200000 +0200" channel="Benavente.TV">
@@ -4164,47 +4615,47 @@ Buena parte de las películas más taquilleras de Hollywood se deben a las pelí
   </programme>
   <programme start="20200513200000 +0200" stop="20200513203000 +0200" channel="Benavente.TV">
     <title lang="es">Informatic</title>
-    <desc lang="es">El mundo de la informática al alcance de todos. 
+    <desc lang="es">mundo de la informática al alcance de todos. 
 Un manual de usuario con todo lo que debes saber para conocer el mundo de los programas, los consejos más prácticos, los juegos más novedosos, los trucos, las novedades del mercado, las webs locales más interesantes… 
 Presentado por Javi Argote e Ibai Sánchez.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2015/08/INFORMATIC-1.jpg" />
   </programme>
   <programme start="20200513203000 +0200" stop="20200513210000 +0200" channel="Benavente.TV">
     <title lang="es">Documental</title>
-    <desc lang="es">TRADICIONES Y COSTUMBRES: Los documentales con más premios y reconocimientos de la televisión. Líderes en todas sus emisiones.</desc>
+    <desc lang="es">ADICIONES Y COSTUMBRES: Los documentales con más premios y reconocimientos de la televisión. Líderes en todas sus emisiones.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2013/03/wp_logo.jpg" />
   </programme>
   <programme start="20200513210000 +0200" stop="20200513213000 +0200" channel="Benavente.TV">
     <title lang="es">NOTICIAS Benavente Hoy</title>
-    <desc lang="es">NOTICIAS BENAVENTE HOY: 
+    <desc lang="es">TICIAS BENAVENTE HOY: 
 El programa informativo para encontrarse con las noticias de actualidad, utilidad y todo aquello que afecte o beneficie explicado en términos sencillos de la mano de profesionales.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2013/03/wp_logo.jpg" />
   </programme>
   <programme start="20200513213000 +0200" stop="20200513220000 +0200" channel="Benavente.TV">
     <title lang="es">Documental</title>
-    <desc lang="es">Documentales etnográficos más importantes de nuestro país sobre la cultura tradicional de España (oficios, fiestas, rituales). 
+    <desc lang="es">cumentales etnográficos más importantes de nuestro país sobre la cultura tradicional de España (oficios, fiestas, rituales). 
 Todo ello producido, dirigido y realizado por Eugenio Monesma.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2019/07/documental-ritos-y-leyendas.jpg" />
   </programme>
   <programme start="20200513220000 +0200" stop="20200513230000 +0200" channel="Benavente.TV">
     <title lang="es">Grandes con Jenny Llada</title>
-    <desc lang="es">Un programa de entrevistas presentado por la vedette y actriz española, Jenny Llada, donde conversa con diversos invitados de lujo y personalidades de amplia trayectoria artística.</desc>
+    <desc lang="es">programa de entrevistas presentado por la vedette y actriz española, Jenny Llada, donde conversa con diversos invitados de lujo y personalidades de amplia trayectoria artística.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2019/09/Grandes-con-Jenny-LLada.jpg" />
   </programme>
   <programme start="20200513230000 +0200" stop="20200513233000 +0200" channel="Benavente.TV">
     <title lang="es">Documental</title>
-    <desc lang="es">TRADICIONES Y COSTUMBRES: Los documentales con más premios y reconocimientos de la televisión. Líderes en todas sus emisiones.</desc>
+    <desc lang="es">ADICIONES Y COSTUMBRES: Los documentales con más premios y reconocimientos de la televisión. Líderes en todas sus emisiones.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2013/03/wp_logo.jpg" />
   </programme>
   <programme start="20200513233000 +0200" stop="20200514000000 +0200" channel="Benavente.TV">
     <title lang="es">NOTICIAS Benavente Hoy</title>
-    <desc lang="es">NOTICIAS BENAVENTE HOY: 
+    <desc lang="es">TICIAS BENAVENTE HOY: 
 El programa informativo para encontrarse con las noticias de actualidad, utilidad y todo aquello que afecte o beneficie explicado en términos sencillos de la mano de profesionales.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2013/03/wp_logo.jpg" />
   </programme>
   <programme start="20200514000000 +0200" stop="20200514003000 +0200" channel="Benavente.TV">
     <title lang="es">Silencio, Grabando</title>
-    <desc lang="es">¿Cómo se hacen las películas?</desc>
+    <desc lang="es">ómo se hacen las películas?</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2015/08/SILENCIO-GRABANDO-TVBENAVENTE.jpg" />
   </programme>
   <programme start="20200514003000 +0200" stop="20200514020000 +0200" channel="Benavente.TV">
@@ -4213,7 +4664,7 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
   </programme>
   <programme start="20200514090000 +0200" stop="20200514093000 +0200" channel="Benavente.TV">
     <title lang="es">NOTICIAS Benavente Hoy</title>
-    <desc lang="es">NOTICIAS BENAVENTE HOY: 
+    <desc lang="es">TICIAS BENAVENTE HOY: 
 El programa informativo para encontrarse con las noticias de actualidad, utilidad y todo aquello que afecte o beneficie explicado en términos sencillos de la mano de profesionales.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2013/03/wp_logo.jpg" />
   </programme>
@@ -4223,46 +4674,45 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
   </programme>
   <programme start="20200514133000 +0200" stop="20200514140000 +0200" channel="Benavente.TV">
     <title lang="es">Cocina Familiar</title>
-    <desc lang="es">Recetas de cocina fáciles y accesibles con el chef Javier Romero.</desc>
+    <desc lang="es">cetas de cocina fáciles y accesibles con el chef Javier Romero.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2018/08/cocina-familiar.jpg" />
   </programme>
   <programme start="20200514140000 +0200" stop="20200514143000 +0200" channel="Benavente.TV">
     <title lang="es">Documental</title>
-    <desc lang="es">Documentales etnográficos más importantes de nuestro país sobre la cultura tradicional de España (oficios, fiestas, rituales). Todo ello producido, dirigido y realizado por Eugenio Monesma.</desc>
+    <desc lang="es">cumentales etnográficos más importantes de nuestro país sobre la cultura tradicional de España (oficios, fiestas, rituales). Todo ello producido, dirigido y realizado por Eugenio Monesma.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2018/04/DOCUMENTALES.jpg" />
   </programme>
   <programme start="20200514143000 +0200" stop="20200514150000 +0200" channel="Benavente.TV">
     <title lang="es">NOTICIAS Benavente Hoy</title>
-    <desc lang="es">NOTICIAS BENAVENTE HOY: 
+    <desc lang="es">TICIAS BENAVENTE HOY: 
 El programa informativo para encontrarse con las noticias de actualidad, utilidad y todo aquello que afecte o beneficie explicado en términos sencillos de la mano de profesionales.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2013/03/wp_logo.jpg" />
   </programme>
   <programme start="20200514150000 +0200" stop="20200514153000 +0200" channel="Benavente.TV">
     <title lang="es">Cambio de Rasante</title>
-    <desc lang="es">Espacio dedicado al mundo del motor. Consejos, novedades, competición y mucho más en este referente para los amantes del asfalto.</desc>
+    <desc lang="es">pacio dedicado al mundo del motor. Consejos, novedades, competición y mucho más en este referente para los amantes del asfalto.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2015/08/CAMBIO-DE-RASANTE.jpg" />
   </programme>
   <programme start="20200514153000 +0200" stop="20200514160000 +0200" channel="Benavente.TV">
     <title lang="es">Documental</title>
-    <desc lang="es">TRADICIONES Y COSTUMBRES: Los documentales con más premios y reconocimientos de la televisión. Líderes en todas sus emisiones.</desc>
+    <desc lang="es">ADICIONES Y COSTUMBRES: Los documentales con más premios y reconocimientos de la televisión. Líderes en todas sus emisiones.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2015/08/DOCUMENTALES-TRADICIONES-Y-COSTUMBRES.jpg" />
   </programme>
   <programme start="20200514160000 +0200" stop="20200514163000 +0200" channel="Benavente.TV">
     <title lang="es">NOTICIAS Benavente Hoy</title>
-    <desc lang="es">NOTICIAS BENAVENTE HOY: 
+    <desc lang="es">TICIAS BENAVENTE HOY: 
 El programa informativo para encontrarse con las noticias de actualidad, utilidad y todo aquello que afecte o beneficie explicado en términos sencillos de la mano de profesionales.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2013/03/wp_logo.jpg" />
   </programme>
   <programme start="20200514163000 +0200" stop="20200514183000 +0200" channel="Benavente.TV">
     <title lang="es">Cine Western</title>
-    <desc lang="es">El Western es uno de los géneros más populares del cine durante el siglo XX.
-
+    <desc lang="es">Western es uno de los géneros más populares del cine durante el siglo XX.
 Buena parte de las películas más taquilleras de Hollywood se deben a las películas del Oeste y películas de vaqueros.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2019/07/Cine-Western.jpg" />
   </programme>
   <programme start="20200514183000 +0200" stop="20200514190000 +0200" channel="Benavente.TV">
     <title lang="es">Documental</title>
-    <desc lang="es">Documentales etnográficos sobre los oficios más antiguos de España, muchos de ellos ya perdidos. Producción y dirección Eugenio Monesma.</desc>
+    <desc lang="es">cumentales etnográficos sobre los oficios más antiguos de España, muchos de ellos ya perdidos. Producción y dirección Eugenio Monesma.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2015/08/TIERRA-DE-OFICIOS.jpg" />
   </programme>
   <programme start="20200514190000 +0200" stop="20200514200000 +0200" channel="Benavente.TV">
@@ -4271,47 +4721,47 @@ Buena parte de las películas más taquilleras de Hollywood se deben a las pelí
   </programme>
   <programme start="20200514200000 +0200" stop="20200514203000 +0200" channel="Benavente.TV">
     <title lang="es">El Acomodador</title>
-    <desc lang="es">Todos los estrenos cinematográficos de la semana en el Acomodador. 
+    <desc lang="es">dos los estrenos cinematográficos de la semana en el Acomodador. 
 Mauricio López dirige este programa, con la información que te interesa, para que no te pierdas nada sobre las películas que llegan a la cartelera. 
 Entrevistas, rodajes, tráilers, avances,… todo el cine en el salón de tu casa.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2019/07/el-acomodador.jpg" />
   </programme>
   <programme start="20200514203000 +0200" stop="20200514210000 +0200" channel="Benavente.TV">
     <title lang="es">Documental</title>
-    <desc lang="es">TRADICIONES Y COSTUMBRES: Los documentales con más premios y reconocimientos de la televisión. Líderes en todas sus emisiones.</desc>
+    <desc lang="es">ADICIONES Y COSTUMBRES: Los documentales con más premios y reconocimientos de la televisión. Líderes en todas sus emisiones.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2013/03/wp_logo.jpg" />
   </programme>
   <programme start="20200514210000 +0200" stop="20200514213000 +0200" channel="Benavente.TV">
     <title lang="es">NOTICIAS Benavente Hoy</title>
-    <desc lang="es">NOTICIAS BENAVENTE HOY: 
+    <desc lang="es">TICIAS BENAVENTE HOY: 
 El programa informativo para encontrarse con las noticias de actualidad, utilidad y todo aquello que afecte o beneficie explicado en términos sencillos de la mano de profesionales.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2013/03/wp_logo.jpg" />
   </programme>
   <programme start="20200514213000 +0200" stop="20200514220000 +0200" channel="Benavente.TV">
     <title lang="es">Documental</title>
-    <desc lang="es">Documentales etnográficos más importantes de nuestro país sobre la cultura tradicional de España (oficios, fiestas, rituales). 
+    <desc lang="es">cumentales etnográficos más importantes de nuestro país sobre la cultura tradicional de España (oficios, fiestas, rituales). 
 Todo ello producido, dirigido y realizado por Eugenio Monesma.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2019/07/documental-ritos-y-leyendas.jpg" />
   </programme>
   <programme start="20200514220000 +0200" stop="20200514230000 +0200" channel="Benavente.TV">
     <title lang="es">La Salud en tus Manos</title>
-    <desc lang="es">El programa se realiza en plató y es tipo tertulia donde, además de especialistas, participan personas que han padecido o tienen la enfermedad en cuestión.</desc>
+    <desc lang="es">programa se realiza en plató y es tipo tertulia donde, además de especialistas, participan personas que han padecido o tienen la enfermedad en cuestión.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2019/10/la-salud-en-tus-manos.jpg" />
   </programme>
   <programme start="20200514230000 +0200" stop="20200514233000 +0200" channel="Benavente.TV">
     <title lang="es">Documental</title>
-    <desc lang="es">TRADICIONES Y COSTUMBRES: Los documentales con más premios y reconocimientos de la televisión. Líderes en todas sus emisiones.</desc>
+    <desc lang="es">ADICIONES Y COSTUMBRES: Los documentales con más premios y reconocimientos de la televisión. Líderes en todas sus emisiones.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2013/03/wp_logo.jpg" />
   </programme>
   <programme start="20200514233000 +0200" stop="20200515000000 +0200" channel="Benavente.TV">
     <title lang="es">NOTICIAS Benavente Hoy</title>
-    <desc lang="es">NOTICIAS BENAVENTE HOY: 
+    <desc lang="es">TICIAS BENAVENTE HOY: 
 El programa informativo para encontrarse con las noticias de actualidad, utilidad y todo aquello que afecte o beneficie explicado en términos sencillos de la mano de profesionales.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2013/03/wp_logo.jpg" />
   </programme>
   <programme start="20200515000000 +0200" stop="20200515003000 +0200" channel="Benavente.TV">
     <title lang="es">Pitlane</title>
-    <desc lang="es">Mucho mas que un programa de motor.</desc>
+    <desc lang="es">cho mas que un programa de motor.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2015/08/PITLANE.jpg" />
   </programme>
   <programme start="20200515003000 +0200" stop="20200515020000 +0200" channel="Benavente.TV">
@@ -4320,7 +4770,7 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
   </programme>
   <programme start="20200515090000 +0200" stop="20200515093000 +0200" channel="Benavente.TV">
     <title lang="es">NOTICIAS Benavente Hoy</title>
-    <desc lang="es">NOTICIAS BENAVENTE HOY: 
+    <desc lang="es">TICIAS BENAVENTE HOY: 
 El programa informativo para encontrarse con las noticias de actualidad, utilidad y todo aquello que afecte o beneficie explicado en términos sencillos de la mano de profesionales.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2013/03/wp_logo.jpg" />
   </programme>
@@ -4330,46 +4780,45 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
   </programme>
   <programme start="20200515133000 +0200" stop="20200515140000 +0200" channel="Benavente.TV">
     <title lang="es">Cocina Familiar</title>
-    <desc lang="es">Recetas de cocina fáciles y accesibles con el chef Javier Romero.</desc>
+    <desc lang="es">cetas de cocina fáciles y accesibles con el chef Javier Romero.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2018/08/cocina-familiar.jpg" />
   </programme>
   <programme start="20200515140000 +0200" stop="20200515143000 +0200" channel="Benavente.TV">
     <title lang="es">Documental</title>
-    <desc lang="es">Documentales etnográficos más importantes de nuestro país sobre la cultura tradicional de España (oficios, fiestas, rituales). Todo ello producido, dirigido y realizado por Eugenio Monesma.</desc>
+    <desc lang="es">cumentales etnográficos más importantes de nuestro país sobre la cultura tradicional de España (oficios, fiestas, rituales). Todo ello producido, dirigido y realizado por Eugenio Monesma.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2018/04/DOCUMENTALES.jpg" />
   </programme>
   <programme start="20200515143000 +0200" stop="20200515150000 +0200" channel="Benavente.TV">
     <title lang="es">NOTICIAS Benavente Hoy</title>
-    <desc lang="es">NOTICIAS BENAVENTE HOY: 
+    <desc lang="es">TICIAS BENAVENTE HOY: 
 El programa informativo para encontrarse con las noticias de actualidad, utilidad y todo aquello que afecte o beneficie explicado en términos sencillos de la mano de profesionales.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2013/03/wp_logo.jpg" />
   </programme>
   <programme start="20200515150000 +0200" stop="20200515153000 +0200" channel="Benavente.TV">
     <title lang="es">Parada y Fonda</title>
-    <desc lang="es">Programa relacionado con el mundo del turismo donde Gloria Pajuelo recorre la península, enseñandote lugares increibles.</desc>
+    <desc lang="es">ograma relacionado con el mundo del turismo donde Gloria Pajuelo recorre la península, enseñandote lugares increibles.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2015/08/PARADA-Y-FONDA-TVBENAVENTE.jpg" />
   </programme>
   <programme start="20200515153000 +0200" stop="20200515160000 +0200" channel="Benavente.TV">
     <title lang="es">Documental</title>
-    <desc lang="es">TRADICIONES Y COSTUMBRES: Los documentales con más premios y reconocimientos de la televisión. Líderes en todas sus emisiones.</desc>
+    <desc lang="es">ADICIONES Y COSTUMBRES: Los documentales con más premios y reconocimientos de la televisión. Líderes en todas sus emisiones.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2015/08/DOCUMENTALES-TRADICIONES-Y-COSTUMBRES.jpg" />
   </programme>
   <programme start="20200515160000 +0200" stop="20200515163000 +0200" channel="Benavente.TV">
     <title lang="es">NOTICIAS Benavente Hoy</title>
-    <desc lang="es">NOTICIAS BENAVENTE HOY: 
+    <desc lang="es">TICIAS BENAVENTE HOY: 
 El programa informativo para encontrarse con las noticias de actualidad, utilidad y todo aquello que afecte o beneficie explicado en términos sencillos de la mano de profesionales.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2013/03/wp_logo.jpg" />
   </programme>
   <programme start="20200515163000 +0200" stop="20200515183000 +0200" channel="Benavente.TV">
     <title lang="es">Cine Western</title>
-    <desc lang="es">El Western es uno de los géneros más populares del cine durante el siglo XX.
-
+    <desc lang="es">Western es uno de los géneros más populares del cine durante el siglo XX.
 Buena parte de las películas más taquilleras de Hollywood se deben a las películas del Oeste y películas de vaqueros.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2019/07/Cine-Western.jpg" />
   </programme>
   <programme start="20200515183000 +0200" stop="20200515190000 +0200" channel="Benavente.TV">
     <title lang="es">Documental</title>
-    <desc lang="es">Documentales etnográficos sobre los oficios más antiguos de España, muchos de ellos ya perdidos. Producción y dirección Eugenio Monesma.</desc>
+    <desc lang="es">cumentales etnográficos sobre los oficios más antiguos de España, muchos de ellos ya perdidos. Producción y dirección Eugenio Monesma.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2015/08/TIERRA-DE-OFICIOS.jpg" />
   </programme>
   <programme start="20200515190000 +0200" stop="20200515200000 +0200" channel="Benavente.TV">
@@ -4378,39 +4827,39 @@ Buena parte de las películas más taquilleras de Hollywood se deben a las pelí
   </programme>
   <programme start="20200515200000 +0200" stop="20200515203000 +0200" channel="Benavente.TV">
     <title lang="es">Por Derecho</title>
-    <desc lang="es">Abordamos los asuntos jurídicos más actuales y los tratamos de manera coloquial, comprensible para todos. Lino Ramos, con el asesoramiento legal de Óscar Calvo nos traen ‘Por Derecho’.</desc>
+    <desc lang="es">ordamos los asuntos jurídicos más actuales y los tratamos de manera coloquial, comprensible para todos. Lino Ramos, con el asesoramiento legal de Óscar Calvo nos traen ‘Por Derecho’.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2018/04/POR-DERECHO.jpg" />
   </programme>
   <programme start="20200515203000 +0200" stop="20200515210000 +0200" channel="Benavente.TV">
     <title lang="es">Documental</title>
-    <desc lang="es">TRADICIONES Y COSTUMBRES: Los documentales con más premios y reconocimientos de la televisión. Líderes en todas sus emisiones.</desc>
+    <desc lang="es">ADICIONES Y COSTUMBRES: Los documentales con más premios y reconocimientos de la televisión. Líderes en todas sus emisiones.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2013/03/wp_logo.jpg" />
   </programme>
   <programme start="20200515210000 +0200" stop="20200515213000 +0200" channel="Benavente.TV">
     <title lang="es">NOTICIAS Benavente Hoy</title>
-    <desc lang="es">NOTICIAS BENAVENTE HOY: 
+    <desc lang="es">TICIAS BENAVENTE HOY: 
 El programa informativo para encontrarse con las noticias de actualidad, utilidad y todo aquello que afecte o beneficie explicado en términos sencillos de la mano de profesionales.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2013/03/wp_logo.jpg" />
   </programme>
   <programme start="20200515213000 +0200" stop="20200515220000 +0200" channel="Benavente.TV">
     <title lang="es">Documental</title>
-    <desc lang="es">Documentales etnográficos más importantes de nuestro país sobre la cultura tradicional de España (oficios, fiestas, rituales). 
+    <desc lang="es">cumentales etnográficos más importantes de nuestro país sobre la cultura tradicional de España (oficios, fiestas, rituales). 
 Todo ello producido, dirigido y realizado por Eugenio Monesma.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2019/07/documental-ritos-y-leyendas.jpg" />
   </programme>
   <programme start="20200515220000 +0200" stop="20200515230000 +0200" channel="Benavente.TV">
     <title lang="es">7 Toros 7</title>
-    <desc lang="es">Todas las semanas, de la mano del periodista Víctor García-Rayo visitamos el campo bravo, el hábitat natural del toro de lidia y nos adentramos en los secretos de las faenas que se llevan a cabo en las fincas y dehesas. El programa “7toros7” se acerca además a la actualidad del maravilloso mundo del toro con noticias, entrevistas y reportajes.</desc>
+    <desc lang="es">das las semanas, de la mano del periodista Víctor García-Rayo visitamos el campo bravo, el hábitat natural del toro de lidia y nos adentramos en los secretos de las faenas que se llevan a cabo en las fincas y dehesas. El programa “7toros7” se acerca además a la actualidad del maravilloso mundo del toro con noticias, entrevistas y reportajes.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2019/07/7-toros-7.png" />
   </programme>
   <programme start="20200515230000 +0200" stop="20200515233000 +0200" channel="Benavente.TV">
     <title lang="es">Documental</title>
-    <desc lang="es">TRADICIONES Y COSTUMBRES: Los documentales con más premios y reconocimientos de la televisión. Líderes en todas sus emisiones.</desc>
+    <desc lang="es">ADICIONES Y COSTUMBRES: Los documentales con más premios y reconocimientos de la televisión. Líderes en todas sus emisiones.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2013/03/wp_logo.jpg" />
   </programme>
   <programme start="20200515233000 +0200" stop="20200516000000 +0200" channel="Benavente.TV">
     <title lang="es">NOTICIAS Benavente Hoy</title>
-    <desc lang="es">NOTICIAS BENAVENTE HOY: 
+    <desc lang="es">TICIAS BENAVENTE HOY: 
 El programa informativo para encontrarse con las noticias de actualidad, utilidad y todo aquello que afecte o beneficie explicado en términos sencillos de la mano de profesionales.</desc>
     <icon src="https://www.tvbenavente.es/wp-content/uploads/2013/03/wp_logo.jpg" />
   </programme>
@@ -5094,71 +5543,273 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
     <desc lang="es">L'espai d'entreteniment de Canal Terres de l'Ebre, amb reportatges, música, i els vídeos on tu ets el protagonista.</desc>
     <icon src="//images-docs-opensocial.googleusercontent.com/gadgets/proxy?url=http://drive.ebredigital.cat/Logos-programes-graella/CANAL-TE.jpg&amp;amp;container=docs&amp;amp;gadget=docs&amp;amp;rewriteMime=image/*&amp;amp;resize_h=107&amp;amp;resize_w=143&amp;amp;no_expand=1" />
   </programme>
-  <programme start="20200513100000 +0200" stop="20200513103000 +0200" channel="MelillaTV.TV">
-    <title lang="es">Aprende con Nosotros - Educación Infantil</title>
-    <icon src="https://www.inmusa.es/wp-content/uploads/2018/02/inmusa-tvm-1.png" />
+  <programme start="20200513073000 +0200" stop="20200513083000 +0200" channel="TVR.TV">
+    <title lang="es">Dibujos animados</title>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=223" />
   </programme>
-  <programme start="20200513103000 +0200" stop="20200513110000 +0200" channel="MelillaTV.TV">
-    <title lang="es">Aprende con Nosotros - Educación Primaria</title>
-    <icon src="https://www.inmusa.es/wp-content/uploads/2018/02/inmusa-tvm-1.png" />
+  <programme start="20200513083000 +0200" stop="20200513090000 +0200" channel="TVR.TV">
+    <title lang="es">De un vistazo</title>
+    <desc lang="es">Breve resumen de las noticias más destacadas del día anterior.</desc>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=141" />
   </programme>
-  <programme start="20200513110000 +0200" stop="20200513111500 +0200" channel="MelillaTV.TV">
-    <title lang="es">Contador de Historias</title>
-    <icon src="https://www.inmusa.es/wp-content/uploads/2018/02/inmusa-tvm-1.png" />
+  <programme start="20200513090000 +0200" stop="20200513093000 +0200" channel="TVR.TV">
+    <title lang="es">#EntrenaEnCasa</title>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=398" />
   </programme>
-  <programme start="20200513111500 +0200" stop="20200513120000 +0200" channel="MelillaTV.TV">
-    <title lang="es">Sabrina Moh</title>
-    <desc lang="es">Rueda de Prensa (Directo).</desc>
-    <icon src="https://www.inmusa.es/wp-content/uploads/2018/02/inmusa-tvm-1.png" />
+  <programme start="20200513093000 +0200" stop="20200513123000 +0200" channel="TVR.TV">
+    <title lang="es">Espacios Comerciales</title>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=171" />
   </programme>
-  <programme start="20200513120000 +0200" stop="20200513124500 +0200" channel="MelillaTV.TV">
-    <title lang="es">Dunia Almasouri</title>
-    <desc lang="es">Rueda de Prensa (Directo).</desc>
-    <icon src="https://www.inmusa.es/wp-content/uploads/2018/02/inmusa-tvm-1.png" />
+  <programme start="20200513123000 +0200" stop="20200513130000 +0200" channel="TVR.TV">
+    <title lang="es">La cocina del Garabato</title>
+    <desc lang="es">Programa de cocina, con recetas sorprendentes.</desc>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=349" />
   </programme>
-  <programme start="20200513124500 +0200" stop="20200513132000 +0200" channel="MelillaTV.TV">
-    <title lang="es">Lugares que habitan los Reyes</title>
-    <desc lang="es">El Mundo con Ella.</desc>
-    <icon src="https://www.inmusa.es/wp-content/uploads/2018/02/inmusa-tvm-1.png" />
+  <programme start="20200513130000 +0200" stop="20200513140000 +0200" channel="TVR.TV">
+    <title lang="es">La Rioja Directo</title>
+    <desc lang="es">Programa de actualidad con entrevistas, conexiones en directo y reportajes que recorren nuestra Comunidad Autónoma.</desc>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=367" />
   </programme>
-  <programme start="20200513132000 +0200" stop="20200513133000 +0200" channel="MelillaTV.TV">
-    <title lang="es">Informativo Amazige</title>
-    <icon src="https://www.inmusa.es/wp-content/uploads/2018/02/inmusa-tvm-1.png" />
+  <programme start="20200513140000 +0200" stop="20200513143000 +0200" channel="TVR.TV">
+    <title lang="es">La Rioja Directo</title>
+    <desc lang="es">#SalimosJuntos Especial Pueblos Salimos juntos Redifusión.</desc>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=367" />
   </programme>
-  <programme start="20200513133000 +0200" stop="20200513140000 +0200" channel="MelillaTV.TV">
-    <title lang="es">Museos con Ñ</title>
-    <desc lang="es">Tercio Gran Capitán (II).</desc>
-    <icon src="https://www.inmusa.es/wp-content/uploads/2019/03/Museos_con_%C3%B1-1024x368.jpg" />
+  <programme start="20200513143000 +0200" stop="20200513150000 +0200" channel="TVR.TV">
+    <title lang="es">Informativos TVR: I Edición</title>
+    <desc lang="es">Sucesos, política, sociedad, economía; TVR toma el pulso de la actualidad riojana.</desc>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=1" />
   </programme>
-  <programme start="20200513140000 +0200" stop="20200513143000 +0200" channel="MelillaTV.TV">
-    <title lang="es">Hogar ¿Dulce Hogar?</title>
-    <icon src="https://www.inmusa.es/wp-content/uploads/2018/02/inmusa-tvm-1.png" />
+  <programme start="20200513150000 +0200" stop="20200513163000 +0200" channel="TVR.TV">
+    <title lang="es">La Rioja Directo</title>
+    <desc lang="es">Programa de actualidad con entrevistas, conexiones en directo y reportajes que recorren nuestra Comunidad Autónoma Redifusión.</desc>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=367" />
   </programme>
-  <programme start="20200513143000 +0200" stop="20200513153000 +0200" channel="MelillaTV.TV">
-    <title lang="es">La Casa de los Héroes</title>
-    <icon src="https://www.inmusa.es/wp-content/uploads/2018/02/inmusa-tvm-1.png" />
+  <programme start="20200513163000 +0200" stop="20200513170000 +0200" channel="TVR.TV">
+    <title lang="es">Informativos TVR: I Edición</title>
+    <desc lang="es">Sucesos, política, sociedad, economía; TVR toma el pulso de la actualidad riojana Redifusión.</desc>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=1" />
   </programme>
-  <programme start="20200513153000 +0200" stop="20200513160000 +0200" channel="MelillaTV.TV">
-    <title lang="es">Melilla Sostenible</title>
-    <desc lang="es">Anillamiento de Aves.</desc>
-    <icon src="https://www.inmusa.es/wp-content/uploads/2019/03/Melilla_sostenible-1024x368.jpg" />
+  <programme start="20200513170000 +0200" stop="20200513180000 +0200" channel="TVR.TV">
+    <title lang="es">Serie</title>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=255" />
   </programme>
-  <programme start="20200513160000 +0200" stop="20200513163000 +0200" channel="MelillaTV.TV">
-    <title lang="es">Aprende con Nosotros - Educación Infantil</title>
-    <icon src="https://www.inmusa.es/wp-content/uploads/2018/02/inmusa-tvm-1.png" />
+  <programme start="20200513180000 +0200" stop="20200513190000 +0200" channel="TVR.TV">
+    <title lang="es">Telenovela</title>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=323" />
   </programme>
-  <programme start="20200513163000 +0200" stop="20200513170000 +0200" channel="MelillaTV.TV">
-    <title lang="es">Aprende con Nosotros - Educación Primaria</title>
-    <icon src="https://www.inmusa.es/wp-content/uploads/2018/02/inmusa-tvm-1.png" />
+  <programme start="20200513190000 +0200" stop="20200513200000 +0200" channel="TVR.TV">
+    <title lang="es">Espacios Comerciales</title>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=171" />
   </programme>
-  <programme start="20200513170000 +0200" stop="20200513173000 +0200" channel="MelillaTV.TV">
-    <title lang="es">Abuelo Ñ</title>
-    <icon src="https://www.inmusa.es/wp-content/uploads/2018/02/inmusa-tvm-1.png" />
+  <programme start="20200513200000 +0200" stop="20200513203000 +0200" channel="TVR.TV">
+    <title lang="es">#EntrenaEnCasa</title>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=398" />
   </programme>
-  <programme start="20200513173000 +0200" stop="20200513180000 +0200" channel="MelillaTV.TV">
-    <title lang="es">Ejercicio 18</title>
-    <desc lang="es">AbuelosFit.</desc>
-    <icon src="https://www.inmusa.es/wp-content/uploads/2018/02/inmusa-tvm-1.png" />
+  <programme start="20200513203000 +0200" stop="20200513210000 +0200" channel="TVR.TV">
+    <title lang="es">Informativos TVR: II Edición</title>
+    <desc lang="es">Sucesos, política, sociedad, economía; TVR toma el pulso de la actualidad riojana.</desc>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=2" />
+  </programme>
+  <programme start="20200513210000 +0200" stop="20200513223000 +0200" channel="TVR.TV">
+    <title lang="es">La Rioja Directo</title>
+    <desc lang="es">Programa de actualidad con entrevistas, conexiones en directo y reportajes que recorren nuestra Comunidad Autónoma Redifusión.</desc>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=367" />
+  </programme>
+  <programme start="20200513223000 +0200" stop="20200513230000 +0200" channel="TVR.TV">
+    <title lang="es">Informativos TVR: II Edición</title>
+    <desc lang="es">Sucesos, política, sociedad, economía; TVR toma el pulso de la actualidad riojana Redifusión.</desc>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=2" />
+  </programme>
+  <programme start="20200513230000 +0200" stop="20200513235900 +0200" channel="TVR.TV">
+    <title lang="es">La Rioja Directo</title>
+    <desc lang="es">Programa de actualidad con entrevistas, conexiones en directo y reportajes que recorren nuestra Comunidad Autónoma Redifusión.</desc>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=367" />
+  </programme>
+  <programme start="20200514073000 +0200" stop="20200514083000 +0200" channel="TVR.TV">
+    <title lang="es">Dibujos animados</title>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=223" />
+  </programme>
+  <programme start="20200514083000 +0200" stop="20200514090000 +0200" channel="TVR.TV">
+    <title lang="es">De un vistazo</title>
+    <desc lang="es">Breve resumen de las noticias más destacadas del día anterior.</desc>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=141" />
+  </programme>
+  <programme start="20200514090000 +0200" stop="20200514093000 +0200" channel="TVR.TV">
+    <title lang="es">#EntrenaEnCasa</title>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=398" />
+  </programme>
+  <programme start="20200514093000 +0200" stop="20200514123000 +0200" channel="TVR.TV">
+    <title lang="es">Espacios Comerciales</title>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=171" />
+  </programme>
+  <programme start="20200514123000 +0200" stop="20200514130000 +0200" channel="TVR.TV">
+    <title lang="es">La cocina del Garabato</title>
+    <desc lang="es">Programa de cocina, con recetas sorprendentes.</desc>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=349" />
+  </programme>
+  <programme start="20200514130000 +0200" stop="20200514140000 +0200" channel="TVR.TV">
+    <title lang="es">La Rioja Directo</title>
+    <desc lang="es">Programa de actualidad con entrevistas, conexiones en directo y reportajes que recorren nuestra Comunidad Autónoma.</desc>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=367" />
+  </programme>
+  <programme start="20200514140000 +0200" stop="20200514143000 +0200" channel="TVR.TV">
+    <title lang="es">Degusta La Rioja</title>
+    <desc lang="es">La cocina de ventura.</desc>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=256" />
+  </programme>
+  <programme start="20200514143000 +0200" stop="20200514150000 +0200" channel="TVR.TV">
+    <title lang="es">Informativos TVR: I Edición</title>
+    <desc lang="es">Sucesos, política, sociedad, economía; TVR toma el pulso de la actualidad riojana.</desc>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=1" />
+  </programme>
+  <programme start="20200514150000 +0200" stop="20200514160000 +0200" channel="TVR.TV">
+    <title lang="es">La Rioja Directo</title>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=" />
+  </programme>
+  <programme start="20200514160000 +0200" stop="20200514163000 +0200" channel="TVR.TV">
+    <title lang="es">Wow English</title>
+    <desc lang="es">Clases inglés para los pequeños de la casa.</desc>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=399" />
+  </programme>
+  <programme start="20200514163000 +0200" stop="20200514170000 +0200" channel="TVR.TV">
+    <title lang="es">Informativos TVR: I Edición</title>
+    <desc lang="es">Sucesos, política, sociedad, economía; TVR toma el pulso de la actualidad riojana Redifusión.</desc>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=1" />
+  </programme>
+  <programme start="20200514170000 +0200" stop="20200514180000 +0200" channel="TVR.TV">
+    <title lang="es">Serie</title>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=255" />
+  </programme>
+  <programme start="20200514180000 +0200" stop="20200514190000 +0200" channel="TVR.TV">
+    <title lang="es">Telenovela</title>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=323" />
+  </programme>
+  <programme start="20200514190000 +0200" stop="20200514200000 +0200" channel="TVR.TV">
+    <title lang="es">Espacios Comerciales</title>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=171" />
+  </programme>
+  <programme start="20200514200000 +0200" stop="20200514203000 +0200" channel="TVR.TV">
+    <title lang="es">#EntrenaEnCasa</title>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=398" />
+  </programme>
+  <programme start="20200514203000 +0200" stop="20200514210000 +0200" channel="TVR.TV">
+    <title lang="es">Informativos TVR: II Edición</title>
+    <desc lang="es">Sucesos, política, sociedad, economía; TVR toma el pulso de la actualidad riojana.</desc>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=2" />
+  </programme>
+  <programme start="20200514210000 +0200" stop="20200514220000 +0200" channel="TVR.TV">
+    <title lang="es">La Rioja Directo</title>
+    <desc lang="es">Programa de actualidad con entrevistas, conexiones en directo y reportajes que recorren nuestra Comunidad Autónoma Redifusión.</desc>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=367" />
+  </programme>
+  <programme start="20200514220000 +0200" stop="20200514223000 +0200" channel="TVR.TV">
+    <title lang="es">Degusta La Rioja</title>
+    <desc lang="es">La cocina de ventura Redifusión.</desc>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=256" />
+  </programme>
+  <programme start="20200514223000 +0200" stop="20200514230000 +0200" channel="TVR.TV">
+    <title lang="es">Informativos TVR: II Edición</title>
+    <desc lang="es">Sucesos, política, sociedad, economía; TVR toma el pulso de la actualidad riojana Redifusión.</desc>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=2" />
+  </programme>
+  <programme start="20200514230000 +0200" stop="20200514235900 +0200" channel="TVR.TV">
+    <title lang="es">La Rioja Directo</title>
+    <desc lang="es">Programa de actualidad con entrevistas, conexiones en directo y reportajes que recorren nuestra Comunidad Autónoma Redifusión.</desc>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=367" />
+  </programme>
+  <programme start="20200515073000 +0200" stop="20200515083000 +0200" channel="TVR.TV">
+    <title lang="es">Dibujos animados</title>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=223" />
+  </programme>
+  <programme start="20200515083000 +0200" stop="20200515090000 +0200" channel="TVR.TV">
+    <title lang="es">De un vistazo</title>
+    <desc lang="es">Breve resumen de las noticias más destacadas del día anterior.</desc>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=141" />
+  </programme>
+  <programme start="20200515090000 +0200" stop="20200515093000 +0200" channel="TVR.TV">
+    <title lang="es">#EntrenaEnCasa</title>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=398" />
+  </programme>
+  <programme start="20200515093000 +0200" stop="20200515123000 +0200" channel="TVR.TV">
+    <title lang="es">Espacios Comerciales</title>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=171" />
+  </programme>
+  <programme start="20200515123000 +0200" stop="20200515130000 +0200" channel="TVR.TV">
+    <title lang="es">La cocina del Garabato</title>
+    <desc lang="es">Programa de cocina, con recetas sorprendentes.</desc>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=349" />
+  </programme>
+  <programme start="20200515130000 +0200" stop="20200515140000 +0200" channel="TVR.TV">
+    <title lang="es">La Rioja Directo</title>
+    <desc lang="es">Programa de actualidad con entrevistas, conexiones en directo y reportajes que recorren nuestra Comunidad Autónoma.</desc>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=367" />
+  </programme>
+  <programme start="20200515140000 +0200" stop="20200515143000 +0200" channel="TVR.TV">
+    <title lang="es">Degusta La Rioja</title>
+    <desc lang="es">La cocina de ventura.</desc>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=256" />
+  </programme>
+  <programme start="20200515143000 +0200" stop="20200515150000 +0200" channel="TVR.TV">
+    <title lang="es">Informativos TVR: I Edición</title>
+    <desc lang="es">Sucesos, política, sociedad, economía; TVR toma el pulso de la actualidad riojana.</desc>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=1" />
+  </programme>
+  <programme start="20200515150000 +0200" stop="20200515160000 +0200" channel="TVR.TV">
+    <title lang="es">La Rioja Directo</title>
+    <desc lang="es">Programa de actualidad con entrevistas, conexiones en directo y reportajes que recorren nuestra Comunidad Autónoma Redifusión.</desc>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=367" />
+  </programme>
+  <programme start="20200515160000 +0200" stop="20200515163000 +0200" channel="TVR.TV">
+    <title lang="es">La Cocina de Ventura</title>
+    <desc lang="es">Descubre una nueva receta de los cocineros calagurritanos Redifusión.</desc>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=" />
+  </programme>
+  <programme start="20200515163000 +0200" stop="20200515170000 +0200" channel="TVR.TV">
+    <title lang="es">Informativos TVR: I Edición</title>
+    <desc lang="es">Sucesos, política, sociedad, economía; TVR toma el pulso de la actualidad riojana Redifusión.</desc>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=1" />
+  </programme>
+  <programme start="20200515170000 +0200" stop="20200515180000 +0200" channel="TVR.TV">
+    <title lang="es">Serie</title>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=255" />
+  </programme>
+  <programme start="20200515180000 +0200" stop="20200515190000 +0200" channel="TVR.TV">
+    <title lang="es">Telenovela</title>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=323" />
+  </programme>
+  <programme start="20200515190000 +0200" stop="20200515200000 +0200" channel="TVR.TV">
+    <title lang="es">Espacios Comerciales</title>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=171" />
+  </programme>
+  <programme start="20200515200000 +0200" stop="20200515203000 +0200" channel="TVR.TV">
+    <title lang="es">#EntrenaEnCasa</title>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=398" />
+  </programme>
+  <programme start="20200515203000 +0200" stop="20200515210000 +0200" channel="TVR.TV">
+    <title lang="es">Informativos TVR: II Edición</title>
+    <desc lang="es">Sucesos, política, sociedad, economía; TVR toma el pulso de la actualidad riojana.</desc>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=2" />
+  </programme>
+  <programme start="20200515210000 +0200" stop="20200515213000 +0200" channel="TVR.TV">
+    <title lang="es">Rodaje</title>
+    <desc lang="es">Novedades en el mundo del motor nuevo y de ocasión.</desc>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=230" />
+  </programme>
+  <programme start="20200515213000 +0200" stop="20200515223000 +0200" channel="TVR.TV">
+    <title lang="es">La Rioja Directo</title>
+    <desc lang="es">Programa de actualidad con entrevistas, conexiones en directo y reportajes que recorren nuestra Comunidad Autónoma Redifusión.</desc>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=367" />
+  </programme>
+  <programme start="20200515223000 +0200" stop="20200515230000 +0200" channel="TVR.TV">
+    <title lang="es">Informativos TVR: II Edición</title>
+    <desc lang="es">Sucesos, política, sociedad, economía; TVR toma el pulso de la actualidad riojana Redifusión.</desc>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=2" />
+  </programme>
+  <programme start="20200515230000 +0200" stop="20200515235900 +0200" channel="TVR.TV">
+    <title lang="es">Cine en VO</title>
+    <desc lang="es">Cine en versión original.</desc>
+    <icon src="http://www.tvr.es/adminparrilla/foto.php?id=344" />
   </programme>
   <programme start="20200513180000 +0200" stop="20200513183000 +0200" channel="MelillaTV.TV">
     <title lang="es">En Casa con Sarapín</title>
@@ -5173,12 +5824,11 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
     <desc lang="es">Melillarte.</desc>
     <icon src="https://www.inmusa.es/wp-content/uploads/2018/02/inmusa-tvm-1.png" />
   </programme>
-  <programme start="20200513193000 +0200" stop="20200513194500 +0200" channel="MelillaTV.TV">
-    <title lang="es">Informativo Amazige</title>
-    <icon src="https://www.inmusa.es/wp-content/uploads/2018/02/inmusa-tvm-1.png" />
-  </programme>
-  <programme start="20200513194500 +0200" stop="20200513200000 +0200" channel="MelillaTV.TV">
-    <title lang="es">Contador de Historias</title>
+  <programme start="20200513193000 +0200" stop="20200513200000 +0200" channel="MelillaTV.TV">
+    <title lang="es">Ildefonso Menéndez Fitur 95</title>
+    <desc lang="es">Rebobinando
+Rebobinando es un viaje semanal al pasado. Retrocedemos en el tiempo y echamos un vistazo a episodios que han marcado una época dentro de la historia de Melilla. Miramos al siglo XX desde los albores del XXI.
+Presentado por Francis Alemany.</desc>
     <icon src="https://www.inmusa.es/wp-content/uploads/2018/02/inmusa-tvm-1.png" />
   </programme>
   <programme start="20200513200000 +0200" stop="20200513203000 +0200" channel="MelillaTV.TV">
@@ -5186,9 +5836,13 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
     <desc lang="es">El Chef en casa.</desc>
     <icon src="https://www.inmusa.es/wp-content/uploads/2018/02/inmusa-tvm-1.png" />
   </programme>
-  <programme start="20200513203000 +0200" stop="20200513211200 +0200" channel="MelillaTV.TV">
+  <programme start="20200513203000 +0200" stop="20200513210000 +0200" channel="MelillaTV.TV">
     <title lang="es">Informativo</title>
     <icon src="https://www.inmusa.es/wp-content/uploads/2018/03/Informativo-Caratula_programa.jpg" />
+  </programme>
+  <programme start="20200513210000 +0200" stop="20200513211200 +0200" channel="MelillaTV.TV">
+    <title lang="es">Contador de Historias</title>
+    <icon src="https://www.inmusa.es/wp-content/uploads/2018/02/inmusa-tvm-1.png" />
   </programme>
   <programme start="20200513211200 +0200" stop="20200513211500 +0200" channel="MelillaTV.TV">
     <title lang="es">Ruptura del Ayuno</title>
@@ -5198,11 +5852,7 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
     <title lang="es">Paraíso de Ramadán</title>
     <icon src="https://www.inmusa.es/wp-content/uploads/2018/02/inmusa-tvm-1.png" />
   </programme>
-  <programme start="20200513214500 +0200" stop="20200513220000 +0200" channel="MelillaTV.TV">
-    <title lang="es">Contador de Historias</title>
-    <icon src="https://www.inmusa.es/wp-content/uploads/2018/02/inmusa-tvm-1.png" />
-  </programme>
-  <programme start="20200513220000 +0200" stop="20200513231500 +0200" channel="MelillaTV.TV">
+  <programme start="20200513214500 +0200" stop="20200513230000 +0200" channel="MelillaTV.TV">
     <title lang="es">El Enfoque</title>
     <icon src="https://www.inmusa.es/wp-content/uploads/2018/02/inmusa-tvm-1.png" />
   </programme>
@@ -5445,7 +6095,7 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
     <icon src="http://programacion-tv.elpais.com/imagenes/programas/1696265.jpg" />
     <country lang="es">Otros</country>
   </programme>
-  <programme start="20200513233000 +0200" stop="20200514011500 +0200" channel="NaTV.TV">
+  <programme start="20200513233000 +0200" stop="20200514000000 +0200" channel="NaTV.TV">
     <title lang="es">Informativo</title>
     <desc lang="es">Programa que hace un repaso por la actualidad más inmediata.</desc>
     <date>2015</date>
@@ -5455,6 +6105,13 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
     <rating system="ES">
       <value>TP</value>
     </rating>
+  </programme>
+  <programme start="20200514000000 +0200" stop="20200514011500 +0200" channel="NaTV.TV">
+    <title lang="es">De Jota</title>
+    <desc lang="es">Sin descripción.</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1696265.jpg" />
+    <country lang="es">Otros</country>
   </programme>
   <programme start="20200514011500 +0200" stop="20200514020000 +0200" channel="NaTV.TV">
     <title lang="es">Informativos Navarra TV 2ª edición</title>
@@ -6052,22 +6709,13 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
   <programme start="20200513153000 +0200" stop="20200513160000 +0200" channel="ATVHD.TV">
     <title lang="es">El Trànsit</title>
   </programme>
-  <programme start="20200513160000 +0200" stop="20200513170000 +0200" channel="ATVHD.TV">
-    <title lang="es">Sessió ordinària del Consell General</title>
+  <programme start="20200513160000 +0200" stop="20200513190000 +0200" channel="ATVHD.TV">
+    <title lang="es">Sessió del Consell General</title>
   </programme>
-  <programme start="20200513170000 +0200" stop="20200513180000 +0200" channel="ATVHD.TV">
+  <programme start="20200513190000 +0200" stop="20200513200000 +0200" channel="ATVHD.TV">
     <title lang="es">Roda de premsa del Govern informant sobre les novetats i les mesures adoptades sobre la COVID-19</title>
   </programme>
-  <programme start="20200513180000 +0200" stop="20200513183000 +0200" channel="ATVHD.TV">
-    <title lang="es">Informatiu Tarda</title>
-  </programme>
-  <programme start="20200513183000 +0200" stop="20200513190000 +0200" channel="ATVHD.TV">
-    <title lang="es">Informatiu France 24</title>
-  </programme>
-  <programme start="20200513190000 +0200" stop="20200513195500 +0200" channel="ATVHD.TV">
-    <title lang="es">Club Piolet</title>
-  </programme>
-  <programme start="20200513195500 +0200" stop="20200513203500 +0200" channel="ATVHD.TV">
+  <programme start="20200513200000 +0200" stop="20200513203500 +0200" channel="ATVHD.TV">
     <title lang="es">El Trànsit</title>
   </programme>
   <programme start="20200513203500 +0200" stop="20200513204000 +0200" channel="ATVHD.TV">
@@ -6082,11 +6730,8 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
   <programme start="20200513211500 +0200" stop="20200513220000 +0200" channel="ATVHD.TV">
     <title lang="es">Roda de premsa del Govern informant sobre les novetats i les mesures adoptades sobre la COVID-19</title>
   </programme>
-  <programme start="20200513220000 +0200" stop="20200513233000 +0200" channel="ATVHD.TV">
-    <title lang="es">Sessió ordinària del Consell General</title>
-  </programme>
-  <programme start="20200513233000 +0200" stop="20200514010000 +0200" channel="ATVHD.TV">
-    <title lang="es">Informatiu vespre</title>
+  <programme start="20200513220000 +0200" stop="20200514010000 +0200" channel="ATVHD.TV">
+    <title lang="es">Sessió del Consell General</title>
   </programme>
   <programme start="20200514010000 +0200" stop="20200514070000 +0200" channel="ATVHD.TV">
     <title lang="es">Àrea Andorra Difusió</title>
@@ -6098,7 +6743,7 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
     <title lang="es">El Trànsit</title>
   </programme>
   <programme start="20200514093000 +0200" stop="20200514133500 +0200" channel="ATVHD.TV">
-    <title lang="es">Sessió ordinària del Consell General</title>
+    <title lang="es">Sessió del Consell General</title>
   </programme>
   <programme start="20200514133500 +0200" stop="20200514134000 +0200" channel="ATVHD.TV">
     <title lang="es">Va ser notícia</title>
@@ -6115,17 +6760,8 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
   <programme start="20200514150000 +0200" stop="20200514153000 +0200" channel="ATVHD.TV">
     <title lang="es">Informatiu migdia</title>
   </programme>
-  <programme start="20200514153000 +0200" stop="20200514164000 +0200" channel="ATVHD.TV">
-    <title lang="es">El Trànsit</title>
-  </programme>
-  <programme start="20200514164000 +0200" stop="20200514164500 +0200" channel="ATVHD.TV">
-    <title lang="es">Consells de primers auxilis a la llar</title>
-  </programme>
-  <programme start="20200514164500 +0200" stop="20200514170000 +0200" channel="ATVHD.TV">
-    <title lang="es">Exercicis físics per la gent gran</title>
-  </programme>
-  <programme start="20200514170000 +0200" stop="20200514180000 +0200" channel="ATVHD.TV">
-    <title lang="es">Roda de premsa del Govern informant sobre les novetats i les mesures adoptades sobre la COVID-19</title>
+  <programme start="20200514153000 +0200" stop="20200514180000 +0200" channel="ATVHD.TV">
+    <title lang="es">Sessió del Consell General</title>
   </programme>
   <programme start="20200514180000 +0200" stop="20200514183000 +0200" channel="ATVHD.TV">
     <title lang="es">Informatiu Tarda</title>
@@ -6151,17 +6787,8 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
   <programme start="20200514211500 +0200" stop="20200514220000 +0200" channel="ATVHD.TV">
     <title lang="es">La rèplica</title>
   </programme>
-  <programme start="20200514220000 +0200" stop="20200514224500 +0200" channel="ATVHD.TV">
-    <title lang="es">Roda de premsa del Govern informant sobre les novetats i les mesures adoptades sobre la COVID-19</title>
-  </programme>
-  <programme start="20200514224500 +0200" stop="20200515013000 +0200" channel="ATVHD.TV">
-    <title lang="es">Sessió ordinària del Consell General</title>
-  </programme>
-  <programme start="20200515013000 +0200" stop="20200515020000 +0200" channel="ATVHD.TV">
-    <title lang="es">Informatiu vespre</title>
-  </programme>
-  <programme start="20200515020000 +0200" stop="20200515070000 +0200" channel="ATVHD.TV">
-    <title lang="es">Àrea Andorra Difusió</title>
+  <programme start="20200514220000 +0200" stop="20200515070000 +0200" channel="ATVHD.TV">
+    <title lang="es">Sessió del Consell General</title>
   </programme>
   <programme start="20200515070000 +0200" stop="20200515080000 +0200" channel="ATVHD.TV">
     <title lang="es">Club Piolet</title>
@@ -6262,20 +6889,11 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
   <programme start="20200513150000 +0200" stop="20200513160000 +0200" channel="ATVCW.TV">
     <title lang="es">Becaris</title>
   </programme>
-  <programme start="20200513160000 +0200" stop="20200513170000 +0200" channel="ATVCW.TV">
-    <title lang="es">Sessió ordinària del Consell General</title>
-  </programme>
-  <programme start="20200513170000 +0200" stop="20200513180000 +0200" channel="ATVCW.TV">
-    <title lang="es">Roda de premsa del Govern informant sobre les novetats i les mesures adoptades sobre la COVID-19</title>
-  </programme>
-  <programme start="20200513180000 +0200" stop="20200513183000 +0200" channel="ATVCW.TV">
-    <title lang="es">Notícies andorradifusio.ad</title>
-  </programme>
-  <programme start="20200513183000 +0200" stop="20200513190000 +0200" channel="ATVCW.TV">
-    <title lang="es">Informatiu France 24</title>
+  <programme start="20200513160000 +0200" stop="20200513190000 +0200" channel="ATVCW.TV">
+    <title lang="es">Sessió del Consell General</title>
   </programme>
   <programme start="20200513190000 +0200" stop="20200513200000 +0200" channel="ATVCW.TV">
-    <title lang="es">Andorra actualitat</title>
+    <title lang="es">Roda de premsa del Govern informant sobre les novetats i les mesures adoptades sobre la COVID-19</title>
   </programme>
   <programme start="20200513200000 +0200" stop="20200513204500 +0200" channel="ATVCW.TV">
     <title lang="es">Notícies andorradifusio.ad</title>
@@ -6286,11 +6904,8 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
   <programme start="20200513211500 +0200" stop="20200513221500 +0200" channel="ATVCW.TV">
     <title lang="es">Roda de premsa del Govern informant sobre les novetats i les mesures adoptades sobre la COVID-19</title>
   </programme>
-  <programme start="20200513221500 +0200" stop="20200513234500 +0200" channel="ATVCW.TV">
-    <title lang="es">Sessió ordinària del Consell General</title>
-  </programme>
-  <programme start="20200513234500 +0200" stop="20200514010000 +0200" channel="ATVCW.TV">
-    <title lang="es">Informatiu vespre</title>
+  <programme start="20200513221500 +0200" stop="20200514010000 +0200" channel="ATVCW.TV">
+    <title lang="es">Sessió del Consell General</title>
   </programme>
   <programme start="20200514010000 +0200" stop="20200514070000 +0200" channel="ATVCW.TV">
     <title lang="es">Àrea Andorra Difusió</title>
@@ -6302,7 +6917,7 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
     <title lang="es">Ara i Aquí</title>
   </programme>
   <programme start="20200514093000 +0200" stop="20200514134500 +0200" channel="ATVCW.TV">
-    <title lang="es">Sessió ordinària del Consell General</title>
+    <title lang="es">Sessió del Consell General</title>
   </programme>
   <programme start="20200514134500 +0200" stop="20200514141500 +0200" channel="ATVCW.TV">
     <title lang="es">Informatiu migdia</title>
@@ -6310,11 +6925,11 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
   <programme start="20200514141500 +0200" stop="20200514150000 +0200" channel="ATVCW.TV">
     <title lang="es">La rèplica</title>
   </programme>
-  <programme start="20200514150000 +0200" stop="20200514170000 +0200" channel="ATVCW.TV">
+  <programme start="20200514150000 +0200" stop="20200514153000 +0200" channel="ATVCW.TV">
     <title lang="es">Becaris</title>
   </programme>
-  <programme start="20200514170000 +0200" stop="20200514180000 +0200" channel="ATVCW.TV">
-    <title lang="es">Roda de premsa del Govern informant sobre les novetats i les mesures adoptades sobre la COVID-19</title>
+  <programme start="20200514153000 +0200" stop="20200514180000 +0200" channel="ATVCW.TV">
+    <title lang="es">Sessió del Consell General</title>
   </programme>
   <programme start="20200514180000 +0200" stop="20200514183000 +0200" channel="ATVCW.TV">
     <title lang="es">Notícies andorradifusio.ad</title>
@@ -6334,17 +6949,8 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
   <programme start="20200514211500 +0200" stop="20200514220000 +0200" channel="ATVCW.TV">
     <title lang="es">La rèplica</title>
   </programme>
-  <programme start="20200514220000 +0200" stop="20200514230000 +0200" channel="ATVCW.TV">
-    <title lang="es">Roda de premsa del Govern informant sobre les novetats i les mesures adoptades sobre la COVID-19</title>
-  </programme>
-  <programme start="20200514230000 +0200" stop="20200515013000 +0200" channel="ATVCW.TV">
-    <title lang="es">Sessió ordinària del Consell General</title>
-  </programme>
-  <programme start="20200515013000 +0200" stop="20200515020000 +0200" channel="ATVCW.TV">
-    <title lang="es">Informatiu vespre</title>
-  </programme>
-  <programme start="20200515020000 +0200" stop="20200515070000 +0200" channel="ATVCW.TV">
-    <title lang="es">Àrea Andorra Difusió</title>
+  <programme start="20200514220000 +0200" stop="20200515070000 +0200" channel="ATVCW.TV">
+    <title lang="es">Sessió del Consell General</title>
   </programme>
   <programme start="20200515070000 +0200" stop="20200515080000 +0200" channel="ATVCW.TV">
     <title lang="es">Notícies andorradifusio.ad</title>
@@ -6415,13 +7021,13 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
     <title lang="pt">News + Rassegna Stampa</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200513033300 +0100" stop="20200513034800 +0100" channel="RaiN.TV">
-    <title lang="pt">Mordi e Fuggi</title>
-    <category lang="pt">entretenimento</category>
-  </programme>
-  <programme start="20200513034800 +0100" stop="20200513040000 +0100" channel="RaiN.TV">
-    <title lang="pt">News + Approfondimento</title>
+  <programme start="20200513033300 +0100" stop="20200513034300 +0100" channel="RaiN.TV">
+    <title lang="pt">News</title>
     <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200513034300 +0100" stop="20200513040000 +0100" channel="RaiN.TV">
+    <title lang="pt">Ieri e Oggi Sport</title>
+    <category lang="pt">desporto</category>
   </programme>
   <programme start="20200513040000 +0100" stop="20200513043000 +0100" channel="RaiN.TV">
     <title lang="pt">News + Rassegna Stampa</title>
@@ -6559,15 +7165,15 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
     <title lang="pt">News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200513163000 +0100" stop="20200513170000 +0100" channel="RaiN.TV">
+  <programme start="20200513163000 +0100" stop="20200513164500 +0100" channel="RaiN.TV">
     <title lang="pt">La Bussola</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200513170000 +0100" stop="20200513173000 +0100" channel="RaiN.TV">
-    <title lang="pt">News + Approfondimento</title>
+  <programme start="20200513164500 +0100" stop="20200513170000 +0100" channel="RaiN.TV">
+    <title lang="pt">Approfondimento</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200513173000 +0100" stop="20200513180000 +0100" channel="RaiN.TV">
+  <programme start="20200513170000 +0100" stop="20200513180000 +0100" channel="RaiN.TV">
     <title lang="pt">News + Approfondimento</title>
     <category lang="pt">informacao</category>
   </programme>
@@ -6807,15 +7413,15 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
     <title lang="pt">News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200514163000 +0100" stop="20200514170000 +0100" channel="RaiN.TV">
+  <programme start="20200514163000 +0100" stop="20200514164500 +0100" channel="RaiN.TV">
     <title lang="pt">La Bussola</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200514170000 +0100" stop="20200514173000 +0100" channel="RaiN.TV">
-    <title lang="pt">News + Approfondimento</title>
+  <programme start="20200514164500 +0100" stop="20200514170000 +0100" channel="RaiN.TV">
+    <title lang="pt">Approfondimento</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200514173000 +0100" stop="20200514180000 +0100" channel="RaiN.TV">
+  <programme start="20200514170000 +0100" stop="20200514180000 +0100" channel="RaiN.TV">
     <title lang="pt">News + Approfondimento</title>
     <category lang="pt">informacao</category>
   </programme>
@@ -7055,15 +7661,15 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
     <title lang="pt">News</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200515163000 +0100" stop="20200515170000 +0100" channel="RaiN.TV">
+  <programme start="20200515163000 +0100" stop="20200515164500 +0100" channel="RaiN.TV">
     <title lang="pt">La Bussola</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200515170000 +0100" stop="20200515173000 +0100" channel="RaiN.TV">
-    <title lang="pt">News + Approfondimento</title>
+  <programme start="20200515164500 +0100" stop="20200515170000 +0100" channel="RaiN.TV">
+    <title lang="pt">Approfondimento</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200515173000 +0100" stop="20200515180000 +0100" channel="RaiN.TV">
+  <programme start="20200515170000 +0100" stop="20200515180000 +0100" channel="RaiN.TV">
     <title lang="pt">News + Approfondimento</title>
     <category lang="pt">informacao</category>
   </programme>
@@ -7415,7 +8021,7 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
     <title lang="es">Con sabor y saber</title>
   </programme>
   <programme start="20200514173000 -0500" stop="20200514180300 -0500" channel="DW.TV">
-    <title lang="es">Escápate</title>
+    <title lang="es">¡Escápate</title>
   </programme>
   <programme start="20200514180300 -0500" stop="20200514183000 -0500" channel="DW.TV">
     <title lang="es">Global 3000</title>
@@ -8049,48 +8655,48 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
     <title lang="pt">A Nossa Tarde</title>
     <category lang="pt">entretenimento</category>
   </programme>
-  <programme start="20200514173000 +0100" stop="20200514190000 +0100" channel="RTP1.TV">
+  <programme start="20200514173000 +0100" stop="20200514190900 +0100" channel="RTP1.TV">
     <title lang="pt">Portugal em Direto</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200514190000 +0100" stop="20200514195900 +0100" channel="RTP1.TV">
+  <programme start="20200514190900 +0100" stop="20200514195900 +0100" channel="RTP1.TV">
     <title lang="pt">O Preço Certo</title>
     <category lang="pt">entretenimento</category>
   </programme>
-  <programme start="20200514195900 +0100" stop="20200514213000 +0100" channel="RTP1.TV">
+  <programme start="20200514195900 +0100" stop="20200514213700 +0100" channel="RTP1.TV">
     <title lang="pt">Telejornal</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200514213000 +0100" stop="20200514223000 +0100" channel="RTP1.TV">
+  <programme start="20200514213700 +0100" stop="20200514223100 +0100" channel="RTP1.TV">
     <title lang="pt">Joker</title>
     <category lang="pt">entretenimento</category>
     <episode-num system="onscreen">S3E118</episode-num>
   </programme>
-  <programme start="20200514223000 +0100" stop="20200515001500 +0100" channel="RTP1.TV">
+  <programme start="20200514223100 +0100" stop="20200515002800 +0100" channel="RTP1.TV">
     <title lang="pt">5 Para a Meia-Noite</title>
     <category lang="pt">entretenimento</category>
     <episode-num system="onscreen">S16E18</episode-num>
   </programme>
-  <programme start="20200515001500 +0100" stop="20200515010000 +0100" channel="RTP1.TV">
+  <programme start="20200515002800 +0100" stop="20200515011900 +0100" channel="RTP1.TV">
     <title lang="pt">Artistas em Rede</title>
     <category lang="pt">entretenimento</category>
     <episode-num system="onscreen">S1E5</episode-num>
   </programme>
-  <programme start="20200515010000 +0100" stop="20200515030000 +0100" channel="RTP1.TV">
+  <programme start="20200515011900 +0100" stop="20200515030500 +0100" channel="RTP1.TV">
     <title lang="pt">Al Berto</title>
     <category lang="pt">filmes</category>
   </programme>
-  <programme start="20200515030000 +0100" stop="20200515033000 +0100" channel="RTP1.TV">
+  <programme start="20200515030500 +0100" stop="20200515032800 +0100" channel="RTP1.TV">
     <title lang="pt">De Mal a Pior</title>
     <category lang="pt">series</category>
     <episode-num system="onscreen">S1E4</episode-num>
   </programme>
-  <programme start="20200515033000 +0100" stop="20200515041500 +0100" channel="RTP1.TV">
+  <programme start="20200515032800 +0100" stop="20200515041300 +0100" channel="RTP1.TV">
     <title lang="pt">O Sábio</title>
     <category lang="pt">entretenimento</category>
     <episode-num system="onscreen">S1E119</episode-num>
   </programme>
-  <programme start="20200515041500 +0100" stop="20200515055900 +0100" channel="RTP1.TV">
+  <programme start="20200515041300 +0100" stop="20200515055900 +0100" channel="RTP1.TV">
     <title lang="pt">Televendas</title>
     <category lang="pt">entretenimento</category>
   </programme>
@@ -8489,359 +9095,315 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
     <title lang="pt">Repórter África - 2ª Edição</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200514070200 +0100" stop="20200514072000 +0100" channel="RTP2.TV">
+  <programme start="20200514070200 +0100" stop="20200514071600 +0100" channel="RTP2.TV">
     <title lang="pt">Robocar Poli</title>
     <category lang="pt">infantil</category>
     <episode-num system="onscreen">S1E51</episode-num>
   </programme>
-  <programme start="20200514072000 +0100" stop="20200514073000 +0100" channel="RTP2.TV">
+  <programme start="20200514071600 +0100" stop="20200514073000 +0100" channel="RTP2.TV">
     <title lang="pt">Robocar Poli</title>
     <category lang="pt">infantil</category>
     <episode-num system="onscreen">S1E52</episode-num>
   </programme>
-  <programme start="20200514073000 +0100" stop="20200514074500 +0100" channel="RTP2.TV">
+  <programme start="20200514073000 +0100" stop="20200514074700 +0100" channel="RTP2.TV">
     <title lang="pt">Daniel Tigre</title>
     <category lang="pt">infantil</category>
     <episode-num system="onscreen">S1E33</episode-num>
   </programme>
-  <programme start="20200514074500 +0100" stop="20200514075000 +0100" channel="RTP2.TV">
-    <title lang="pt">Molang</title>
-    <category lang="pt">infantil</category>
-    <episode-num system="onscreen">S2E17</episode-num>
-  </programme>
-  <programme start="20200514075000 +0100" stop="20200514075500 +0100" channel="RTP2.TV">
+  <programme start="20200514074700 +0100" stop="20200514075800 +0100" channel="RTP2.TV">
     <title lang="pt">Twirlywoos</title>
     <category lang="pt">infantil</category>
     <episode-num system="onscreen">S1E3</episode-num>
   </programme>
-  <programme start="20200514075500 +0100" stop="20200514080500 +0100" channel="RTP2.TV">
+  <programme start="20200514075800 +0100" stop="20200514080900 +0100" channel="RTP2.TV">
     <title lang="pt">Twirlywoos</title>
     <category lang="pt">infantil</category>
     <episode-num system="onscreen">S1E4</episode-num>
   </programme>
-  <programme start="20200514080500 +0100" stop="20200514081500 +0100" channel="RTP2.TV">
+  <programme start="20200514080900 +0100" stop="20200514082100 +0100" channel="RTP2.TV">
     <title lang="pt">Blinky Bill</title>
     <category lang="pt">infantil</category>
     <episode-num system="onscreen">S1E24</episode-num>
   </programme>
-  <programme start="20200514081500 +0100" stop="20200514082500 +0100" channel="RTP2.TV">
+  <programme start="20200514082100 +0100" stop="20200514083200 +0100" channel="RTP2.TV">
     <title lang="pt">Waffle, o Cão Maravilha</title>
     <category lang="pt">infantil</category>
     <episode-num system="onscreen">S1E24</episode-num>
   </programme>
-  <programme start="20200514082500 +0100" stop="20200514083500 +0100" channel="RTP2.TV">
+  <programme start="20200514083200 +0100" stop="20200514084300 +0100" channel="RTP2.TV">
     <title lang="pt">Kody Kapow</title>
     <category lang="pt">infantil</category>
     <episode-num system="onscreen">S1E4</episode-num>
   </programme>
-  <programme start="20200514083500 +0100" stop="20200514084500 +0100" channel="RTP2.TV">
+  <programme start="20200514084300 +0100" stop="20200514085000 +0100" channel="RTP2.TV">
     <title lang="pt">Pat, o Cão</title>
     <category lang="pt">infantil</category>
     <episode-num system="onscreen">S1E56</episode-num>
   </programme>
-  <programme start="20200514084500 +0100" stop="20200514085500 +0100" channel="RTP2.TV">
+  <programme start="20200514085000 +0100" stop="20200514090200 +0100" channel="RTP2.TV">
     <title lang="pt">Ernest e Celestine</title>
     <category lang="pt">infantil</category>
     <episode-num system="onscreen">S1E18</episode-num>
   </programme>
-  <programme start="20200514085500 +0100" stop="20200514090500 +0100" channel="RTP2.TV">
+  <programme start="20200514090200 +0100" stop="20200514091200 +0100" channel="RTP2.TV">
     <title lang="pt">Grizzy e os Lemingues</title>
     <category lang="pt">infantil</category>
     <episode-num system="onscreen">S1E26</episode-num>
   </programme>
-  <programme start="20200514090500 +0100" stop="20200514091000 +0100" channel="RTP2.TV">
-    <title lang="pt">Banda Zig Zag</title>
-    <category lang="pt">infantil</category>
-    <episode-num system="onscreen">S2E3</episode-num>
-  </programme>
-  <programme start="20200514091000 +0100" stop="20200514091500 +0100" channel="RTP2.TV">
+  <programme start="20200514091200 +0100" stop="20200514092100 +0100" channel="RTP2.TV">
     <title lang="pt">DesafioFicoEmCasa</title>
     <category lang="pt">infantil</category>
     <episode-num system="onscreen">S1E24</episode-num>
   </programme>
-  <programme start="20200514091500 +0100" stop="20200514092000 +0100" channel="RTP2.TV">
+  <programme start="20200514092100 +0100" stop="20200514092800 +0100" channel="RTP2.TV">
     <title lang="pt">Puffin Rock</title>
     <category lang="pt">infantil</category>
     <episode-num system="onscreen">S1E30</episode-num>
   </programme>
-  <programme start="20200514092000 +0100" stop="20200514093000 +0100" channel="RTP2.TV">
+  <programme start="20200514092800 +0100" stop="20200514094000 +0100" channel="RTP2.TV">
     <title lang="pt">Mouk</title>
     <category lang="pt">infantil</category>
     <episode-num system="onscreen">S1E55</episode-num>
   </programme>
-  <programme start="20200514093000 +0100" stop="20200514094000 +0100" channel="RTP2.TV">
+  <programme start="20200514094000 +0100" stop="20200514095100 +0100" channel="RTP2.TV">
     <title lang="pt">O Mundo de Luna!</title>
     <category lang="pt">infantil</category>
     <episode-num system="onscreen">S3E21</episode-num>
   </programme>
-  <programme start="20200514094000 +0100" stop="20200514095000 +0100" channel="RTP2.TV">
+  <programme start="20200514095100 +0100" stop="20200514100900 +0100" channel="RTP2.TV">
     <title lang="pt">O Mundo de Luna!</title>
     <category lang="pt">infantil</category>
     <episode-num system="onscreen">S3E22</episode-num>
   </programme>
-  <programme start="20200514095000 +0100" stop="20200514095500 +0100" channel="RTP2.TV">
-    <title lang="pt">Um Dia Quero Ser...</title>
-    <category lang="pt">infantil</category>
-    <episode-num system="onscreen">S1E25</episode-num>
-  </programme>
-  <programme start="20200514095500 +0100" stop="20200514100000 +0100" channel="RTP2.TV">
-    <title lang="pt">Pontos nos Is</title>
-    <category lang="pt">infantil</category>
-    <episode-num system="onscreen">S1E25</episode-num>
-  </programme>
-  <programme start="20200514100000 +0100" stop="20200514100500 +0100" channel="RTP2.TV">
-    <title lang="pt">Hora do Conto</title>
-    <category lang="pt">infantil</category>
-    <episode-num system="onscreen">S1E24</episode-num>
-  </programme>
-  <programme start="20200514100500 +0100" stop="20200514101500 +0100" channel="RTP2.TV">
+  <programme start="20200514100900 +0100" stop="20200514102500 +0100" channel="RTP2.TV">
     <title lang="pt">Animais Bebés - Mini Album</title>
     <category lang="pt">infantil</category>
     <episode-num system="onscreen">S1E24</episode-num>
   </programme>
-  <programme start="20200514101500 +0100" stop="20200514102000 +0100" channel="RTP2.TV">
-    <title lang="pt">Crianças no Mundo</title>
-    <category lang="pt">infantil</category>
-    <episode-num system="onscreen">S1E24</episode-num>
-  </programme>
-  <programme start="20200514102000 +0100" stop="20200514104500 +0100" channel="RTP2.TV">
+  <programme start="20200514102500 +0100" stop="20200514105200 +0100" channel="RTP2.TV">
     <title lang="pt">A Carrinha Mágica Volta à Estrada</title>
     <category lang="pt">infantil</category>
     <episode-num system="onscreen">S1E24</episode-num>
   </programme>
-  <programme start="20200514104500 +0100" stop="20200514105000 +0100" channel="RTP2.TV">
+  <programme start="20200514105200 +0100" stop="20200514105900 +0100" channel="RTP2.TV">
+    <title lang="pt">Wru?</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E43</episode-num>
+  </programme>
+  <programme start="20200514105900 +0100" stop="20200514110700 +0100" channel="RTP2.TV">
     <title lang="pt">Wru?</title>
     <category lang="pt">infantil</category>
     <episode-num system="onscreen">S1E44</episode-num>
   </programme>
-  <programme start="20200514105000 +0100" stop="20200514110000 +0100" channel="RTP2.TV">
-    <title lang="pt">Wru?</title>
-    <category lang="pt">infantil</category>
-    <episode-num system="onscreen">S1E45</episode-num>
-  </programme>
-  <programme start="20200514110000 +0100" stop="20200514110500 +0100" channel="RTP2.TV">
-    <title lang="pt">Terra à Vista</title>
-    <category lang="pt">infantil</category>
-    <episode-num system="onscreen">S1E25</episode-num>
-  </programme>
-  <programme start="20200514110500 +0100" stop="20200514111000 +0100" channel="RTP2.TV">
+  <programme start="20200514110700 +0100" stop="20200514111200 +0100" channel="RTP2.TV">
     <title lang="pt">Um Minuto de...</title>
     <category lang="pt">infantil</category>
     <episode-num system="onscreen">S1E24</episode-num>
   </programme>
-  <programme start="20200514111000 +0100" stop="20200514112000 +0100" channel="RTP2.TV">
+  <programme start="20200514111200 +0100" stop="20200514111900 +0100" channel="RTP2.TV">
     <title lang="pt">As Perguntas da Mily</title>
     <category lang="pt">infantil</category>
     <episode-num system="onscreen">S1E19</episode-num>
   </programme>
-  <programme start="20200514112000 +0100" stop="20200514112500 +0100" channel="RTP2.TV">
+  <programme start="20200514111900 +0100" stop="20200514112700 +0100" channel="RTP2.TV">
     <title lang="pt">As Perguntas da Mily</title>
     <category lang="pt">infantil</category>
     <episode-num system="onscreen">S1E20</episode-num>
   </programme>
-  <programme start="20200514112500 +0100" stop="20200514113000 +0100" channel="RTP2.TV">
-    <title lang="pt">Como se Faz</title>
-    <category lang="pt">infantil</category>
-    <episode-num system="onscreen">S1E24</episode-num>
-  </programme>
-  <programme start="20200514113000 +0100" stop="20200514114500 +0100" channel="RTP2.TV">
+  <programme start="20200514112700 +0100" stop="20200514114500 +0100" channel="RTP2.TV">
     <title lang="pt">Design Ah! Um Olhar Sobre o Design</title>
     <category lang="pt">infantil</category>
     <episode-num system="onscreen">S2E18</episode-num>
   </programme>
-  <programme start="20200514114500 +0100" stop="20200514115000 +0100" channel="RTP2.TV">
-    <title lang="pt">Conta-me História</title>
-    <category lang="pt">documentarios</category>
-    <episode-num system="onscreen">S1E5</episode-num>
-  </programme>
-  <programme start="20200514115000 +0100" stop="20200514121500 +0100" channel="RTP2.TV">
+  <programme start="20200514114500 +0100" stop="20200514121000 +0100" channel="RTP2.TV">
     <title lang="pt">Era Uma Vez... A Vida</title>
     <category lang="pt">infantil</category>
     <episode-num system="onscreen">S1E24</episode-num>
   </programme>
-  <programme start="20200514121500 +0100" stop="20200514124000 +0100" channel="RTP2.TV">
+  <programme start="20200514121000 +0100" stop="20200514123900 +0100" channel="RTP2.TV">
     <title lang="pt">Vamos à Descoberta</title>
     <category lang="pt">infantil</category>
     <episode-num system="onscreen">S1E24</episode-num>
   </programme>
-  <programme start="20200514124000 +0100" stop="20200514130000 +0100" channel="RTP2.TV">
+  <programme start="20200514123900 +0100" stop="20200514130900 +0100" channel="RTP2.TV">
     <title lang="pt">A Mentira da Verdade</title>
     <category lang="pt">infantil</category>
     <episode-num system="onscreen">S2E11</episode-num>
   </programme>
-  <programme start="20200514130000 +0100" stop="20200514130500 +0100" channel="RTP2.TV">
+  <programme start="20200514130900 +0100" stop="20200514131700 +0100" channel="RTP2.TV">
     <title lang="pt">Os Daltons</title>
     <category lang="pt">infantil</category>
     <episode-num system="onscreen">S2E109</episode-num>
   </programme>
-  <programme start="20200514130500 +0100" stop="20200514131500 +0100" channel="RTP2.TV">
+  <programme start="20200514131700 +0100" stop="20200514132400 +0100" channel="RTP2.TV">
     <title lang="pt">Os Daltons</title>
     <category lang="pt">infantil</category>
     <episode-num system="onscreen">S2E110</episode-num>
   </programme>
-  <programme start="20200514131500 +0100" stop="20200514134000 +0100" channel="RTP2.TV">
+  <programme start="20200514132400 +0100" stop="20200514134600 +0100" channel="RTP2.TV">
     <title lang="pt">Drama Total em Ação</title>
     <category lang="pt">infantil</category>
     <episode-num system="onscreen">S1E16</episode-num>
   </programme>
-  <programme start="20200514134000 +0100" stop="20200514135500 +0100" channel="RTP2.TV">
+  <programme start="20200514134600 +0100" stop="20200514140000 +0100" channel="RTP2.TV">
     <title lang="pt">O Carlos Escolhe</title>
     <category lang="pt">infantil</category>
     <episode-num system="onscreen">S1E15</episode-num>
   </programme>
-  <programme start="20200514135500 +0100" stop="20200514140000 +0100" channel="RTP2.TV">
-    <title lang="pt">Folha de Sala</title>
-    <category lang="pt">entretenimento</category>
-  </programme>
-  <programme start="20200514140000 +0100" stop="20200514150000 +0100" channel="RTP2.TV">
+  <programme start="20200514140000 +0100" stop="20200514150100 +0100" channel="RTP2.TV">
     <title lang="pt">Sociedade Civil</title>
     <category lang="pt">informacao</category>
     <episode-num system="onscreen">S16E93</episode-num>
   </programme>
-  <programme start="20200514150000 +0100" stop="20200514153000 +0100" channel="RTP2.TV">
+  <programme start="20200514150100 +0100" stop="20200514153400 +0100" channel="RTP2.TV">
     <title lang="pt">A Fé dos Homens</title>
     <category lang="pt">entretenimento</category>
   </programme>
-  <programme start="20200514153000 +0100" stop="20200514160000 +0100" channel="RTP2.TV">
+  <programme start="20200514153400 +0100" stop="20200514160500 +0100" channel="RTP2.TV">
     <title lang="pt">Biosfera</title>
     <category lang="pt">informacao</category>
     <episode-num system="onscreen">S18E19</episode-num>
   </programme>
-  <programme start="20200514160000 +0100" stop="20200514170100 +0100" channel="RTP2.TV">
+  <programme start="20200514160500 +0100" stop="20200514165700 +0100" channel="RTP2.TV">
     <title lang="pt">O Misterioso Ajuntamento de Orcas</title>
     <category lang="pt">documentarios</category>
   </programme>
-  <programme start="20200514170100 +0100" stop="20200514171500 +0100" channel="RTP2.TV">
+  <programme start="20200514165700 +0100" stop="20200514171100 +0100" channel="RTP2.TV">
     <title lang="pt">Robocar Poli</title>
     <category lang="pt">infantil</category>
     <episode-num system="onscreen">S1E43</episode-num>
   </programme>
-  <programme start="20200514171500 +0100" stop="20200514173500 +0100" channel="RTP2.TV">
+  <programme start="20200514171100 +0100" stop="20200514172400 +0100" channel="RTP2.TV">
+    <title lang="pt">Robocar Poli</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S1E44</episode-num>
+  </programme>
+  <programme start="20200514172400 +0100" stop="20200514173600 +0100" channel="RTP2.TV">
     <title lang="pt">Daniel Tigre</title>
     <category lang="pt">infantil</category>
     <episode-num system="onscreen">S1E31</episode-num>
   </programme>
-  <programme start="20200514173500 +0100" stop="20200514174500 +0100" channel="RTP2.TV">
+  <programme start="20200514173600 +0100" stop="20200514174800 +0100" channel="RTP2.TV">
     <title lang="pt">Twirlywoos</title>
     <category lang="pt">infantil</category>
     <episode-num system="onscreen">S1E46</episode-num>
   </programme>
-  <programme start="20200514174500 +0100" stop="20200514175500 +0100" channel="RTP2.TV">
+  <programme start="20200514174800 +0100" stop="20200514175900 +0100" channel="RTP2.TV">
     <title lang="pt">Twirlywoos</title>
     <category lang="pt">infantil</category>
     <episode-num system="onscreen">S1E47</episode-num>
   </programme>
-  <programme start="20200514175500 +0100" stop="20200514180500 +0100" channel="RTP2.TV">
+  <programme start="20200514175900 +0100" stop="20200514181300 +0100" channel="RTP2.TV">
     <title lang="pt">Blinky Bill</title>
     <category lang="pt">infantil</category>
     <episode-num system="onscreen">S1E23</episode-num>
   </programme>
-  <programme start="20200514180500 +0100" stop="20200514182000 +0100" channel="RTP2.TV">
+  <programme start="20200514181300 +0100" stop="20200514181900 +0100" channel="RTP2.TV">
     <title lang="pt">Pat, o Cão</title>
     <category lang="pt">infantil</category>
     <episode-num system="onscreen">S1E52</episode-num>
   </programme>
-  <programme start="20200514182000 +0100" stop="20200514183000 +0100" channel="RTP2.TV">
+  <programme start="20200514181900 +0100" stop="20200514182900 +0100" channel="RTP2.TV">
     <title lang="pt">DesafioFicoEmCasa</title>
     <category lang="pt">infantil</category>
     <episode-num system="onscreen">S1E24</episode-num>
   </programme>
-  <programme start="20200514183000 +0100" stop="20200514184000 +0100" channel="RTP2.TV">
+  <programme start="20200514182900 +0100" stop="20200514184100 +0100" channel="RTP2.TV">
     <title lang="pt">As Regras do Ângelo</title>
     <category lang="pt">infantil</category>
     <episode-num system="onscreen">S4E34</episode-num>
   </programme>
-  <programme start="20200514184000 +0100" stop="20200514190500 +0100" channel="RTP2.TV">
+  <programme start="20200514184100 +0100" stop="20200514190900 +0100" channel="RTP2.TV">
     <title lang="pt">A Casa da Dani</title>
     <category lang="pt">infantil</category>
     <episode-num system="onscreen">S1E8</episode-num>
   </programme>
-  <programme start="20200514190500 +0100" stop="20200514193000 +0100" channel="RTP2.TV">
+  <programme start="20200514190900 +0100" stop="20200514193100 +0100" channel="RTP2.TV">
     <title lang="pt">As Aventuras de Ladybug</title>
     <category lang="pt">infantil</category>
     <episode-num system="onscreen">S2E17</episode-num>
   </programme>
-  <programme start="20200514193000 +0100" stop="20200514195500 +0100" channel="RTP2.TV">
+  <programme start="20200514193100 +0100" stop="20200514195300 +0100" channel="RTP2.TV">
     <title lang="pt">Boss Baby</title>
     <category lang="pt">infantil</category>
     <episode-num system="onscreen">S1E19</episode-num>
   </programme>
-  <programme start="20200514195500 +0100" stop="20200514200000 +0100" channel="RTP2.TV">
+  <programme start="20200514195300 +0100" stop="20200514200000 +0100" channel="RTP2.TV">
+    <title lang="pt">Tufão</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="onscreen">S2E12</episode-num>
+  </programme>
+  <programme start="20200514200000 +0100" stop="20200514200700 +0100" channel="RTP2.TV">
     <title lang="pt">Tufão</title>
     <category lang="pt">infantil</category>
     <episode-num system="onscreen">S2E16</episode-num>
   </programme>
-  <programme start="20200514200000 +0100" stop="20200514201000 +0100" channel="RTP2.TV">
+  <programme start="20200514200700 +0100" stop="20200514201500 +0100" channel="RTP2.TV">
     <title lang="pt">Ioga para Crianças</title>
     <category lang="pt">infantil</category>
     <episode-num system="onscreen">S1E24</episode-num>
   </programme>
-  <programme start="20200514201000 +0100" stop="20200514203000 +0100" channel="RTP2.TV">
+  <programme start="20200514201500 +0100" stop="20200514203400 +0100" channel="RTP2.TV">
     <title lang="pt">Waybuloo</title>
     <category lang="pt">infantil</category>
     <episode-num system="onscreen">S1E22</episode-num>
   </programme>
-  <programme start="20200514203000 +0100" stop="20200514204000 +0100" channel="RTP2.TV">
+  <programme start="20200514203400 +0100" stop="20200514204200 +0100" channel="RTP2.TV">
     <title lang="pt">A Casa da Árvore</title>
     <category lang="pt">infantil</category>
     <episode-num system="onscreen">S1E24</episode-num>
   </programme>
-  <programme start="20200514204000 +0100" stop="20200514205000 +0100" channel="RTP2.TV">
+  <programme start="20200514204200 +0100" stop="20200514205300 +0100" channel="RTP2.TV">
     <title lang="pt">Conta Um Conto</title>
     <category lang="pt">infantil</category>
     <episode-num system="onscreen">S1E15</episode-num>
   </programme>
-  <programme start="20200514205000 +0100" stop="20200514205500 +0100" channel="RTP2.TV">
-    <title lang="pt">Crias</title>
-    <category lang="pt">infantil</category>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20200514205500 +0100" stop="20200514210000 +0100" channel="RTP2.TV">
+  <programme start="20200514205300 +0100" stop="20200514205900 +0100" channel="RTP2.TV">
     <title lang="pt">Banda Zig Zag</title>
     <category lang="pt">infantil</category>
     <episode-num system="onscreen">S1E8</episode-num>
   </programme>
-  <programme start="20200514210000 +0100" stop="20200514213000 +0100" channel="RTP2.TV">
+  <programme start="20200514205900 +0100" stop="20200514213000 +0100" channel="RTP2.TV">
     <title lang="pt">Athena</title>
     <category lang="pt">infantil</category>
     <episode-num system="onscreen">S1E8</episode-num>
   </programme>
-  <programme start="20200514213000 +0100" stop="20200514220600 +0100" channel="RTP2.TV">
+  <programme start="20200514213000 +0100" stop="20200514220400 +0100" channel="RTP2.TV">
     <title lang="pt">Jornal 2</title>
     <category lang="pt">informacao</category>
   </programme>
-  <programme start="20200514220600 +0100" stop="20200514221200 +0100" channel="RTP2.TV">
+  <programme start="20200514220400 +0100" stop="20200514221400 +0100" channel="RTP2.TV">
     <title lang="pt">Folha de Sala</title>
     <category lang="pt">entretenimento</category>
   </programme>
-  <programme start="20200514221200 +0100" stop="20200514231500 +0100" channel="RTP2.TV">
+  <programme start="20200514221400 +0100" stop="20200514225700 +0100" channel="RTP2.TV">
     <title lang="pt">Aber Bergen</title>
     <category lang="pt">series</category>
     <episode-num system="onscreen">S2E1</episode-num>
   </programme>
-  <programme start="20200514231500 +0100" stop="20200515000500 +0100" channel="RTP2.TV">
+  <programme start="20200514225700 +0100" stop="20200514235100 +0100" channel="RTP2.TV">
     <title lang="pt">Portugu Esses</title>
     <category lang="pt">documentarios</category>
   </programme>
-  <programme start="20200515000500 +0100" stop="20200515005000 +0100" channel="RTP2.TV">
+  <programme start="20200514235100 +0100" stop="20200515003800 +0100" channel="RTP2.TV">
     <title lang="pt">Dias da Música em Belém 2018 - Jogos de Sedução (Georges Bizet, Carmen Suite)</title>
     <category lang="pt">entretenimento</category>
   </programme>
-  <programme start="20200515005000 +0100" stop="20200515015000 +0100" channel="RTP2.TV">
+  <programme start="20200515003800 +0100" stop="20200515014200 +0100" channel="RTP2.TV">
     <title lang="pt">Sociedade Civil</title>
     <category lang="pt">informacao</category>
     <episode-num system="onscreen">S16E93</episode-num>
   </programme>
-  <programme start="20200515015000 +0100" stop="20200515024000 +0100" channel="RTP2.TV">
+  <programme start="20200515014200 +0100" stop="20200515023200 +0100" channel="RTP2.TV">
     <title lang="pt">Zapping</title>
     <category lang="pt">entretenimento</category>
     <episode-num system="onscreen">S1E9</episode-num>
   </programme>
-  <programme start="20200515024000 +0100" stop="20200515031500 +0100" channel="RTP2.TV">
+  <programme start="20200515023200 +0100" stop="20200515030700 +0100" channel="RTP2.TV">
     <title lang="pt">Duelo Cunhal vs Soares 1975</title>
     <category lang="pt">documentarios</category>
   </programme>
-  <programme start="20200515031500 +0100" stop="20200515054500 +0100" channel="RTP2.TV">
+  <programme start="20200515030700 +0100" stop="20200515054500 +0100" channel="RTP2.TV">
     <title lang="pt">Euronews</title>
     <category lang="pt">informacao</category>
   </programme>
@@ -10609,7 +11171,7 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
     <title lang="es">Chatur Singh 2 star</title>
   </programme>
   <programme start="20200513170000 -0500" stop="20200513173000 -0500" channel="Zee.TV">
-    <title lang="es">Infomercial</title>
+    <title lang="es">Infomerciales</title>
   </programme>
   <programme start="20200513173000 -0500" stop="20200513200000 -0500" channel="Zee.TV">
     <title lang="es">Cycle Kick</title>
@@ -10624,7 +11186,7 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
     <title lang="es">Style</title>
   </programme>
   <programme start="20200514010000 -0500" stop="20200514013000 -0500" channel="Zee.TV">
-    <title lang="es">Infomercial</title>
+    <title lang="es">Infomerciales</title>
   </programme>
   <programme start="20200514013000 -0500" stop="20200514040000 -0500" channel="Zee.TV">
     <title lang="es">Satrangee Parachute</title>
@@ -10648,13 +11210,13 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
     <title lang="es">Kaccha Limboo</title>
   </programme>
   <programme start="20200514140000 -0500" stop="20200514143000 -0500" channel="Zee.TV">
-    <title lang="es">Infomercial</title>
+    <title lang="es">Infomerciales</title>
   </programme>
   <programme start="20200514143000 -0500" stop="20200514170000 -0500" channel="Zee.TV">
     <title lang="es">Insan</title>
   </programme>
   <programme start="20200514170000 -0500" stop="20200514173000 -0500" channel="Zee.TV">
-    <title lang="es">Infomercial</title>
+    <title lang="es">Infomerciales</title>
   </programme>
   <programme start="20200514173000 -0500" stop="20200514180000 -0500" channel="Zee.TV">
     <title lang="es">Bolly Beats</title>
@@ -10767,11 +11329,11 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
   <programme start="20200513220000 -0500" stop="20200513223000 -0500" channel="NTN24.TV">
     <title lang="es">Contador de Historias</title>
   </programme>
-  <programme start="20200513223000 -0500" stop="20200514100000 -0500" channel="NTN24.TV">
+  <programme start="20200513223000 -0500" stop="20200514173000 -0500" channel="NTN24.TV">
     <title lang="es">Flash Fashion</title>
   </programme>
-  <programme start="20200514100000 -0500" stop="20200515030000 -0500" channel="NTN24.TV">
-    <title lang="es">Planeta Gente</title>
+  <programme start="20200514173000 -0500" stop="20200515030000 -0500" channel="NTN24.TV">
+    <title lang="es">La Noche</title>
   </programme>
   <programme start="20200515030000 -0500" stop="20200515033000 -0500" channel="NTN24.TV">
     <title lang="es">Zoom a la Noticia</title>
@@ -11908,7 +12470,7 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
     <title lang="pl">Arirang News</title>
   </programme>
   <programme start="20200513092000 +0200" stop="20200513093500 +0200" channel="Arirang.TV">
-    <title lang="pl">Global Insight</title>
+    <title lang="pl">Global Insight #2</title>
   </programme>
   <programme start="20200513093500 +0200" stop="20200513100000 +0200" channel="Arirang.TV">
     <title lang="pl">NOW #177</title>
@@ -12046,7 +12608,7 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
     <title lang="pl">Arirang News</title>
   </programme>
   <programme start="20200514092000 +0200" stop="20200514093500 +0200" channel="Arirang.TV">
-    <title lang="pl">Global Insight #3</title>
+    <title lang="pl">Global Insight</title>
   </programme>
   <programme start="20200514093500 +0200" stop="20200514100000 +0200" channel="Arirang.TV">
     <title lang="pl">NOW #178</title>
@@ -12127,7 +12689,7 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
     <title lang="pl">Catchy Korea #13</title>
   </programme>
   <programme start="20200514233000 +0200" stop="20200515000000 +0200" channel="Arirang.TV">
-    <title lang="pl">SmartBiz Accelerators #79</title>
+    <title lang="pl">SmartBiz Accelerators #64</title>
   </programme>
   <programme start="20200515000000 +0200" stop="20200515003000 +0200" channel="Arirang.TV">
     <title lang="pl">Arirang News</title>
@@ -12148,7 +12710,7 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
     <title lang="pl">Catchy Korea #13</title>
   </programme>
   <programme start="20200515023000 +0200" stop="20200515030000 +0200" channel="Arirang.TV">
-    <title lang="pl">SmartBiz Accelerators #79</title>
+    <title lang="pl">SmartBiz Accelerators #64</title>
   </programme>
   <programme start="20200515030000 +0200" stop="20200515033000 +0200" channel="Arirang.TV">
     <title lang="pl">Arirang Live #1</title>
@@ -12169,7 +12731,7 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
     <title lang="pl">Arirang Live #1</title>
   </programme>
   <programme start="20200515070000 +0200" stop="20200515073000 +0200" channel="Arirang.TV">
-    <title lang="pl">SmartBiz Accelerators #79</title>
+    <title lang="pl">SmartBiz Accelerators #64</title>
   </programme>
   <programme start="20200515073000 +0200" stop="20200515080000 +0200" channel="Arirang.TV">
     <title lang="pl">Pops in Seoul #4205</title>
@@ -12214,7 +12776,7 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
     <title lang="pl">Money Monster #12</title>
   </programme>
   <programme start="20200515143000 +0200" stop="20200515150000 +0200" channel="Arirang.TV">
-    <title lang="pl">SmartBiz Accelerators #79</title>
+    <title lang="pl">SmartBiz Accelerators #64</title>
   </programme>
   <programme start="20200515150000 +0200" stop="20200515153000 +0200" channel="Arirang.TV">
     <title lang="pl">Documentary A #4</title>
@@ -12621,7 +13183,7 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
   </programme>
   <programme start="20200513000000 +0200" stop="20200513080000 +0200" channel="los40urban.Radio">
     <title lang="es">Fórmula</title>
-    <icon src="https://recursosweb.prisaradio.com/fotos/original/010002794377.png" />
+    <icon src="https://recursosweb.prisaradio.com/fotos/original/010002802163.png" />
   </programme>
   <programme start="20200513080000 +0200" stop="20200513120000 +0200" channel="los40urban.Radio">
     <title lang="es">Fórmula</title>
@@ -12630,7 +13192,7 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
   </programme>
   <programme start="20200513120000 +0200" stop="20200513160000 +0200" channel="los40urban.Radio">
     <title lang="es">Fórmula</title>
-    <icon src="https://recursosweb.prisaradio.com/fotos/original/010002794377.png" />
+    <icon src="https://recursosweb.prisaradio.com/fotos/original/010002802163.png" />
   </programme>
   <programme start="20200513160000 +0200" stop="20200513200000 +0200" channel="los40urban.Radio">
     <title lang="es">Fórmula</title>
@@ -12639,11 +13201,11 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
   </programme>
   <programme start="20200513200000 +0200" stop="20200513235900 +0200" channel="los40urban.Radio">
     <title lang="es">Fórmula</title>
-    <icon src="https://recursosweb.prisaradio.com/fotos/original/010002794377.png" />
+    <icon src="https://recursosweb.prisaradio.com/fotos/original/010002802163.png" />
   </programme>
   <programme start="20200514000000 +0200" stop="20200514080000 +0200" channel="los40urban.Radio">
     <title lang="es">Fórmula</title>
-    <icon src="https://recursosweb.prisaradio.com/fotos/original/010002794377.png" />
+    <icon src="https://recursosweb.prisaradio.com/fotos/original/010002802163.png" />
   </programme>
   <programme start="20200514080000 +0200" stop="20200514120000 +0200" channel="los40urban.Radio">
     <title lang="es">Fórmula</title>
@@ -12652,20 +13214,20 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
   </programme>
   <programme start="20200514120000 +0200" stop="20200514160000 +0200" channel="los40urban.Radio">
     <title lang="es">Fórmula</title>
-    <icon src="https://recursosweb.prisaradio.com/fotos/original/010002794377.png" />
+    <icon src="https://recursosweb.prisaradio.com/fotos/original/010002802163.png" />
   </programme>
   <programme start="20200514160000 +0200" stop="20200514200000 +0200" channel="los40urban.Radio">
     <title lang="es">Fórmula</title>
     <desc lang="es">Nallely Capellán.</desc>
-    <icon src="https://recursosweb.prisaradio.com/fotos/original/010002794377.png" />
+    <icon src="https://recursosweb.prisaradio.com/fotos/original/010002802163.png" />
   </programme>
   <programme start="20200514200000 +0200" stop="20200514235900 +0200" channel="los40urban.Radio">
     <title lang="es">Fórmula</title>
-    <icon src="https://recursosweb.prisaradio.com/fotos/original/010002794377.png" />
+    <icon src="https://recursosweb.prisaradio.com/fotos/original/010002802163.png" />
   </programme>
   <programme start="20200515000000 +0200" stop="20200515080000 +0200" channel="los40urban.Radio">
     <title lang="es">Fórmula</title>
-    <icon src="https://recursosweb.prisaradio.com/fotos/original/010002794377.png" />
+    <icon src="https://recursosweb.prisaradio.com/fotos/original/010002802163.png" />
   </programme>
   <programme start="20200515080000 +0200" stop="20200515120000 +0200" channel="los40urban.Radio">
     <title lang="es">Fórmula</title>
@@ -12674,7 +13236,7 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
   </programme>
   <programme start="20200515120000 +0200" stop="20200515160000 +0200" channel="los40urban.Radio">
     <title lang="es">Fórmula</title>
-    <icon src="https://recursosweb.prisaradio.com/fotos/original/010002794377.png" />
+    <icon src="https://recursosweb.prisaradio.com/fotos/original/010002802163.png" />
   </programme>
   <programme start="20200515160000 +0200" stop="20200515200000 +0200" channel="los40urban.Radio">
     <title lang="es">Fórmula</title>
@@ -12683,6 +13245,6 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
   </programme>
   <programme start="20200515200000 +0200" stop="20200515235900 +0200" channel="los40urban.Radio">
     <title lang="es">Fórmula</title>
-    <icon src="https://recursosweb.prisaradio.com/fotos/original/010002794377.png" />
+    <icon src="https://recursosweb.prisaradio.com/fotos/original/010002802163.png" />
   </programme>
 </tv>
