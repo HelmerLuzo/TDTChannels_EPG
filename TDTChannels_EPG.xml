@@ -2487,7 +2487,7 @@
     <date>2019</date>
     <category lang="es">Música</category>
     <category lang="es">Concierto</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MLA2V1720281" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M322587V1720281" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>12</value>
@@ -2948,7 +2948,7 @@
     <date>1993</date>
     <category lang="es">Cine</category>
     <category lang="es">Drama</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MLA2V59562" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M322587V59562" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -3137,6 +3137,9 @@
     <rating system="ES">
       <value>7</value>
     </rating>
+    <star-rating system="ES">
+      <value>5/5</value>
+    </star-rating>
   </programme>
   <programme start="20200708174500 +0200" stop="20200708190000 +0200" channel="Antena3.TV">
     <title lang="es">¡Ahora caigo!</title>
@@ -7248,23 +7251,70 @@
       <value>4/5</value>
     </star-rating>
   </programme>
-  <programme start="20200708060000 +0200" stop="20200708083000 +0200" channel="Nova.TV">
-    <title lang="es">Hoy Cocinas Tú</title>
-    <desc lang="es">Eva Arguiñano ofrece soluciones culinarias a personas anónimas que piden ayuda al programa ante distintos compromisos. En cada programa, Eva plantea un menú específico para la ocasión, elabora las recetas más apropiadas, y enseña a los afortunados como desarrollarlas.</desc>
-    <credits>
-      <presenter>Eva Arguiñano</presenter>
-    </credits>
-    <date>2006</date>
+  <programme start="20200708052500 +0200" stop="20200708061500 +0200" channel="Nova.TV">
+    <title lang="es">Galería del coleccionista</title>
+    <desc lang="es">Espacio comercial.</desc>
+    <date>2016</date>
     <category lang="es">Ocio y Aficiones</category>
-    <category lang="es">Cocina</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNOVAP904929" />
-    <country lang="es">España</country>
+    <category lang="es">Televenta</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1096644V1254041" />
     <rating system="ES">
       <value>TP</value>
     </rating>
     <star-rating system="ES">
       <value>3/5</value>
     </star-rating>
+  </programme>
+  <programme start="20200708061500 +0200" stop="20200708070000 +0200" channel="Nova.TV">
+    <title lang="es">Hoy Cocinas Tú</title>
+    <desc lang="es">Eva Arguiñano ofrece soluciones culinarias a personas anónimas que piden ayuda al programa ante distintos compromisos. En cada programa, Eva plantea un menú específico para la ocasión, elabora las recetas más apropiadas, y enseña a los afortunados como desarrollarlas.</desc>
+    <credits>
+      <presenter>Eva Arguiñano</presenter>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Cocina</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNOVAP1799156" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E83</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200708070000 +0200" stop="20200708074500 +0200" channel="Nova.TV">
+    <title lang="es">Hoy Cocinas Tú</title>
+    <desc lang="es">Eva Arguiñano ofrece soluciones culinarias a personas anónimas que piden ayuda al programa ante distintos compromisos. En cada programa, Eva plantea un menú específico para la ocasión, elabora las recetas más apropiadas, y enseña a los afortunados como desarrollarlas.</desc>
+    <credits>
+      <presenter>Eva Arguiñano</presenter>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Cocina</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNOVAP1711794" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E157</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200708074500 +0200" stop="20200708083000 +0200" channel="Nova.TV">
+    <title lang="es">Hoy Cocinas Tú</title>
+    <desc lang="es">Eva Arguiñano ofrece soluciones culinarias a personas anónimas que piden ayuda al programa ante distintos compromisos. En cada programa, Eva plantea un menú específico para la ocasión, elabora las recetas más apropiadas, y enseña a los afortunados como desarrollarlas.</desc>
+    <credits>
+      <presenter>Eva Arguiñano</presenter>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Cocina</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNOVAP1711795" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E158</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20200708083000 +0200" stop="20200708094000 +0200" channel="Nova.TV">
     <title lang="es">Joyas TV</title>
@@ -7281,13 +7331,13 @@
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme start="20200708094000 +0200" stop="20200708103000 +0200" channel="Nova.TV">
+  <programme start="20200708094000 +0200" stop="20200708103500 +0200" channel="Nova.TV">
     <title lang="es">Galería del coleccionista</title>
     <desc lang="es">Espacio comercial.</desc>
     <date>2016</date>
     <category lang="es">Ocio y Aficiones</category>
     <category lang="es">Televenta</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNOVAP1254041" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1096644V1254041" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -7295,7 +7345,7 @@
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme start="20200708103000 +0200" stop="20200708120500 +0200" channel="Nova.TV">
+  <programme start="20200708103500 +0200" stop="20200708120500 +0200" channel="Nova.TV">
     <title lang="es">Mi marido tiene más familia</title>
     <desc lang="es">Una pareja de enamorados, Julieta y Juan Pablo, empieza a convivir con la familia biológica del hombre, que fue adoptado cuando era pequeño. Juan Pablo tendrá que aprender a lidiar con su nueva familia, pero sin descuidar su noviazgo y futuro matrimonio.</desc>
     <credits>
@@ -7369,14 +7419,12 @@
     <date>2019</date>
     <category lang="es">Ocio y Aficiones</category>
     <category lang="es">Cocina</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNOVAP1714312" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNOVAP1721916" />
     <country lang="es">España</country>
+    <episode-num system="onscreen">S10 E1808</episode-num>
     <rating system="ES">
       <value>TP</value>
     </rating>
-    <star-rating system="ES">
-      <value>3/5</value>
-    </star-rating>
   </programme>
   <programme start="20200708150000 +0200" stop="20200708161500 +0200" channel="Nova.TV">
     <title lang="es">Elif</title>
@@ -7536,7 +7584,7 @@
       <value>4/5</value>
     </star-rating>
   </programme>
-  <programme start="20200708224000 +0200" stop="20200709002000 +0200" channel="Nova.TV">
+  <programme start="20200708224000 +0200" stop="20200709002500 +0200" channel="Nova.TV">
     <title lang="es">El milagro de Kennedy Hansen</title>
     <title lang="xx">Love, Kennedy</title>
     <desc lang="es">Kennedy sufre el primer síntoma de la enfermedad de Batten a los 11 años. Su campo visual se estrecha a gran velocidad hasta quedarse ciega. Pero cada día de los que le queda es una lección de vida.</desc>
@@ -7561,7 +7609,7 @@
       <value>4/5</value>
     </star-rating>
   </programme>
-  <programme start="20200709002000 +0200" stop="20200709015000 +0200" channel="Nova.TV">
+  <programme start="20200709002500 +0200" stop="20200709015000 +0200" channel="Nova.TV">
     <title lang="es">Pesadilla entre amigas</title>
     <title lang="xx">Social Nightmare</title>
     <desc lang="es">Cat y Emily son dos amigas que planean ir juntas a la universidad, pero una de ellas no lo consigue. Emily se enfada con su compañera por un comentario en una red social y ambas se distancian.</desc>
@@ -7614,9 +7662,10 @@
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme start="20200709031500 +0200" stop="20200709044000 +0200" channel="Nova.TV">
+  <programme start="20200709031500 +0200" stop="20200709035700 +0200" channel="Nova.TV">
     <title lang="es">Lucifer</title>
-    <desc lang="es">Encantador, carismático y bello como el diablo, Lucifer hace que la gente confiese sus secretos más profundos y oscuros. Este don ayuda a Chloe Decker, una detective del cuerpo de policía de Los Angeles, a impartir justicia resolviendo los casos más complicados que se cruzan en su camino. Ficción inspirada en las entregas de DC Cómics y Vértigo, y producida por Jerry Bruckheimer, responsable también de otras series policíacas y de misterio como la franquicia "CSI", "Sin Rastro" o "Caso abierto". El encargado de dar vida a uno de los demonios más atractivos y mujeriegos de todos los tiempos es Tom Ellis (quien interpretó a Gary Preston en la ficción televisiva "Miranda") y completa el dúo protagonista Lauren German (Leslie Shay en "Chicago Fire"). El elenco original de "Lucifer" sufrió varios cambios; originalmente el actor Nicholas Gonzalez interpretó a Dan en el episodio piloto, sin embargo este fue finalmente cambiado por el actor Kevin Alejandro. Por otro lado, en un principio Lina Esco iba a interpretar a Maze, sin embargo el papel finalmente recayó sobre la actriz Lesley-Ann Brandt. Los buenos datos de audiencia de las temporadas provocaron la renovación de la serie.</desc>
+    <sub-title lang="es">Devuélveme al infierno</sub-title>
+    <desc lang="es">Encantador, carismático y bello como el diablo, Lucifer hace que la gente confiese sus secretos más profundos y oscuros. Este don ayuda a Chloe Decker, una detective del cuerpo de policía de Los Angeles, a impartir justicia resolviendo los casos más complicados que se cruzan en su camino. Ficción inspirada en las entregas de DC Cómics y Vértigo, y producida por Jerry Bruckheimer, responsable también de otras series policíacas y de misterio como la franquicia "CSI", "Sin Rastro" o "Caso abierto". El encargado de dar vida a uno de los demonios más atractivos y mujeriegos de todos los tiempos es Tom Ellis (quien interpretó a Gary Preston en la ficción televisiva "Miranda") y completa el dúo protagonista Lauren German (Leslie Shay en "Chicago Fire"). El elenco original de "Lucifer" sufrió varios cambios; originalmente el actor Nicholas Gonzalez interpretó a Dan en el episodio piloto, sin embargo este fue finalmente cambiado por el actor Kevin Alejandro. Por otro lado, en un principio Lina Esco iba a interpretar a Maze, sin embargo el papel finalmente recayó sobre la actriz Lesley-Ann Brandt. Los buenos datos de audiencia de la primera temporada provocaron la renovación de la serie.</desc>
     <credits>
       <actor>Lauren German</actor>
       <actor>Kevin Alejandro</actor>
@@ -7625,11 +7674,37 @@
       <actor>D.B. Woodside</actor>
       <actor>Tom Ellis</actor>
     </credits>
-    <date>2017</date>
+    <date>2016</date>
     <category lang="es">Series</category>
     <category lang="es">Drama</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNOVAP1538146" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNOVAP1315256" />
     <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S1 E13</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200709035700 +0200" stop="20200709044000 +0200" channel="Nova.TV">
+    <title lang="es">Lucifer</title>
+    <sub-title lang="es">Piloto</sub-title>
+    <desc lang="es">La noche se tiñe de misterio con la nueva ficción de la cadena. En el primer episodio, un brutal asesinato tiene lugar en el Lux, un local nocturno del que es dueño Lucifer. La muerte de una joven estrella del pop atrae la atención de la detective Chloe Dancer. Ella queda sorprendida al ver la habilidad de Lucifer para dibujar los secretos de la gente y su deseo de hacer justicia castigando a quienes lo merecen. Al mismo tiempo, el emisario de Dios, el ángel Amenadiel, ha sido enviado a Los Ángeles para convencer a Lucifer de volver a los bajos fondos.</desc>
+    <credits>
+      <actor>Lauren German</actor>
+      <actor>Kevin Alejandro</actor>
+      <actor>Lesley-Ann Brandt</actor>
+      <actor>Scarlett Estevez</actor>
+      <actor>D.B. Woodside</actor>
+      <actor>Tom Ellis</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNOVAP1309341" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="ES">
       <value>12</value>
     </rating>
@@ -7657,7 +7732,7 @@
     <date>2016</date>
     <category lang="es">Ocio y Aficiones</category>
     <category lang="es">Televenta</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNOVAP1254041" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1096644V1254041" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -7704,7 +7779,7 @@
     <date>2016</date>
     <category lang="es">Ocio y Aficiones</category>
     <category lang="es">Televenta</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNOVAP1254041" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1096644V1254041" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -8079,7 +8154,7 @@
     <date>2016</date>
     <category lang="es">Ocio y Aficiones</category>
     <category lang="es">Televenta</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNOVAP1254041" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1096644V1254041" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -8126,7 +8201,7 @@
     <date>2016</date>
     <category lang="es">Ocio y Aficiones</category>
     <category lang="es">Televenta</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNOVAP1254041" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1096644V1254041" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -8178,7 +8253,7 @@
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme start="20200710134500 +0200" stop="20200710150000 +0200" channel="Nova.TV">
+  <programme start="20200710134500 +0200" stop="20200710143000 +0200" channel="Nova.TV">
     <title lang="es">Lo que la vida me robó</title>
     <desc lang="es">Monserrat es una joven noble y de buenos sentimientos que vive en Agua Azul. Está enamorada de un cabo de la marina llamado José Luis, con el que mantiene una relación oculta para evitar escándalos. Pero su felicidad se trunca cuando su madre le obliga a casarse con un tipo adinerado para solventar los problemas económicos por los que pasa la familia.</desc>
     <credits>
@@ -8199,7 +8274,7 @@
       <value>4/5</value>
     </star-rating>
   </programme>
-  <programme start="20200710150000 +0200" stop="20200710153000 +0200" channel="Nova.TV">
+  <programme start="20200710143000 +0200" stop="20200710150000 +0200" channel="Nova.TV">
     <title lang="es">Cocina abierta de Karlos Arguiñano</title>
     <desc lang="es">Décima temporada de este programa en el que Karlos Arguiñano, el cocinero más famoso de la televisión, ofrece cada día nuevas recetas y trucos culinarios. El cocinero vasco abre las puertas de su programa a nuevos tipos de cocina, pero sin dejar la cocina tradicional.</desc>
     <credits>
@@ -8217,7 +8292,7 @@
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme start="20200710153000 +0200" stop="20200710161500 +0200" channel="Nova.TV">
+  <programme start="20200710150000 +0200" stop="20200710161500 +0200" channel="Nova.TV">
     <title lang="es">Elif</title>
     <desc lang="es">Elif es separada de su madre y enviada a vivir con una amiga de ella que es ama de llaves de la magnífica mansión en la que vive su padre y la familia de este, sin que su progenitor sepa de la relación de parentesco que les une.</desc>
     <credits>
@@ -8238,7 +8313,7 @@
       <value>4/5</value>
     </star-rating>
   </programme>
-  <programme start="20200710161500 +0200" stop="20200710174500 +0200" channel="Nova.TV">
+  <programme start="20200710161500 +0200" stop="20200710173000 +0200" channel="Nova.TV">
     <title lang="es">Doña Bárbara</title>
     <desc lang="es">Doña Bárbara narra el regreso de Santos Luzardo a una hacienda y su encuentro con Doña Bárbara, patrona de la hacienda. La historia representa el conflicto entre la civilización y la barbarie. En ella el progreso está personificado en Santos Luzardo y el atraso, impuesto por el determinismo y lo incivilizado del medio geográfico, en el resto de los personajes, especialmente en Doña Bárbara.</desc>
     <credits>
@@ -8258,7 +8333,29 @@
       <value>4/5</value>
     </star-rating>
   </programme>
-  <programme start="20200710174500 +0200" stop="20200710183000 +0200" channel="Nova.TV">
+  <programme start="20200710173000 +0200" stop="20200710183000 +0200" channel="Nova.TV">
+    <title lang="es">Sortilegio</title>
+    <desc lang="es">Alejandro y Bruno son hermanastros y enemigos irreconciliables. Al morir el padre de Alejandro le dejó a él toda su herencia, sin contemplar a los hijos de su segunda esposa, Bruno y Raquel. Resentido por este hecho, los desheredados harán todo lo posible por destruir a su hermanastro y hacerse con la empresa familiar, sin saber que tienen en común mucho más de lo que piensan. El elenco, como es habitual en las producciones de Televisa, está compuesto por bellos rostros, habituales del serial mexicano: Jacqueline Bracamontes ("Las tontas no van al cielo") y William Levy ("Cuidado con el ángel") ocupan los papeles protagonistas. La producción cuenta con el aval de la incombustible Carla Estrada, ejecutiva omnipresente en la televisión de México, responsable, entre otras, de telenovelas como "Privilegio de Amar" y "Lazos de amor". Como curiosidad, el tema musical de la serie está interpretada por el célebre grupo de ópera pop Il Divo.</desc>
+    <credits>
+      <actor>Daniela Romo</actor>
+      <actor>Chantal Andere</actor>
+      <actor>David Zepeda</actor>
+      <actor>William Levy</actor>
+      <actor>Jacqueline Bracamontes</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Series</category>
+    <category lang="es">Telenovela</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNOVAP811724" />
+    <country lang="es">México</country>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200710183000 +0200" stop="20200710190000 +0200" channel="Nova.TV">
     <title lang="es">Cuando me enamoro</title>
     <desc lang="es">Es la historia de una mujer enamorada (Renata) que se casa con Jerónimo, un hombre que su motor principal es vengar la muerte de su hermano Rafael.</desc>
     <credits>
@@ -8281,7 +8378,7 @@
       <value>4/5</value>
     </star-rating>
   </programme>
-  <programme start="20200710183000 +0200" stop="20200710193000 +0200" channel="Nova.TV">
+  <programme start="20200710190000 +0200" stop="20200710200000 +0200" channel="Nova.TV">
     <title lang="es">Mi Corazón Insiste</title>
     <desc lang="es">La historia de amor de Lola Volcán y Andrés, dos jóvenes que se aman desde niños. Andrés la llama "Mi salamandra", por la afición de la muchacha a trepar árboles. Lola es una joven diferente, porque no sabe llorar ni en los momentos más dolorosos.</desc>
     <credits>
@@ -8301,28 +8398,6 @@
     </rating>
     <star-rating system="ES">
       <value>5/5</value>
-    </star-rating>
-  </programme>
-  <programme start="20200710193000 +0200" stop="20200710200000 +0200" channel="Nova.TV">
-    <title lang="es">Que te perdone Dios, yo no</title>
-    <desc lang="es">Renata, una joven de buena posición social, se enamora de Pablo, un peón de su hacienda y queda embarazada de él. Su padre, al nacer Abigail, su nieta, se la arrebata a Renata, entregándosela a una sirvienta, quien la criará como si fuera suya. "Que te perdone Dios, yo no" es una telenovela mexicana protagonizada por Zuria Vega, Mark Tacher y Sergio Goyri. Este relato está repleto de mentiras y secretos, centrado en la historia de amor de Abigail y Mateo.</desc>
-    <credits>
-      <actor>Mark Tacher</actor>
-      <actor>Sabine Moussier</actor>
-      <actor>Rebecca Jones</actor>
-      <actor>Sergio Goyri</actor>
-      <actor>Zuria Vega</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="es">Series</category>
-    <category lang="es">Telenovela</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNOVAP1222052" />
-    <country lang="es">México</country>
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-    <star-rating system="ES">
-      <value>3/5</value>
     </star-rating>
   </programme>
   <programme start="20200710200000 +0200" stop="20200710215000 +0200" channel="Nova.TV">
@@ -8375,16 +8450,26 @@
       <value>4/5</value>
     </star-rating>
   </programme>
-  <programme start="20200710224000 +0200" stop="20200711002000 +0200" channel="Nova.TV">
-    <title lang="es">Cine</title>
-    <desc lang="es">Emisión de una película.</desc>
+  <programme start="20200710224000 +0200" stop="20200711002500 +0200" channel="Nova.TV">
+    <title lang="es">El doctor de la isla</title>
+    <sub-title lang="es">Un lugar en el paraíso</sub-title>
+    <desc lang="es">Filipa, una prestigiosa doctora en Alemania, decide marcharse de su ciudad tras tener una mala experiencia. Es entonces, cuando Filipa viaja a las Islas Mauricio para desempeñar su trabajo en un hotel de lujo.</desc>
+    <credits>
+      <actor>Anja Knauer</actor>
+      <actor>Tyron Ricketts</actor>
+      <actor>Helmut Zierl</actor>
+      <actor>Tobias Licht</actor>
+      <actor>Dennenesch Zoudé</actor>
+    </credits>
     <date>2018</date>
-    <category lang="es">Cine</category>
-    <category lang="es">Otros</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M337228V710030" />
-    <star-rating system="ES">
-      <value>3/5</value>
-    </star-rating>
+    <category lang="es">Series</category>
+    <category lang="es">Suspense</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1126782V1799157" />
+    <country lang="es">Alemania</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20200708060000 +0200" stop="20200708065000 +0200" channel="Mega.TV">
     <title lang="es">Vidas anónimas</title>
@@ -13566,7 +13651,7 @@
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme start="20200708070000 +0200" stop="20200708080500 +0200" channel="ElToroTV.TV">
+  <programme start="20200708070000 +0200" stop="20200708074900 +0200" channel="ElToroTV.TV">
     <title lang="es">Oficios perdidos</title>
     <desc lang="es">Serie de reportajes sobre oficios artesanales de España que han caído en desuso.</desc>
     <credits>
@@ -13585,69 +13670,7 @@
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme start="20200708080500 +0200" stop="20200708081900 +0200" channel="ElToroTV.TV">
-    <title lang="es">Leer por leer</title>
-    <desc lang="es">Un espacio dedicado a los libros y a la lectura. Varios invitados visitan el espacio para hablar de autores destacados y sus obras.</desc>
-    <date>2017</date>
-    <category lang="es">Cultural/Educativo</category>
-    <category lang="es">Literatura</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M629337V1395434" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>3/5</value>
-    </star-rating>
-  </programme>
-  <programme start="20200708081900 +0200" stop="20200708084300 +0200" channel="ElToroTV.TV">
-    <title lang="es">No es bueno que Dios esté solo</title>
-    <desc lang="es">Programa de entrevistas en el que Gonzalo Altozano establece con el invitado una conversación sobre Dios. Personajes de todos los ámbitos pasarán por este programa caracterizado por una atmósfera de intimidad y sinceridad.</desc>
-    <credits>
-      <director>Gonzalo Altozano</director>
-    </credits>
-    <date>2012</date>
-    <category lang="es">Información</category>
-    <category lang="es">Entrevista</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MINTECOP1265491" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>3/5</value>
-    </star-rating>
-  </programme>
-  <programme start="20200708084300 +0200" stop="20200708091100 +0200" channel="ElToroTV.TV">
-    <title lang="es">Por la piel de España</title>
-    <desc lang="es">Programa documental que hace un recorrido por los pueblos y la cultura de España.</desc>
-    <date>2012</date>
-    <category lang="es">Documentales</category>
-    <category lang="es">Viajes</category>
-    <category lang="es">Expediciones</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MINTECOP1667565" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>3/5</value>
-    </star-rating>
-  </programme>
-  <programme start="20200708091100 +0200" stop="20200708094800 +0200" channel="ElToroTV.TV">
-    <title lang="es">Leer por leer</title>
-    <desc lang="es">Un espacio dedicado a los libros y a la lectura. Varios invitados visitan el espacio para hablar de autores destacados y sus obras.</desc>
-    <date>2017</date>
-    <category lang="es">Cultural/Educativo</category>
-    <category lang="es">Literatura</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M629337V1395434" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>3/5</value>
-    </star-rating>
-  </programme>
-  <programme start="20200708094800 +0200" stop="20200708115600 +0200" channel="ElToroTV.TV">
+  <programme start="20200708074900 +0200" stop="20200708100100 +0200" channel="ElToroTV.TV">
     <title lang="es">El gato al agua</title>
     <desc lang="es">Magazín informativo conducido por José Javier Esparza que trata temas de actualidad. El espacio se complementa con entrevistas en directo, tertulias y debates políticos interactivos con la participación de los telespectadores.</desc>
     <credits>
@@ -13665,30 +13688,15 @@
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme start="20200708115600 +0200" stop="20200708120300 +0200" channel="ElToroTV.TV">
-    <title lang="es">Academia play</title>
-    <desc lang="es">Programa realizado con la técnica de animación "vídeo scribing" en el que se tratan grandes temas históricos o pequeños trucos educativos.</desc>
-    <date>2018</date>
-    <category lang="es">Entretenimiento</category>
-    <category lang="es">Otros</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M956759V1590067" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>3/5</value>
-    </star-rating>
-  </programme>
-  <programme start="20200708120300 +0200" stop="20200708123000 +0200" channel="ElToroTV.TV">
-    <title lang="es">Cocina familiar con Javier Romero</title>
-    <desc lang="es">El cocinero más popular en las redes sociales, Javier Romero, dirige y presenta su programa gastronómico, un homenaje a una cocina casera y sabrosa que sobrevive al paso del tiempo y a la llegada de nuevas modas gastronómicas.</desc>
+  <programme start="20200708100100 +0200" stop="20200708110000 +0200" channel="ElToroTV.TV">
+    <title lang="es">La Partytura</title>
+    <desc lang="es">Presentado por Ramón Torrelledó, director de orquesta y compositor. Programa musical que incluye actuaciones, entrevistas, visitas a estudios de grabación y representaciones teatrales.</desc>
     <credits>
-      <presenter>Javier Romero</presenter>
+      <presenter>Ramón Torrelledó</presenter>
     </credits>
-    <date>2018</date>
-    <category lang="es">Ocio y Aficiones</category>
-    <category lang="es">Cocina</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MINTECOP1539594" />
+    <date>2019</date>
+    <category lang="es">Música</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M956757V1624572" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -13697,7 +13705,37 @@
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme start="20200708123000 +0200" stop="20200708143200 +0200" channel="ElToroTV.TV">
+  <programme start="20200708110000 +0200" stop="20200708111100 +0200" channel="ElToroTV.TV">
+    <title lang="es">Leer por leer</title>
+    <desc lang="es">Un espacio dedicado a los libros y a la lectura. Varios invitados visitan el espacio para hablar de autores destacados y sus obras.</desc>
+    <date>2017</date>
+    <category lang="es">Cultural/Educativo</category>
+    <category lang="es">Literatura</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M629337V1395434" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200708111100 +0200" stop="20200708120000 +0200" channel="ElToroTV.TV">
+    <title lang="es">La inmensa minoría</title>
+    <desc lang="es">Un programa para quienes no comulgan con ruedas de molino. Cuestiones como el globalismo, la ideología de género, el feminismo, la demografía o el cambio climático, en vivo y sin rebozo. Dirigido y presentado por el historiador Fernando Paz.</desc>
+    <credits>
+      <presenter>Fernando Paz</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Cultural/Educativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MINTECOP1785645" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200708120000 +0200" stop="20200708140100 +0200" channel="ElToroTV.TV">
     <title lang="es">La redacción abierta de la mañana</title>
     <desc lang="es">Extenso espacio informativo que incluye debates, tertulia y entrevistas. Presentado y dirigido por Cristina Ramos.</desc>
     <credits>
@@ -13715,7 +13753,7 @@
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme start="20200708143200 +0200" stop="20200708150000 +0200" channel="ElToroTV.TV">
+  <programme start="20200708140100 +0200" stop="20200708143000 +0200" channel="ElToroTV.TV">
     <title lang="es">Tiempos modernos</title>
     <desc lang="es">El historiador Fernando Paz analiza y explica los hechos históricos más relevantes que afectan a nuestro presente con la ayuda de los mejores analistas y divulgadores.</desc>
     <credits>
@@ -13733,18 +13771,57 @@
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme start="20200708150000 +0200" stop="20200708164600 +0200" channel="ElToroTV.TV">
-    <title lang="es">Cine</title>
-    <desc lang="es">Emisión de una película.</desc>
-    <date>2018</date>
-    <category lang="es">Cine</category>
-    <category lang="es">Otros</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M896581V710030" />
+  <programme start="20200708143000 +0200" stop="20200708162800 +0200" channel="ElToroTV.TV">
+    <title lang="es">La redacción abierta de la mañana</title>
+    <desc lang="es">Extenso espacio informativo que incluye debates, tertulia y entrevistas. Presentado y dirigido por Cristina Ramos.</desc>
+    <credits>
+      <presenter>Rafael Núñez</presenter>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MINTECOP1245434" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
     <star-rating system="ES">
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme start="20200708164600 +0200" stop="20200708173300 +0200" channel="ElToroTV.TV">
+  <programme start="20200708162800 +0200" stop="20200708175000 +0200" channel="ElToroTV.TV">
+    <title lang="es">Cita en Sundown</title>
+    <title lang="xx">Decision at Sundown</title>
+    <desc lang="es">Un pistolero llega a la ciudad dispuesto a arreglar cuentas con el hombre que le robó a su mujer. Ella se ha suicidado y él no quiere que se haga justicia, sólo busca venganza. Con tal propósito irrumpe en su vida el mismo día que pretende casarse con otra mujer.</desc>
+    <credits>
+      <director>Budd Boetticher</director>
+      <actor>Randolph Scott</actor>
+      <actor>Valerie French</actor>
+      <actor>John Carroll</actor>
+      <actor>Karen Steele</actor>
+      <actor>Ray Teal</actor>
+      <actor>John Archer</actor>
+      <actor>James Westerfield</actor>
+      <actor>John Litel</actor>
+      <actor>Noah Beery Jr</actor>
+      <actor>Andrew Duggan</actor>
+      <writer>Charles Lang</writer>
+      <producer>Harry Joe Brown</producer>
+      <composer>Heinz Roemheld</composer>
+    </credits>
+    <date>1957</date>
+    <category lang="es">Cine</category>
+    <category lang="es">Oeste</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MINTECOP164569" />
+    <country lang="es">EE.UU</country>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200708175000 +0200" stop="20200708183000 +0200" channel="ElToroTV.TV">
     <title lang="es">Oficios perdidos</title>
     <desc lang="es">Serie de reportajes sobre oficios artesanales de España que han caído en desuso.</desc>
     <credits>
@@ -13763,21 +13840,7 @@
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme start="20200708173300 +0200" stop="20200708180000 +0200" channel="ElToroTV.TV">
-    <title lang="es">Leer por leer</title>
-    <desc lang="es">Un espacio dedicado a los libros y a la lectura. Varios invitados visitan el espacio para hablar de autores destacados y sus obras.</desc>
-    <date>2017</date>
-    <category lang="es">Cultural/Educativo</category>
-    <category lang="es">Literatura</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M629337V1395434" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>3/5</value>
-    </star-rating>
-  </programme>
-  <programme start="20200708180000 +0200" stop="20200708200000 +0200" channel="ElToroTV.TV">
+  <programme start="20200708183000 +0200" stop="20200708203000 +0200" channel="ElToroTV.TV">
     <title lang="es">La redacción abierta de la tarde</title>
     <desc lang="es">Extenso espacio informativo que incluye debates, tertulia y entrevistas. Presentado y dirigido por Miguel Gutiérrez Pérez.</desc>
     <credits>
@@ -13795,25 +13858,7 @@
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme start="20200708200000 +0200" stop="20200708203000 +0200" channel="ElToroTV.TV">
-    <title lang="es">Pulso Económico</title>
-    <desc lang="es">Programa dirigido y presentado por Xavier Horcajo donde se analiza la actualidad económica.</desc>
-    <credits>
-      <presenter>Xavier Horcajo</presenter>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Información</category>
-    <category lang="es">Economía</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M953188V1634901" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>3/5</value>
-    </star-rating>
-  </programme>
-  <programme start="20200708203000 +0200" stop="20200708212000 +0200" channel="ElToroTV.TV">
+  <programme start="20200708203000 +0200" stop="20200708210000 +0200" channel="ElToroTV.TV">
     <title lang="es">Noticias El Toro TV</title>
     <desc lang="es">Informativo diario presentado por Alba Vila. El espacio combina información, entrevistas en directo y secciones de análisis.</desc>
     <credits>
@@ -13831,22 +13876,20 @@
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme start="20200708212000 +0200" stop="20200708214500 +0200" channel="ElToroTV.TV">
-    <title lang="es">Tiempos modernos</title>
-    <desc lang="es">El historiador Fernando Paz analiza y explica los hechos históricos más relevantes que afectan a nuestro presente con la ayuda de los mejores analistas y divulgadores.</desc>
+  <programme start="20200708210000 +0200" stop="20200708214500 +0200" channel="ElToroTV.TV">
+    <title lang="es">La inmensa minoría</title>
+    <desc lang="es">Un programa para quienes no comulgan con ruedas de molino. Cuestiones como el globalismo, la ideología de género, el feminismo, la demografía o el cambio climático, en vivo y sin rebozo. Dirigido y presentado por el historiador Fernando Paz.</desc>
     <credits>
       <presenter>Fernando Paz</presenter>
-      <presenter>José Javier Esparza</presenter>
     </credits>
-    <date>2017</date>
-    <category lang="es">Entretenimiento</category>
-    <category lang="es">Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MINTECOP1375159" />
+    <date>2020</date>
+    <category lang="es">Cultural/Educativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MINTECOP1785645" />
     <rating system="ES">
       <value>TP</value>
     </rating>
     <star-rating system="ES">
-      <value>3/5</value>
+      <value>4/5</value>
     </star-rating>
   </programme>
   <programme start="20200708214500 +0200" stop="20200709000100 +0200" channel="ElToroTV.TV">
@@ -13867,16 +13910,34 @@
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme start="20200709000100 +0200" stop="20200709005100 +0200" channel="ElToroTV.TV">
-    <title lang="es">Noticias El Toro TV</title>
-    <desc lang="es">Informativo diario presentado por Alba Vila. El espacio combina información, entrevistas en directo y secciones de análisis.</desc>
+  <programme start="20200709000100 +0200" stop="20200709001700 +0200" channel="ElToroTV.TV">
+    <title lang="es">Noticiario 1936</title>
+    <desc lang="es">En febrero de 1936 se celebraron unas elecciones fraudulentas que acabarían desembocando, seis meses después, en una cruenta guerra civil. Eduardo García Serrano recupera, jornada a jornada, y con documentos, los acontecimientos que llevaron a España al desastre.</desc>
     <credits>
-      <presenter>Alba Vila</presenter>
+      <presenter>Eduardo García Serrano</presenter>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Documentales</category>
+    <category lang="es">Historia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MINTECOP1629205" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20200709001700 +0200" stop="20200709021500 +0200" channel="ElToroTV.TV">
+    <title lang="es">La redacción abierta de la mañana</title>
+    <desc lang="es">Extenso espacio informativo que incluye debates, tertulia y entrevistas. Presentado y dirigido por Cristina Ramos.</desc>
+    <credits>
+      <presenter>Rafael Núñez</presenter>
     </credits>
     <date>2015</date>
     <category lang="es">Información</category>
     <category lang="es">Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MINTECOP1342028" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MINTECOP1245434" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -13885,17 +13946,13 @@
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme start="20200709005100 +0200" stop="20200709011900 +0200" channel="ElToroTV.TV">
-    <title lang="es">Pulso Económico</title>
-    <desc lang="es">Programa dirigido y presentado por Xavier Horcajo donde se analiza la actualidad económica.</desc>
-    <credits>
-      <presenter>Xavier Horcajo</presenter>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Información</category>
-    <category lang="es">Economía</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M953188V1634901" />
-    <country lang="es">España</country>
+  <programme start="20200709021500 +0200" stop="20200709024000 +0200" channel="ElToroTV.TV">
+    <title lang="es">Leer por leer</title>
+    <desc lang="es">Un espacio dedicado a los libros y a la lectura. Varios invitados visitan el espacio para hablar de autores destacados y sus obras.</desc>
+    <date>2017</date>
+    <category lang="es">Cultural/Educativo</category>
+    <category lang="es">Literatura</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M629337V1395434" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -13903,22 +13960,7 @@
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme start="20200709011900 +0200" stop="20200709021000 +0200" channel="ElToroTV.TV">
-    <title lang="es">Grandes, con Jenny Llada</title>
-    <desc lang="es">Un programa de entrevistas presentado por la vedette y actriz española, Jenny Llada, donde conversa con diversos invitados de lujo y personalidades de amplia trayectoria artística.</desc>
-    <date>2019</date>
-    <category lang="es">Entretenimiento</category>
-    <category lang="es">Entrevista</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M306012V1717649" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>3/5</value>
-    </star-rating>
-  </programme>
-  <programme start="20200709021000 +0200" stop="20200709040500 +0200" channel="ElToroTV.TV">
+  <programme start="20200709024000 +0200" stop="20200709043200 +0200" channel="ElToroTV.TV">
     <title lang="es">La redacción abierta de la tarde</title>
     <desc lang="es">Extenso espacio informativo que incluye debates, tertulia y entrevistas. Presentado y dirigido por Miguel Gutiérrez Pérez.</desc>
     <credits>
@@ -13936,7 +13978,7 @@
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme start="20200709040500 +0200" stop="20200709070000 +0200" channel="ElToroTV.TV">
+  <programme start="20200709043200 +0200" stop="20200709070000 +0200" channel="ElToroTV.TV">
     <title lang="es">Leer por leer</title>
     <desc lang="es">Un espacio dedicado a los libros y a la lectura. Varios invitados visitan el espacio para hablar de autores destacados y sus obras.</desc>
     <date>2017</date>
@@ -16229,7 +16271,7 @@
     <title lang="es">LaLiga Santander (T19/20)</title>
     <title lang="xx">LaLiga Santander</title>
     <sub-title lang="es">Real Sociedad-Granada</sub-title>
-    <desc lang="es">En una pelea de todos contra todos, solo los más fuertes se mantienen, alcanzan Europa, se meten en Champions o alzan el título. Así es LaLiga, el campeonato de la regularidad con los veinte clubes más potentes del fútbol español. El Barcelona defiende la corona.</desc>
+    <desc lang="es">La Real Sociedad y el Granada son dos de los aspirantes a los puestos de Europa League. Con solo 12 puntos por disputarse, los donostiarras cuentan con cuatro de ventaja sobre el conjunto nazarí. De no ganar en Anoeta, los andaluces quedarán apeados de la lucha.</desc>
     <category lang="es">Deportes</category>
     <category lang="es">Fútbol español</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3833333" />
@@ -23400,7 +23442,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20200708061000 +0000" stop="20200708080000 +0000" channel="CanalSurA2.TV">
+  <programme start="20200708061000 +0000" stop="20200708070000 +0000" channel="CanalSurA2.TV">
     <title lang="es">10 razones para ir</title>
     <sub-title lang="es">Dúrcal (Granada)</sub-title>
     <desc lang="es">Un paseo por los pueblos de Andalucía donde sus propios habitantes propondrán los principales atractivos a visitar de cada municipio. Además, resaltarán las costumbres, gastronomía, historia y pasión de sus gentes. Un paseo por los pueblos de Andalucía donde sus propios habitantes propondrán los principales atractivos a visitar de cada municipio. Además, resaltarán las costumbres, gastronomía, historia y pasión de sus gentes.</desc>
@@ -23410,7 +23452,36 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20200708080000 +0000" stop="20200708113000 +0000" channel="CanalSurA2.TV">
+  <programme start="20200708070000 +0000" stop="20200708070500 +0000" channel="CanalSurA2.TV">
+    <title lang="es">Al sur del tiempo hitos</title>
+    <sub-title lang="es">Almonte. Ida y vuelta al Paraíso (Huelva)</sub-title>
+    <desc lang="es">Microespacio sobre los hitos intangibles del patrimonio cultural de Andalucía. Microespacio sobre los hitos intangibles del patrimonio cultural de Andalucía.</desc>
+    <category lang="es">Generales</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/87/409223.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200708070500 +0000" stop="20200708080000 +0000" channel="CanalSurA2.TV">
+    <title lang="es">Animales en familia</title>
+    <desc lang="es">Espacio familiar cuyo objetivo es entretener, informar y sensibilizar al espectador sobre el mundo de los animales. Presentado por Tutti Márquez, periodista sevillana, en este programa tienen cabida historias de mascotas y animales salvajes, entre otros. Espacio familiar cuyo objetivo es entretener, informar y sensibilizar al espectador sobre el mundo de los animales. Presentado por Tutti Márquez, periodista sevillana, en este programa tienen cabida historias de mascotas y animales salvajes, entre otros.</desc>
+    <credits>
+      <director>Fidel Durán</director>
+      <presenter>Tutti Márquez</presenter>
+    </credits>
+    <category lang="es">Naturaleza y animales</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/69/179049.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200708080000 +0000" stop="20200708090000 +0000" channel="CanalSurA2.TV">
+    <title lang="es">Los Repobladores</title>
+    <desc lang="es">Programa que recoge la experiencia de personas, que tras vivir en la ciudad, han decidido comenzar una nueva vida en pequeñas localidades de nuestra comunidad. Los protagonistas del programa viven en pueblos que ofrecen un sinfín oportunidades. Programa que recoge la experiencia de personas, que tras vivir en la ciudad, han decidido comenzar una nueva vida en pequeñas localidades de nuestra comunidad. Los protagonistas del programa viven en pueblos que ofrecen un sinfín oportunidades.</desc>
+    <category lang="es">Otros</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/6d/613997.png" />
+  </programme>
+  <programme start="20200708090000 +0000" stop="20200708100000 +0000" channel="CanalSurA2.TV">
     <title lang="es">Buenos días, Andalucía</title>
     <desc lang="es">Espacio matinal de lunes a viernes, que hace un repaso de la actualidad a través de noticias y reportajes, centrándose en la actualidad política, económica y social de la comunidad de la mano de Carlos María Ruiz y Silvia Sanz. Espacio matinal de lunes a viernes, que hace un repaso de la actualidad a través de noticias y reportajes, centrándose en la actualidad política, económica y social de la comunidad de la mano de Carlos María Ruiz y Silvia Sanz.</desc>
     <credits>
@@ -23420,8 +23491,22 @@
     <category lang="es">Magazines</category>
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/95/613781.png" />
   </programme>
-  <programme start="20200708113000 +0000" stop="20200708140500 +0000" channel="CanalSurA2.TV">
+  <programme start="20200708100000 +0000" stop="20200708113000 +0000" channel="CanalSurA2.TV">
+    <title lang="es">Andalucía Directo</title>
+    <desc lang="es">En este magacín se tratan temas de interés humano, social, sucesos, cultura, gastronomía y se presta una gran atención al mundo rural. El programa incluye reportajes y conexiones en directo que se extienden a lo largo de los cuatro bloques en los que se divide. En este magacín se tratan temas de interés humano, social, sucesos, cultura, gastronomía y se presta una gran atención al mundo rural. El programa incluye reportajes y conexiones en directo que se extienden a lo largo de los cuatro bloques en los que se divide.</desc>
+    <credits>
+      <director>Modesto Barragán</director>
+      <presenter>Modesto Barragán</presenter>
+    </credits>
+    <category lang="es">Magazines</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/eb/614123.png" />
+    <rating>
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20200708113000 +0000" stop="20200708120500 +0000" channel="CanalSurA2.TV">
     <title lang="es">Cómetelo</title>
+    <sub-title lang="es">Atún empanado y pastelitos de boniato</sub-title>
     <desc lang="es">El chef Enrique Sánchez elabora una receta con productos andaluces, con denominación de origen o reconocido prestigio. Este espacio acerca los productos agroalimentarios, naturales y andaluces de calidad, a la audiencia. El chef Enrique Sánchez elabora una receta con productos andaluces, con denominación de origen o reconocido prestigio. Este espacio acerca los productos agroalimentarios, naturales y andaluces de calidad, a la audiencia.</desc>
     <credits>
       <presenter>Enrique Sánchez</presenter>
@@ -23432,13 +23517,31 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20200708140500 +0000" stop="20200708142000 +0000" channel="CanalSurA2.TV">
+  <programme start="20200708120500 +0000" stop="20200708130000 +0000" channel="CanalSurA2.TV">
+    <title lang="es">Atrápame si puedes</title>
+    <desc lang="es">Los cinco concursantes que participarán cada semana deberán contestar bien las preguntas de las diferentes fases y tendrán que competir entre ellos para conseguir llegar a la escalera final e intentar atrapar el bote. Los cinco concursantes que participarán cada semana deberán contestar bien las preguntas de las diferentes fases y tendrán que competir entre ellos para conseguir llegar a la escalera final e intentar atrapar el bote.</desc>
+    <credits>
+      <presenter>Manolo Sarria</presenter>
+    </credits>
+    <category lang="es">Concursos</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/8a/631946.png" />
+  </programme>
+  <programme start="20200708130000 +0000" stop="20200708140500 +0000" channel="CanalSurA2.TV">
+    <title lang="es">Hoy en día</title>
+    <desc lang="es">Programa de actualidad y entretenimiento para informar, asesorar, debatir sobre los asuntos del día y para presentar a andaluces anónimos que destacan en diferentes ámbitos, así como a personajes muy conocidos del gran público. Programa de actualidad y entretenimiento para informar, asesorar, debatir sobre los asuntos del día y para presentar a andaluces anónimos que destacan en diferentes ámbitos, así como a personajes muy conocidos del gran público.</desc>
+    <credits>
+      <presenter>Fernando Díaz de la Guardia</presenter>
+    </credits>
+    <category lang="es">Magazines</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/ad/613805.png" />
+  </programme>
+  <programme start="20200708140500 +0000" stop="20200708141500 +0000" channel="CanalSurA2.TV">
     <title lang="es">Noticias provinciales</title>
     <desc lang="es">Informativos locales desde cada una de las ocho provincias andaluzas. Informativos locales desde cada una de las ocho provincias andaluzas.</desc>
     <category lang="es">Noticias</category>
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/6a/21000042.png" />
   </programme>
-  <programme start="20200708142000 +0000" stop="20200708154000 +0000" channel="CanalSurA2.TV">
+  <programme start="20200708141500 +0000" stop="20200708154000 +0000" channel="CanalSurA2.TV">
     <title lang="es">Canal Sur Noticias 1</title>
     <desc lang="es">Primera edición de las noticias que Canal Sur emite de lunes a viernes. El informativo, presentado por Ana Cristina Ramírez, repasa la actualidad general con especial atención a los temas relacionados con Andalucía. Primera edición de las noticias que Canal Sur emite de lunes a viernes. El informativo, presentado por Ana Cristina Ramírez, repasa la actualidad general con especial atención a los temas relacionados con Andalucía.</desc>
     <credits>
@@ -23474,6 +23577,7 @@
   </programme>
   <programme start="20200708195000 +0000" stop="20200708203000 +0000" channel="CanalSurA2.TV">
     <title lang="es">Cómetelo</title>
+    <sub-title lang="es">Lomo de ternera con salsa de champiñones</sub-title>
     <desc lang="es">El chef Enrique Sánchez elabora una receta con productos andaluces, con denominación de origen o reconocido prestigio. Este espacio acerca los productos agroalimentarios, naturales y andaluces de calidad, a la audiencia. El chef Enrique Sánchez elabora una receta con productos andaluces, con denominación de origen o reconocido prestigio. Este espacio acerca los productos agroalimentarios, naturales y andaluces de calidad, a la audiencia.</desc>
     <credits>
       <presenter>Enrique Sánchez</presenter>
@@ -23484,16 +23588,16 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20200708203000 +0000" stop="20200708214000 +0000" channel="CanalSurA2.TV">
+  <programme start="20200708203000 +0000" stop="20200708214500 +0000" channel="CanalSurA2.TV">
     <title lang="es">Canal Sur Noticias 2</title>
     <desc lang="es">Segunda edición de las noticias que Canal Sur emite de lunes a viernes de la mano de Victoria Romero. El informativo repasa la actualidad, poniendo especial atención a los temas relacionados con Andalucía. El espacio también incluye una sección deportiva. Segunda edición de las noticias que Canal Sur emite de lunes a viernes de la mano de Victoria Romero. El informativo repasa la actualidad, poniendo especial atención a los temas relacionados con Andalucía. El espacio también incluye una sección deportiva.</desc>
     <credits>
-      <presenter>Victoria Romero</presenter>
+      <presenter>Patricia Lupiañez</presenter>
     </credits>
     <category lang="es">Noticias</category>
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/b9/613817.png" />
   </programme>
-  <programme start="20200708214000 +0000" stop="20200708222500 +0000" channel="CanalSurA2.TV">
+  <programme start="20200708214500 +0000" stop="20200708223000 +0000" channel="CanalSurA2.TV">
     <title lang="es">Atrápame si puedes</title>
     <desc lang="es">Los cinco concursantes que participarán cada semana deberán contestar bien las preguntas de las diferentes fases y tendrán que competir entre ellos para conseguir llegar a la escalera final e intentar atrapar el bote. Los cinco concursantes que participarán cada semana deberán contestar bien las preguntas de las diferentes fases y tendrán que competir entre ellos para conseguir llegar a la escalera final e intentar atrapar el bote.</desc>
     <credits>
@@ -23502,50 +23606,86 @@
     <category lang="es">Concursos</category>
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/8a/631946.png" />
   </programme>
-  <programme start="20200708222500 +0000" stop="20200709012000 +0000" channel="CanalSurA2.TV">
-    <title lang="es">Programa por determinar</title>
-    <desc lang="es">Programa por determinar. Programa por determinar.</desc>
+  <programme start="20200708223000 +0000" stop="20200709013000 +0000" channel="CanalSurA2.TV">
+    <title lang="es">Andalucia de fiesta</title>
+    <desc lang="es">Modesto Barragán y Paz Santana dirigen este programa que recorre las ocho provincias andaluzas en busca de sus fiestas más singulares. A través de imágenes, los espectadores se trasladarán a los lugares en los que los andaluces viven sus fiestas populares. Modesto Barragán recuerda las fiestas que se celebrarían estos días y se han tenido que cancelar.</desc>
+    <credits>
+      <presenter>Modesto Barragán</presenter>
+    </credits>
     <category lang="es">Otros</category>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/ac/344236.png" />
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/05/615173.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20200709012000 +0000" stop="20200709023500 +0000" channel="CanalSurA2.TV">
+  <programme start="20200709013000 +0000" stop="20200709040500 +0000" channel="CanalSurA2.TV">
     <title lang="es">Andaluces por España</title>
+    <sub-title lang="es">Madrid</sub-title>
     <desc lang="es">'Docu show' que relata las historias de andaluces que han emigrado a lo largo y ancho del territorio nacional, ya sea por trabajo, por amor o por aventura. 'Docu show' que relata las historias de andaluces que han emigrado a lo largo y ancho del territorio nacional, ya sea por trabajo, por amor o por aventura.</desc>
     <category lang="es">Viajes</category>
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f7/333047.png" />
   </programme>
-  <programme start="20200709023500 +0000" stop="20200709040000 +0000" channel="CanalSurA2.TV">
-    <title lang="es">Programa por determinar</title>
-    <desc lang="es">Programa por determinar. Programa por determinar.</desc>
-    <category lang="es">Otros</category>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/ac/344236.png" />
-  </programme>
-  <programme start="20200709040000 +0000" stop="20200709050000 +0000" channel="CanalSurA2.TV">
+  <programme start="20200709040500 +0000" stop="20200709050500 +0000" channel="CanalSurA2.TV">
     <title lang="es">Canal Sur música</title>
     <desc lang="es">Espacio musical que presta especial atención a los intérpretes andaluces y se centra tanto en la música tradicional como en las composiciones modernas. Espacio musical que presta especial atención a los intérpretes andaluces y se centra tanto en la música tradicional como en las composiciones modernas.</desc>
     <category lang="es">Popular</category>
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/22/614434.png" />
   </programme>
-  <programme start="20200709050000 +0000" stop="20200709052000 +0000" channel="CanalSurA2.TV">
-    <title lang="es">Programa por determinar</title>
-    <desc lang="es">Programa por determinar. Programa por determinar.</desc>
-    <category lang="es">Otros</category>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/ac/344236.png" />
-  </programme>
-  <programme start="20200709052000 +0000" stop="20200709062000 +0000" channel="CanalSurA2.TV">
-    <title lang="es">Solidarios</title>
-    <desc lang="es">Programa dedicado a los países del tercer mundo, a las minorías, a los discapacitados, a los voluntarios y a la infancia. Se trata de un espacio que pretende que los andaluces conozcan el trabajo de las ONG y de las asociaciones de asuntos sociales. Programa dedicado a los países del tercer mundo, a las minorías, a los discapacitados, a los voluntarios y a la infancia. Se trata de un espacio que pretende que los andaluces conozcan el trabajo de las ONG y de las asociaciones de asuntos sociales.</desc>
+  <programme start="20200709050500 +0000" stop="20200709060500 +0000" channel="CanalSurA2.TV">
+    <title lang="es">Lo Flamenco</title>
+    <desc lang="es">Programa que se encarga de divulgar y dar a conocer todo lo relacionado con el flamenco. El espacio incluye anécdotas, curiosidades y también actuaciones. Además, el programa recuerda a las principales figuras de este género musical. Programa que se encarga de divulgar y dar a conocer todo lo relacionado con el flamenco. El espacio incluye anécdotas, curiosidades y también actuaciones. Además, el programa recuerda a las principales figuras de este género musical.</desc>
     <credits>
-      <director>Belén Torres</director>
-      <presenter>Belén Torres</presenter>
+      <presenter>Manuel Curao</presenter>
     </credits>
-    <category lang="es">Actualidad</category>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/8a/613770.png" />
+    <category lang="es">Otros</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/5b/626267.png" />
     <rating>
-      <value>7</value>
+      <value>TP</value>
     </rating>
   </programme>
-  <programme start="20200709062000 +0000" stop="20200709080000 +0000" channel="CanalSurA2.TV">
+  <programme start="20200709060500 +0000" stop="20200709063000 +0000" channel="CanalSurA2.TV">
+    <title lang="es">Hijos de Andalucía</title>
+    <sub-title lang="es">Javier Benjumea</sub-title>
+    <desc lang="es">Serie documental que narra las trayectorias profesionales y personales de aquellos hombres y mujeres que, desde 1983, han sido nombrados Hijos Predilectos de Andalucía o han obtenido la Medalla de Oro de dicha comunidad. Serie documental que narra las trayectorias profesionales y personales de aquellos hombres y mujeres que, desde 1983, han sido nombrados Hijos Predilectos de Andalucía o han obtenido la Medalla de Oro de dicha comunidad.</desc>
+    <credits>
+      <director>Juan Francisco Lorenci</director>
+    </credits>
+    <category lang="es">Biográficos</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/84/359556.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200709063000 +0000" stop="20200709071500 +0000" channel="CanalSurA2.TV">
+    <title lang="es">10 razones para ir</title>
+    <sub-title lang="es">Casabermeja (Málaga)</sub-title>
+    <desc lang="es">Un paseo por los pueblos de Andalucía donde sus propios habitantes propondrán los principales atractivos a visitar de cada municipio. Además, resaltarán las costumbres, gastronomía, historia y pasión de sus gentes. Un paseo por los pueblos de Andalucía donde sus propios habitantes propondrán los principales atractivos a visitar de cada municipio. Además, resaltarán las costumbres, gastronomía, historia y pasión de sus gentes.</desc>
+    <category lang="es">Viajes</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/7a/359290.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200709071500 +0000" stop="20200709080500 +0000" channel="CanalSurA2.TV">
+    <title lang="es">Animales en familia</title>
+    <desc lang="es">Espacio familiar cuyo objetivo es entretener, informar y sensibilizar al espectador sobre el mundo de los animales. Presentado por Tutti Márquez, periodista sevillana, en este programa tienen cabida historias de mascotas y animales salvajes, entre otros. Espacio familiar cuyo objetivo es entretener, informar y sensibilizar al espectador sobre el mundo de los animales. Presentado por Tutti Márquez, periodista sevillana, en este programa tienen cabida historias de mascotas y animales salvajes, entre otros.</desc>
+    <credits>
+      <director>Fidel Durán</director>
+      <presenter>Tutti Márquez</presenter>
+    </credits>
+    <category lang="es">Naturaleza y animales</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/69/179049.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200709080500 +0000" stop="20200709100000 +0000" channel="CanalSurA2.TV">
+    <title lang="es">Los Repobladores</title>
+    <desc lang="es">Programa que recoge la experiencia de personas, que tras vivir en la ciudad, han decidido comenzar una nueva vida en pequeñas localidades de nuestra comunidad. Los protagonistas del programa viven en pueblos que ofrecen un sinfín oportunidades. Programa que recoge la experiencia de personas, que tras vivir en la ciudad, han decidido comenzar una nueva vida en pequeñas localidades de nuestra comunidad. Los protagonistas del programa viven en pueblos que ofrecen un sinfín oportunidades.</desc>
+    <category lang="es">Otros</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/6d/613997.png" />
+  </programme>
+  <programme start="20200709100000 +0000" stop="20200709114000 +0000" channel="CanalSurA2.TV">
     <title lang="es">Andalucía Directo</title>
     <desc lang="es">En este magacín se tratan temas de interés humano, social, sucesos, cultura, gastronomía y se presta una gran atención al mundo rural. El programa incluye reportajes y conexiones en directo que se extienden a lo largo de los cuatro bloques en los que se divide. En este magacín se tratan temas de interés humano, social, sucesos, cultura, gastronomía y se presta una gran atención al mundo rural. El programa incluye reportajes y conexiones en directo que se extienden a lo largo de los cuatro bloques en los que se divide.</desc>
     <credits>
@@ -23558,17 +23698,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20200709080000 +0000" stop="20200709113000 +0000" channel="CanalSurA2.TV">
-    <title lang="es">Buenos días, Andalucía</title>
-    <desc lang="es">Espacio matinal de lunes a viernes, que hace un repaso de la actualidad a través de noticias y reportajes, centrándose en la actualidad política, económica y social de la comunidad de la mano de Carlos María Ruiz y Silvia Sanz. Espacio matinal de lunes a viernes, que hace un repaso de la actualidad a través de noticias y reportajes, centrándose en la actualidad política, económica y social de la comunidad de la mano de Carlos María Ruiz y Silvia Sanz.</desc>
-    <credits>
-      <director>Xoán Freire Besteiro</director>
-      <presenter>Silvia Sanz</presenter>
-    </credits>
-    <category lang="es">Magazines</category>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/95/613781.png" />
-  </programme>
-  <programme start="20200709113000 +0000" stop="20200709140500 +0000" channel="CanalSurA2.TV">
+  <programme start="20200709114000 +0000" stop="20200709121000 +0000" channel="CanalSurA2.TV">
     <title lang="es">Cómetelo</title>
     <desc lang="es">El chef Enrique Sánchez elabora una receta con productos andaluces, con denominación de origen o reconocido prestigio. Este espacio acerca los productos agroalimentarios, naturales y andaluces de calidad, a la audiencia. El chef Enrique Sánchez elabora una receta con productos andaluces, con denominación de origen o reconocido prestigio. Este espacio acerca los productos agroalimentarios, naturales y andaluces de calidad, a la audiencia.</desc>
     <credits>
@@ -23580,13 +23710,31 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20200709140500 +0000" stop="20200709142000 +0000" channel="CanalSurA2.TV">
+  <programme start="20200709121000 +0000" stop="20200709130000 +0000" channel="CanalSurA2.TV">
+    <title lang="es">Atrápame si puedes</title>
+    <desc lang="es">Los cinco concursantes que participarán cada semana deberán contestar bien las preguntas de las diferentes fases y tendrán que competir entre ellos para conseguir llegar a la escalera final e intentar atrapar el bote. Los cinco concursantes que participarán cada semana deberán contestar bien las preguntas de las diferentes fases y tendrán que competir entre ellos para conseguir llegar a la escalera final e intentar atrapar el bote.</desc>
+    <credits>
+      <presenter>Manolo Sarria</presenter>
+    </credits>
+    <category lang="es">Concursos</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/8a/631946.png" />
+  </programme>
+  <programme start="20200709130000 +0000" stop="20200709140500 +0000" channel="CanalSurA2.TV">
+    <title lang="es">Hoy en día</title>
+    <desc lang="es">Programa de actualidad y entretenimiento para informar, asesorar, debatir sobre los asuntos del día y para presentar a andaluces anónimos que destacan en diferentes ámbitos, así como a personajes muy conocidos del gran público. Programa de actualidad y entretenimiento para informar, asesorar, debatir sobre los asuntos del día y para presentar a andaluces anónimos que destacan en diferentes ámbitos, así como a personajes muy conocidos del gran público.</desc>
+    <credits>
+      <presenter>Fernando Díaz de la Guardia</presenter>
+    </credits>
+    <category lang="es">Magazines</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/ad/613805.png" />
+  </programme>
+  <programme start="20200709140500 +0000" stop="20200709141500 +0000" channel="CanalSurA2.TV">
     <title lang="es">Noticias provinciales</title>
     <desc lang="es">Informativos locales desde cada una de las ocho provincias andaluzas. Informativos locales desde cada una de las ocho provincias andaluzas.</desc>
     <category lang="es">Noticias</category>
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/6a/21000042.png" />
   </programme>
-  <programme start="20200709142000 +0000" stop="20200709154000 +0000" channel="CanalSurA2.TV">
+  <programme start="20200709141500 +0000" stop="20200709154000 +0000" channel="CanalSurA2.TV">
     <title lang="es">Canal Sur Noticias 1</title>
     <desc lang="es">Primera edición de las noticias que Canal Sur emite de lunes a viernes. El informativo, presentado por Ana Cristina Ramírez, repasa la actualidad general con especial atención a los temas relacionados con Andalucía. Primera edición de las noticias que Canal Sur emite de lunes a viernes. El informativo, presentado por Ana Cristina Ramírez, repasa la actualidad general con especial atención a los temas relacionados con Andalucía.</desc>
     <credits>
@@ -23632,16 +23780,154 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20200709203000 +0000" stop="20200709214000 +0000" channel="CanalSurA2.TV">
+  <programme start="20200709203000 +0000" stop="20200709223000 +0000" channel="CanalSurA2.TV">
     <title lang="es">Canal Sur Noticias 2</title>
     <desc lang="es">Segunda edición de las noticias que Canal Sur emite de lunes a viernes de la mano de Victoria Romero. El informativo repasa la actualidad, poniendo especial atención a los temas relacionados con Andalucía. El espacio también incluye una sección deportiva. Segunda edición de las noticias que Canal Sur emite de lunes a viernes de la mano de Victoria Romero. El informativo repasa la actualidad, poniendo especial atención a los temas relacionados con Andalucía. El espacio también incluye una sección deportiva.</desc>
     <credits>
-      <presenter>Victoria Romero</presenter>
+      <presenter>Patricia Lupiañez</presenter>
     </credits>
     <category lang="es">Noticias</category>
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/b9/613817.png" />
   </programme>
-  <programme start="20200709214000 +0000" stop="20200709223000 +0000" channel="CanalSurA2.TV">
+  <programme start="20200709223000 +0000" stop="20200710001500 +0000" channel="CanalSurA2.TV">
+    <title lang="es">Juego de patriotas</title>
+    <desc lang="es">Jack Ryan es un antiguo analista de la CIA que se encuentra en Londres de vacaciones con su mujer y con su hija. A las puertas del Palacio de Buckingham, Ryan se ve envuelto en un ataque terrorista dirigido al miembro de la familia real Lord Holmes, a quien el agente consigue salvar convirtiéndose así en un héroe. Pero el valeroso acto de Ryan le coloca como objetivo principal de un terrorista cuyo hermano ha muerto por los disparos del agente.Segunda película de la saga del agente de la CIA Jack Ryan, creado por el escritor Tom Clancy. Este personaje fue interpretado por primera vez en el cine por Alec Baldwin en ''La caza del octubre rojo''. Sin embargo, el actor rechazó volver a meterse en la piel de Ryan en ''Juego de patriotas'', ya que no le gustaba el guion. Así, fue Harrison Ford quien encarnó al héroe en esta y en su secuela. Para la cuarta aventura de Ryan, Ford (ya demasiado mayor para determinados trotes) cedió el relevo a Ben Affleck.Dirigida por el australiano Philip Noyce (''Calma total''), recaudó más de 94 millones de dólares solo en los Estados Unidos y se convirtió en un gran éxito. Jack Ryan es un antiguo analista de la CIA que se encuentra en Londres de vacaciones con su mujer y con su hija. A las puertas del Palacio de Buckingham, Ryan se ve envuelto en un ataque terrorista dirigido al miembro de la familia real Lord Holmes, a quien el agente consigue salvar convirtiéndose así en un héroe. Pero el valeroso acto de Ryan le coloca como objetivo principal de un terrorista cuyo hermano ha muerto por los disparos del agente.
+Segunda película de la saga del agente de la CIA Jack Ryan, creado por el escritor Tom Clancy. Este personaje fue interpretado por primera vez en el cine por Alec Baldwin en ''La caza del octubre rojo''. Sin embargo, el actor rechazó volver a meterse en la piel de Ryan en ''Juego de patriotas'', ya que no le gustaba el guion. Así, fue Harrison Ford quien encarnó al héroe en esta y en su secuela. Para la cuarta aventura de Ryan, Ford (ya demasiado mayor para determinados trotes) cedió el relevo a Ben Affleck.
+Dirigida por el australiano Philip Noyce (''Calma total''), recaudó más de 94 millones de dólares solo en los Estados Unidos y se convirtió en un gran éxito.</desc>
+    <credits>
+      <director>Phillip Noyce</director>
+      <actor>Harrison Ford</actor>
+      <actor>Anne Archer</actor>
+      <actor>Patrick Bergin</actor>
+      <actor>Sean Bean</actor>
+      <actor>Thora Birch</actor>
+      <actor>Samuel L. Jackson</actor>
+      <writer>Donald Stewart</writer>
+      <writer>W. Peter Iliff</writer>
+      <producer>Mace Neufeld</producer>
+      <producer>Robert Rehme</producer>
+      <composer>James Horner</composer>
+    </credits>
+    <category lang="es">Suspense / Thriller</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/ca/128714.png" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20200710001500 +0000" stop="20200710015500 +0000" channel="CanalSurA2.TV">
+    <title lang="es">Transgression</title>
+    <desc lang="es">Matthew y Elena pasan la peor noche de su vida cuando unos atracadores irrumpen en su casa buscando dinero fácil. Sin embargo, las cosas no salen según lo planeado y acaban enfrentados.El director y crítico cinematográfico catalán Enric Alberich (''Mar rojo'') lleva a la gran pantalla este inquietante ''thriller'' en el que Marc González (''Oh Happy Day!'') desarrolla una historia del productor del mismo, Joan Ginard (''Frágiles''). Michael Ironside (''Terminator Salvation''), Maria Grazia Cucinotta (''Flores negras'') y Carlos Bardem (''Celda 211'') encabezan el reparto de actores que protagonizan las peripecias de un grupo de asaltantes que intentan perpetrar un robo y de quienes lo sufren, que tratan de sobrevivir a una dramática experiencia.La película fue rodada íntegramente en Barcelona. Matthew y Elena pasan la peor noche de su vida cuando unos atracadores irrumpen en su casa buscando dinero fácil. Sin embargo, las cosas no salen según lo planeado y acaban enfrentados.
+El director y crítico cinematográfico catalán Enric Alberich (''Mar rojo'') lleva a la gran pantalla este inquietante ''thriller'' en el que Marc González (''Oh Happy Day!'') desarrolla una historia del productor del mismo, Joan Ginard (''Frágiles''). Michael Ironside (''Terminator Salvation''), Maria Grazia Cucinotta (''Flores negras'') y Carlos Bardem (''Celda 211'') encabezan el reparto de actores que protagonizan las peripecias de un grupo de asaltantes que intentan perpetrar un robo y de quienes lo sufren, que tratan de sobrevivir a una dramática experiencia.
+La película fue rodada íntegramente en Barcelona.</desc>
+    <credits>
+      <director>Enric Alberich</director>
+      <actor>María Gracia Cucinotta</actor>
+      <actor>Michael Ironside</actor>
+      <actor>Carlos Bardem</actor>
+      <actor>Fabio Fulco</actor>
+      <actor>Yon González</actor>
+      <writer>Marco Aurelio González</writer>
+    </credits>
+    <category lang="es">Drama</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/39/205881.png" />
+  </programme>
+  <programme start="20200710015500 +0000" stop="20200710040000 +0000" channel="CanalSurA2.TV">
+    <title lang="es">Lo Flamenco</title>
+    <desc lang="es">Programa que se encarga de divulgar y dar a conocer todo lo relacionado con el flamenco. El espacio incluye anécdotas, curiosidades y también actuaciones. Además, el programa recuerda a las principales figuras de este género musical. Programa que se encarga de divulgar y dar a conocer todo lo relacionado con el flamenco. El espacio incluye anécdotas, curiosidades y también actuaciones. Además, el programa recuerda a las principales figuras de este género musical.</desc>
+    <credits>
+      <presenter>Manuel Curao</presenter>
+    </credits>
+    <category lang="es">Otros</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/5b/626267.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200710040000 +0000" stop="20200710050000 +0000" channel="CanalSurA2.TV">
+    <title lang="es">Canal Sur música</title>
+    <desc lang="es">Espacio musical que presta especial atención a los intérpretes andaluces y se centra tanto en la música tradicional como en las composiciones modernas. Espacio musical que presta especial atención a los intérpretes andaluces y se centra tanto en la música tradicional como en las composiciones modernas.</desc>
+    <category lang="es">Popular</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/22/614434.png" />
+  </programme>
+  <programme start="20200710050000 +0000" stop="20200710060000 +0000" channel="CanalSurA2.TV">
+    <title lang="es">Lo Flamenco</title>
+    <desc lang="es">Programa que se encarga de divulgar y dar a conocer todo lo relacionado con el flamenco. El espacio incluye anécdotas, curiosidades y también actuaciones. Además, el programa recuerda a las principales figuras de este género musical. Programa que se encarga de divulgar y dar a conocer todo lo relacionado con el flamenco. El espacio incluye anécdotas, curiosidades y también actuaciones. Además, el programa recuerda a las principales figuras de este género musical.</desc>
+    <credits>
+      <presenter>Manuel Curao</presenter>
+    </credits>
+    <category lang="es">Otros</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/5b/626267.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200710060000 +0000" stop="20200710063000 +0000" channel="CanalSurA2.TV">
+    <title lang="es">Hijos de Andalucía</title>
+    <desc lang="es">Serie documental que narra las trayectorias profesionales y personales de aquellos hombres y mujeres que, desde 1983, han sido nombrados Hijos Predilectos de Andalucía o han obtenido la Medalla de Oro de dicha comunidad. Serie documental que narra las trayectorias profesionales y personales de aquellos hombres y mujeres que, desde 1983, han sido nombrados Hijos Predilectos de Andalucía o han obtenido la Medalla de Oro de dicha comunidad.</desc>
+    <credits>
+      <director>Juan Francisco Lorenci</director>
+    </credits>
+    <category lang="es">Biográficos</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/84/359556.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200710063000 +0000" stop="20200710071500 +0000" channel="CanalSurA2.TV">
+    <title lang="es">10 razones para ir</title>
+    <sub-title lang="es">Alcalá de los Gazules (Cádiz)</sub-title>
+    <desc lang="es">Un paseo por los pueblos de Andalucía donde sus propios habitantes propondrán los principales atractivos a visitar de cada municipio. Además, resaltarán las costumbres, gastronomía, historia y pasión de sus gentes. Un paseo por los pueblos de Andalucía donde sus propios habitantes propondrán los principales atractivos a visitar de cada municipio. Además, resaltarán las costumbres, gastronomía, historia y pasión de sus gentes.</desc>
+    <category lang="es">Viajes</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/7a/359290.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200710071500 +0000" stop="20200710080500 +0000" channel="CanalSurA2.TV">
+    <title lang="es">Animales en familia</title>
+    <desc lang="es">Espacio familiar cuyo objetivo es entretener, informar y sensibilizar al espectador sobre el mundo de los animales. Presentado por Tutti Márquez, periodista sevillana, en este programa tienen cabida historias de mascotas y animales salvajes, entre otros. Espacio familiar cuyo objetivo es entretener, informar y sensibilizar al espectador sobre el mundo de los animales. Presentado por Tutti Márquez, periodista sevillana, en este programa tienen cabida historias de mascotas y animales salvajes, entre otros.</desc>
+    <credits>
+      <director>Fidel Durán</director>
+      <presenter>Tutti Márquez</presenter>
+    </credits>
+    <category lang="es">Naturaleza y animales</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/69/179049.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200710080500 +0000" stop="20200710100000 +0000" channel="CanalSurA2.TV">
+    <title lang="es">Los Repobladores</title>
+    <desc lang="es">Programa que recoge la experiencia de personas, que tras vivir en la ciudad, han decidido comenzar una nueva vida en pequeñas localidades de nuestra comunidad. Los protagonistas del programa viven en pueblos que ofrecen un sinfín oportunidades. Programa que recoge la experiencia de personas, que tras vivir en la ciudad, han decidido comenzar una nueva vida en pequeñas localidades de nuestra comunidad. Los protagonistas del programa viven en pueblos que ofrecen un sinfín oportunidades.</desc>
+    <category lang="es">Otros</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/6d/613997.png" />
+  </programme>
+  <programme start="20200710100000 +0000" stop="20200710114000 +0000" channel="CanalSurA2.TV">
+    <title lang="es">Andalucía Directo</title>
+    <desc lang="es">En este magacín se tratan temas de interés humano, social, sucesos, cultura, gastronomía y se presta una gran atención al mundo rural. El programa incluye reportajes y conexiones en directo que se extienden a lo largo de los cuatro bloques en los que se divide. En este magacín se tratan temas de interés humano, social, sucesos, cultura, gastronomía y se presta una gran atención al mundo rural. El programa incluye reportajes y conexiones en directo que se extienden a lo largo de los cuatro bloques en los que se divide.</desc>
+    <credits>
+      <director>Modesto Barragán</director>
+      <presenter>Modesto Barragán</presenter>
+    </credits>
+    <category lang="es">Magazines</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/eb/614123.png" />
+    <rating>
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20200710114000 +0000" stop="20200710121000 +0000" channel="CanalSurA2.TV">
+    <title lang="es">Cómetelo</title>
+    <desc lang="es">El chef Enrique Sánchez elabora una receta con productos andaluces, con denominación de origen o reconocido prestigio. Este espacio acerca los productos agroalimentarios, naturales y andaluces de calidad, a la audiencia. El chef Enrique Sánchez elabora una receta con productos andaluces, con denominación de origen o reconocido prestigio. Este espacio acerca los productos agroalimentarios, naturales y andaluces de calidad, a la audiencia.</desc>
+    <credits>
+      <presenter>Enrique Sánchez</presenter>
+    </credits>
+    <category lang="es">Cocina</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f0/614128.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200710121000 +0000" stop="20200710130000 +0000" channel="CanalSurA2.TV">
     <title lang="es">Atrápame si puedes</title>
     <desc lang="es">Los cinco concursantes que participarán cada semana deberán contestar bien las preguntas de las diferentes fases y tendrán que competir entre ellos para conseguir llegar a la escalera final e intentar atrapar el bote. Los cinco concursantes que participarán cada semana deberán contestar bien las preguntas de las diferentes fases y tendrán que competir entre ellos para conseguir llegar a la escalera final e intentar atrapar el bote.</desc>
     <credits>
@@ -23650,11 +23936,84 @@
     <category lang="es">Concursos</category>
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/8a/631946.png" />
   </programme>
-  <programme start="20200709223000 +0000" stop="20200710000000 +0000" channel="CanalSurA2.TV">
-    <title lang="es">Cine</title>
-    <desc lang="es">Emisión de una película. Emisión de una película.</desc>
-    <category lang="es">Cine</category>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/65/142949.png" />
+  <programme start="20200710130000 +0000" stop="20200710140500 +0000" channel="CanalSurA2.TV">
+    <title lang="es">Hoy en día</title>
+    <desc lang="es">Programa de actualidad y entretenimiento para informar, asesorar, debatir sobre los asuntos del día y para presentar a andaluces anónimos que destacan en diferentes ámbitos, así como a personajes muy conocidos del gran público. Programa de actualidad y entretenimiento para informar, asesorar, debatir sobre los asuntos del día y para presentar a andaluces anónimos que destacan en diferentes ámbitos, así como a personajes muy conocidos del gran público.</desc>
+    <credits>
+      <presenter>Fernando Díaz de la Guardia</presenter>
+    </credits>
+    <category lang="es">Magazines</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/ad/613805.png" />
+  </programme>
+  <programme start="20200710140500 +0000" stop="20200710141500 +0000" channel="CanalSurA2.TV">
+    <title lang="es">Noticias provinciales</title>
+    <desc lang="es">Informativos locales desde cada una de las ocho provincias andaluzas. Informativos locales desde cada una de las ocho provincias andaluzas.</desc>
+    <category lang="es">Noticias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/6a/21000042.png" />
+  </programme>
+  <programme start="20200710141500 +0000" stop="20200710154000 +0000" channel="CanalSurA2.TV">
+    <title lang="es">Canal Sur Noticias 1</title>
+    <desc lang="es">Primera edición de las noticias que Canal Sur emite de lunes a viernes. El informativo, presentado por Ana Cristina Ramírez, repasa la actualidad general con especial atención a los temas relacionados con Andalucía. Primera edición de las noticias que Canal Sur emite de lunes a viernes. El informativo, presentado por Ana Cristina Ramírez, repasa la actualidad general con especial atención a los temas relacionados con Andalucía.</desc>
+    <credits>
+      <presenter>Ana Cristina Ramírez</presenter>
+    </credits>
+    <category lang="es">Noticias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/b4/642484.png" />
+  </programme>
+  <programme start="20200710154000 +0000" stop="20200710180000 +0000" channel="CanalSurA2.TV">
+    <title lang="es">La tarde, aquí y ahora</title>
+    <desc lang="es">Juan y Medio presenta este magacín de sobremesa que incluye información de actualidad, entrevistas, reportajes y diversas secciones, entre ellas una dedicada a los mayores, a quienes buscará pareja. El espacio combina entretenimiento, actualidad y música. Juan y Medio presenta este magacín de sobremesa que incluye información de actualidad, entrevistas, reportajes y diversas secciones, entre ellas una dedicada a los mayores, a quienes buscará pareja. El espacio combina entretenimiento, actualidad y música.</desc>
+    <credits>
+      <presenter>Juan y Medio</presenter>
+    </credits>
+    <category lang="es">Magazines</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/bb/614075.png" />
+    <rating>
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20200710180000 +0000" stop="20200710195000 +0000" channel="CanalSurA2.TV">
+    <title lang="es">Andalucía Directo</title>
+    <desc lang="es">En este magacín se tratan temas de interés humano, social, sucesos, cultura, gastronomía y se presta una gran atención al mundo rural. El programa incluye reportajes y conexiones en directo que se extienden a lo largo de los cuatro bloques en los que se divide. En este magacín se tratan temas de interés humano, social, sucesos, cultura, gastronomía y se presta una gran atención al mundo rural. El programa incluye reportajes y conexiones en directo que se extienden a lo largo de los cuatro bloques en los que se divide.</desc>
+    <credits>
+      <director>Modesto Barragán</director>
+      <presenter>Modesto Barragán</presenter>
+    </credits>
+    <category lang="es">Magazines</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/eb/614123.png" />
+    <rating>
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20200710195000 +0000" stop="20200710203000 +0000" channel="CanalSurA2.TV">
+    <title lang="es">Cómetelo</title>
+    <desc lang="es">El chef Enrique Sánchez elabora una receta con productos andaluces, con denominación de origen o reconocido prestigio. Este espacio acerca los productos agroalimentarios, naturales y andaluces de calidad, a la audiencia. El chef Enrique Sánchez elabora una receta con productos andaluces, con denominación de origen o reconocido prestigio. Este espacio acerca los productos agroalimentarios, naturales y andaluces de calidad, a la audiencia.</desc>
+    <credits>
+      <presenter>Enrique Sánchez</presenter>
+    </credits>
+    <category lang="es">Cocina</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f0/614128.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200710203000 +0000" stop="20200710222500 +0000" channel="CanalSurA2.TV">
+    <title lang="es">Canal Sur Noticias 2</title>
+    <desc lang="es">Segunda edición de las noticias que Canal Sur emite de lunes a viernes de la mano de Victoria Romero. El informativo repasa la actualidad, poniendo especial atención a los temas relacionados con Andalucía. El espacio también incluye una sección deportiva. Segunda edición de las noticias que Canal Sur emite de lunes a viernes de la mano de Victoria Romero. El informativo repasa la actualidad, poniendo especial atención a los temas relacionados con Andalucía. El espacio también incluye una sección deportiva.</desc>
+    <credits>
+      <presenter>Patricia Lupiañez</presenter>
+    </credits>
+    <category lang="es">Noticias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/b9/613817.png" />
+  </programme>
+  <programme start="20200710222500 +0000" stop="20200711013000 +0000" channel="CanalSurA2.TV">
+    <title lang="es">Aguja Flamenca</title>
+    <desc lang="es">Talent show dedicado a la moda flamenca, donde un grupo de creadores muestra sus dotes en el diseño y la confección del traje regional andaluz. Diez concursantes pretenden mostrar la constante renovación estilística de la moda flamenca. Talent show dedicado a la moda flamenca, donde un grupo de creadores muestra sus dotes en el diseño y la confección del traje regional andaluz. Diez concursantes pretenden mostrar la constante renovación estilística de la moda flamenca.</desc>
+    <credits>
+      <presenter>Esther Arroyo</presenter>
+    </credits>
+    <category lang="es">Concursos</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/5e/617566.png" />
   </programme>
   <programme start="20200708000000 +0200" stop="20200708003000 +0200" channel="CanalCosta.TV">
     <title lang="es">Informativo</title>
@@ -23669,7 +24028,62 @@
   <programme start="20200708004000 +0200" stop="20200708034000 +0200" channel="CanalCosta.TV">
     <title lang="es">AL SOL DEL SUR</title>
     <desc lang="es">Descripción corta del programa.</desc>
-    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/01/l}" />
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/01/logo-canalcosta-tv.jpg" />
+  </programme>
+  <programme start="20200708034000 +0200" stop="20200708090000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Redifusión</title>
+    <desc lang="es">Redifusión de los porgramas más destacados de la jornada.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/01/logo-canalcosta-tv.jpg" />
+  </programme>
+  <programme start="20200708090000 +0200" stop="20200708093000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Informativo</title>
+    <desc lang="es">La actualidad de la jornada en nuestros servicios informativos.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/11/Informativo2-300x170.jpg" />
+  </programme>
+  <programme start="20200708093000 +0200" stop="20200708094000 +0200" channel="CanalCosta.TV">
+    <title lang="es">El Tiempo</title>
+    <desc lang="es">La previsión de la previsión meteorológica de la provincia.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2019/09/CARTON-EL-TIEMPO-FATI-2019-20-1-230x150.jpg" />
+  </programme>
+  <programme start="20200708094000 +0200" stop="20200708110000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Vozpopuli</title>
+    <desc lang="es">Redifusión de la tertulia de actualidad .</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2016/10/vozpopuli-300x169.jpg" />
+  </programme>
+  <programme start="20200708110000 +0200" stop="20200708141000 +0200" channel="CanalCosta.TV">
+    <title lang="es">AL SOL DEL SUR-Directo</title>
+    <desc lang="es">Descripción corta del programa.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/01/logo-canalcosta-tv.jpg" />
+  </programme>
+  <programme start="20200708141000 +0200" stop="20200708143000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Especial Reportajes</title>
+    <desc lang="es">Los eventos, reportajes y galas más destacadas de la costa.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/01/cabecera-reportajes.jpg" />
+  </programme>
+  <programme start="20200708143000 +0200" stop="20200708150000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Informativo</title>
+    <desc lang="es">La actualidad de la jornada en nuestros servicios informativos.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/11/Informativo2-300x170.jpg" />
+  </programme>
+  <programme start="20200708150000 +0200" stop="20200708170000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Vozpopuli</title>
+    <desc lang="es">Redifusión de la tertulia de actualidad .</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2016/10/vozpopuli-300x169.jpg" />
+  </programme>
+  <programme start="20200708170000 +0200" stop="20200708203000 +0200" channel="CanalCosta.TV">
+    <title lang="es">AL SOL DEL SUR-REDIFUSIÓN</title>
+    <desc lang="es">Descripción corta del programa.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/01/logo-canalcosta-tv.jpg" />
+  </programme>
+  <programme start="20200708203000 +0200" stop="20200708211000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Informativo</title>
+    <desc lang="es">La actualidad de la jornada en nuestros servicios informativos.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/11/Informativo2-300x170.jpg" />
+  </programme>
+  <programme start="20200708211000 +0200" stop="20200708213000 +0200" channel="CanalCosta.TV">
+    <title lang="es">El Tiempo</title>
+    <desc lang="es">La previsión de la previsión meteorológica de la provincia.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2019/09/CARTON-EL-TIEMPO-FATI-2019-20-1-230x150.jpg" />
   </programme>
   <programme start="20200708090000 +0200" stop="20200708100000 +0200" channel="Condavision.TV">
     <title lang="es">Informativos</title>
@@ -23688,7 +24102,123 @@
   </programme>
   <programme start="20200708140000 +0200" stop="20200708143000 +0200" channel="Condavision.TV">
     <title lang="es">Cocer y Catar</title>
-    <desc lang="es">Eu te ense}&gt;.</desc>
+    <desc lang="es">Eu te enseñará nuevas formas de preparación de los platos de toda la vida.</desc>
+    <icon src="https://www.condavision.es/wp-content/uploads/2020/01/CocerCatar_300x194.jpg" />
+  </programme>
+  <programme start="20200708143000 +0200" stop="20200708150000 +0200" channel="Condavision.TV">
+    <title lang="es">Así es...</title>
+    <desc lang="es">Descubrimos todos los rincones del Condado.</desc>
+    <icon src="https://www.condavision.es/wp-content/uploads/2018/07/IMAGEN-ASI-ES-300x168.jpg" />
+  </programme>
+  <programme start="20200708150000 +0200" stop="20200708163000 +0200" channel="Condavision.TV">
+    <title lang="es">Especiales Condado</title>
+    <desc lang="es">Fiestas, tradiciones, conferencias, reportajes y conciertos. Recreando Doñana.</desc>
+    <icon src="https://www.condavision.es/wp-content/uploads/2017/09/Carton-Web-Especiales-Condado-2017-300x168.jpg" />
+  </programme>
+  <programme start="20200708163000 +0200" stop="20200708170000 +0200" channel="Condavision.TV">
+    <title lang="es">Especiales Condado</title>
+    <desc lang="es">Fiestas, tradiciones, conferencias, reportajes y conciertos. Rocío de Luz. Candidatas Matriz Almonte.</desc>
+    <icon src="https://www.condavision.es/wp-content/uploads/2017/09/Carton-Web-Especiales-Condado-2017-300x168.jpg" />
+  </programme>
+  <programme start="20200708170000 +0200" stop="20200708200000 +0200" channel="Condavision.TV">
+    <title lang="es">Al Sol del Sur</title>
+    <desc lang="es">Magacine de verano con entrevistas, reportajes, actuaciones y concursos.</desc>
+    <icon src="https://www.condavision.es/wp-content/uploads/2018/07/IMAGEN-CV-PROGRAMA-AL-SOL-DEL-SUR-2018_Mesa-de-trabajo-1-copia_Mesa-de-trabajo-1-copia-300x209.jpg" />
+  </programme>
+  <programme start="20200708200000 +0200" stop="20200708203000 +0200" channel="Condavision.TV">
+    <title lang="es">Cocer y Catar</title>
+    <desc lang="es">Eu te enseñará nuevas formas de preparación de los platos de toda la vida.</desc>
+    <icon src="https://www.condavision.es/wp-content/uploads/2020/01/CocerCatar_300x194.jpg" />
+  </programme>
+  <programme start="20200708203000 +0200" stop="20200708213000 +0200" channel="Condavision.TV">
+    <title lang="es">Informativos</title>
+    <desc lang="es">Informativo comarcal que repasará toda la actualidad del Condado de Huelva.</desc>
+    <icon src="https://www.condavision.es/wp-content/uploads/2014/10/CONDAVISION-NOTICIAS-300x164.jpg" />
+  </programme>
+  <programme start="20200708213000 +0200" stop="20200708220000 +0200" channel="Condavision.TV">
+    <title lang="es">En Clave Condado</title>
+    <desc lang="es">En Clave Condado es el espacio informativo que te acerca la actualidad que te importa. Con Manuel Infante, Presidente Consejo Regulador de la D.O Condado de Huelva.</desc>
+    <icon src="https://www.condavision.es/wp-content/uploads/2019/09/en-clave-condado-300x208.jpg" />
+  </programme>
+  <programme start="20200708090000 +0200" stop="20200708100000 +0200" channel="Teleonuba.TV">
+    <title lang="es">Informativos Teleonuba</title>
+    <desc lang="es">La actualidad de la provincia de Huelva en Informativos Teleonuba.</desc>
+    <icon src="https://www.teleonuba.es/wp-content/uploads/2017/10/Still0927_00000-300x168.jpg" />
+  </programme>
+  <programme start="20200708100000 +0200" stop="20200708103000 +0200" channel="Teleonuba.TV">
+    <title lang="es">La Entrevista</title>
+    <desc lang="es">Descripción corta del programa.</desc>
+    <icon src="https://www.teleonuba.es/wp-content/uploads/2017/10/LA-ENTREVISTA-300x168.jpg" />
+  </programme>
+  <programme start="20200708103000 +0200" stop="20200708110000 +0200" channel="Teleonuba.TV">
+    <title lang="es">Lance y acción</title>
+    <desc lang="es">Prorgama dedicado a la pesca presentado por Néstor Santos.</desc>
+    <icon src="https://www.teleonuba.es/wp-content/uploads/2013/12/logo_teleonuba_fb.png" />
+  </programme>
+  <programme start="20200708110000 +0200" stop="20200708140000 +0200" channel="Teleonuba.TV">
+    <title lang="es">AL SOL DEL SUR</title>
+    <desc lang="es">Magacine de verano presentado por Nacho Molina. Conexiones en directo desde diferentes puntos de la provincia de Huelva, reportajes, emtrevistas y nuestro panel concurso.</desc>
+    <icon src="https://www.teleonuba.es/wp-content/uploads/2013/12/IMAGEN-T-PROGRAMA-AL-SOL-DEL-SUR-2018_Mesa-de-trabajo-1_Mesa-de-trabajo-1.jpg" />
+  </programme>
+  <programme start="20200708140000 +0200" stop="20200708143000 +0200" channel="Teleonuba.TV">
+    <title lang="es">Cocer y Catar</title>
+    <desc lang="es">Cocinamos las recetas de Eu Díaz.</desc>
+    <icon src="https://www.teleonuba.es/wp-content/uploads/2013/12/logo_teleonuba_fb.png" />
+  </programme>
+  <programme start="20200708143000 +0200" stop="20200708150000 +0200" channel="Teleonuba.TV">
+    <title lang="es">Informativos Teleonuba</title>
+    <desc lang="es">La actualidad de la provincia de Huelva en Informativos Teleonuba.</desc>
+    <icon src="https://www.teleonuba.es/wp-content/uploads/2017/10/Still0927_00000-300x168.jpg" />
+  </programme>
+  <programme start="20200708150000 +0200" stop="20200708153000 +0200" channel="Teleonuba.TV">
+    <title lang="es">La Entrevista</title>
+    <desc lang="es">Descripción corta del programa.</desc>
+    <icon src="https://www.teleonuba.es/wp-content/uploads/2017/10/LA-ENTREVISTA-300x168.jpg" />
+  </programme>
+  <programme start="20200708153000 +0200" stop="20200708170000 +0200" channel="Teleonuba.TV">
+    <title lang="es">El Carnaval de mi tierra</title>
+    <desc lang="es">Recordamos los mejores momentos del Carnaval Colombino.</desc>
+    <icon src="https://www.teleonuba.es/wp-content/uploads/2013/12/logo_teleonuba_fb.png" />
+  </programme>
+  <programme start="20200708170000 +0200" stop="20200708200000 +0200" channel="Teleonuba.TV">
+    <title lang="es">AL SOL DEL SUR</title>
+    <desc lang="es">Magacine de verano presentado por Nacho Molina. Conexiones en directo desde diferentes puntos de la provincia de Huelva, reportajes, emtrevistas y nuestro panel concurso.</desc>
+    <icon src="https://www.teleonuba.es/wp-content/uploads/2013/12/IMAGEN-T-PROGRAMA-AL-SOL-DEL-SUR-2018_Mesa-de-trabajo-1_Mesa-de-trabajo-1.jpg" />
+  </programme>
+  <programme start="20200708200000 +0200" stop="20200708203000 +0200" channel="Teleonuba.TV">
+    <title lang="es">Iberanimal</title>
+    <desc lang="es">Espacio dedicado a nuestras mascotas.</desc>
+    <icon src="https://www.teleonuba.es/wp-content/uploads/2020/05/Iberanimal-300x152.jpeg" />
+  </programme>
+  <programme start="20200708203000 +0200" stop="20200708210000 +0200" channel="Teleonuba.TV">
+    <title lang="es">Que Sea de Huelva</title>
+    <desc lang="es">Te invitamos a descubrir productos hechos en nuestra provincia.</desc>
+    <icon src="https://www.teleonuba.es/wp-content/uploads/2013/12/logo_teleonuba_fb.png" />
+  </programme>
+  <programme start="20200708210000 +0200" stop="20200708213000 +0200" channel="Teleonuba.TV">
+    <title lang="es">Informativos Teleonuba</title>
+    <desc lang="es">La actualidad de la provincia de Huelva en Informativos Teleonuba.</desc>
+    <icon src="https://www.teleonuba.es/wp-content/uploads/2017/10/Still0927_00000-300x168.jpg" />
+  </programme>
+  <programme start="20200708213000 +0200" stop="20200708220000 +0200" channel="Teleonuba.TV">
+    <title lang="es">La Entrevista</title>
+    <desc lang="es">Descripción corta del programa.</desc>
+    <icon src="https://www.teleonuba.es/wp-content/uploads/2017/10/LA-ENTREVISTA-300x168.jpg" />
+  </programme>
+  <programme start="20200708220000 +0200" stop="20200708230000 +0200" channel="Teleonuba.TV">
+    <title lang="es">El Ambigú</title>
+    <desc lang="es">Espacio dedicado a la música presentado por Fati Pizarro.</desc>
+    <icon src="https://www.teleonuba.es/wp-content/uploads/2013/12/logo_teleonuba_fb.png" />
+  </programme>
+  <programme start="20200708230000 +0200" stop="20200709090000 +0200" channel="Teleonuba.TV">
+    <title lang="es">Rocío Siempre Rocío</title>
+    <desc lang="es">Recordamos los mejores momentos de la romería del Rocío.</desc>
+    <icon src="https://www.teleonuba.es/wp-content/uploads/2013/12/logo_teleonuba_fb.png" />
+  </programme>
+  <programme start="20200709090000 +0200" stop="20200709100000 +0200" channel="Teleonuba.TV">
+    <title lang="es">Informativos Teleonuba</title>
+    <desc lang="es">La actualidad de la provincia de Huelva en Informativos Teleonuba.</desc>
+    <icon src="https://www.teleonuba.es/wp-content/uploads/2017/}" />
   </programme>
   <programme start="20200708060000 +0200" stop="20200708065000 +0200" channel="AragonTV.TV">
     <title lang="es">Vaughan 4.0</title>
@@ -25628,7 +26158,7 @@
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme start="20200708125000 +0200" stop="20200708135000 +0200" channel="Canarias.TV">
+  <programme start="20200708125000 +0200" stop="20200708135500 +0200" channel="Canarias.TV">
     <title lang="es">Al alimón</title>
     <desc lang="es">Dos cocineros, uno de Gran Canaria y otro de Tenerife, comparten recetas, retos culinarios y debates entre la cocina tradicional y la de vanguardia.</desc>
     <date>2019</date>
@@ -25643,25 +26173,7 @@
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme start="20200708135000 +0200" stop="20200708140000 +0200" channel="Canarias.TV">
-    <title lang="es">La ventana de Calero</title>
-    <desc lang="es">Un recorrido por las Ocho Islas de mano de Juan Luis Calero y sus personajes de La Señora y El Caballero.</desc>
-    <credits>
-      <presenter>Juan Luis Calero</presenter>
-    </credits>
-    <date>2020</date>
-    <category lang="es">Entretenimiento</category>
-    <category lang="es">Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MCANARP1790231" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-    <star-rating system="ES">
-      <value>3/5</value>
-    </star-rating>
-  </programme>
-  <programme start="20200708140000 +0200" stop="20200708142500 +0200" channel="Canarias.TV">
+  <programme start="20200708135500 +0200" stop="20200708143000 +0200" channel="Canarias.TV">
     <title lang="es">Somos gente fantástica</title>
     <desc lang="es">Programa contenedor pensado para responder al momento actual, proponiendo una agenda diaria que recoge consejos, propuestas culturales, mensajes, vídeos y otros contenidos de internet y redes sociales. El espacio intenta mostrar lo mejor del ser humano.</desc>
     <date>2020</date>
@@ -25676,19 +26188,7 @@
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme start="20200708142500 +0200" stop="20200708143500 +0200" channel="Canarias.TV">
-    <title lang="es">Avance informativo</title>
-    <desc lang="es">Breve avance informativo que resume los acontecimientos más destacados de la jornada.</desc>
-    <date>2017</date>
-    <category lang="es">Información</category>
-    <category lang="es">Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MCANARP1462567" />
-    <country lang="es">España</country>
-    <star-rating system="ES">
-      <value>3/5</value>
-    </star-rating>
-  </programme>
-  <programme start="20200708143500 +0200" stop="20200708153000 +0200" channel="Canarias.TV">
+  <programme start="20200708143000 +0200" stop="20200708153000 +0200" channel="Canarias.TV">
     <title lang="es">Resumen BDC</title>
     <desc lang="es">Repaso de los mejores momentos de "Buenos días, Canarias", el magacín informativo matinal de los Servicios Informativos de Televisión Canaria.</desc>
     <date>2020</date>
@@ -25747,7 +26247,7 @@
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme start="20200708163500 +0200" stop="20200708203000 +0200" channel="Canarias.TV">
+  <programme start="20200708163500 +0200" stop="20200708203500 +0200" channel="Canarias.TV">
     <title lang="es">Buenas tardes Canarias</title>
     <desc lang="es">Programa de entretenimiento, debate y análisis de la actualidad con acento canario, presentado por Rebeca Paniagua y Jose Croisser. Además en su 'talk show' "Las Historias de BTC" se da espacio a miembros de la ciudadanía para que cuenten sus experiencias vitales.</desc>
     <credits>
@@ -25763,7 +26263,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20200708203000 +0200" stop="20200708213000 +0200" channel="Canarias.TV">
+  <programme start="20200708203500 +0200" stop="20200708213000 +0200" channel="Canarias.TV">
     <title lang="es">El paraíso de las señoras</title>
     <desc lang="es">Traicionada por su novio, Teresa se va del pueblo y huye a la gran ciudad. Allí descubre que la tienda de su tío está en serias dificultades debido a la apertura de unos grandes almacenes El Paraíso de las Señoras.</desc>
     <credits>
@@ -25802,7 +26302,7 @@
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme start="20200708221500 +0200" stop="20200708222500 +0200" channel="Canarias.TV">
+  <programme start="20200708221500 +0200" stop="20200708222000 +0200" channel="Canarias.TV">
     <title lang="es">TN Deportes 2</title>
     <desc lang="es">Los Servicios Informativos de TelevisiónCanaria ofrecen un bloque dedicado a la información deportiva, prestando atención a la actualidad del Archipiélago y a la internacional de la mano de Armando Vallejo.</desc>
     <credits>
@@ -25817,7 +26317,7 @@
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme start="20200708222500 +0200" stop="20200708231500 +0200" channel="Canarias.TV">
+  <programme start="20200708222000 +0200" stop="20200708231000 +0200" channel="Canarias.TV">
     <title lang="es">Una hora menos. En casa contigo</title>
     <desc lang="es">Los canarios explican cómo están viviendo la cuarentena en sus casas. El ingenio y el entretenimiento son las mejores armas para superar este complicado momento.</desc>
     <date>2020</date>
@@ -25832,7 +26332,7 @@
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme start="20200708231500 +0200" stop="20200709000500 +0200" channel="Canarias.TV">
+  <programme start="20200708231000 +0200" stop="20200709000000 +0200" channel="Canarias.TV">
     <title lang="es">Reencuentros en la tercera fase</title>
     <desc lang="es">Programa semanal que pretende salir al encuentro de la nueva realidad marcada por la lucha contra la epidemia de COVID-19, para recrear las situaciones sobrevenidas por la aplicación de las nuevas normas, dentro de un formato de carácter divulgativo de servicio público.</desc>
     <date>2020</date>
@@ -25844,7 +26344,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20200709000500 +0200" stop="20200709004500 +0200" channel="Canarias.TV">
+  <programme start="20200709000000 +0200" stop="20200709004000 +0200" channel="Canarias.TV">
     <title lang="es">El mundo que viene</title>
     <desc lang="es">Sergio Miró entrevista a figuras canarias del mundo de la cultura, la creación y el entretenimiento en Canarias. Cada una de las emisiones ofrece las perspectivas de cuatro prescriptores de campos como la música, el cine, la fotografía o la literatura, entre otros.</desc>
     <credits>
@@ -25859,7 +26359,7 @@
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme start="20200709004500 +0200" stop="20200709012500 +0200" channel="Canarias.TV">
+  <programme start="20200709004000 +0200" stop="20200709012500 +0200" channel="Canarias.TV">
     <title lang="es">Islas Jazz</title>
     <desc lang="es">Espacio que aborda el panorama actual del jazz en Canarias. De la mano del guitarrista y compositor Yul Ballesteros conoceremos a algunos de los protagonistas del auge de esta disciplina en Canarias, sus obras y su actividad durante el confinamiento.</desc>
     <date>2020</date>
@@ -25874,7 +26374,7 @@
       <value>4/5</value>
     </star-rating>
   </programme>
-  <programme start="20200709012500 +0200" stop="20200709013000 +0200" channel="Canarias.TV">
+  <programme start="20200709012500 +0200" stop="20200709013500 +0200" channel="Canarias.TV">
     <title lang="es">Zona de juego 3.0</title>
     <desc lang="es">Fútbol y humor para las tardes de partido en Televisión Canaria. La periodista Almudena Santana y los cómicos Daniel Calero y Jorge Galván conducen el nuevo espacio con mucho humor y reportajes cercanos que ponen en valor a la afición y el legado futbolero en las islas.</desc>
     <credits>
@@ -25893,16 +26393,13 @@
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme start="20200709013000 +0200" stop="20200709014000 +0200" channel="Canarias.TV">
-    <title lang="es">La ventana de Calero</title>
-    <desc lang="es">Un recorrido por las Ocho Islas de mano de Juan Luis Calero y sus personajes de La Señora y El Caballero.</desc>
-    <credits>
-      <presenter>Juan Luis Calero</presenter>
-    </credits>
-    <date>2020</date>
-    <category lang="es">Entretenimiento</category>
-    <category lang="es">Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MCANARP1790231" />
+  <programme start="20200709013500 +0200" stop="20200709025500 +0200" channel="Canarias.TV">
+    <title lang="es">Telesforo Bravo, el hombre que escuchaba a las piedras</title>
+    <desc lang="es">Telesforo Bravo entabló desde pequeño una relación muy directa con la naturaleza. A este gran naturalista se le deben hallazgos fundamentales en la historia de la ciencia en Canarias, con trabajos en campos como la geología, la zoología y la arqueología.</desc>
+    <date>2017</date>
+    <category lang="es">Documentales</category>
+    <category lang="es">Biografía</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MCANARP1438912" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -25911,19 +26408,7 @@
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme start="20200709014000 +0200" stop="20200709020500 +0200" channel="Canarias.TV">
-    <title lang="es">Programa por determinar</title>
-    <desc lang="es">Programa por determinar.</desc>
-    <date>2016</date>
-    <category lang="es">Entretenimiento</category>
-    <category lang="es">Otros</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MCANARP1244971" />
-    <country lang="es">España</country>
-    <star-rating system="ES">
-      <value>3/5</value>
-    </star-rating>
-  </programme>
-  <programme start="20200709020500 +0200" stop="20200709023000 +0200" channel="Canarias.TV">
+  <programme start="20200709025500 +0200" stop="20200709032000 +0200" channel="Canarias.TV">
     <title lang="es">Somos gente fantástica</title>
     <desc lang="es">Programa contenedor pensado para responder al momento actual, proponiendo una agenda diaria que recoge consejos, propuestas culturales, mensajes, vídeos y otros contenidos de internet y redes sociales. El espacio intenta mostrar lo mejor del ser humano.</desc>
     <date>2020</date>
@@ -25938,22 +26423,7 @@
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme start="20200709023000 +0200" stop="20200709031000 +0200" channel="Canarias.TV">
-    <title lang="es">Una hora menos. En casa contigo</title>
-    <desc lang="es">Los canarios explican cómo están viviendo la cuarentena en sus casas. El ingenio y el entretenimiento son las mejores armas para superar este complicado momento.</desc>
-    <date>2020</date>
-    <category lang="es">Entretenimiento</category>
-    <category lang="es">Tele Realidad</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MCANARP1777213" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-    <star-rating system="ES">
-      <value>3/5</value>
-    </star-rating>
-  </programme>
-  <programme start="20200709031000 +0200" stop="20200709061500 +0200" channel="Canarias.TV">
+  <programme start="20200709032000 +0200" stop="20200709061500 +0200" channel="Canarias.TV">
     <title lang="es">Buenas tardes Canarias</title>
     <desc lang="es">Programa de entretenimiento, debate y análisis de la actualidad con acento canario, presentado por Rebeca Paniagua y Jose Croisser. Además en su 'talk show' "Las Historias de BTC" se da espacio a miembros de la ciudadanía para que cuenten sus experiencias vitales.</desc>
     <credits>
@@ -28730,14 +29200,163 @@
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme start="20200708000000 +0200" stop="20200708003000 +0200" channel="Benavente.TV">
-    <title lang="es">Silencio, Grabando</title>
-    <desc lang="es">ómo se hacen las películas?</desc>
-    <icon src="https://www.tvbenavente.es/wp-content/uploads/2015/08/SILENCIO-GRABANDO-TVBENAVENTE.jpg" />
+  <programme start="20200708020000 +0200" stop="20200708070000 +0200" channel="8Burgos.TV">
+    <title lang="es">Redifusión</title>
+    <desc lang="es">Teledeporte.</desc>
+    <category lang="es">Otros</category>
+    <country lang="es">Otros</country>
   </programme>
-  <programme start="20200708003000 +0200" stop="20200708020000 +0200" channel="Benavente.TV">
-    <title lang="es">CINE</title>
-    <icon src="https://www.tvbenavente.es/wp-content/uploads/2019/07/cine-noche2.png" />
+  <programme start="20200708070000 +0200" stop="20200708073000 +0200" channel="8Burgos.TV">
+    <title lang="es">Teletienda</title>
+    <desc lang="es">Espacio dedicado a la televenta.</desc>
+    <credits>
+      <director>Kathryn Bigelow</director>
+      <actor>Harrison Ford</actor>
+      <actor>Liam Neeson</actor>
+      <actor>Peter Sarsgaard</actor>
+    </credits>
+    <category lang="es">Televenta</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2051980.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20200708073000 +0200" stop="20200708080000 +0200" channel="8Burgos.TV">
+    <title lang="es">World discoveries</title>
+    <desc lang="es">Documental.</desc>
+    <category lang="es">Otros</category>
+    <country lang="es">Otros</country>
+  </programme>
+  <programme start="20200708080000 +0200" stop="20200708083000 +0200" channel="8Burgos.TV">
+    <title lang="es">Hoy toca jota</title>
+    <desc lang="es">Espacio dedicado al conocido baile popular y la música que lo acompaña.</desc>
+    <date>2012</date>
+    <category lang="es">Tradicional</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/441289.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200708083000 +0200" stop="20200708090000 +0200" channel="8Burgos.TV">
+    <title lang="es">Exploración planeta</title>
+    <desc lang="es">Documental.</desc>
+    <category lang="es">Ciencia y tecnología</category>
+    <country lang="es">Otros</country>
+  </programme>
+  <programme start="20200708090000 +0200" stop="20200708103000 +0200" channel="8Burgos.TV">
+    <title lang="es">Buenos días Castilla y León</title>
+    <desc lang="es">La actualidad de Castilla y León a primera hora.</desc>
+    <category lang="es">Informativo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/431426.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200708103000 +0200" stop="20200708130000 +0200" channel="8Burgos.TV">
+    <title lang="es">Programación local</title>
+    <desc lang="es">Programación local.</desc>
+    <category lang="es">Retransmisión</category>
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200708130000 +0200" stop="20200708133000 +0200" channel="8Burgos.TV">
+    <title lang="es">World discoveries</title>
+    <desc lang="es">Sin descripción.</desc>
+    <category lang="es">Otros</category>
+    <country lang="es">Otros</country>
+  </programme>
+  <programme start="20200708133000 +0200" stop="20200708135400 +0200" channel="8Burgos.TV">
+    <title lang="es">Hoy toca jota</title>
+    <desc lang="es">Espacio dedicado al conocido baile popular y la música que lo acompaña.</desc>
+    <date>2012</date>
+    <category lang="es">Tradicional</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/441289.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200708135400 +0200" stop="20200708143000 +0200" channel="8Burgos.TV">
+    <title lang="es">Noticias 8</title>
+    <desc lang="es">Programa informativo.</desc>
+    <date>2013</date>
+    <category lang="es">Informativo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/443633.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200708143000 +0200" stop="20200708153000 +0200" channel="8Burgos.TV">
+    <title lang="es">Un paseo por Castilla y León</title>
+    <desc lang="es">Palencia y Salamanca.</desc>
+  </programme>
+  <programme start="20200708153000 +0200" stop="20200708160000 +0200" channel="8Burgos.TV">
+    <title lang="es">Noticias 8</title>
+    <desc lang="es">Programa informativo.</desc>
+    <date>2013</date>
+    <category lang="es">Informativo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/443633.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200708160000 +0200" stop="20200708180000 +0200" channel="8Burgos.TV">
+    <title lang="es">Programación local</title>
+    <desc lang="es">Programación local.</desc>
+    <category lang="es">Retransmisión</category>
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200708180000 +0200" stop="20200708195000 +0200" channel="8Burgos.TV">
+    <title lang="es">Infiltrados</title>
+    <desc lang="es">Serie australiana que retrata la vida de seis policías infiltrados, entre ellos el oficial Peter Church, que en su acción diaria es un hombre solitario que se mezcla con delincuente habituales de dudosa reputación.</desc>
+    <credits>
+      <director>David Cameron</director>
+      <actor>Peter Phelps</actor>
+      <actor>Joe Petruzzi</actor>
+      <actor>Anita Hegh</actor>
+      <actor>Kate Kendall</actor>
+    </credits>
+    <date>1998</date>
+    <category lang="es">Policíaca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/730095.jpg" />
+    <country lang="es">Australia</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200708195000 +0200" stop="20200708203000 +0200" channel="8Burgos.TV">
+    <title lang="es">Noticias 8</title>
+    <desc lang="es">Programa informativo.</desc>
+    <date>2013</date>
+    <category lang="es">Informativo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/443633.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200708203000 +0200" stop="20200708213000 +0200" channel="8Burgos.TV">
+    <title lang="es">Un paseo por Castilla y León</title>
+    <desc lang="es">Palencia y Salamanca.</desc>
+  </programme>
+  <programme start="20200708213000 +0200" stop="20200709020000 +0200" channel="8Burgos.TV">
+    <title lang="es">Programación local</title>
+    <desc lang="es">Programación local.</desc>
+    <category lang="es">Retransmisión</category>
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20200708090000 +0200" stop="20200708093000 +0200" channel="Benavente.TV">
     <title lang="es">NOTICIAS Benavente Hoy</title>
@@ -28762,7 +29381,110 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
   <programme start="20200708143000 +0200" stop="20200708150000 +0200" channel="Benavente.TV">
     <title lang="es">NOTICIAS Benavente Hoy</title>
     <desc lang="es">TICIAS BENAVENTE HOY: 
-El programa informativo para encontrarse con las noticias de actualidad, utilidad y todo aquello que afecte o beneficie explicado en términos senci}&gt;.</desc>
+El programa informativo para encontrarse con las noticias de actualidad, utilidad y todo aquello que afecte o beneficie explicado en términos sencillos de la mano de profesionales.</desc>
+    <icon src="https://www.tvbenavente.es/wp-content/uploads/2013/03/wp_logo.jpg" />
+  </programme>
+  <programme start="20200708150000 +0200" stop="20200708153000 +0200" channel="Benavente.TV">
+    <title lang="es">I Love España</title>
+    <desc lang="es">País impresionante por descubrir. 
+Enamórate de sus paisajes, tradiciones, costumbres y sabores de los extraordinarios lugares que conforman España. 
+Programa de 25 minutos con reportajes, sugerencias y sensaciones de los lugares más bellos de nuestro país.</desc>
+    <icon src="https://www.tvbenavente.es/wp-content/uploads/2015/08/I-LOVE-ESPAÑA.jpg" />
+  </programme>
+  <programme start="20200708153000 +0200" stop="20200708160000 +0200" channel="Benavente.TV">
+    <title lang="es">Documental</title>
+    <desc lang="es">ADICIONES Y COSTUMBRES: Los documentales con más premios y reconocimientos de la televisión. Líderes en todas sus emisiones.</desc>
+    <icon src="https://www.tvbenavente.es/wp-content/uploads/2015/08/DOCUMENTALES-TRADICIONES-Y-COSTUMBRES.jpg" />
+  </programme>
+  <programme start="20200708160000 +0200" stop="20200708163000 +0200" channel="Benavente.TV">
+    <title lang="es">NOTICIAS Benavente Hoy</title>
+    <desc lang="es">TICIAS BENAVENTE HOY: 
+El programa informativo para encontrarse con las noticias de actualidad, utilidad y todo aquello que afecte o beneficie explicado en términos sencillos de la mano de profesionales.</desc>
+    <icon src="https://www.tvbenavente.es/wp-content/uploads/2013/03/wp_logo.jpg" />
+  </programme>
+  <programme start="20200708163000 +0200" stop="20200708183000 +0200" channel="Benavente.TV">
+    <title lang="es">Cine Western</title>
+    <desc lang="es">Western es uno de los géneros más populares del cine durante el siglo XX.
+Buena parte de las películas más taquilleras de Hollywood se deben a las películas del Oeste y películas de vaqueros.</desc>
+    <icon src="https://www.tvbenavente.es/wp-content/uploads/2019/07/Cine-Western.jpg" />
+  </programme>
+  <programme start="20200708183000 +0200" stop="20200708190000 +0200" channel="Benavente.TV">
+    <title lang="es">Documental</title>
+    <desc lang="es">cumentales etnográficos sobre los oficios más antiguos de España, muchos de ellos ya perdidos. Producción y dirección Eugenio Monesma.</desc>
+    <icon src="https://www.tvbenavente.es/wp-content/uploads/2015/08/TIERRA-DE-OFICIOS.jpg" />
+  </programme>
+  <programme start="20200708190000 +0200" stop="20200708200000 +0200" channel="Benavente.TV">
+    <title lang="es">SERIE</title>
+    <icon src="https://www.tvbenavente.es/wp-content/uploads/2013/03/wp_logo.jpg" />
+  </programme>
+  <programme start="20200708200000 +0200" stop="20200708203000 +0200" channel="Benavente.TV">
+    <title lang="es">Informatic</title>
+    <desc lang="es">mundo de la informática al alcance de todos. 
+Un manual de usuario con todo lo que debes saber para conocer el mundo de los programas, los consejos más prácticos, los juegos más novedosos, los trucos, las novedades del mercado, las webs locales más interesantes… 
+Presentado por Javi Argote e Ibai Sánchez.</desc>
+    <icon src="https://www.tvbenavente.es/wp-content/uploads/2015/08/INFORMATIC-1.jpg" />
+  </programme>
+  <programme start="20200708203000 +0200" stop="20200708210000 +0200" channel="Benavente.TV">
+    <title lang="es">Documental</title>
+    <desc lang="es">ADICIONES Y COSTUMBRES: Los documentales con más premios y reconocimientos de la televisión. Líderes en todas sus emisiones.</desc>
+    <icon src="https://www.tvbenavente.es/wp-content/uploads/2013/03/wp_logo.jpg" />
+  </programme>
+  <programme start="20200708210000 +0200" stop="20200708213000 +0200" channel="Benavente.TV">
+    <title lang="es">NOTICIAS Benavente Hoy</title>
+    <desc lang="es">TICIAS BENAVENTE HOY: 
+El programa informativo para encontrarse con las noticias de actualidad, utilidad y todo aquello que afecte o beneficie explicado en términos sencillos de la mano de profesionales.</desc>
+    <icon src="https://www.tvbenavente.es/wp-content/uploads/2013/03/wp_logo.jpg" />
+  </programme>
+  <programme start="20200708213000 +0200" stop="20200708220000 +0200" channel="Benavente.TV">
+    <title lang="es">Documental</title>
+    <desc lang="es">cumentales etnográficos más importantes de nuestro país sobre la cultura tradicional de España (oficios, fiestas, rituales). 
+Todo ello producido, dirigido y realizado por Eugenio Monesma.</desc>
+    <icon src="https://www.tvbenavente.es/wp-content/uploads/2019/07/documental-ritos-y-leyendas.jpg" />
+  </programme>
+  <programme start="20200708220000 +0200" stop="20200708230000 +0200" channel="Benavente.TV">
+    <title lang="es">Grandes con Jenny Llada</title>
+    <desc lang="es">programa de entrevistas presentado por la vedette y actriz española, Jenny Llada, donde conversa con diversos invitados de lujo y personalidades de amplia trayectoria artística.</desc>
+    <icon src="https://www.tvbenavente.es/wp-content/uploads/2019/09/Grandes-con-Jenny-LLada.jpg" />
+  </programme>
+  <programme start="20200708230000 +0200" stop="20200708233000 +0200" channel="Benavente.TV">
+    <title lang="es">Documental</title>
+    <desc lang="es">ADICIONES Y COSTUMBRES: Los documentales con más premios y reconocimientos de la televisión. Líderes en todas sus emisiones.</desc>
+    <icon src="https://www.tvbenavente.es/wp-content/uploads/2013/03/wp_logo.jpg" />
+  </programme>
+  <programme start="20200708233000 +0200" stop="20200709000000 +0200" channel="Benavente.TV">
+    <title lang="es">NOTICIAS Benavente Hoy</title>
+    <desc lang="es">TICIAS BENAVENTE HOY: 
+El programa informativo para encontrarse con las noticias de actualidad, utilidad y todo aquello que afecte o beneficie explicado en términos sencillos de la mano de profesionales.</desc>
+    <icon src="https://www.tvbenavente.es/wp-content/uploads/2013/03/wp_logo.jpg" />
+  </programme>
+  <programme start="20200709000000 +0200" stop="20200709003000 +0200" channel="Benavente.TV">
+    <title lang="es">Cambio de Rasante</title>
+    <desc lang="es">pacio dedicado al mundo del motor. Consejos, novedades, competición y mucho más en este referente para los amantes del asfalto.</desc>
+    <icon src="https://www.tvbenavente.es/wp-content/uploads/2015/08/CAMBIO-DE-RASANTE.jpg" />
+  </programme>
+  <programme start="20200709003000 +0200" stop="20200709020000 +0200" channel="Benavente.TV">
+    <title lang="es">CINE</title>
+    <icon src="https://www.tvbenavente.es/wp-content/uploads/2019/07/cine-noche2.png" />
+  </programme>
+  <programme start="20200709090000 +0200" stop="20200709093000 +0200" channel="Benavente.TV">
+    <title lang="es">NOTICIAS Benavente Hoy</title>
+    <desc lang="es">TICIAS BENAVENTE HOY: 
+El programa informativo para encontrarse con las noticias de actualidad, utilidad y todo aquello que afecte o beneficie explicado en términos sencillos de la mano de profesionales.</desc>
+    <icon src="https://www.tvbenavente.es/wp-content/uploads/2013/03/wp_logo.jpg" />
+  </programme>
+  <programme start="20200709093000 +0200" stop="20200709133000 +0200" channel="Benavente.TV">
+    <title lang="es">Música</title>
+    <icon src="https://www.tvbenavente.es/wp-content/uploads/2019/07/musica.jpg" />
+  </programme>
+  <programme start="20200709133000 +0200" stop="20200709140000 +0200" channel="Benavente.TV">
+    <title lang="es">Cocina Familiar</title>
+    <desc lang="es">cetas de cocina fáciles y accesibles con el chef Javier Romero.</desc>
+    <icon src="https://www.tvbenavente.es/wp-content/uploads/2018/08/cocina-familiar.jpg" />
+  </programme>
+  <programme start="20200709140000 +0200" stop="20200709143000 +0200" channel="Benavente.TV">
+    <title lang="es">Documental</title>
+    <desc lang="es">cumentales etnográficos más importantes de nuestro país sobre la cultura tradicional de España (oficios, fiestas, rituales). Todo ello producido, dirigido y realizado por Eugenio Monesma.</desc>
+    <icon src="https://www.tvbenavente.es/wp-content/u}" />
   </programme>
   <programme start="20200708060000 +0200" stop="20200708073000 +0200" channel="TV3.TV">
     <title lang="es">Notícies 3/24</title>
@@ -41041,7 +41763,7 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20200708222500 +0200" stop="20200708232500 +0200" channel="La1_CAT.TV">
+  <programme start="20200708222500 +0200" stop="20200708233000 +0200" channel="La1_CAT.TV">
     <title lang="es">Lazos de Sangre</title>
     <desc lang="es">Lazos de sangre repasa la historia de la presentadora que durante más de 20 años entró en los salones de todos los españoles.</desc>
     <date>2020</date>
@@ -41053,7 +41775,7 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20200708232500 +0200" stop="20200709005500 +0200" channel="La1_CAT.TV">
+  <programme start="20200708233000 +0200" stop="20200709010000 +0200" channel="La1_CAT.TV">
     <title lang="es">Lazos de Sangre: El Debate</title>
     <desc lang="es">Debate, presentado por Boris Izaguirre, en el que se analiza el programa 'Lazos de sangre' con la ayuda de colaboradores entre los que están Rocío Carrasco y la cantante Alaska, entre otros.</desc>
     <date>2020</date>
@@ -41065,7 +41787,7 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20200709005500 +0200" stop="20200709020000 +0200" channel="La1_CAT.TV">
+  <programme start="20200709010000 +0200" stop="20200709020500 +0200" channel="La1_CAT.TV">
     <title lang="es">Lazos de Sangre</title>
     <desc lang="es">En la saga Rivera Ordóñez, 'Lazos de Sangre' entrevista en primicia a Pilar Lezcano, viuda de Antonio Ordóñez; Julián Contreras Jr.; Antonio Rivera y José Antonio Canales Rivera.</desc>
     <date>2018</date>
@@ -41077,7 +41799,7 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20200709020000 +0200" stop="20200709034500 +0200" channel="La1_CAT.TV">
+  <programme start="20200709020500 +0200" stop="20200709035000 +0200" channel="La1_CAT.TV">
     <title lang="es">La noche en 24h</title>
     <desc lang="es">Informativo que incluye conexiones en directo desde los puntos protagonistas de la actualidad, entrevistas, análisis de la información y una tertulia de opinión para ayudar a comprender los hechos.</desc>
     <credits>
@@ -41095,7 +41817,7 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20200709034500 +0200" stop="20200709060000 +0200" channel="La1_CAT.TV">
+  <programme start="20200709035000 +0200" stop="20200709060000 +0200" channel="La1_CAT.TV">
     <title lang="es">Noticias 24h</title>
     <desc lang="es">Información contínua 24 horas nacional e internacional. Presentado por Alex Barreiro, Jerónimo Fernández, Marta Ventura, Beatriz Pérez y Mercedes Martel.</desc>
     <credits>
@@ -41176,32 +41898,28 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
     </rating>
   </programme>
   <programme start="20200709130000 +0200" stop="20200709140000 +0200" channel="La1_CAT.TV">
-    <title lang="es">COCINA AL PUNTO CON PEÑA Y TAMARA</title>
+    <title lang="es">Cocina al punto con Peña y Tamara</title>
     <desc lang="es">El chef Javier Peña prepara dos receta en colaboración con Tamara Falcó con los mejores ingredientes que ha seleccionado en su lugar de origen.</desc>
     <category lang="es">Otros</category>
     <country lang="es">Otros</country>
     <episode-num system="onscreen">E1</episode-num>
   </programme>
   <programme start="20200709140000 +0200" stop="20200709143000 +0200" channel="La1_CAT.TV">
-    <title lang="es">INFORMATIVO SOBREMESA CATALUÑA</title>
-    <desc lang="es">PROGRAMA INFORMATIVO DE INFORMACION REGIONAL.</desc>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1703780.jpg" />
-    <country lang="es">Otros</country>
-    <episode-num system="onscreen">E187</episode-num>
+    <title lang="es">L'informatiu</title>
+    <desc lang="es">Información autonómica de Cataluña.</desc>
+    <credits>
+      <presenter>Marta Ribas</presenter>
+    </credits>
+    <category lang="es">Informativo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/477834.jpg" />
+    <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
     </rating>
   </programme>
   <programme start="20200709143000 +0200" stop="20200709150000 +0200" channel="La1_CAT.TV">
-    <title lang="es">TVEMOS</title>
-    <desc lang="es">Tvemos ofrece al espectador todas aquéllas imágenes sorprendentes, curiosas, divertidas que ofrece la actualidad diaria.</desc>
-    <category lang="es">Otros</category>
-    <country lang="es">Otros</country>
-    <episode-num system="onscreen">E184</episode-num>
-    <rating system="ES">
-      <value>7</value>
-    </rating>
+    <title lang="es">Tvemos</title>
+    <desc lang="es">Espacio de humor y diversión con las imágenes más espectaculares, sorprendentes, curiosas y divertidas de la actualidad, presentadas por Mary Ruiz.</desc>
   </programme>
   <programme start="20200709150000 +0200" stop="20200709160000 +0200" channel="La1_CAT.TV">
     <title lang="es">Telediario 1</title>
@@ -41215,12 +41933,17 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
     </rating>
   </programme>
   <programme start="20200709160000 +0200" stop="20200709161500 +0200" channel="La1_CAT.TV">
-    <title lang="es">INFORMATIVO CATALUÑA SOBREMESA RESUMEN</title>
-    <desc lang="es">RESUMEN INFORMATIVOS DE ACTUALIDAD REGIONAL.</desc>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1703780.jpg" />
-    <country lang="es">Otros</country>
-    <episode-num system="onscreen">E648</episode-num>
+    <title lang="es">L'informatiu</title>
+    <desc lang="es">Información autonómica de Cataluña.</desc>
+    <credits>
+      <presenter>Marta Ribas</presenter>
+    </credits>
+    <category lang="es">Informativo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/477834.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20200709161500 +0200" stop="20200709163000 +0200" channel="La1_CAT.TV">
     <title lang="es">El tiempo TVE 1</title>
@@ -41236,8 +41959,8 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
     </rating>
   </programme>
   <programme start="20200709163000 +0200" stop="20200709165500 +0200" channel="La1_CAT.TV">
-    <title lang="es">MERCADO CENTRAL</title>
-    <desc lang="es">Serie que narra el día a día de un mercado de barrio a punto de ser convertido en un centro comercial y su lucha por impedirlo.</desc>
+    <title lang="es">Mercado central</title>
+    <desc lang="es">Los comerciantes del 'Mercado central' se ven obligados a modernizar sus negocios para reconvertirse y evitar que un importante fondo de inversores transforme el recinto en un lujoso centro comercial.</desc>
     <credits>
       <director>Joan Noguera</director>
       <actor>Antonio Garrido</actor>
@@ -41280,8 +42003,8 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
     </rating>
   </programme>
   <programme start="20200709172000 +0200" stop="20200709181500 +0200" channel="La1_CAT.TV">
-    <title lang="es">ACACIAS, 38</title>
-    <desc lang="es">La serie, ambientada a principios del siglo XX, está situada en una calle, Acacias, y nos muestra el devenir de sus habitantes.</desc>
+    <title lang="es">Acacias, 38</title>
+    <desc lang="es">Serie ambientada en 1899 que narra las historias de amor, celos, pasiones, venganzas, odios y alegrías de cuatro familias burguesas y sus criadas en el edificio señorial de la calle Acacias, 38.</desc>
     <credits>
       <director>Humberto Miro</director>
       <actor>Clara Garrido</actor>
@@ -41297,8 +42020,8 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
     </rating>
   </programme>
   <programme start="20200709181500 +0200" stop="20200709190500 +0200" channel="La1_CAT.TV">
-    <title lang="es">EL CAZADOR</title>
-    <desc lang="es">'El Cazador', un formato en el que cuatro concursantes anónimos unen sus conocimientos para ganar al cazador, un auténtico profesional de los.</desc>
+    <title lang="es">El cazador</title>
+    <desc lang="es">Cuatro concursantes anónimos se enfrentan a los mejores concursantes de televisión de España, en un 'quiz show' conducido por Ion Aramendi.</desc>
     <category lang="es">Otros</category>
     <country lang="es">Otros</country>
     <episode-num system="onscreen">E74</episode-num>
@@ -41423,7 +42146,7 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
     </rating>
   </programme>
   <programme start="20200709233000 +0200" stop="20200710001500 +0200" channel="La1_CAT.TV">
-    <title lang="es">CITAS</title>
+    <title lang="es">Citas</title>
     <desc lang="es">Blanca y Víctor se conocen desde pequeños y se han reencontrado gracias a la web de citas. David y Mia pronto evidencian ser de mundos muy distintos.</desc>
     <credits>
       <director>Patricia Font</director>
@@ -41630,7 +42353,7 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20200708054500 +0200" stop="20200709060000 +0200" channel="La2_CAT.TV">
+  <programme start="20200708054500 +0200" stop="20200708060000 +0200" channel="La2_CAT.TV">
     <title lang="es">Cocina sana en casa</title>
     <desc lang="es">Jamie Oliver cocina: Tortitas de Trigo Sarraceno con Fresas y Sirope; Palitos de Pescado Gigantes; Risotto de Calabaza y Salchichas; Pollo al Curry Balinés con Sitake.</desc>
     <credits>
@@ -41647,12 +42370,591 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
       <value>TP</value>
     </rating>
   </programme>
+  <programme start="20200708060000 +0200" stop="20200708062500 +0200" channel="La2_CAT.TV">
+    <title lang="es">Mi familia en la mochila. Family Run</title>
+    <desc lang="es">Nuestra familia abandona Zanzíbar y vuelve al continente, a la ciudad tanzana de Arusha.</desc>
+    <credits>
+      <director>César Lázaro</director>
+    </credits>
+    <category lang="es">Tele Realidad</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/965068.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S4 E12</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200708062500 +0200" stop="20200708063000 +0200" channel="La2_CAT.TV">
+    <title lang="es">La 2 Express</title>
+    <desc lang="es">Espacio informativo.</desc>
+    <date>2019</date>
+    <category lang="es">Informativo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2641414.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200708063000 +0200" stop="20200708070000 +0200" channel="La2_CAT.TV">
+    <title lang="es">That's English</title>
+    <desc lang="es">Los telespectadores pueden aprender y practicar inglés a través de las clases televisivas de That's English. Los diferentes ámbitos de la vida inglesa sirven de pretexto para aprender el idioma.</desc>
+    <credits>
+      <director>Andrew Morgan</director>
+      <actor>Realizacion: Becky Mitchell</actor>
+      <actor>Peter Walton presentacion: Annabelle Dowler</actor>
+      <actor>Ashley House</actor>
+      <actor>Realizacion: Peter Walton</actor>
+      <actor>Becky Mitchell presentacion: Ashley House</actor>
+      <actor>Annabelle Dowler</actor>
+      <actor>Becky Mitchell presentacion: Annabelle Dowler</actor>
+    </credits>
+    <category lang="es">Idiomas</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/476487.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200708070000 +0200" stop="20200708073000 +0200" channel="La2_CAT.TV">
+    <title lang="es">Activa2</title>
+    <desc lang="es">Programa informativo sobre hábitos saludables de vida.</desc>
+    <category lang="es">Salud</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2038522.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E103</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200708073000 +0200" stop="20200708075500 +0200" channel="La2_CAT.TV">
+    <title lang="es">Inglés online TVE</title>
+    <desc lang="es">Curso de inglés para hispanoparlantes basado en el método Vaughan.</desc>
+    <date>2018</date>
+    <category lang="es">Idiomas</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1748364.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E123</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200708075500 +0200" stop="20200708084500 +0200" channel="La2_CAT.TV">
+    <title lang="es">Animales a través de la noche: Durmiendo en el zoo</title>
+    <desc lang="es">El zoo de Bristol, con más de 400 especies, ofrece la oportunidad perfecta para ver por primera vez cómo se comportan los animales durante la noche.</desc>
+    <credits>
+      <director>Nicholas Head</director>
+      <composer>Andrew Collins</composer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2582454.jpg" />
+    <country lang="es">Reino Unido</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200708084500 +0200" stop="20200708091500 +0200" channel="La2_CAT.TV">
+    <title lang="es">¡Qué animal!</title>
+    <desc lang="es">Viajamos al Parque Nacional de Ordesa y Monte Perdido, en Huesca, el segundo parque nacional que se declaró en España después del de Covadonga (Asturias). Además, entrevistamos a la meteoróloga Mónica López.</desc>
+    <credits>
+      <presenter>Evelyn Segura</presenter>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1456477.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="ES">
+      <value>Asturias</value>
+    </rating>
+  </programme>
+  <programme start="20200708091500 +0200" stop="20200708092500 +0200" channel="La2_CAT.TV">
+    <title lang="es">La 2 Express</title>
+    <desc lang="es">Espacio informativo.</desc>
+    <date>2019</date>
+    <category lang="es">Informativo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2641414.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200708092500 +0200" stop="20200708095500 +0200" channel="La2_CAT.TV">
+    <title lang="es">Novatos en primera línea</title>
+    <desc lang="es">Veremos cómo se enfrentan a sus primeros turnos como novatos Sarah (policía especial), Helen (bombero) y Maya (técnico sanitario de emergencias).</desc>
+    <date>2014</date>
+    <category lang="es">Sociedad</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2098032.jpg" />
+    <country lang="es">Reino Unido</country>
+    <episode-num system="onscreen">S1 E14</episode-num>
+    <rating system="ES">
+      <value>técnico sanitario de emergencias</value>
+    </rating>
+  </programme>
+  <programme start="20200708095500 +0200" stop="20200708104500 +0200" channel="La2_CAT.TV">
+    <title lang="es">Factomania</title>
+    <desc lang="es">Hoy Dom nos contará por qué rojo significa detenerse y verde avanzar, Greg nos muestra su botella de cerveza explosiva utilizando la cavitación.</desc>
+    <credits>
+      <director>Will Clough</director>
+      <presenter>Dominic Byrne</presenter>
+      <presenter>Fran Scott</presenter>
+      <presenter>Greg Foot</presenter>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Científico</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2070158.jpg" />
+    <country lang="es">Reino Unido</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200708104500 +0200" stop="20200708113500 +0200" channel="La2_CAT.TV">
+    <title lang="es">El cerebro con David Eagleman</title>
+    <desc lang="es">La realidad que damos por supuesto exige un entrenamiento intensivo para interpretar el mundo. Procesar la información sensorial requiere tiempo, por eso vivimos en el pasado.</desc>
+    <credits>
+      <director>Toby Trackman</director>
+      <writer>David Eagleman</writer>
+      <presenter>David Eagleman</presenter>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Ciencia y tecnología</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2203119.jpg" />
+    <country lang="es">EE.UU.</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200708113500 +0200" stop="20200708123000 +0200" channel="La2_CAT.TV">
+    <title lang="es">Los primeros hombres</title>
+    <desc lang="es">Cuando el Homo Sapiens llegó a Australia, quedó aislado del resto de la humanidad durante 50 mil años. Es por ello que el ADN de los aborígenes australianos es el más puro y antiguo de la Tierra.</desc>
+    <credits>
+      <director>Nicolas Brown</director>
+      <director>Nigel Walk</director>
+      <writer>Nicolas Brown</writer>
+      <presenter>Kerry Shale</presenter>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Historia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1785533.jpg" />
+    <country lang="es">Reino Unido</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20200708123000 +0200" stop="20200708135500 +0200" channel="La2_CAT.TV">
+    <title lang="es">Vinieron cuatro para matar a Sartana</title>
+    <desc lang="es">Siete bandidos enmascarados secuestran a la joven Susy, prima del alcalde de Clayton City, Frank Clonny.</desc>
+    <credits>
+      <director>Demofilo Fidani Miles</director>
+      <director>Demofilo Fidani (= Miles</director>
+      <actor>Jeff Cameron</actor>
+      <actor>Franco Ricci</actor>
+      <actor>Celso Faria</actor>
+      <actor>Dennys Dolt</actor>
+      <actor>Benito Pacifico</actor>
+      <actor>Pietro Torrisi</actor>
+      <actor>Roberto Danesi</actor>
+      <actor>Simonetta Vitelli</actor>
+      <writer>Demofilo Fidani</writer>
+      <producer>Mila Vitelli Valenza</producer>
+      <composer>Italo Fischetti</composer>
+    </credits>
+    <date>1969</date>
+    <category lang="es">Western</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2626848.jpg" />
+    <country lang="es">Italia</country>
+    <rating system="ES">
+      <value>Anthony G. Stanton</value>
+    </rating>
+  </programme>
+  <programme start="20200708135500 +0200" stop="20200708145000 +0200" channel="La2_CAT.TV">
+    <title lang="es">Mercados, en el vientre de la ciudad</title>
+    <desc lang="es">El mercado de Viktualienmarkt es uno de los más conocidos de Múnich. Con más de 100 establecimientos ofrece una gran variedad de productos frescos, puestos donde comer algo o tomarte una refrescante cerveza.</desc>
+    <credits>
+      <director>Stefano Tealdi</director>
+      <actor>Documental</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Viajes</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1064851.jpg" />
+    <country lang="es">Italia</country>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200708145000 +0200" stop="20200708154500 +0200" channel="La2_CAT.TV">
+    <title lang="es">Sabores</title>
+    <desc lang="es">Al visitar Tanzania, la mayoría de las personas se limitan a los hermosos parques naturales mientras ignoran su cautivadora costa. Veremos la mezcla cultural en Zanzíbar; las islas de Pemba y Mafia, así como Kilwa.</desc>
+    <credits>
+      <director>Eric Bacos</director>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Viajes</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/443291.jpg" />
+    <country lang="es">Francia</country>
+    <episode-num system="onscreen">S1 E62</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200708154500 +0200" stop="20200708163000 +0200" channel="La2_CAT.TV">
+    <title lang="es">Saber y ganar</title>
+    <desc lang="es">Concurso cultural presentado por Jordi Hurtado en el que los participantes se enfrentan a diversas pruebas de conocimiento y agilidad mental.</desc>
+    <credits>
+      <director>Sergi Schaaff</director>
+      <presenter>Jordi Hurtado</presenter>
+      <presenter>Juanjo Cardenal</presenter>
+      <presenter>Pilar Vázquez</presenter>
+    </credits>
+    <date>1997</date>
+    <category lang="es">Concurso</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2494343.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200708163000 +0200" stop="20200708172006 +0200" channel="La2_CAT.TV">
+    <title lang="es">Territorios del monzón</title>
+    <desc lang="es">Cuando el monzón trae el diluvio, grandes peligros y magníficas oportunidades aparecen ante todos los que esperan su llegada. Sobrevivir y aprovechar esas oportunidades únicas, brinda un renacer apoteósico para todos.</desc>
+    <credits>
+      <director>Jonathan Clay</director>
+      <presenter>Colin Salmon</presenter>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1805782.jpg" />
+    <country lang="es">Reino Unido</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200708172006 +0200" stop="20200708182000 +0200" channel="La2_CAT.TV">
+    <title lang="es">Salvaje Oeste</title>
+    <desc lang="es">Los desiertos del salvaje oeste abarcan miles de kilómetros y se sitúan entre dos grandes cordilleras: las montañas Rocosas al este y Sierra Nevada al oeste. La tierra entre ellos resulta reseca e inhóspita.</desc>
+    <credits>
+      <director>Patrick Morris</director>
+      <presenter>James Norton</presenter>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2040460.jpg" />
+    <country lang="es">Reino Unido</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200708182000 +0200" stop="20200708191000 +0200" channel="La2_CAT.TV">
+    <title lang="es">El cerebro con David Eagleman</title>
+    <desc lang="es">La toma de decisiones es lo que nos permite seguir un rumbo en la vida y las selecciones de toda esa vida han modelado a la persona que somos ahora.</desc>
+    <credits>
+      <director>Toby Trackman</director>
+      <writer>David Eagleman</writer>
+      <presenter>David Eagleman</presenter>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Ciencia y tecnología</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2203119.jpg" />
+    <country lang="es">EE.UU.</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200708191000 +0200" stop="20200708193212 +0200" channel="La2_CAT.TV">
+    <title lang="es">La escapada italiana de Gino</title>
+    <desc lang="es">Hoy Gino se traslada a Florencia para mostrarnos su gastronomía.</desc>
+    <credits>
+      <presenter>Gino D'Acampo</presenter>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Viajes</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2129708.jpg" />
+    <country lang="es">Reino Unido</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200708193212 +0200" stop="20200708195500 +0200" channel="La2_CAT.TV">
+    <title lang="es">La escapada italiana de Gino</title>
+    <desc lang="es">Hoy Gino viaja a Venecia para conocer los cicchetti, una especie de tapas venecianas que se sirven con la bebida en muchos bares locales.</desc>
+    <credits>
+      <presenter>Gino D'Acampo</presenter>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Viajes</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2129708.jpg" />
+    <country lang="es">Reino Unido</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200708195500 +0200" stop="20200708202500 +0200" channel="La2_CAT.TV">
+    <title lang="es">Arqueomanía</title>
+    <desc lang="es">Espacio televisivo dirigido y presentado por Manuel Pimentel que recorre algunos de los principales hitos arqueológicos e históricos de España.</desc>
+    <credits>
+      <director>Manuel Pimentel</director>
+    </credits>
+    <category lang="es">Historia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/470231.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S6 E13</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200708202500 +0200" stop="20200708205000 +0200" channel="La2_CAT.TV">
+    <title lang="es">El bosque protector</title>
+    <desc lang="es">En este capítulo nos adentramos en la historia natural del pino canario, cómo fue intensamente explotado en Tenerife.</desc>
+    <credits>
+      <director>Luis García Esteban</director>
+    </credits>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/322034.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S7 E6</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200708205000 +0200" stop="20200708210000 +0200" channel="La2_CAT.TV">
+    <title lang="es">La 2 Express</title>
+    <desc lang="es">Espacio informativo.</desc>
+    <date>2019</date>
+    <category lang="es">Informativo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2641414.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200708210000 +0200" stop="20200708212608 +0200" channel="La2_CAT.TV">
+    <title lang="es">Construcciones ecológicas</title>
+    <desc lang="es">Algunos han respetado los parajes naturales sin que éstos se vean alterados por nuestra presencia. Todos ellos autosuficientes y ecológicos.</desc>
+    <credits>
+      <director>Cécile Nicouleaud</director>
+      <producer>Jean Moncaut</producer>
+      <producer>Séverin Delpon</producer>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Ecología</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2290751.jpg" />
+    <country lang="es">Francia</country>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="ES">
+      <value>Hotel Masai</value>
+    </rating>
+  </programme>
+  <programme start="20200708212608 +0200" stop="20200708220000 +0200" channel="La2_CAT.TV">
+    <title lang="es">Construcciones ecológicas</title>
+    <desc lang="es">Existe un nuevo lenguaje arquitectónico que cada vez aplica más el concepto ecológico y el desarrollo sostenible.</desc>
+    <credits>
+      <director>Cécile Nicouleaud</director>
+      <producer>Jean Moncaut</producer>
+      <producer>Séverin Delpon</producer>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Ecología</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2290751.jpg" />
+    <country lang="es">Francia</country>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200708220000 +0200" stop="20200708233000 +0200" channel="La2_CAT.TV">
+    <title lang="es">La España prehistórica</title>
+    <desc lang="es">Vemos la evolución de la especie humana desde sus orígenes en África hasta su desarrollo en Atapuerca con los más prestigiosos científicos y la presentación de Juan Luis Ausaga, co-director de las excavaciones en Atapuerca.</desc>
+    <credits>
+      <director>Javier Trueba</director>
+      <writer>Javier Trueba</writer>
+      <presenter>Juan Luis Ausaga</presenter>
+    </credits>
+    <category lang="es">Historia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/10463.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>Documental Completo</value>
+    </rating>
+  </programme>
+  <programme start="20200708233000 +0200" stop="20200709003000 +0200" channel="La2_CAT.TV">
+    <title lang="es">En busca del futuro perdido</title>
+    <desc lang="es">La joven Carlota emprende un viaje con su tío Luis Quevedo y el arqueólogo Eudald Carbonell por cuatro continentes para, estudiando el pasado de la humanidad, hallar respuestas sobre la futura evolución del ser humano.</desc>
+    <credits>
+      <director>Alfonso Par</director>
+      <director>Luis Quevedo</director>
+      <writer>Alfonso Par</writer>
+      <writer>Luis Quevedo</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Historia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1287969.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200709003000 +0200" stop="20200709012000 +0200" channel="La2_CAT.TV">
+    <title lang="es">En Portada</title>
+    <desc lang="es">La milicia de Río de Janeiro se ha convertido en un Estado paralelo. Impone su ley de violencia y extorsión.</desc>
+    <date>2020</date>
+    <category lang="es">Reportajes</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/471031.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S34 E30</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200709012000 +0200" stop="20200709014500 +0200" channel="La2_CAT.TV">
+    <title lang="es">Los conciertos de Radio 3</title>
+    <desc lang="es">Perteneciente a la generación de hip hop surgida a finales de los ochenta, el trío neoyorquino De La Soul se convirtió inmediatamente en uno de los grupos más innovadores del género.</desc>
+    <credits>
+      <director>Tomás Fernando Flores</director>
+    </credits>
+    <category lang="es">Concierto</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/471307.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S19 E267</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200709014500 +0200" stop="20200709024500 +0200" channel="La2_CAT.TV">
+    <title lang="es">Dentro de la fábrica</title>
+    <desc lang="es">Gregg visita la fábrica de alubias en salsa de tomate más grande del mundo, y seguirá su proceso desde que llegan secas hasta que salen al mercado. Cherry sigue el camino de una lata para reciclar.</desc>
+    <credits>
+      <presenter>Gregg Wallace</presenter>
+      <presenter>Cherry Healey</presenter>
+      <presenter>Ruth Goodman</presenter>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Ciencia y tecnología</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2455973.jpg" />
+    <country lang="es">Reino Unido</country>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200709024500 +0200" stop="20200709034000 +0200" channel="La2_CAT.TV">
+    <title lang="es">Danza de los gigantes: La Magia de los Sanfermines</title>
+    <desc lang="es">Documental sobre el origen, la trayectoria y la magia de la comparsa de gigantes, 'kilikis', cabezudos y 'zaldikos': personajes de cartón que cobran vida a través de la danza.</desc>
+    <credits>
+      <director>Domingo Moreno</director>
+      <actor>Bruno Ciordia</actor>
+      <actor>Documental</actor>
+    </credits>
+    <category lang="es">Cultura</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2450708.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200709034000 +0200" stop="20200709040608 +0200" channel="La2_CAT.TV">
+    <title lang="es">Construcciones ecológicas</title>
+    <desc lang="es">En esta ocasión, veremos la construcción de casas naturales, hechas de barro (tierra cruda del lugar): se denomina arquitectura de la tierra. Veremos varios ejemplos en Francia, Egipto y Austria.</desc>
+    <credits>
+      <director>Cécile Nicouleaud</director>
+      <producer>Jean Moncaut</producer>
+      <producer>Séverin Delpon</producer>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Ecología</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2290751.jpg" />
+    <country lang="es">Francia</country>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="ES">
+      <value>tierra cruda del lugar</value>
+    </rating>
+  </programme>
+  <programme start="20200709040608 +0200" stop="20200709043000 +0200" channel="La2_CAT.TV">
+    <title lang="es">Construcciones ecológicas</title>
+    <desc lang="es">Hay quien ha construido viviendas con materiales reciclados (que no provienen propiamente de la construcción): neumáticos, partes de coches, señales de tráfico...</desc>
+    <credits>
+      <director>Cécile Nicouleaud</director>
+      <producer>Jean Moncaut</producer>
+      <producer>Séverin Delpon</producer>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Ecología</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2290751.jpg" />
+    <country lang="es">Francia</country>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="ES">
+      <value>utilización de medios naturales</value>
+    </rating>
+  </programme>
+  <programme start="20200709043000 +0200" stop="20200709045223 +0200" channel="La2_CAT.TV">
+    <title lang="es">La escapada italiana de Gino</title>
+    <desc lang="es">Hoy Gino viaja a Gragnano, en Campania, localidad en la que reside su familia. Se ha propuesto visitar a su tía Rita y preparar una gran comida con ingredientes auténticamente italianos, como la pasta de Gragnano.</desc>
+    <credits>
+      <presenter>Gino D'Acampo</presenter>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Viajes</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2129708.jpg" />
+    <country lang="es">Reino Unido</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200709045223 +0200" stop="20200709051500 +0200" channel="La2_CAT.TV">
+    <title lang="es">La escapada italiana de Gino</title>
+    <desc lang="es">Gino nos invita a visitar dos las localidades extraordinarias de Apulia: Altamura, con fama de elaborar el pan más delicioso de Italia, y Basilicata, lugar en el que probará los platos tradicionales de la cocina local.</desc>
+    <credits>
+      <presenter>Gino D'Acampo</presenter>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Viajes</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2129708.jpg" />
+    <country lang="es">Reino Unido</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200709051500 +0200" stop="20200709060000 +0200" channel="La2_CAT.TV">
+    <title lang="es">Territorios del monzón</title>
+    <desc lang="es">Norte de Australia, estación seca. Seis meses sin llover. Todos esperan los prodigios de las lluvias del monzón que desplaza, a lo largo del año y desde la India hasta Australia, el diluvio que permite el renacer.</desc>
+    <credits>
+      <director>Kathryn Jeffs</director>
+      <presenter>Colin Salmon</presenter>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1805782.jpg" />
+    <country lang="es">Reino Unido</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
   <programme start="20200709060000 +0200" stop="20200709060500 +0200" channel="La2_CAT.TV">
-    <title lang="es">DOCUMENTAL</title>
-    <desc lang="es">Norte de Australia. Estación seca. Seis meses sin llover. Todos esperan los prodigios de las lluvias del monzón, el mayor sistema climático del mundo.</desc>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/385812.jpg" />
-    <country lang="es">Otros</country>
+    <title lang="es">Territorios del monzón</title>
+    <desc lang="es">Norte de Australia, estación seca. Seis meses sin llover. Todos esperan los prodigios de las lluvias del monzón que desplaza, a lo largo del año y desde la India hasta Australia, el diluvio que permite el renacer.</desc>
+    <credits>
+      <director>Kathryn Jeffs</director>
+      <presenter>Colin Salmon</presenter>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Naturaleza</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1805782.jpg" />
+    <country lang="es">Reino Unido</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20200709060500 +0200" stop="20200709063000 +0200" channel="La2_CAT.TV">
     <title lang="es">La 2 Express</title>
@@ -41700,12 +43002,16 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
     </rating>
   </programme>
   <programme start="20200709073000 +0200" stop="20200709075500 +0200" channel="La2_CAT.TV">
-    <title lang="es">INGLÉS EN TVE</title>
-    <desc lang="es">Hablando inglés.</desc>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/385812.jpg" />
-    <country lang="es">Otros</country>
-    <episode-num system="onscreen">E124</episode-num>
+    <title lang="es">Inglés online TVE</title>
+    <desc lang="es">Curso de inglés para hispanoparlantes basado en el método Vaughan.</desc>
+    <date>2018</date>
+    <category lang="es">Idiomas</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1748364.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E124</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20200709075500 +0200" stop="20200709084500 +0200" channel="La2_CAT.TV">
     <title lang="es">Un espía entre delfines</title>
@@ -41812,19 +43118,23 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
     </rating>
   </programme>
   <programme start="20200709123000 +0200" stop="20200709140000 +0200" channel="La2_CAT.TV">
-    <title lang="es">CAPITAN APACHE</title>
-    <desc lang="es">Capitán Apache es el nombre de un oficial indio del ejército de los EE.UU.</desc>
+    <title lang="es">Capitán Apache</title>
+    <desc lang="es">Capitán Apache es un oficial del ejército, pero con la notoriedad de que es un indio. Un comisario de los federales, amigo de los indios, es asesinado, y Capitán Apache se propone descubrir a su asesino.</desc>
     <credits>
       <director>Alexander Singer</director>
       <actor>Lee Van Cleef</actor>
       <actor>Carroll Baker</actor>
       <actor>Stuart Whitman</actor>
       <actor>Percy Herbert</actor>
+      <actor>Elisa Montés</actor>
+      <actor>Tony Vogel</actor>
+      <writer>Philip Yordan</writer>
+      <composer>Dolores Claman</composer>
     </credits>
-    <date>1972</date>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/385812.jpg" />
-    <country lang="es">Otros</country>
+    <date>1971</date>
+    <category lang="es">Western</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/6691.jpg" />
+    <country lang="es">EE.UU.</country>
     <rating system="ES">
       <value>12</value>
     </rating>
@@ -42035,12 +43345,15 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
     </rating>
   </programme>
   <programme start="20200709220000 +0200" stop="20200709234500 +0200" channel="La2_CAT.TV">
-    <title lang="es">TESOROS DE LA TELE</title>
+    <title lang="es">Tesoros de la tele</title>
     <desc lang="es">Un recorrido por los mejores momentos del programa decano de los programas de cocina.</desc>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/385812.jpg" />
-    <country lang="es">Otros</country>
-    <episode-num system="onscreen">E7</episode-num>
+    <credits>
+      <director>Pedro Santos</director>
+    </credits>
+    <category lang="es">Programa</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2712654.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
     <rating system="ES">
       <value>7</value>
     </rating>
@@ -43933,7 +45246,7 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
     <date>2017</date>
     <category lang="es">Información</category>
     <category lang="es">Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1083083V1370101" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MBTVP1370101" />
     <country lang="es">España</country>
     <star-rating system="ES">
       <value>4/5</value>
@@ -44479,7 +45792,7 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
     <date>2017</date>
     <category lang="es">Información</category>
     <category lang="es">Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1083083V1370101" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MBTVP1370101" />
     <country lang="es">España</country>
     <star-rating system="ES">
       <value>4/5</value>
@@ -44967,7 +46280,7 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
     <date>2017</date>
     <category lang="es">Información</category>
     <category lang="es">Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1083083V1370101" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MBTVP1370101" />
     <country lang="es">España</country>
     <star-rating system="ES">
       <value>4/5</value>
