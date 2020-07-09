@@ -9103,10 +9103,21 @@
   <programme start="20200709083000 +0200" stop="20200709092500 +0200" channel="Atreseries.TV">
     <title lang="es">Casi perfectos</title>
     <desc lang="es">¿Para qué tratar de solucionar las cosas, si pueden arreglarse solas? Este es el planteamiento vital de Andrés Costa, un vendedor de coches de 41 años cuya rutinaria existencia gira alrededor de su mujer, Elena; sus dos hijas, Blanca y María Lei; su madre, Gloria; sus hermanos, Popi y Manolo, y su prima Mónica, con quien mantiene cierta hostilidad. La aburrida vida de Andrés contrasta con la de su mejor amigo y compañero de trabajo, Iván, un soltero divertido, seductor y cada vez más convencido de lo maravilloso de su estado civil. "Casi perfectos" es una comedia de situación protagonizada por Emilio Aragón y producida por su compañía, Globomedia. La segunda temporada de la serie presenta como principal novedad la incorporación de la actriz Neus Sanz, en el papel de asistenta de la familia Costa, completando así un reparto formado por la veterana Anna Maria Barbany, el 'showman' cubano Alexis Valdés y Cristina Peña ("Compañeros"), entre otros intérpretes. Como ya es habitual, cada episodio cuenta con la participación de un personaje popular que realiza un pequeño cameo.</desc>
+    <credits>
+      <actor>Emilio Aragón</actor>
+      <actor>Fernando Albizu</actor>
+      <actor>Alexis Valdés</actor>
+      <actor>Anna Maria Barbany</actor>
+      <actor>Aitor Legardón</actor>
+      <actor>Yolanda Arestegui</actor>
+      <actor>Neus Sanz</actor>
+      <actor>Cristina Peña</actor>
+    </credits>
     <date>2004</date>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MATRESSP448967" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MATRESSP532070" />
+    <country lang="es">España</country>
     <episode-num system="onscreen">S2 E26</episode-num>
     <rating system="ES">
       <value>7</value>
@@ -9119,14 +9130,51 @@
     <title lang="es">Compañeros</title>
     <sub-title lang="es">Sé el de antes</sub-title>
     <desc lang="es">La serie sigue su línea habitual y seguirá narrando, con respeto, los problemas que afectan el mundo escolar y juvenil. En esta cuarta temporada se incorporan nuevos personajes como Nuria (Ana Otero), la nueva profesora de los pequeños. Se trata de una joven vital y divertida pero, al mismo tiempo, muy comprometida con su trabajo. Su pasión son los niños por lo que, a pesar de los problemas que tuvo en el anterior centro escolar donde estuvo ejerciendo, no ha abandonado su vocación y empieza su nuevo trabajo en el Azcona con mucha ilusión. Otra nueva incorporación se produce en la pandilla. Se trata de Miriam (Pilar Punzano) y es la prima de Sara a la que Quimi (Antonio Hortelano), Valle (Eva Santolaria), Arancha, César y Luismi conocen durante su viaje a la playa, en el primer episodio de la temporada. La joven, de 18 años, es ajena al colegio y será desigualmente recibida por cada uno de los componentes de la pandilla protagonista.</desc>
+    <credits>
+      <actor>Antonio Hortelano</actor>
+      <actor>Rita Irasema</actor>
+      <actor>Francis Lorenzo</actor>
+      <actor>Miguel Rellán</actor>
+      <actor>Beatriz Carvajal</actor>
+      <actor>Mercè Pons</actor>
+      <actor>Eva Santolaria</actor>
+      <actor>Pilar Punzano</actor>
+      <actor>Armando del Río</actor>
+      <actor>Jorge Bosch</actor>
+      <actor>Pepo Oliva</actor>
+      <actor>María Garralón</actor>
+      <actor>Virginia Rodríguez</actor>
+      <actor>Manuel Feijóo</actor>
+      <actor>Julián González</actor>
+      <actor>Ana Otero</actor>
+      <actor>Olga Molina</actor>
+      <actor>César Vea</actor>
+      <actor>Ruth Núñez</actor>
+      <actor>Lara de Miguel</actor>
+      <actor>Daniel Retuerta</actor>
+      <actor>Nicolás Belmonte</actor>
+      <actor>Estrella Zapatero</actor>
+      <actor>Emilio Aragón 'Miliki'</actor>
+      <actor>Tito Augusto</actor>
+      <actor>Duna Jové</actor>
+      <actor>Amanda García</actor>
+      <actor>Rebeca Cobos</actor>
+      <actor>Irene García</actor>
+      <actor>Jorge San José</actor>
+      <actor>Tina Sáinz</actor>
+    </credits>
     <date>1999</date>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MATRESSP417963" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MATRESSP246372" />
+    <country lang="es">España</country>
     <episode-num system="onscreen">S4 E54</episode-num>
     <rating system="ES">
       <value>16</value>
     </rating>
+    <star-rating system="ES">
+      <value>5/5</value>
+    </star-rating>
   </programme>
   <programme start="20200709110500 +0200" stop="20200709123700 +0200" channel="Atreseries.TV">
     <title lang="es">Aquí no hay quien viva</title>
@@ -10116,6 +10164,7 @@
     <date>2017</date>
     <category lang="es">Series</category>
     <category lang="es">Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MATRESSP1455340" />
     <country lang="es">EE.UU</country>
     <rating system="ES">
       <value>12</value>
@@ -14858,68 +14907,103 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20200709060000 +0200" stop="20200709080000 +0200" channel="TDP.TV">
+  <programme start="20200709060000 +0200" stop="20200709065500 +0200" channel="TDP.TV">
     <title lang="es">Teledeporte</title>
     <desc lang="es">El canal de deportes de TVE.</desc>
     <category lang="es">Otros</category>
     <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
     <country lang="es">Otros</country>
   </programme>
-  <programme start="20200709080000 +0200" stop="20200709100000 +0200" channel="TDP.TV">
-    <title lang="es">Teledeporte</title>
-    <desc lang="es">El canal de deportes de TVE.</desc>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
-    <country lang="es">Otros</country>
+  <programme start="20200709065500 +0200" stop="20200709082000 +0200" channel="TDP.TV">
+    <title lang="es">Reportajes Teledeporte</title>
+    <desc lang="es">La 54ª edición de la Copa del Rey de baloncesto se disputó en el Centro Insular de Deportes de Las Palmas de Gran Canaria, siendo la primera edición disputada en Gran Canaria.</desc>
+    <date>2020</date>
+    <category lang="es">Programa</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2100271.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">E726</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20200709100000 +0200" stop="20200709120000 +0200" channel="TDP.TV">
-    <title lang="es">Teledeporte</title>
-    <desc lang="es">El canal de deportes de TVE.</desc>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
-    <country lang="es">Otros</country>
+  <programme start="20200709082000 +0200" stop="20200709093500 +0200" channel="TDP.TV">
+    <title lang="es">Estudio Estadio</title>
+    <desc lang="es">Incluye lo más relevante de lo acontecido durante la jornada de fútbol resumiendo, a través de breves reportajes, los partidos de LaLiga Santander y con entrevistas a sus protagonistas.</desc>
+    <date>2020</date>
+    <category lang="es">Programa</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2049231.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">E205</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20200709120000 +0200" stop="20200709140000 +0200" channel="TDP.TV">
-    <title lang="es">Teledeporte</title>
-    <desc lang="es">El canal de deportes de TVE.</desc>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
-    <country lang="es">Otros</country>
+  <programme start="20200709093500 +0200" stop="20200709111000 +0200" channel="TDP.TV">
+    <title lang="es">Campeonato del Mundo Gimnasia Rítmica 2017</title>
+    <desc lang="es">Desde Pésaro (Italia).</desc>
   </programme>
-  <programme start="20200709140000 +0200" stop="20200709160000 +0200" channel="TDP.TV">
-    <title lang="es">Teledeporte</title>
-    <desc lang="es">El canal de deportes de TVE.</desc>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
-    <country lang="es">Otros</country>
+  <programme start="20200709111000 +0200" stop="20200709130500 +0200" channel="TDP.TV">
+    <title lang="es">Reportajes Teledeporte</title>
+    <desc lang="es">Final España-Argentina. Desde San Juan (Argentina).</desc>
   </programme>
-  <programme start="20200709160000 +0200" stop="20200709180000 +0200" channel="TDP.TV">
-    <title lang="es">Teledeporte</title>
-    <desc lang="es">El canal de deportes de TVE.</desc>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
-    <country lang="es">Otros</country>
+  <programme start="20200709130500 +0200" stop="20200709143000 +0200" channel="TDP.TV">
+    <title lang="es">Reportajes Teledeporte</title>
+    <desc lang="es">Desde Bucarest (Rumanía).</desc>
   </programme>
-  <programme start="20200709180000 +0200" stop="20200709200000 +0200" channel="TDP.TV">
-    <title lang="es">Teledeporte</title>
-    <desc lang="es">El canal de deportes de TVE.</desc>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
-    <country lang="es">Otros</country>
+  <programme start="20200709143000 +0200" stop="20200709150000 +0200" channel="TDP.TV">
+    <title lang="es">Tdp Club</title>
+    <desc lang="es">Marc Martín y Arse Cañada presentan este magacín diario de deportes en el que repasan las últimas noticias de competiciones a nivel nacional e internacional.</desc>
   </programme>
-  <programme start="20200709200000 +0200" stop="20200709220000 +0200" channel="TDP.TV">
-    <title lang="es">Teledeporte</title>
-    <desc lang="es">El canal de deportes de TVE.</desc>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
-    <country lang="es">Otros</country>
+  <programme start="20200709150000 +0200" stop="20200709160000 +0200" channel="TDP.TV">
+    <title lang="es">Reportajes Teledeporte</title>
+    <desc lang="es">Desde Sevilla.</desc>
   </programme>
-  <programme start="20200709220000 +0200" stop="20200710000000 +0200" channel="TDP.TV">
-    <title lang="es">Teledeporte</title>
-    <desc lang="es">El canal de deportes de TVE.</desc>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
-    <country lang="es">Otros</country>
+  <programme start="20200709160000 +0200" stop="20200709163000 +0200" channel="TDP.TV">
+    <title lang="es">Fast &amp; Fut Primera</title>
+    <desc lang="es">Fast &amp; Fut es un programa de televisión deportivo presentado por David Figueira. El título del programa es un juego de palabras que combina fútbol y fast food (comida rápida), en referencia a que tenía una duración de 30 minutos.</desc>
+    <date>2016</date>
+    <category lang="es">Programa</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1739888.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>comida rápida</value>
+    </rating>
+  </programme>
+  <programme start="20200709163000 +0200" stop="20200709165500 +0200" channel="TDP.TV">
+    <title lang="es">Fast &amp; Fut Segunda</title>
+    <desc lang="es">Toda la información en 30 minutos de la segunda división presentado por David Figueira.</desc>
+  </programme>
+  <programme start="20200709165500 +0200" stop="20200709180000 +0200" channel="TDP.TV">
+    <title lang="es">Reportajes Teledeporte</title>
+    <desc lang="es">9ª etapa: Le Bourg-d'Oisans-Gap.</desc>
+  </programme>
+  <programme start="20200709180000 +0200" stop="20200709181500 +0200" channel="TDP.TV">
+    <title lang="es">Objetivo Tokio</title>
+    <desc lang="es">Programa informativo que sigue la preparación de los deportistas españoles de cara a su participación en los Juegos Olímpicos que se celebrarán en Tokio, Japón, en 2020.</desc>
+  </programme>
+  <programme start="20200709181500 +0200" stop="20200709195500 +0200" channel="TDP.TV">
+    <title lang="es">Trofeo Conde Godó 2017</title>
+    <desc lang="es">El español Rafa Nadal compite para lograr la que sería su décima victoria en el torneo frente al austríaco Dominic Thiem, que derrotó al nº 1 Andy Murray para llegar a la final.</desc>
+  </programme>
+  <programme start="20200709195500 +0200" stop="20200709201500 +0200" channel="TDP.TV">
+    <title lang="es">Resúmenes LaLiga Santander</title>
+    <desc lang="es">Análisis y resumen de los momentos más destacados del encuentro.</desc>
+  </programme>
+  <programme start="20200709201500 +0200" stop="20200709220000 +0200" channel="TDP.TV">
+    <title lang="es">Reportajes Teledeporte</title>
+    <desc lang="es">Final: Rivas Ecópolis-Perfumerías Avenida. Desde Rivas Vaciamadrid.</desc>
+  </programme>
+  <programme start="20200709220000 +0200" stop="20200709230000 +0200" channel="TDP.TV">
+    <title lang="es">Hípica 2020</title>
+    <desc lang="es">Carreras de Caballos: Hipódromo de La Zarzuela 09/07/2020.</desc>
+  </programme>
+  <programme start="20200709230000 +0200" stop="20200709235000 +0200" channel="TDP.TV">
+    <title lang="es">Reportajes Teledeporte</title>
+    <desc lang="es">Cuartos de final: Marcio Araujo/Ricardo-Herrera/Gavira. Desde Roma.</desc>
+  </programme>
+  <programme start="20200709235000 +0200" stop="20200710000000 +0200" channel="TDP.TV">
+    <title lang="es">Estudio Estadio</title>
+    <desc lang="es">Incluye lo más relevante de lo acontecido durante la jornada de fútbol resumiendo, a través de breves reportajes, los partidos de LaLiga Santander y con entrevistas a sus protagonistas.</desc>
   </programme>
   <programme start="20200710000000 +0200" stop="20200710020000 +0200" channel="TDP.TV">
     <title lang="es">Teledeporte</title>
@@ -22008,7 +22092,7 @@
     <date>2020</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1071588V1758603" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MANTVP1758603" />
     <country lang="es">España</country>
     <star-rating system="ES">
       <value>3/5</value>
@@ -22345,7 +22429,7 @@
     <date>2020</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1071588V1758603" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MANTVP1758603" />
     <country lang="es">España</country>
     <star-rating system="ES">
       <value>3/5</value>
@@ -22724,7 +22808,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20200709063000 +0000" stop="20200709071500 +0000" channel="CanalSurA2.TV">
+  <programme start="20200709063000 +0000" stop="20200709070500 +0000" channel="CanalSurA2.TV">
     <title lang="es">10 razones para ir</title>
     <sub-title lang="es">Casabermeja (Málaga)</sub-title>
     <desc lang="es">Un paseo por los pueblos de Andalucía donde sus propios habitantes propondrán los principales atractivos a visitar de cada municipio. Además, resaltarán las costumbres, gastronomía, historia y pasión de sus gentes. Un paseo por los pueblos de Andalucía donde sus propios habitantes propondrán los principales atractivos a visitar de cada municipio. Además, resaltarán las costumbres, gastronomía, historia y pasión de sus gentes.</desc>
@@ -22734,7 +22818,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20200709071500 +0000" stop="20200709080500 +0000" channel="CanalSurA2.TV">
+  <programme start="20200709070500 +0000" stop="20200709080500 +0000" channel="CanalSurA2.TV">
     <title lang="es">Animales en familia</title>
     <desc lang="es">Espacio familiar cuyo objetivo es entretener, informar y sensibilizar al espectador sobre el mundo de los animales. Presentado por Tutti Márquez, periodista sevillana, en este programa tienen cabida historias de mascotas y animales salvajes, entre otros. Espacio familiar cuyo objetivo es entretener, informar y sensibilizar al espectador sobre el mundo de los animales. Presentado por Tutti Márquez, periodista sevillana, en este programa tienen cabida historias de mascotas y animales salvajes, entre otros.</desc>
     <credits>
@@ -22747,13 +22831,23 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20200709080500 +0000" stop="20200709100000 +0000" channel="CanalSurA2.TV">
+  <programme start="20200709080500 +0000" stop="20200709090000 +0000" channel="CanalSurA2.TV">
     <title lang="es">Los Repobladores</title>
     <desc lang="es">Programa que recoge la experiencia de personas, que tras vivir en la ciudad, han decidido comenzar una nueva vida en pequeñas localidades de nuestra comunidad. Los protagonistas del programa viven en pueblos que ofrecen un sinfín oportunidades. Programa que recoge la experiencia de personas, que tras vivir en la ciudad, han decidido comenzar una nueva vida en pequeñas localidades de nuestra comunidad. Los protagonistas del programa viven en pueblos que ofrecen un sinfín oportunidades.</desc>
     <category lang="es">Otros</category>
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/6d/613997.png" />
   </programme>
-  <programme start="20200709100000 +0000" stop="20200709114000 +0000" channel="CanalSurA2.TV">
+  <programme start="20200709090000 +0000" stop="20200709100000 +0000" channel="CanalSurA2.TV">
+    <title lang="es">Buenos días, Andalucía</title>
+    <desc lang="es">Espacio matinal de lunes a viernes, que hace un repaso de la actualidad a través de noticias y reportajes, centrándose en la actualidad política, económica y social de la comunidad de la mano de Carlos María Ruiz y Silvia Sanz. Espacio matinal de lunes a viernes, que hace un repaso de la actualidad a través de noticias y reportajes, centrándose en la actualidad política, económica y social de la comunidad de la mano de Carlos María Ruiz y Silvia Sanz.</desc>
+    <credits>
+      <director>Xoán Freire Besteiro</director>
+      <presenter>Silvia Sanz</presenter>
+    </credits>
+    <category lang="es">Magazines</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/95/613781.png" />
+  </programme>
+  <programme start="20200709100000 +0000" stop="20200709113000 +0000" channel="CanalSurA2.TV">
     <title lang="es">Andalucía Directo</title>
     <desc lang="es">En este magacín se tratan temas de interés humano, social, sucesos, cultura, gastronomía y se presta una gran atención al mundo rural. El programa incluye reportajes y conexiones en directo que se extienden a lo largo de los cuatro bloques en los que se divide. En este magacín se tratan temas de interés humano, social, sucesos, cultura, gastronomía y se presta una gran atención al mundo rural. El programa incluye reportajes y conexiones en directo que se extienden a lo largo de los cuatro bloques en los que se divide.</desc>
     <credits>
@@ -22766,8 +22860,9 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20200709114000 +0000" stop="20200709121000 +0000" channel="CanalSurA2.TV">
+  <programme start="20200709113000 +0000" stop="20200709120000 +0000" channel="CanalSurA2.TV">
     <title lang="es">Cómetelo</title>
+    <sub-title lang="es">Pastel de manzanas con salsa de chocolate</sub-title>
     <desc lang="es">El chef Enrique Sánchez elabora una receta con productos andaluces, con denominación de origen o reconocido prestigio. Este espacio acerca los productos agroalimentarios, naturales y andaluces de calidad, a la audiencia. El chef Enrique Sánchez elabora una receta con productos andaluces, con denominación de origen o reconocido prestigio. Este espacio acerca los productos agroalimentarios, naturales y andaluces de calidad, a la audiencia.</desc>
     <credits>
       <presenter>Enrique Sánchez</presenter>
@@ -22778,7 +22873,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20200709121000 +0000" stop="20200709130000 +0000" channel="CanalSurA2.TV">
+  <programme start="20200709120000 +0000" stop="20200709130000 +0000" channel="CanalSurA2.TV">
     <title lang="es">Atrápame si puedes</title>
     <desc lang="es">Los cinco concursantes que participarán cada semana deberán contestar bien las preguntas de las diferentes fases y tendrán que competir entre ellos para conseguir llegar a la escalera final e intentar atrapar el bote. Los cinco concursantes que participarán cada semana deberán contestar bien las preguntas de las diferentes fases y tendrán que competir entre ellos para conseguir llegar a la escalera final e intentar atrapar el bote.</desc>
     <credits>
@@ -22838,6 +22933,7 @@
   </programme>
   <programme start="20200709195000 +0000" stop="20200709203000 +0000" channel="CanalSurA2.TV">
     <title lang="es">Cómetelo</title>
+    <sub-title lang="es">Albondiburguer con pisto cremoso</sub-title>
     <desc lang="es">El chef Enrique Sánchez elabora una receta con productos andaluces, con denominación de origen o reconocido prestigio. Este espacio acerca los productos agroalimentarios, naturales y andaluces de calidad, a la audiencia. El chef Enrique Sánchez elabora una receta con productos andaluces, con denominación de origen o reconocido prestigio. Este espacio acerca los productos agroalimentarios, naturales y andaluces de calidad, a la audiencia.</desc>
     <credits>
       <presenter>Enrique Sánchez</presenter>
@@ -22848,7 +22944,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20200709203000 +0000" stop="20200709223000 +0000" channel="CanalSurA2.TV">
+  <programme start="20200709203000 +0000" stop="20200709214500 +0000" channel="CanalSurA2.TV">
     <title lang="es">Canal Sur Noticias 2</title>
     <desc lang="es">Segunda edición de las noticias que Canal Sur emite de lunes a viernes de la mano de Victoria Romero. El informativo repasa la actualidad, poniendo especial atención a los temas relacionados con Andalucía. El espacio también incluye una sección deportiva. Segunda edición de las noticias que Canal Sur emite de lunes a viernes de la mano de Victoria Romero. El informativo repasa la actualidad, poniendo especial atención a los temas relacionados con Andalucía. El espacio también incluye una sección deportiva.</desc>
     <credits>
@@ -22856,6 +22952,15 @@
     </credits>
     <category lang="es">Noticias</category>
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/b9/613817.png" />
+  </programme>
+  <programme start="20200709214500 +0000" stop="20200709223000 +0000" channel="CanalSurA2.TV">
+    <title lang="es">Atrápame si puedes</title>
+    <desc lang="es">Los cinco concursantes que participarán cada semana deberán contestar bien las preguntas de las diferentes fases y tendrán que competir entre ellos para conseguir llegar a la escalera final e intentar atrapar el bote. Los cinco concursantes que participarán cada semana deberán contestar bien las preguntas de las diferentes fases y tendrán que competir entre ellos para conseguir llegar a la escalera final e intentar atrapar el bote.</desc>
+    <credits>
+      <presenter>Manolo Sarria</presenter>
+    </credits>
+    <category lang="es">Concursos</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/8a/631946.png" />
   </programme>
   <programme start="20200709223000 +0000" stop="20200710001500 +0000" channel="CanalSurA2.TV">
     <title lang="es">Juego de patriotas</title>
@@ -22882,7 +22987,7 @@ Dirigida por el australiano Philip Noyce (''Calma total''), recaudó más de 94 
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20200710001500 +0000" stop="20200710015500 +0000" channel="CanalSurA2.TV">
+  <programme start="20200710001500 +0000" stop="20200710021500 +0000" channel="CanalSurA2.TV">
     <title lang="es">Transgression</title>
     <desc lang="es">Matthew y Elena pasan la peor noche de su vida cuando unos atracadores irrumpen en su casa buscando dinero fácil. Sin embargo, las cosas no salen según lo planeado y acaban enfrentados.El director y crítico cinematográfico catalán Enric Alberich (''Mar rojo'') lleva a la gran pantalla este inquietante ''thriller'' en el que Marc González (''Oh Happy Day!'') desarrolla una historia del productor del mismo, Joan Ginard (''Frágiles''). Michael Ironside (''Terminator Salvation''), Maria Grazia Cucinotta (''Flores negras'') y Carlos Bardem (''Celda 211'') encabezan el reparto de actores que protagonizan las peripecias de un grupo de asaltantes que intentan perpetrar un robo y de quienes lo sufren, que tratan de sobrevivir a una dramática experiencia.La película fue rodada íntegramente en Barcelona. Matthew y Elena pasan la peor noche de su vida cuando unos atracadores irrumpen en su casa buscando dinero fácil. Sin embargo, las cosas no salen según lo planeado y acaban enfrentados.
 El director y crítico cinematográfico catalán Enric Alberich (''Mar rojo'') lleva a la gran pantalla este inquietante ''thriller'' en el que Marc González (''Oh Happy Day!'') desarrolla una historia del productor del mismo, Joan Ginard (''Frágiles''). Michael Ironside (''Terminator Salvation''), Maria Grazia Cucinotta (''Flores negras'') y Carlos Bardem (''Celda 211'') encabezan el reparto de actores que protagonizan las peripecias de un grupo de asaltantes que intentan perpetrar un robo y de quienes lo sufren, que tratan de sobrevivir a una dramática experiencia.
@@ -22899,7 +23004,7 @@ La película fue rodada íntegramente en Barcelona.</desc>
     <category lang="es">Drama</category>
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/39/205881.png" />
   </programme>
-  <programme start="20200710015500 +0000" stop="20200710040000 +0000" channel="CanalSurA2.TV">
+  <programme start="20200710021500 +0000" stop="20200710040000 +0000" channel="CanalSurA2.TV">
     <title lang="es">Lo Flamenco</title>
     <desc lang="es">Programa que se encarga de divulgar y dar a conocer todo lo relacionado con el flamenco. El espacio incluye anécdotas, curiosidades y también actuaciones. Además, el programa recuerda a las principales figuras de este género musical. Programa que se encarga de divulgar y dar a conocer todo lo relacionado con el flamenco. El espacio incluye anécdotas, curiosidades y también actuaciones. Además, el programa recuerda a las principales figuras de este género musical.</desc>
     <credits>
@@ -22931,6 +23036,7 @@ La película fue rodada íntegramente en Barcelona.</desc>
   </programme>
   <programme start="20200710060000 +0000" stop="20200710063000 +0000" channel="CanalSurA2.TV">
     <title lang="es">Hijos de Andalucía</title>
+    <sub-title lang="es">Theresa Zabel</sub-title>
     <desc lang="es">Serie documental que narra las trayectorias profesionales y personales de aquellos hombres y mujeres que, desde 1983, han sido nombrados Hijos Predilectos de Andalucía o han obtenido la Medalla de Oro de dicha comunidad. Serie documental que narra las trayectorias profesionales y personales de aquellos hombres y mujeres que, desde 1983, han sido nombrados Hijos Predilectos de Andalucía o han obtenido la Medalla de Oro de dicha comunidad.</desc>
     <credits>
       <director>Juan Francisco Lorenci</director>
@@ -23083,6 +23189,263 @@ La película fue rodada íntegramente en Barcelona.</desc>
     <category lang="es">Concursos</category>
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/5e/617566.png" />
   </programme>
+  <programme start="20200711013000 +0000" stop="20200711040000 +0000" channel="CanalSurA2.TV">
+    <title lang="es">Documentales andaluces</title>
+    <sub-title lang="es">Sara Baras todas las voces</sub-title>
+    <desc lang="es">Emisión de variados documentales de producción andaluza que abarcan todo tipo de temáticas, centrándose principalmente en la tierra de Andalucía, su historia, su cultura y sus gentes. Emisión de variados documentales de producción andaluza que abarcan todo tipo de temáticas, centrándose principalmente en la tierra de Andalucía, su historia, su cultura y sus gentes.</desc>
+    <credits>
+      <director>Manuel Alonso Navarro</director>
+    </credits>
+    <category lang="es">General</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/d6/613846.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20200711040000 +0000" stop="20200711050000 +0000" channel="CanalSurA2.TV">
+    <title lang="es">Canal Sur música</title>
+    <desc lang="es">Espacio musical que presta especial atención a los intérpretes andaluces y se centra tanto en la música tradicional como en las composiciones modernas. Espacio musical que presta especial atención a los intérpretes andaluces y se centra tanto en la música tradicional como en las composiciones modernas.</desc>
+    <category lang="es">Popular</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/22/614434.png" />
+  </programme>
+  <programme start="20200711050000 +0000" stop="20200711060000 +0000" channel="CanalSurA2.TV">
+    <title lang="es">Lo Flamenco</title>
+    <desc lang="es">Programa que se encarga de divulgar y dar a conocer todo lo relacionado con el flamenco. El espacio incluye anécdotas, curiosidades y también actuaciones. Además, el programa recuerda a las principales figuras de este género musical. Programa que se encarga de divulgar y dar a conocer todo lo relacionado con el flamenco. El espacio incluye anécdotas, curiosidades y también actuaciones. Además, el programa recuerda a las principales figuras de este género musical.</desc>
+    <credits>
+      <presenter>Manuel Curao</presenter>
+    </credits>
+    <category lang="es">Otros</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/5b/626267.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200711060000 +0000" stop="20200711063000 +0000" channel="CanalSurA2.TV">
+    <title lang="es">Hijos de Andalucía</title>
+    <sub-title lang="es">La Cuadra de Sevilla</sub-title>
+    <desc lang="es">Serie documental que narra las trayectorias profesionales y personales de aquellos hombres y mujeres que, desde 1983, han sido nombrados Hijos Predilectos de Andalucía o han obtenido la Medalla de Oro de dicha comunidad. Serie documental que narra las trayectorias profesionales y personales de aquellos hombres y mujeres que, desde 1983, han sido nombrados Hijos Predilectos de Andalucía o han obtenido la Medalla de Oro de dicha comunidad.</desc>
+    <credits>
+      <director>Juan Francisco Lorenci</director>
+    </credits>
+    <category lang="es">Biográficos</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/84/359556.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200711063000 +0000" stop="20200711071500 +0000" channel="CanalSurA2.TV">
+    <title lang="es">10 razones para ir</title>
+    <sub-title lang="es">Úbeda (Jaén)</sub-title>
+    <desc lang="es">Un paseo por los pueblos de Andalucía donde sus propios habitantes propondrán los principales atractivos a visitar de cada municipio. Además, resaltarán las costumbres, gastronomía, historia y pasión de sus gentes. Un paseo por los pueblos de Andalucía donde sus propios habitantes propondrán los principales atractivos a visitar de cada municipio. Además, resaltarán las costumbres, gastronomía, historia y pasión de sus gentes.</desc>
+    <category lang="es">Viajes</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/7a/359290.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200711071500 +0000" stop="20200711093000 +0000" channel="CanalSurA2.TV">
+    <title lang="es">Andalucia de fiesta</title>
+    <desc lang="es">Modesto Barragán y Paz Santana dirigen este programa que recorre las ocho provincias andaluzas en busca de sus fiestas más singulares. A través de imágenes, los espectadores se trasladarán a los lugares en los que los andaluces viven sus fiestas populares. Modesto Barragán recuerda las fiestas que se celebrarían estos días y se han tenido que cancelar.</desc>
+    <credits>
+      <presenter>Modesto Barragán</presenter>
+    </credits>
+    <category lang="es">Otros</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/05/615173.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200711093000 +0000" stop="20200711113000 +0000" channel="CanalSurA2.TV">
+    <title lang="es">Andaluces por el mundo</title>
+    <sub-title lang="es">Riviera Maya</sub-title>
+    <desc lang="es">Serie documental que cuenta la vida de andaluces que viven fuera de Andalucía. Serie documental que cuenta la vida de andaluces que viven fuera de Andalucía.</desc>
+    <category lang="es">Viajes</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/51/631121.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200711113000 +0000" stop="20200711121000 +0000" channel="CanalSurA2.TV">
+    <title lang="es">Espacio Protegido</title>
+    <desc lang="es">Informativo sobre medio ambiente que incluye noticias y reportajes sobre ecología y naturaleza en Andalucía. No sólo tienen cabida informaciones sobre espacios naturales y animales, sino también los problemas ambientales de las ciudades y los hábitos de consumo. Informativo sobre medio ambiente que incluye noticias y reportajes sobre ecología y naturaleza en Andalucía. No sólo tienen cabida informaciones sobre espacios naturales y animales, sino también los problemas ambientales de las ciudades y los hábitos de consumo.</desc>
+    <credits>
+      <presenter>José María Montero</presenter>
+    </credits>
+    <category lang="es">Medio ambiente</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/d3/170195.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200711121000 +0000" stop="20200711131000 +0000" channel="CanalSurA2.TV">
+    <title lang="es">Los Repobladores</title>
+    <desc lang="es">Programa que recoge la experiencia de personas, que tras vivir en la ciudad, han decidido comenzar una nueva vida en pequeñas localidades de nuestra comunidad. Los protagonistas del programa viven en pueblos que ofrecen un sinfín oportunidades. Programa que recoge la experiencia de personas, que tras vivir en la ciudad, han decidido comenzar una nueva vida en pequeñas localidades de nuestra comunidad. Los protagonistas del programa viven en pueblos que ofrecen un sinfín oportunidades.</desc>
+    <category lang="es">Otros</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/6d/613997.png" />
+  </programme>
+  <programme start="20200711131000 +0000" stop="20200711140000 +0000" channel="CanalSurA2.TV">
+    <title lang="es">Todo caballo</title>
+    <desc lang="es">Programa dedicado en exclusiva al mundo del caballo dirigido y presentado por Juan Ramón Romero. Programa dedicado en exclusiva al mundo del caballo dirigido y presentado por Juan Ramón Romero.</desc>
+    <credits>
+      <presenter>Juan Ramón Romero</presenter>
+    </credits>
+    <category lang="es">Naturaleza y animales</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/25/557093.png" />
+  </programme>
+  <programme start="20200711140000 +0000" stop="20200711143000 +0000" channel="CanalSurA2.TV">
+    <title lang="es">Destino Andalucía</title>
+    <desc lang="es">Andalucía es una tierra llena de encanto y parajes únicos. Fomentar sus actividades turísticas o presentar al espectador algunas de sus rutas más interesantes se convierte en el objetivo principal de esta serie de reportajes que recorren toda la geografía andaluza. Andalucía es una tierra llena de encanto y parajes únicos. Fomentar sus actividades turísticas o presentar al espectador algunas de sus rutas más interesantes se convierte en el objetivo principal de esta serie de reportajes que recorren toda la geografía andaluza.</desc>
+    <credits>
+      <director>Mabel Moya</director>
+    </credits>
+    <category lang="es">Otros</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/c0/613824.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200711143000 +0000" stop="20200711162500 +0000" channel="CanalSurA2.TV">
+    <title lang="es">Canal Sur Noticias 1 Fin de Semana</title>
+    <desc lang="es">El fin de semana Canal Sur emite cuatro ediciones de las noticias; tanto sábado como domingo cuentan con una emisión de sobremesa y otra en horario vespertino. El informativo repasa la actualidad y presta especial atención a los temas relacionados con Andalucía. El fin de semana Canal Sur emite cuatro ediciones de las noticias; tanto sábado como domingo cuentan con una emisión de sobremesa y otra en horario vespertino. El informativo repasa la actualidad y presta especial atención a los temas relacionados con Andalucía.</desc>
+    <credits>
+      <presenter>Fernando García Mena</presenter>
+    </credits>
+    <category lang="es">Noticias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/c9/398793.png" />
+  </programme>
+  <programme start="20200711162500 +0000" stop="20200711183000 +0000" channel="CanalSurA2.TV">
+    <title lang="es">Los ángeles del volante</title>
+    <desc lang="es">Juan, un taxista, salva a una desesperada joven que se intenta suicidar arrojándose bajo las ruedas de su coche. Para intentar animarla, Juan, la lleva al bar donde se reúnen todos sus colegas de profesión y éstos empiezan a distraerla contándole anécdotas sobre sus clientes. El director Ignacio F. Iquino participó en el guión, la música y la producción de esta película, rodada en Ifiscope, sobre el gremio de los taxistas. Tras la Guerra Civil española, Iquino presentó una serie de películas amables, entre las que se incluye este título, aunque posteriormente se decantó por rodar espaguetti westerns y comedias eróticas. El filme, con muchas escenas rodadas en la calle, está protagonizado por destacados actores españoles encabezados por Fernando Fernán Gómez, como el taxista protagonista, José Isbert y José Luis Ozores. A pesar de estos cabezas de cartel, la cinta tuvo una más que pobre acogida en cines, ya que sólo congregó a 97 personas en las salas comerciales mientras estuvo en cartelera. Juan, un taxista, salva a una desesperada joven que se intenta suicidar arrojándose bajo las ruedas de su coche. Para intentar animarla, Juan, la lleva al bar donde se reúnen todos sus colegas de profesión y éstos empiezan a distraerla contándole anécdotas sobre sus clientes.
+El director Ignacio F. Iquino participó en el guión, la música y la producción de esta película, rodada en Ifiscope, sobre el gremio de los taxistas. Tras la Guerra Civil española, Iquino presentó una serie de películas amables, entre las que se incluye este título, aunque posteriormente se decantó por rodar espaguetti westerns y comedias eróticas.
+El filme, con muchas escenas rodadas en la calle, está protagonizado por destacados actores españoles encabezados por Fernando Fernán Gómez, como el taxista protagonista, José Isbert y José Luis Ozores. A pesar de estos cabezas de cartel, la cinta tuvo una más que pobre acogida en cines, ya que sólo congregó a 97 personas en las salas comerciales mientras estuvo en cartelera.</desc>
+    <credits>
+      <director>Ignacio F. Iquino</director>
+      <actor>Fernando Fernán Gómez</actor>
+      <actor>José Isbert</actor>
+      <actor>José Luis Ozores</actor>
+      <actor>Manolo Morán</actor>
+      <actor>Tony Leblanc</actor>
+      <actor>Julia Martínez</actor>
+      <writer>Pedro Masó</writer>
+      <writer>Rafael J. Salvia</writer>
+      <producer>Pedro Masó</producer>
+      <composer>José Casas Augé</composer>
+    </credits>
+    <category lang="es">Comedia</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/ef/453615.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200711183000 +0000" stop="20200711203000 +0000" channel="CanalSurA2.TV">
+    <title lang="es">Programa por determinar</title>
+    <desc lang="es">Programa por determinar. Programa por determinar.</desc>
+    <category lang="es">Otros</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/ac/344236.png" />
+  </programme>
+  <programme start="20200711203000 +0000" stop="20200711220000 +0000" channel="CanalSurA2.TV">
+    <title lang="es">Canal Sur Noticias 2</title>
+    <desc lang="es">Segunda edición de las noticias que Canal Sur emite de lunes a viernes de la mano de Victoria Romero. El informativo repasa la actualidad, poniendo especial atención a los temas relacionados con Andalucía. El espacio también incluye una sección deportiva. Segunda edición de las noticias que Canal Sur emite de lunes a viernes de la mano de Victoria Romero. El informativo repasa la actualidad, poniendo especial atención a los temas relacionados con Andalucía. El espacio también incluye una sección deportiva.</desc>
+    <credits>
+      <presenter>Patricia Lupiañez</presenter>
+    </credits>
+    <category lang="es">Noticias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/b9/613817.png" />
+  </programme>
+  <programme start="20200711220000 +0000" stop="20200712040000 +0000" channel="CanalSurA2.TV">
+    <title lang="es">Tierra de talentos</title>
+    <desc lang="es">Un jurado de expertos, compuesto por el barítono Carlos Álvarez, la cantante India Martínez, el cantaor José Mercé y el violinista Jesús Reina, será el encargado de valora las actuaciones de este talent show. Un jurado de expertos, compuesto por el barítono Carlos Álvarez, la cantante India Martínez, el cantaor José Mercé y el violinista Jesús Reina, será el encargado de valora las actuaciones de este talent show.</desc>
+    <credits>
+      <presenter>Manu Sánchez</presenter>
+    </credits>
+    <category lang="es">Reality Show</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/6b/21000043.png" />
+  </programme>
+  <programme start="20200709003000 +0200" stop="20200709010000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Informativo</title>
+    <desc lang="es">La actualidad de la jornada en nuestros servicios informativos.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/11/Informativo2-300x170.jpg" />
+  </programme>
+  <programme start="20200709010000 +0200" stop="20200709011000 +0200" channel="CanalCosta.TV">
+    <title lang="es">El Tiempo</title>
+    <desc lang="es">La previsión de la previsión meteorológica de la provincia.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2019/09/CARTON-EL-TIEMPO-FATI-2019-20-1-230x150.jpg" />
+  </programme>
+  <programme start="20200709011000 +0200" stop="20200709041000 +0200" channel="CanalCosta.TV">
+    <title lang="es">AL SOL DEL SUR-Redifusión</title>
+    <desc lang="es">Descripción corta del programa.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/01/logo-canalcosta-tv.jpg" />
+  </programme>
+  <programme start="20200709041000 +0200" stop="20200709090000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Redifusión</title>
+    <desc lang="es">Redifusión de los porgramas más destacados de la jornada.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/01/logo-canalcosta-tv.jpg" />
+  </programme>
+  <programme start="20200709090000 +0200" stop="20200709093000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Informativo</title>
+    <desc lang="es">La actualidad de la jornada en nuestros servicios informativos.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/11/Informativo2-300x170.jpg" />
+  </programme>
+  <programme start="20200709093000 +0200" stop="20200709094000 +0200" channel="CanalCosta.TV">
+    <title lang="es">El Tiempo</title>
+    <desc lang="es">La previsión de la previsión meteorológica de la provincia.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2019/09/CARTON-EL-TIEMPO-FATI-2019-20-1-230x150.jpg" />
+  </programme>
+  <programme start="20200709094000 +0200" stop="20200709110000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Lance y Acción</title>
+    <desc lang="es">Programa sobre el mundo de la perca.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/01/logo-canalcosta-tv.jpg" />
+  </programme>
+  <programme start="20200709110000 +0200" stop="20200709141000 +0200" channel="CanalCosta.TV">
+    <title lang="es">AL SOL DEL SUR</title>
+    <desc lang="es">Descripción corta del programa.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2020/07/al-sol-generico-1-300x200.jpg" />
+  </programme>
+  <programme start="20200709141000 +0200" stop="20200709143000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Especial Reportajes</title>
+    <desc lang="es">Los eventos más destacados de la costa.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/01/cabecera-reportajes.jpg" />
+  </programme>
+  <programme start="20200709143000 +0200" stop="20200709150000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Informativo</title>
+    <desc lang="es">La actualidad de la jornada en nuestros servicios informativos.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/11/Informativo2-300x170.jpg" />
+  </programme>
+  <programme start="20200709150000 +0200" stop="20200709170000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Especial Reportajes</title>
+    <desc lang="es">Los eventos, reportajes y galas más destacadas de la costa.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/01/cabecera-reportajes.jpg" />
+  </programme>
+  <programme start="20200709170000 +0200" stop="20200709203000 +0200" channel="CanalCosta.TV">
+    <title lang="es">AL SOL DEL SUR</title>
+    <desc lang="es">Descripción corta del programa.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2020/07/al-sol-generico-1-300x200.jpg" />
+  </programme>
+  <programme start="20200709203000 +0200" stop="20200709211000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Informativo</title>
+    <desc lang="es">La actualidad de la jornada en nuestros servicios informativos.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/11/Informativo2-300x170.jpg" />
+  </programme>
+  <programme start="20200709211000 +0200" stop="20200709213000 +0200" channel="CanalCosta.TV">
+    <title lang="es">El Tiempo</title>
+    <desc lang="es">La previsión de la previsión meteorológica de la provincia.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2019/09/CARTON-EL-TIEMPO-FATI-2019-20-1-230x150.jpg" />
+  </programme>
+  <programme start="20200709213000 +0200" stop="20200709224000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Parada a Raya</title>
+    <desc lang="es">Nuevo programa sobre el mundo del Caballo.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/01/logo-canalcosta-tv.jpg" />
+  </programme>
+  <programme start="20200709224000 +0200" stop="20200710001000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Especial Reportajes</title>
+    <desc lang="es">Los eventos, reportajes y galas más destacadas de la costa.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/01/cabecera-reportajes.jpg" />
+  </programme>
+  <programme start="20200710001000 +0200" stop="20200710004000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Informativo</title>
+    <desc lang="es">La actualidad de la jornada en nuestros servicios informativos.</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/11/Informativo2-300x17}" />
+  </programme>
   <programme start="20200709090000 +0200" stop="20200709100000 +0200" channel="Condavision.TV">
     <title lang="es">Informativos</title>
     <desc lang="es">Informativo comarcal que repasará toda la actualidad del Condado de Huelva.</desc>
@@ -23095,11 +23458,128 @@ La película fue rodada íntegramente en Barcelona.</desc>
   </programme>
   <programme start="20200709110000 +0200" stop="20200709140000 +0200" channel="Condavision.TV">
     <title lang="es">Al Sol del Sur</title>
+    <desc lang="es">Magacine de verano con entrevistas, reportajes, actuaciones y concursos.</desc>
+    <icon src="https://www.condavision.es/wp-content/uploads/2018/07/IMAGEN-CV-PROGRAMA-AL-SOL-DEL-SUR-2018_Mesa-de-trabajo-1-copia_Mesa-de-trabajo-1-copia-300x209.jpg" />
+  </programme>
+  <programme start="20200709140000 +0200" stop="20200709143000 +0200" channel="Condavision.TV">
+    <title lang="es">Cocer y Catar</title>
+    <desc lang="es">Eu te enseñará nuevas formas de preparación de los platos de toda la vida.</desc>
+    <icon src="https://www.condavision.es/wp-content/uploads/2020/01/CocerCatar_300x194.jpg" />
+  </programme>
+  <programme start="20200709143000 +0200" stop="20200709150000 +0200" channel="Condavision.TV">
+    <title lang="es">Así es...</title>
+    <desc lang="es">Descubrimos todos los rincones del Condado.</desc>
+    <icon src="https://www.condavision.es/wp-content/uploads/2018/07/IMAGEN-ASI-ES-300x168.jpg" />
+  </programme>
+  <programme start="20200709150000 +0200" stop="20200709163000 +0200" channel="Condavision.TV">
+    <title lang="es">Especiales Condado</title>
+    <desc lang="es">Fiestas, tradiciones, conferencias, reportajes y conciertos. Recreando Doñana.</desc>
+    <icon src="https://www.condavision.es/wp-content/uploads/2017/09/Carton-Web-Especiales-Condado-2017-300x168.jpg" />
+  </programme>
+  <programme start="20200709163000 +0200" stop="20200709170000 +0200" channel="Condavision.TV">
+    <title lang="es">Especiales Condado</title>
+    <desc lang="es">Fiestas, tradiciones, conferencias, reportajes y conciertos.Rocío de Luz. Candidatas Hermandad Matriz Almonte.</desc>
+    <icon src="https://www.condavision.es/wp-content/uploads/2017/09/Carton-Web-Especiales-Condado-2017-300x168.jpg" />
+  </programme>
+  <programme start="20200709170000 +0200" stop="20200709200000 +0200" channel="Condavision.TV">
+    <title lang="es">Al Sol del Sur</title>
+    <desc lang="es">Magacine de verano con entrevistas, reportajes, actuaciones y concursos.</desc>
+    <icon src="https://www.condavision.es/wp-content/uploads/2018/07/IMAGEN-CV-PROGRAMA-AL-SOL-DEL-SUR-2018_Mesa-de-trabajo-1-copia_Mesa-de-trabajo-1-copia-300x209.jpg" />
+  </programme>
+  <programme start="20200709200000 +0200" stop="20200709203000 +0200" channel="Condavision.TV">
+    <title lang="es">Cocer y Catar</title>
+    <desc lang="es">Eu te enseñará nuevas formas de preparación de los platos de toda la vida.</desc>
+    <icon src="https://www.condavision.es/wp-content/uploads/2020/01/CocerCatar_300x194.jpg" />
+  </programme>
+  <programme start="20200709203000 +0200" stop="20200709213000 +0200" channel="Condavision.TV">
+    <title lang="es">Informativos</title>
+    <desc lang="es">Informativo comarcal que repasará toda la actualidad del Condado de Huelva.</desc>
+    <icon src="https://www.condavision.es/wp-content/uploads/2014/10/CONDAVISION-NOTICIAS-300x164.jpg" />
+  </programme>
+  <programme start="20200709213000 +0200" stop="20200709220000 +0200" channel="Condavision.TV">
+    <title lang="es">En Clave Condado</title>
+    <desc lang="es">En Clave Condado es el espacio informativo que te acerca la actualidad que te importa. Con Irene Montiel, secretaria de Ideas y Programas PSOE Huelva.</desc>
+    <icon src="https://www.condavision.es/wp-content/uploads/2019/09/en-clave-condado-300x208.jpg" />
   </programme>
   <programme start="20200709090000 +0200" stop="20200709100000 +0200" channel="Teleonuba.TV">
     <title lang="es">Informativos Teleonuba</title>
     <desc lang="es">La actualidad de la provincia de Huelva en Informativos Teleonuba.</desc>
-    <icon src="https://www.teleonuba.es/wp-content/uploads/2017/}" />
+    <icon src="https://www.teleonuba.es/wp-content/uploads/2017/10/Still0927_00000-300x168.jpg" />
+  </programme>
+  <programme start="20200709100000 +0200" stop="20200709103000 +0200" channel="Teleonuba.TV">
+    <title lang="es">La Entrevista</title>
+    <desc lang="es">Descripción corta del programa.</desc>
+    <icon src="https://www.teleonuba.es/wp-content/uploads/2017/10/LA-ENTREVISTA-300x168.jpg" />
+  </programme>
+  <programme start="20200709103000 +0200" stop="20200709110000 +0200" channel="Teleonuba.TV">
+    <title lang="es">Hitech</title>
+    <desc lang="es">Programa dedicado a la tecnología.</desc>
+    <icon src="https://www.teleonuba.es/wp-content/uploads/2013/12/logo_teleonuba_fb.png" />
+  </programme>
+  <programme start="20200709110000 +0200" stop="20200709140000 +0200" channel="Teleonuba.TV">
+    <title lang="es">AL SOL DEL SUR</title>
+    <desc lang="es">Magacine de verano presentado por Nacho Molina. Conexiones en directo desde diferentes puntos de la provincia de Huelva, reportajes, emtrevistas y nuestro panel concurso.</desc>
+    <icon src="https://www.teleonuba.es/wp-content/uploads/2013/12/IMAGEN-T-PROGRAMA-AL-SOL-DEL-SUR-2018_Mesa-de-trabajo-1_Mesa-de-trabajo-1.jpg" />
+  </programme>
+  <programme start="20200709140000 +0200" stop="20200709143000 +0200" channel="Teleonuba.TV">
+    <title lang="es">Cocer y Catar</title>
+    <desc lang="es">Cocinamos las recetas de Eu Díaz.</desc>
+    <icon src="https://www.teleonuba.es/wp-content/uploads/2013/12/logo_teleonuba_fb.png" />
+  </programme>
+  <programme start="20200709143000 +0200" stop="20200709150000 +0200" channel="Teleonuba.TV">
+    <title lang="es">Informativos Teleonuba</title>
+    <desc lang="es">La actualidad de la provincia de Huelva en Informativos Teleonuba.</desc>
+    <icon src="https://www.teleonuba.es/wp-content/uploads/2017/10/Still0927_00000-300x168.jpg" />
+  </programme>
+  <programme start="20200709150000 +0200" stop="20200709153000 +0200" channel="Teleonuba.TV">
+    <title lang="es">La Entrevista</title>
+    <desc lang="es">Descripción corta del programa.</desc>
+    <icon src="https://www.teleonuba.es/wp-content/uploads/2017/10/LA-ENTREVISTA-300x168.jpg" />
+  </programme>
+  <programme start="20200709153000 +0200" stop="20200709163000 +0200" channel="Teleonuba.TV">
+    <title lang="es">El Ambigú</title>
+    <desc lang="es">Espacio dedicado a la música presentado por Fati Pizarro.</desc>
+    <icon src="https://www.teleonuba.es/wp-content/uploads/2013/12/logo_teleonuba_fb.png" />
+  </programme>
+  <programme start="20200709163000 +0200" stop="20200709170000 +0200" channel="Teleonuba.TV">
+    <title lang="es">Iberanimal</title>
+    <desc lang="es">Espacio dedicado a nuestras mascotas.</desc>
+    <icon src="https://www.teleonuba.es/wp-content/uploads/2020/05/Iberanimal-300x152.jpeg" />
+  </programme>
+  <programme start="20200709170000 +0200" stop="20200709200000 +0200" channel="Teleonuba.TV">
+    <title lang="es">AL SOL DEL SUR</title>
+    <desc lang="es">Magacine de verano presentado por Nacho Molina. Conexiones en directo desde diferentes puntos de la provincia de Huelva, reportajes, emtrevistas y nuestro panel concurso.</desc>
+    <icon src="https://www.teleonuba.es/wp-content/uploads/2013/12/IMAGEN-T-PROGRAMA-AL-SOL-DEL-SUR-2018_Mesa-de-trabajo-1_Mesa-de-trabajo-1.jpg" />
+  </programme>
+  <programme start="20200709200000 +0200" stop="20200709210000 +0200" channel="Teleonuba.TV">
+    <title lang="es">El Plan perfecto</title>
+    <desc lang="es">Programa dedicado a conocer las bondades de la Axarquía malagueña.</desc>
+    <icon src="https://www.teleonuba.es/wp-content/uploads/2013/12/logo_teleonuba_fb.png" />
+  </programme>
+  <programme start="20200709210000 +0200" stop="20200709213000 +0200" channel="Teleonuba.TV">
+    <title lang="es">Informativos Teleonuba</title>
+    <desc lang="es">La actualidad de la provincia de Huelva en Informativos Teleonuba.</desc>
+    <icon src="https://www.teleonuba.es/wp-content/uploads/2017/10/Still0927_00000-300x168.jpg" />
+  </programme>
+  <programme start="20200709213000 +0200" stop="20200709220000 +0200" channel="Teleonuba.TV">
+    <title lang="es">La Entrevista</title>
+    <desc lang="es">Descripción corta del programa.</desc>
+    <icon src="https://www.teleonuba.es/wp-content/uploads/2017/10/LA-ENTREVISTA-300x168.jpg" />
+  </programme>
+  <programme start="20200709220000 +0200" stop="20200710090000 +0200" channel="Teleonuba.TV">
+    <title lang="es">Recordando Nuestra Semana Santa</title>
+    <desc lang="es">En este espacio hacemos una selección de los momentos más emoticos de la Semana Santa de Huelva y provincia de los últimos años.</desc>
+    <icon src="https://www.teleonuba.es/wp-content/uploads/2013/12/logo_teleonuba_fb.png" />
+  </programme>
+  <programme start="20200710090000 +0200" stop="20200710100000 +0200" channel="Teleonuba.TV">
+    <title lang="es">Informativos Teleonuba</title>
+    <desc lang="es">La actualidad de la provincia de Huelva en Informativos Teleonuba.</desc>
+    <icon src="https://www.teleonuba.es/wp-content/uploads/2017/10/Still0927_00000-300x168.jpg" />
+  </programme>
+  <programme start="20200710100000 +0200" stop="20200710103000 +0200" channel="Teleonuba.TV">
+    <title lang="es">La Entrevista</title>
+    <desc lang="es">Descripción corta del programa.</desc>
+    <icon src="https://www.teleonuba.e}" />
   </programme>
   <programme start="20200709052000 +0200" stop="20200709061000 +0200" channel="AragonTV.TV">
     <title lang="es">Vaughan 4.0</title>
@@ -28177,34 +28657,166 @@ La película fue rodada íntegramente en Barcelona.</desc>
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme start="20200709000000 +0200" stop="20200709003000 +0200" channel="Benavente.TV">
-    <title lang="es">Cambio de Rasante</title>
-    <desc lang="es">pacio dedicado al mundo del motor. Consejos, novedades, competición y mucho más en este referente para los amantes del asfalto.</desc>
-    <icon src="https://www.tvbenavente.es/wp-content/uploads/2015/08/CAMBIO-DE-RASANTE.jpg" />
+  <programme start="20200709020000 +0200" stop="20200709070000 +0200" channel="8Burgos.TV">
+    <title lang="es">Redifusión</title>
+    <desc lang="es">Teledeporte.</desc>
+    <category lang="es">Otros</category>
+    <country lang="es">Otros</country>
   </programme>
-  <programme start="20200709003000 +0200" stop="20200709020000 +0200" channel="Benavente.TV">
-    <title lang="es">CINE</title>
-    <icon src="https://www.tvbenavente.es/wp-content/uploads/2019/07/cine-noche2.png" />
+  <programme start="20200709070000 +0200" stop="20200709073000 +0200" channel="8Burgos.TV">
+    <title lang="es">Teletienda</title>
+    <desc lang="es">Espacio dedicado a la televenta.</desc>
+    <credits>
+      <director>Kathryn Bigelow</director>
+      <actor>Harrison Ford</actor>
+      <actor>Liam Neeson</actor>
+      <actor>Peter Sarsgaard</actor>
+    </credits>
+    <category lang="es">Televenta</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2051980.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>18</value>
+    </rating>
   </programme>
-  <programme start="20200709090000 +0200" stop="20200709093000 +0200" channel="Benavente.TV">
-    <title lang="es">NOTICIAS Benavente Hoy</title>
-    <desc lang="es">TICIAS BENAVENTE HOY: 
-El programa informativo para encontrarse con las noticias de actualidad, utilidad y todo aquello que afecte o beneficie explicado en términos sencillos de la mano de profesionales.</desc>
-    <icon src="https://www.tvbenavente.es/wp-content/uploads/2013/03/wp_logo.jpg" />
+  <programme start="20200709073000 +0200" stop="20200709080000 +0200" channel="8Burgos.TV">
+    <title lang="es">World discoveries</title>
+    <desc lang="es">Documental.</desc>
+    <category lang="es">Otros</category>
+    <country lang="es">Otros</country>
   </programme>
-  <programme start="20200709093000 +0200" stop="20200709133000 +0200" channel="Benavente.TV">
-    <title lang="es">Música</title>
-    <icon src="https://www.tvbenavente.es/wp-content/uploads/2019/07/musica.jpg" />
+  <programme start="20200709080000 +0200" stop="20200709083000 +0200" channel="8Burgos.TV">
+    <title lang="es">Hoy toca jota</title>
+    <desc lang="es">Espacio dedicado al conocido baile popular y la música que lo acompaña.</desc>
+    <date>2012</date>
+    <category lang="es">Tradicional</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/441289.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20200709133000 +0200" stop="20200709140000 +0200" channel="Benavente.TV">
-    <title lang="es">Cocina Familiar</title>
-    <desc lang="es">cetas de cocina fáciles y accesibles con el chef Javier Romero.</desc>
-    <icon src="https://www.tvbenavente.es/wp-content/uploads/2018/08/cocina-familiar.jpg" />
+  <programme start="20200709083000 +0200" stop="20200709090000 +0200" channel="8Burgos.TV">
+    <title lang="es">Exploración planeta</title>
+    <desc lang="es">Documental.</desc>
+    <category lang="es">Ciencia y tecnología</category>
+    <country lang="es">Otros</country>
   </programme>
-  <programme start="20200709140000 +0200" stop="20200709143000 +0200" channel="Benavente.TV">
-    <title lang="es">Documental</title>
-    <desc lang="es">cumentales etnográficos más importantes de nuestro país sobre la cultura tradicional de España (oficios, fiestas, rituales). Todo ello producido, dirigido y realizado por Eugenio Monesma.</desc>
-    <icon src="https://www.tvbenavente.es/wp-content/u}" />
+  <programme start="20200709090000 +0200" stop="20200709103000 +0200" channel="8Burgos.TV">
+    <title lang="es">Buenos días Castilla y León</title>
+    <desc lang="es">La actualidad de Castilla y León a primera hora.</desc>
+    <category lang="es">Informativo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/431426.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200709103000 +0200" stop="20200709130000 +0200" channel="8Burgos.TV">
+    <title lang="es">Programación local</title>
+    <desc lang="es">Programación local.</desc>
+    <category lang="es">Retransmisión</category>
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200709130000 +0200" stop="20200709133000 +0200" channel="8Burgos.TV">
+    <title lang="es">World discoveries</title>
+    <desc lang="es">Sin descripción.</desc>
+    <category lang="es">Otros</category>
+    <country lang="es">Otros</country>
+  </programme>
+  <programme start="20200709133000 +0200" stop="20200709135400 +0200" channel="8Burgos.TV">
+    <title lang="es">Hoy toca jota</title>
+    <desc lang="es">Espacio dedicado al conocido baile popular y la música que lo acompaña.</desc>
+    <date>2012</date>
+    <category lang="es">Tradicional</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/441289.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200709135400 +0200" stop="20200709143000 +0200" channel="8Burgos.TV">
+    <title lang="es">Noticias 8</title>
+    <desc lang="es">Programa informativo.</desc>
+    <date>2013</date>
+    <category lang="es">Informativo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/443633.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200709143000 +0200" stop="20200709153000 +0200" channel="8Burgos.TV">
+    <title lang="es">Un paseo por Castilla y León</title>
+    <desc lang="es">La 8 te invita a conocer distintos rincones de la comunidad, con entrevistas a sus gentes y reportajes a pie de calle como eje de este espacio que muestra la geografía, la cultura y la sociedad de Castilla y León.</desc>
+    <date>2018</date>
+    <category lang="es">Viajes</category>
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200709153000 +0200" stop="20200709160000 +0200" channel="8Burgos.TV">
+    <title lang="es">Noticias 8</title>
+    <desc lang="es">Programa informativo.</desc>
+    <date>2013</date>
+    <category lang="es">Informativo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/443633.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200709160000 +0200" stop="20200709180000 +0200" channel="8Burgos.TV">
+    <title lang="es">Programación local</title>
+    <desc lang="es">Programación local.</desc>
+    <category lang="es">Retransmisión</category>
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200709180000 +0200" stop="20200709195000 +0200" channel="8Burgos.TV">
+    <title lang="es">Infiltrados</title>
+    <desc lang="es">Serie australiana que retrata la vida de seis policías infiltrados, entre ellos el oficial Peter Church, que en su acción diaria es un hombre solitario que se mezcla con delincuente habituales de dudosa reputación.</desc>
+    <credits>
+      <director>David Cameron</director>
+      <actor>Peter Phelps</actor>
+      <actor>Joe Petruzzi</actor>
+      <actor>Anita Hegh</actor>
+      <actor>Kate Kendall</actor>
+    </credits>
+    <date>1998</date>
+    <category lang="es">Policíaca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/730095.jpg" />
+    <country lang="es">Australia</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200709195000 +0200" stop="20200709203000 +0200" channel="8Burgos.TV">
+    <title lang="es">Noticias 8</title>
+    <desc lang="es">Programa informativo.</desc>
+    <date>2013</date>
+    <category lang="es">Informativo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/443633.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200709203000 +0200" stop="20200709213000 +0200" channel="8Burgos.TV">
+    <title lang="es">Un paseo por Castilla y León</title>
+    <desc lang="es">La 8 te invita a conocer distintos rincones de la comunidad, con entrevistas a sus gentes y reportajes a pie de calle como eje de este espacio que muestra la geografía, la cultura y la sociedad de Castilla y León.</desc>
+    <date>2018</date>
+    <category lang="es">Viajes</category>
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20200709060000 +0200" stop="20200709073000 +0200" channel="TV3.TV">
     <title lang="es">Notícies 3/24</title>
@@ -39768,9 +40380,17 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
   <programme start="20200709130000 +0200" stop="20200709140000 +0200" channel="La1_CAT.TV">
     <title lang="es">Cocina al punto con Peña y Tamara</title>
     <desc lang="es">El chef Javier Peña prepara dos receta en colaboración con Tamara Falcó con los mejores ingredientes que ha seleccionado en su lugar de origen.</desc>
-    <category lang="es">Otros</category>
-    <country lang="es">Otros</country>
-    <episode-num system="onscreen">E1</episode-num>
+    <credits>
+      <director>Ferrán Estellés</director>
+      <director>Toñi Prieto</director>
+    </credits>
+    <category lang="es">Cocina</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2728047.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20200709140000 +0200" stop="20200709143000 +0200" channel="La1_CAT.TV">
     <title lang="es">L'informatiu</title>
@@ -39788,6 +40408,14 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
   <programme start="20200709143000 +0200" stop="20200709150000 +0200" channel="La1_CAT.TV">
     <title lang="es">Tvemos</title>
     <desc lang="es">Espacio de humor y diversión con las imágenes más espectaculares, sorprendentes, curiosas y divertidas de la actualidad, presentadas por Mary Ruiz.</desc>
+    <date>2020</date>
+    <category lang="es">Zapping</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/958517.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2 E184</episode-num>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
   </programme>
   <programme start="20200709150000 +0200" stop="20200709160000 +0200" channel="La1_CAT.TV">
     <title lang="es">Telediario 1</title>
@@ -39835,10 +40463,18 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
       <actor>Begoña Maestre</actor>
       <actor>Jesús Olmedo</actor>
       <actor>Lola Marceli</actor>
+      <actor>Santiago Molero</actor>
+      <actor>Ana Ruiz</actor>
+      <actor>Malena Gutiérrez</actor>
+      <actor>César Sánchez</actor>
+      <writer>David Plana</writer>
+      <producer>Jaume Banacolocha</producer>
+      <producer>Montse García</producer>
     </credits>
-    <category lang="es">Otros</category>
-    <country lang="es">Otros</country>
-    <episode-num system="onscreen">E191</episode-num>
+    <category lang="es">Drama</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2504384.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E200</episode-num>
     <rating system="ES">
       <value>7</value>
     </rating>
@@ -39848,7 +40484,6 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
     <desc lang="es">Melodrama policíaco ambientado en una comisaría del Distrito Sur de Madrid. Quintero se ve obligado a dar un radical giro a su vida, mientras que Miralles se enfrenta a la prueba más dura que le va a tocar vivir como policía.</desc>
     <credits>
       <director>Alexandra Graf</director>
-      <director>Alex Graf</director>
       <actor>Luisa Martín</actor>
       <actor>Eduardo Velasco</actor>
       <actor>Marta Belmonte</actor>
@@ -39861,11 +40496,11 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
       <producer>Emilio Perea</producer>
       <composer>Juan Carlos Cuello</composer>
     </credits>
-    <date>2020</date>
+    <date>2019</date>
     <category lang="es">Policíaca</category>
     <icon src="http://programacion-tv.elpais.com/imagenes/programas/1443628.jpg" />
     <country lang="es">España</country>
-    <episode-num system="onscreen">S4 E177</episode-num>
+    <episode-num system="onscreen">S4 E178</episode-num>
     <rating system="ES">
       <value>7</value>
     </rating>
@@ -39875,14 +40510,22 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
     <desc lang="es">Serie ambientada en 1899 que narra las historias de amor, celos, pasiones, venganzas, odios y alegrías de cuatro familias burguesas y sus criadas en el edificio señorial de la calle Acacias, 38.</desc>
     <credits>
       <director>Humberto Miro</director>
+      <director>Humberto Miró</director>
       <actor>Clara Garrido</actor>
       <actor>Sandra Marchena</actor>
       <actor>Montse Alcoverro</actor>
       <actor>Juanma Navas</actor>
+      <actor>Sheyla Fariña</actor>
+      <actor>Roger Berruezo</actor>
+      <actor>Sara Miquel</actor>
+      <actor>Andrea López</actor>
+      <writer>Aurora Guerra</writer>
+      <writer>Miquel Peidró</writer>
     </credits>
-    <category lang="es">Otros</category>
-    <country lang="es">Otros</country>
-    <episode-num system="onscreen">E302</episode-num>
+    <category lang="es">Telenovela</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2494328.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2 E302</episode-num>
     <rating system="ES">
       <value>7</value>
     </rating>
@@ -39890,9 +40533,13 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
   <programme start="20200709181500 +0200" stop="20200709190500 +0200" channel="La1_CAT.TV">
     <title lang="es">El cazador</title>
     <desc lang="es">Cuatro concursantes anónimos se enfrentan a los mejores concursantes de televisión de España, en un 'quiz show' conducido por Ion Aramendi.</desc>
-    <category lang="es">Otros</category>
-    <country lang="es">Otros</country>
-    <episode-num system="onscreen">E74</episode-num>
+    <category lang="es">Concurso</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2631860.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E76</episode-num>
+    <rating system="ES">
+      <value>'Boom'</value>
+    </rating>
   </programme>
   <programme start="20200709190500 +0200" stop="20200709203000 +0200" channel="La1_CAT.TV">
     <title lang="es">España directo</title>
@@ -40023,11 +40670,15 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
       <actor>Marc Cartes</actor>
       <actor>Miquel Fernandez</actor>
       <actor>Aida Folch</actor>
+      <actor>Laia Costa</actor>
+      <actor>Eduardo Noriega</actor>
+      <actor>Ingrid Rubio</actor>
     </credits>
     <date>2015</date>
-    <category lang="es">Otros</category>
-    <country lang="es">Otros</country>
-    <episode-num system="onscreen">E3</episode-num>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1057875.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
     <rating system="ES">
       <value>12</value>
     </rating>
@@ -40042,11 +40693,14 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
       <actor>Aida Folch</actor>
       <actor>Jordi Sanchez</actor>
       <actor>Txell Aixendri</actor>
+      <actor>Laia Costa</actor>
+      <actor>Ingrid Rubio</actor>
     </credits>
     <date>2015</date>
-    <category lang="es">Otros</category>
-    <country lang="es">Otros</country>
-    <episode-num system="onscreen">E4</episode-num>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1057875.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
     <rating system="ES">
       <value>12</value>
     </rating>
@@ -40054,6 +40708,26 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
   <programme start="20200710010000 +0200" stop="20200710022000 +0200" channel="La1_CAT.TV">
     <title lang="es">Que has hecho, ¿qué?</title>
     <desc lang="es">Charlie Porter tiene fobia al matrimonio; cuando su hermano propone casarse a una joven a la que acaba de conocer, su novia no para de presionarle.</desc>
+    <credits>
+      <director>Jeff Morris</director>
+      <director>Jasper Randall</director>
+      <actor>Edward Kerr</actor>
+      <actor>Kathy Wagner</actor>
+      <actor>A.J. Buckley</actor>
+      <actor>Kelly Everton</actor>
+      <actor>Jason George</actor>
+      <actor>Ian Gomez</actor>
+      <actor>Susan Ruttan</actor>
+      <actor>Madison Mason</actor>
+      <writer>Jeff Morris</writer>
+    </credits>
+    <date>2005</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2729927.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
   </programme>
   <programme start="20200710022000 +0200" stop="20200710040500 +0200" channel="La1_CAT.TV">
     <title lang="es">La noche en 24h</title>
@@ -40156,6 +40830,17 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
   <programme start="20200710130000 +0200" stop="20200710140000 +0200" channel="La1_CAT.TV">
     <title lang="es">COCINA AL PUNTO CON PEÑA Y TAMARA</title>
     <desc lang="es">Hoy Peña viaja hasta el barrio Ruzafa, Valencia. Visita una bombonería donde la elaboración de sus chocolates se hace a partir de grano de cacao.</desc>
+    <credits>
+      <director>Ferrán Estellés</director>
+      <director>Toñi Prieto</director>
+    </credits>
+    <category lang="es">Cocina</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2728047.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20200710140000 +0200" stop="20200710143000 +0200" channel="La1_CAT.TV">
     <title lang="es">INFORMATIVO SOBREMESA CATALUÑA</title>
@@ -40193,10 +40878,18 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
       <actor>Begoña Maestre</actor>
       <actor>Jesús Olmedo</actor>
       <actor>Lola Marceli</actor>
+      <actor>Santiago Molero</actor>
+      <actor>Ana Ruiz</actor>
+      <actor>Malena Gutiérrez</actor>
+      <actor>César Sánchez</actor>
+      <writer>David Plana</writer>
+      <producer>Jaume Banacolocha</producer>
+      <producer>Montse García</producer>
     </credits>
-    <category lang="es">Otros</category>
-    <country lang="es">Otros</country>
-    <episode-num system="onscreen">E191</episode-num>
+    <category lang="es">Drama</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2504384.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E200</episode-num>
     <rating system="ES">
       <value>7</value>
     </rating>
@@ -40204,14 +40897,64 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
   <programme start="20200710165500 +0200" stop="20200710172000 +0200" channel="La1_CAT.TV">
     <title lang="es">SERVIR Y PROTEGER</title>
     <desc lang="es">Serie que aborda el día a día en una comisaría de un barrio obrero.</desc>
+    <credits>
+      <director>Alexandra Graf</director>
+      <director>Alex Graf</director>
+      <actor>Luisa Martín</actor>
+      <actor>Andrea del Río</actor>
+      <actor>Ángel De Miguel</actor>
+      <actor>Fernando Guillén</actor>
+      <actor>Fernando Guillén Cuervo</actor>
+      <actor>Juanjo Artero</actor>
+      <actor>Pepa Aniorte</actor>
+      <actor>Eduardo Velasco</actor>
+      <writer>Tirso Calero</writer>
+      <producer>Emilio Perea</producer>
+      <composer>Juan Carlos Cuello</composer>
+    </credits>
+    <category lang="es">Policíaca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1443628.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S4 E179</episode-num>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
   </programme>
   <programme start="20200710172000 +0200" stop="20200710181500 +0200" channel="La1_CAT.TV">
     <title lang="es">ACACIAS, 38</title>
     <desc lang="es">La serie, ambientada a principios del siglo XX, está situada en una calle, Acacias, y nos muestra el devenir de sus habitantes.</desc>
+    <credits>
+      <director>Humberto Miro</director>
+      <director>Humberto Miró</director>
+      <actor>Clara Garrido</actor>
+      <actor>Sandra Marchena</actor>
+      <actor>Montse Alcoverro</actor>
+      <actor>Juanma Navas</actor>
+      <actor>Sheyla Fariña</actor>
+      <actor>Roger Berruezo</actor>
+      <actor>Sara Miquel</actor>
+      <actor>Andrea López</actor>
+      <writer>Aurora Guerra</writer>
+      <writer>Miquel Peidró</writer>
+    </credits>
+    <category lang="es">Telenovela</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2494328.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2 E311</episode-num>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
   </programme>
   <programme start="20200710181500 +0200" stop="20200710190500 +0200" channel="La1_CAT.TV">
     <title lang="es">EL CAZADOR</title>
     <desc lang="es">El Cazador, un formato en el que cuatro concursantes anónimos unen sus conocimientos para ganar al cazador, un auténtico profesional de los concursos.</desc>
+    <category lang="es">Concurso</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2631860.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E77</episode-num>
+    <rating system="ES">
+      <value>'Boom'</value>
+    </rating>
   </programme>
   <programme start="20200710190500 +0200" stop="20200710203000 +0200" channel="La1_CAT.TV">
     <title lang="es">España directo</title>
@@ -40266,6 +41009,27 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
   <programme start="20200710220500 +0200" stop="20200710234000 +0200" channel="La1_CAT.TV">
     <title lang="es">Rastro oculto</title>
     <desc lang="es">Un psicópata cibernético retransmite torturas en su página web interactiva, donde el final de sus víctimas se acelera según el número de visitas. El caso se convierte en algo personal para la agente especial del FBI Jennifer Marsh.</desc>
+    <credits>
+      <director>Gregory Hoblit</director>
+      <actor>Diane Lane</actor>
+      <actor>Billy Burke</actor>
+      <actor>Colin Hanks</actor>
+      <actor>Joseph Cross</actor>
+      <actor>Mary Beth Hurt</actor>
+      <actor>Peter Lewis</actor>
+      <writer>Robert Fyvolent</writer>
+      <writer>Mark Brinker</writer>
+      <producer>Andy Cohen</producer>
+      <producer>Hawk Koch</producer>
+      <composer>Christopher Young</composer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Thriller</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/14689.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20200710234000 +0200" stop="20200711012000 +0200" channel="La1_CAT.TV">
     <title lang="es">EX MACHINA</title>
@@ -40274,6 +41038,28 @@ El programa informativo para encontrarse con las noticias de actualidad, utilida
   <programme start="20200711012000 +0200" stop="20200711024000 +0200" channel="La1_CAT.TV">
     <title lang="es">El Caso. Crónica de sucesos</title>
     <desc lang="es">Clara y Jesús cubren el consejo de guerra a una pareja de atracadores franceses acusados de matar a un policía y descubren irregularidades. Cuando les condenan a muerte, la redacción se vuelca en conseguir un indulto.</desc>
+    <credits>
+      <director>Ignacio Mercero</director>
+      <director>Iñaki Mercero</director>
+      <actor>Fernando Guillén Cuervo</actor>
+      <actor>Verónica Sánchez</actor>
+      <actor>Natalia Verbeke</actor>
+      <actor>Antonio Garrido</actor>
+      <actor>Francisco Ortiz</actor>
+      <actor>Fernando Cayo</actor>
+      <actor>Fernando Guillén</actor>
+      <actor>Gorka Lasaosa</actor>
+      <producer>Aitor Gabilondo</producer>
+      <producer>César Benítez</producer>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Thriller</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1107561.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20200709003000 +0200" stop="20200709012000 +0200" channel="La2_CAT.TV">
     <title lang="es">En Portada</title>
