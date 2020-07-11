@@ -1131,6 +1131,9 @@
     <rating system="ES">
       <value>7</value>
     </rating>
+    <star-rating system="ES">
+      <value>5/5</value>
+    </star-rating>
   </programme>
   <programme start="20200713175000 +0200" stop="20200713184500 +0200" channel="La1.TV">
     <title lang="es">Acacias 38</title>
@@ -1905,7 +1908,7 @@
       <value>TP</value>
     </rating>
     <star-rating system="ES">
-      <value>1/5</value>
+      <value>3/5</value>
     </star-rating>
   </programme>
   <programme start="20200712091500 +0200" stop="20200712093000 +0200" channel="La2.TV">
@@ -2344,6 +2347,9 @@
     <rating system="ES">
       <value>16</value>
     </rating>
+    <star-rating system="ES">
+      <value>5/5</value>
+    </star-rating>
   </programme>
   <programme start="20200713015500 +0200" stop="20200713032500 +0200" channel="La2.TV">
     <title lang="es">La España Prehistórica</title>
@@ -3960,6 +3966,9 @@
     <rating system="ES">
       <value>7</value>
     </rating>
+    <star-rating system="ES">
+      <value>5/5</value>
+    </star-rating>
   </programme>
   <programme start="20200713174500 +0200" stop="20200713190000 +0200" channel="Antena3.TV">
     <title lang="es">¡Ahora caigo!</title>
@@ -5537,7 +5546,7 @@
     <desc lang="es">Versión veraniega del programa con las mejores series nacionales e internacionales. Esta temporada, el espacio cuenta con estrenos de series, nuevas temporadas de ficciones icónicas y otras acciones que irán sumándose progresivamente.</desc>
     <date>2020</date>
     <category lang="es">Infantil</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1116971V1797713" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1797713" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -6537,7 +6546,7 @@
     <desc lang="es">Versión veraniega del programa con las mejores series nacionales e internacionales. Esta temporada, el espacio cuenta con estrenos de series, nuevas temporadas de ficciones icónicas y otras acciones que irán sumándose progresivamente.</desc>
     <date>2020</date>
     <category lang="es">Infantil</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1116971V1797713" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1797713" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -7267,7 +7276,7 @@
     <desc lang="es">Versión veraniega del programa con las mejores series nacionales e internacionales. Esta temporada, el espacio cuenta con estrenos de series, nuevas temporadas de ficciones icónicas y otras acciones que irán sumándose progresivamente.</desc>
     <date>2020</date>
     <category lang="es">Infantil</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1116971V1797713" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1797713" />
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -7935,6 +7944,9 @@
     <rating system="ES">
       <value>7</value>
     </rating>
+    <star-rating system="ES">
+      <value>5/5</value>
+    </star-rating>
   </programme>
   <programme start="20200711230100 +0200" stop="20200711235200 +0200" channel="Nova.TV">
     <title lang="es">Doctor en los Alpes</title>
@@ -7956,6 +7968,9 @@
     <rating system="ES">
       <value>7</value>
     </rating>
+    <star-rating system="ES">
+      <value>5/5</value>
+    </star-rating>
   </programme>
   <programme start="20200711235200 +0200" stop="20200712004300 +0200" channel="Nova.TV">
     <title lang="es">Doctor en los Alpes</title>
@@ -8553,6 +8568,9 @@
     <rating system="ES">
       <value>7</value>
     </rating>
+    <star-rating system="ES">
+      <value>5/5</value>
+    </star-rating>
   </programme>
   <programme start="20200712200900 +0200" stop="20200712210000 +0200" channel="Nova.TV">
     <title lang="es">Doctor en los Alpes</title>
@@ -8574,6 +8592,9 @@
     <rating system="ES">
       <value>7</value>
     </rating>
+    <star-rating system="ES">
+      <value>5/5</value>
+    </star-rating>
   </programme>
   <programme start="20200712210000 +0200" stop="20200712230000 +0200" channel="Nova.TV">
     <title lang="es">Mujer</title>
@@ -16892,7 +16913,7 @@
       <value>24-26 julio</value>
     </rating>
   </programme>
-  <programme start="20200711050000 +0200" stop="20200711060000 +0200" channel="TDP.TV">
+  <programme start="20200711050000 +0200" stop="20200711063000 +0200" channel="TDP.TV">
     <title lang="es">Liga MAPFRE de Tenis masculino</title>
     <desc lang="es">La Liga MAPFRE de Tenis es una competición creada por la RFET para que los mejores tenistas nacionales preparen su vuelta al circuito ATP tras el parón por la COVID-19.</desc>
     <date>2020</date>
@@ -16904,96 +16925,136 @@
       <value>24-26 julio</value>
     </rating>
   </programme>
-  <programme start="20200711060000 +0200" stop="20200711080000 +0200" channel="TDP.TV">
-    <title lang="es">Teledeporte</title>
-    <desc lang="es">El canal de deportes de TVE.</desc>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
-    <country lang="es">Otros</country>
+  <programme start="20200711063000 +0200" stop="20200711082000 +0200" channel="TDP.TV">
+    <title lang="es">Atletismo: Campeonato del Mundo 2017</title>
+    <desc lang="es">Desde Londres.</desc>
+    <category lang="es">Atletismo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1561978.jpg" />
+    <country lang="es">Reino Unido</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20200711080000 +0200" stop="20200711100000 +0200" channel="TDP.TV">
-    <title lang="es">Teledeporte</title>
-    <desc lang="es">El canal de deportes de TVE.</desc>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
-    <country lang="es">Otros</country>
+  <programme start="20200711082000 +0200" stop="20200711093500 +0200" channel="TDP.TV">
+    <title lang="es">Reportajes Teledeporte</title>
+    <desc lang="es">Desde Bucarest (Rumanía).</desc>
+    <category lang="es">Programa</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2100271.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2020 E728</episode-num>
+    <rating system="ES">
+      <value>Rumanía</value>
+    </rating>
   </programme>
-  <programme start="20200711100000 +0200" stop="20200711120000 +0200" channel="TDP.TV">
-    <title lang="es">Teledeporte</title>
-    <desc lang="es">El canal de deportes de TVE.</desc>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
-    <country lang="es">Otros</country>
+  <programme start="20200711093500 +0200" stop="20200711103500 +0200" channel="TDP.TV">
+    <title lang="es">Reportajes Teledeporte</title>
+    <desc lang="es">Desde Sevilla.</desc>
+    <category lang="es">Programa</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2100271.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2020 E729</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20200711120000 +0200" stop="20200711140000 +0200" channel="TDP.TV">
-    <title lang="es">Teledeporte</title>
-    <desc lang="es">El canal de deportes de TVE.</desc>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
-    <country lang="es">Otros</country>
+  <programme start="20200711103500 +0200" stop="20200711115000 +0200" channel="TDP.TV">
+    <title lang="es">Estudio Estadio</title>
+    <desc lang="es">Incluye lo más relevante de lo acontecido durante la jornada de fútbol resumiendo, a través de breves reportajes, los partidos de LaLiga Santander y con entrevistas a sus protagonistas.</desc>
+    <category lang="es">Programa</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2049231.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2020 E207</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20200711140000 +0200" stop="20200711160000 +0200" channel="TDP.TV">
-    <title lang="es">Teledeporte</title>
-    <desc lang="es">El canal de deportes de TVE.</desc>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
-    <country lang="es">Otros</country>
+  <programme start="20200711115000 +0200" stop="20200711125000 +0200" channel="TDP.TV">
+    <title lang="es">Reportajes Teledeporte</title>
+    <desc lang="es">Reportajes deportivos.</desc>
   </programme>
-  <programme start="20200711160000 +0200" stop="20200711180000 +0200" channel="TDP.TV">
-    <title lang="es">Teledeporte</title>
-    <desc lang="es">El canal de deportes de TVE.</desc>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
-    <country lang="es">Otros</country>
+  <programme start="20200711125000 +0200" stop="20200711141000 +0200" channel="TDP.TV">
+    <title lang="es">Reportajes Teledeporte</title>
+    <desc lang="es">El Campeonato europeo de hockey sobre patines masculino se celebró en Francia en 2004, con la participación de ocho Selecciones nacionales masculinas de hockey patines. Todos los partidos se disputaron en La Roche sur Yon.</desc>
   </programme>
-  <programme start="20200711180000 +0200" stop="20200711200000 +0200" channel="TDP.TV">
-    <title lang="es">Teledeporte</title>
-    <desc lang="es">El canal de deportes de TVE.</desc>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
-    <country lang="es">Otros</country>
+  <programme start="20200711141000 +0200" stop="20200711151000 +0200" channel="TDP.TV">
+    <title lang="es">Reportajes Teledeporte</title>
+    <desc lang="es">El VIII Campeonato Mundial de Vóley Playa se celebró en Roma (Italia) entre el 13 y el 19 de junio de 2011 bajo la organización de la Federación Internacional de Voleibol (FIVB) y la Federación Italiana de Voleibol.</desc>
   </programme>
-  <programme start="20200711200000 +0200" stop="20200711220000 +0200" channel="TDP.TV">
-    <title lang="es">Teledeporte</title>
-    <desc lang="es">El canal de deportes de TVE.</desc>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
-    <country lang="es">Otros</country>
+  <programme start="20200711151000 +0200" stop="20200711160000 +0200" channel="TDP.TV">
+    <title lang="es">Reportajes Teledeporte</title>
+    <desc lang="es">El XXIV Campeonato Europeo de Bádminton se celebró en Kazán del 23 al 27 de abril de 2014 bajo la organización de Badminton Europe y la Federación Rusa de Bádminton.</desc>
   </programme>
-  <programme start="20200711220000 +0200" stop="20200712000000 +0200" channel="TDP.TV">
-    <title lang="es">Teledeporte</title>
-    <desc lang="es">El canal de deportes de TVE.</desc>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
-    <country lang="es">Otros</country>
+  <programme start="20200711160000 +0200" stop="20200711161500 +0200" channel="TDP.TV">
+    <title lang="es">Fast &amp; Fut Primera</title>
+    <desc lang="es">Fast &amp; Fut es un programa de televisión deportivo presentado por David Figueira. El título del programa es un juego de palabras que combina fútbol y fast food (comida rápida), en referencia a que tenía una duración de 30 minutos.</desc>
+    <date>2016</date>
+    <category lang="es">Programa</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1739888.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>comida rápida</value>
+    </rating>
   </programme>
-  <programme start="20200712000000 +0200" stop="20200712020000 +0200" channel="TDP.TV">
-    <title lang="es">Teledeporte</title>
-    <desc lang="es">El canal de deportes de TVE.</desc>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
-    <country lang="es">Otros</country>
+  <programme start="20200711161500 +0200" stop="20200711162500 +0200" channel="TDP.TV">
+    <title lang="es">Fast &amp; Fut Segunda</title>
+    <desc lang="es">Toda la información en 30 minutos de la segunda división presentado por David Figueira.</desc>
+    <date>2016</date>
+    <category lang="es">Programa</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1739888.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20200712020000 +0200" stop="20200712040000 +0200" channel="TDP.TV">
-    <title lang="es">Teledeporte</title>
-    <desc lang="es">El canal de deportes de TVE.</desc>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
-    <country lang="es">Otros</country>
+  <programme start="20200711162500 +0200" stop="20200711183000 +0200" channel="TDP.TV">
+    <title lang="es">Reportajes Teledeporte</title>
+    <desc lang="es">La 18ª etapa del Tour de Francia 2005 se disputó el día 21 de julio de 2005 entre las localidades de Albi y Mende sobre una distancia de 189 km. Esta etapa tenía un perfil para corredores de escapadas con llegada en alto.</desc>
   </programme>
-  <programme start="20200712040000 +0200" stop="20200712060000 +0200" channel="TDP.TV">
-    <title lang="es">Teledeporte</title>
-    <desc lang="es">El canal de deportes de TVE.</desc>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
-    <country lang="es">Otros</country>
+  <programme start="20200711183000 +0200" stop="20200711200000 +0200" channel="TDP.TV">
+    <title lang="es">Liga MAPFRE de Tenis masculino</title>
+    <desc lang="es">La Liga MAPFRE de Tenis es una competición creada por la RFET para que los mejores tenistas nacionales preparen su vuelta al circuito ATP tras el parón por la COVID-19.</desc>
   </programme>
-  <programme start="20200712060000 +0200" stop="20200712080000 +0200" channel="TDP.TV">
-    <title lang="es">Teledeporte</title>
-    <desc lang="es">El canal de deportes de TVE.</desc>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
-    <country lang="es">Otros</country>
+  <programme start="20200711200000 +0200" stop="20200711213000 +0200" channel="TDP.TV">
+    <title lang="es">Liga MAPFRE de Tenis masculino</title>
+    <desc lang="es">La Liga MAPFRE de Tenis es una competición creada por la RFET para que los mejores tenistas nacionales preparen su vuelta al circuito ATP tras el parón por la COVID-19.</desc>
+  </programme>
+  <programme start="20200711213000 +0200" stop="20200711220000 +0200" channel="TDP.TV">
+    <title lang="es">Cuando fuimos los mejores</title>
+    <desc lang="es">El sueño se cumplió el 11 de julio de 2010 en el estadio Soccer City de Johanesburgo. España se proclamaba campeona del mundo tras ganar la final ante Holanda con un gol de Iniesta en el minuto 116 de la prórroga (1-0).</desc>
+  </programme>
+  <programme start="20200711220000 +0200" stop="20200711235000 +0200" channel="TDP.TV">
+    <title lang="es">Atletismo: Campeonato del Mundo 2017</title>
+    <desc lang="es">Desde Londres.</desc>
+    <category lang="es">Atletismo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1561978.jpg" />
+    <country lang="es">Reino Unido</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200711235000 +0200" stop="20200712010500 +0200" channel="TDP.TV">
+    <title lang="es">Estudio Estadio</title>
+    <desc lang="es">Incluye lo más relevante de lo acontecido durante la jornada de fútbol resumiendo, a través de breves reportajes, los partidos de LaLiga Santander y con entrevistas a sus protagonistas.</desc>
+  </programme>
+  <programme start="20200712010500 +0200" stop="20200712024000 +0200" channel="TDP.TV">
+    <title lang="es">Reportajes Teledeporte</title>
+    <desc lang="es">La 18ª etapa del Tour de Francia 2005 se disputó el día 21 de julio de 2005 entre las localidades de Albi y Mende sobre una distancia de 189 km. Esta etapa tenía un perfil para corredores de escapadas con llegada en alto.</desc>
+  </programme>
+  <programme start="20200712024000 +0200" stop="20200712033500 +0200" channel="TDP.TV">
+    <title lang="es">Reportajes Teledeporte</title>
+    <desc lang="es">El VIII Campeonato Mundial de Vóley Playa se celebró en Roma (Italia) entre el 13 y el 19 de junio de 2011 bajo la organización de la Federación Internacional de Voleibol (FIVB) y la Federación Italiana de Voleibol.</desc>
+  </programme>
+  <programme start="20200712033500 +0200" stop="20200712045500 +0200" channel="TDP.TV">
+    <title lang="es">Reportajes Teledeporte</title>
+    <desc lang="es">El Campeonato europeo de hockey sobre patines masculino se celebró en Francia en 2004, con la participación de ocho Selecciones nacionales masculinas de hockey patines. Todos los partidos se disputaron en La Roche sur Yon.</desc>
+  </programme>
+  <programme start="20200712045500 +0200" stop="20200712061500 +0200" channel="TDP.TV">
+    <title lang="es">Liga MAPFRE de Tenis masculino</title>
+    <desc lang="es">La Liga MAPFRE de Tenis es una competición creada por la RFET para que los mejores tenistas nacionales preparen su vuelta al circuito ATP tras el parón por la COVID-19.</desc>
+  </programme>
+  <programme start="20200712061500 +0200" stop="20200712080000 +0200" channel="TDP.TV">
+    <title lang="es">Liga MAPFRE de Tenis masculino</title>
+    <desc lang="es">La Liga MAPFRE de Tenis es una competición creada por la RFET para que los mejores tenistas nacionales preparen su vuelta al circuito ATP tras el parón por la COVID-19.</desc>
   </programme>
   <programme start="20200712080000 +0200" stop="20200712100000 +0200" channel="TDP.TV">
     <title lang="es">Teledeporte</title>
@@ -17247,6 +17308,9 @@
     <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3833148" />
+    <star-rating system="ES">
+      <value>4/5</value>
+    </star-rating>
   </programme>
   <programme start="20200711171500 +0200" stop="20200711173000 +0200" channel="GOL.TV">
     <title lang="es">Resúmenes LaLiga Santander (T19/20)</title>
@@ -17467,6 +17531,9 @@
     <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3834422" />
+    <star-rating system="ES">
+      <value>5/5</value>
+    </star-rating>
   </programme>
   <programme start="20200712161500 +0200" stop="20200712163000 +0200" channel="GOL.TV">
     <title lang="es">Resúmenes LaLiga SmartBank (T19/20)</title>
@@ -31021,6 +31088,521 @@ Obra póstuma del director de ''Marcelino pan y vino'' Ladislao Vajda, que muri�
       <value>3/5</value>
     </star-rating>
   </programme>
+  <programme start="20200711020000 +0200" stop="20200711070000 +0200" channel="8Burgos.TV">
+    <title lang="es">Redifusión</title>
+    <desc lang="es">Teledeporte.</desc>
+    <category lang="es">Otros</category>
+    <country lang="es">Otros</country>
+  </programme>
+  <programme start="20200711070000 +0200" stop="20200711073000 +0200" channel="8Burgos.TV">
+    <title lang="es">Teletienda</title>
+    <desc lang="es">Espacio dedicado a la televenta.</desc>
+    <credits>
+      <director>Kathryn Bigelow</director>
+      <actor>Harrison Ford</actor>
+      <actor>Liam Neeson</actor>
+      <actor>Peter Sarsgaard</actor>
+    </credits>
+    <category lang="es">Televenta</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2051980.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20200711073000 +0200" stop="20200711093000 +0200" channel="8Burgos.TV">
+    <title lang="es">Castilla y León por el mundo</title>
+    <desc lang="es">Islandia.</desc>
+    <category lang="es">Otros</category>
+    <country lang="es">Otros</country>
+  </programme>
+  <programme start="20200711093000 +0200" stop="20200711123000 +0200" channel="8Burgos.TV">
+    <title lang="es">Un paseo por Castilla y León</title>
+    <desc lang="es">La 8 te invita a conocer distintos rincones de la comunidad, con entrevistas a sus gentes y reportajes a pie de calle como eje de este espacio que muestra la geografía, la cultura y la sociedad de Castilla y León.</desc>
+    <date>2018</date>
+    <category lang="es">Viajes</category>
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200711123000 +0200" stop="20200711130000 +0200" channel="8Burgos.TV">
+    <title lang="es">Insectia</title>
+    <desc lang="es">Documental.</desc>
+    <category lang="es">Otros</category>
+    <country lang="es">Otros</country>
+  </programme>
+  <programme start="20200711130000 +0200" stop="20200711135400 +0200" channel="8Burgos.TV">
+    <title lang="es">El arcón</title>
+    <desc lang="es">El periodista Javier Pérez Andrés visita todos y cada uno de los rincones de Castilla y León en busca de sabores, costumbres y lugareños.</desc>
+    <credits>
+      <presenter>Javier Perez Andres</presenter>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Cultura</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/443722.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200711135400 +0200" stop="20200711143000 +0200" channel="8Burgos.TV">
+    <title lang="es">Agro en acción</title>
+    <desc lang="es">Espacio dedicado a la maquinaria agrícola. Con Conrado Escudero.</desc>
+    <date>2018</date>
+    <category lang="es">Agricultura-Ganadería</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2729483.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200711143000 +0200" stop="20200711153000 +0200" channel="8Burgos.TV">
+    <title lang="es">Un paseo por Castilla y León</title>
+    <desc lang="es">Ávila y Burgos.</desc>
+    <category lang="es">Otros</category>
+    <country lang="es">Otros</country>
+  </programme>
+  <programme start="20200711153000 +0200" stop="20200711163000 +0200" channel="8Burgos.TV">
+    <title lang="es">Grana y oro</title>
+    <desc lang="es">Programa de toros presentado por Carlos Santoyo.</desc>
+    <date>2012</date>
+    <category lang="es">Toros</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/443462.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200711163000 +0200" stop="20200711170000 +0200" channel="8Burgos.TV">
+    <title lang="es">Exploración planeta</title>
+    <desc lang="es">Documental.</desc>
+    <category lang="es">Ciencia y tecnología</category>
+    <country lang="es">Otros</country>
+  </programme>
+  <programme start="20200711170000 +0200" stop="20200711180000 +0200" channel="8Burgos.TV">
+    <title lang="es">Tiempo de viajar</title>
+    <desc lang="es">Documental sobre viajes que en cada edición nos muestra una localidad diferente, su paisaje, su arquitectura, cultura gastronomía y tradiciones.</desc>
+    <category lang="es">Viajes</category>
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200711180000 +0200" stop="20200711195400 +0200" channel="8Burgos.TV">
+    <title lang="es">Cuando llegue septiembre</title>
+    <desc lang="es">cine 1961.</desc>
+    <category lang="es">Otros</category>
+    <country lang="es">Otros</country>
+  </programme>
+  <programme start="20200711195400 +0200" stop="20200711203000 +0200" channel="8Burgos.TV">
+    <title lang="es">Desiertos</title>
+    <desc lang="es">Documental.</desc>
+    <category lang="es">Naturaleza</category>
+    <country lang="es">Otros</country>
+  </programme>
+  <programme start="20200711203000 +0200" stop="20200711213000 +0200" channel="8Burgos.TV">
+    <title lang="es">Un paseo por Castilla y León Bierzo y León</title>
+    <desc lang="es">Sin descripción.</desc>
+    <category lang="es">Otros</category>
+    <country lang="es">Otros</country>
+  </programme>
+  <programme start="20200711213000 +0200" stop="20200711223000 +0200" channel="8Burgos.TV">
+    <title lang="es">Hecho en Castilla y León</title>
+    <desc lang="es">Castilla y León es una región puntera en la elaboración y exportación de numerosos productos. Este programa nos muestra cómo se fabrican los más innovadores.</desc>
+    <credits>
+      <presenter>María Nieto</presenter>
+    </credits>
+    <category lang="es">Otros</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/443827.jpg" />
+    <country lang="es">Otros</country>
+  </programme>
+  <programme start="20200711223000 +0200" stop="20200712001500 +0200" channel="8Burgos.TV">
+    <title lang="es">Carretera al infierno</title>
+    <desc lang="es">cine 1986.</desc>
+    <category lang="es">Otros</category>
+    <country lang="es">Otros</country>
+  </programme>
+  <programme start="20200712001500 +0200" stop="20200712014500 +0200" channel="8Burgos.TV">
+    <title lang="es">Alguien detrás de la puerta</title>
+    <desc lang="es">cine 1971.</desc>
+    <category lang="es">Otros</category>
+    <country lang="es">Otros</country>
+  </programme>
+  <programme start="20200712014500 +0200" stop="20200712070000 +0200" channel="8Burgos.TV">
+    <title lang="es">Redifusiones</title>
+    <desc lang="es">Reemisión de la programación ofrecida por la cadena.</desc>
+    <category lang="es">Otros</category>
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200712070000 +0200" stop="20200712073000 +0200" channel="8Burgos.TV">
+    <title lang="es">Teletienda</title>
+    <desc lang="es">Espacio dedicado a la televenta.</desc>
+    <credits>
+      <director>Kathryn Bigelow</director>
+      <actor>Harrison Ford</actor>
+      <actor>Liam Neeson</actor>
+      <actor>Peter Sarsgaard</actor>
+    </credits>
+    <category lang="es">Televenta</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2051980.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20200712073000 +0200" stop="20200712093000 +0200" channel="8Burgos.TV">
+    <title lang="es">Castilla y León por el mundo</title>
+    <desc lang="es">República Checa.</desc>
+    <category lang="es">Otros</category>
+    <country lang="es">Otros</country>
+  </programme>
+  <programme start="20200712093000 +0200" stop="20200712100000 +0200" channel="8Burgos.TV">
+    <title lang="es">Inglés total</title>
+    <desc lang="es">Espacio didáctico.</desc>
+    <date>2020</date>
+    <category lang="es">Idiomas</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2714700.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200712100000 +0200" stop="20200712110000 +0200" channel="8Burgos.TV">
+    <title lang="es">El arcón</title>
+    <desc lang="es">El periodista Javier Pérez Andrés visita todos y cada uno de los rincones de Castilla y León en busca de sabores, costumbres y lugareños.</desc>
+    <credits>
+      <presenter>Javier Perez Andres</presenter>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Cultura</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/443722.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200712110000 +0200" stop="20200712123000 +0200" channel="8Burgos.TV">
+    <title lang="es">Un paseo por Castilla y León</title>
+    <desc lang="es">Soria y Valladolid.</desc>
+    <category lang="es">Otros</category>
+    <country lang="es">Otros</country>
+  </programme>
+  <programme start="20200712123000 +0200" stop="20200712130000 +0200" channel="8Burgos.TV">
+    <title lang="es">Atrapados en la historia</title>
+    <desc lang="es">Documental en el que se repasan los momentos más importantes de la Historia de la Humanidad.</desc>
+    <category lang="es">Historia</category>
+    <country lang="es">Otros</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200712130000 +0200" stop="20200712135400 +0200" channel="8Burgos.TV">
+    <title lang="es">El arcón</title>
+    <desc lang="es">El periodista Javier Pérez Andrés visita todos y cada uno de los rincones de Castilla y León en busca de sabores, costumbres y lugareños.</desc>
+    <credits>
+      <presenter>Javier Perez Andres</presenter>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Cultura</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/443722.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200712135400 +0200" stop="20200712143000 +0200" channel="8Burgos.TV">
+    <title lang="es">Valor añadido</title>
+    <desc lang="es">Expertos y representantes de las instituciones académicas, empresariales, sectoriales y sindicales nos ofrecen experiencias de éxito e información sobre la industria, la economía y las empresas de la región.</desc>
+    <category lang="es">Economía</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2714025.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200712143000 +0200" stop="20200712153000 +0200" channel="8Burgos.TV">
+    <title lang="es">Un paseo por Castilla y León</title>
+    <desc lang="es">Palencia y Salamanca.</desc>
+    <category lang="es">Otros</category>
+    <country lang="es">Otros</country>
+  </programme>
+  <programme start="20200712153000 +0200" stop="20200712163000 +0200" channel="8Burgos.TV">
+    <title lang="es">Zona Motor</title>
+    <desc lang="es">Revista del motor para televisión en la que se trata la actualidad de las distintas competiciones automovilísticas que están teniendo lugar.</desc>
+    <category lang="es">Motor</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1782250.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200712163000 +0200" stop="20200712170000 +0200" channel="8Burgos.TV">
+    <title lang="es">Deportes de aventura</title>
+    <desc lang="es">Programa sobre deportes de aventura.</desc>
+    <category lang="es">Programa</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/443602.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200712170000 +0200" stop="20200712180000 +0200" channel="8Burgos.TV">
+    <title lang="es">Aventura Mundo cine</title>
+    <desc lang="es">Sin descripción.</desc>
+    <category lang="es">Otros</category>
+    <country lang="es">Otros</country>
+  </programme>
+  <programme start="20200712180000 +0200" stop="20200712194500 +0200" channel="8Burgos.TV">
+    <title lang="es">El ídolo de Acapulco</title>
+    <desc lang="es">cine 1963.</desc>
+    <category lang="es">Otros</category>
+    <country lang="es">Otros</country>
+  </programme>
+  <programme start="20200712194500 +0200" stop="20200712195400 +0200" channel="8Burgos.TV">
+    <title lang="es">Paralímpicos</title>
+    <desc lang="es">Programa que informa de la actualidad de los deportistas discapacitados.</desc>
+    <category lang="es">Atletismo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2052491.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200712195400 +0200" stop="20200712203000 +0200" channel="8Burgos.TV">
+    <title lang="es">Deportes de aventura</title>
+    <desc lang="es">Programa sobre deportes de aventura.</desc>
+    <category lang="es">Programa</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/443602.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200712203000 +0200" stop="20200712213000 +0200" channel="8Burgos.TV">
+    <title lang="es">Un paseo por Castilla y León</title>
+    <desc lang="es">La 8 te invita a conocer distintos rincones de la comunidad, con entrevistas a sus gentes y reportajes a pie de calle como eje de este espacio que muestra la geografía, la cultura y la sociedad de Castilla y León.</desc>
+    <date>2018</date>
+    <category lang="es">Viajes</category>
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200712213000 +0200" stop="20200712223000 +0200" channel="8Burgos.TV">
+    <title lang="es">Tesoros del agua</title>
+    <desc lang="es">Serie documental con el río Duero y su patrimonio natural como protagonista.</desc>
+    <category lang="es">Otros</category>
+    <country lang="es">Otros</country>
+  </programme>
+  <programme start="20200712223000 +0200" stop="20200712233000 +0200" channel="8Burgos.TV">
+    <title lang="es">Grana y oro</title>
+    <desc lang="es">Programa de toros presentado por Carlos Santoyo.</desc>
+    <date>2012</date>
+    <category lang="es">Toros</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/443462.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200712233000 +0200" stop="20200713003000 +0200" channel="8Burgos.TV">
+    <title lang="es">Duelo de fogones</title>
+    <desc lang="es">Batalla culinaria entre dos vecinos de una misma localidad de Castilla y León. De la mano de Blanca Fraile.</desc>
+    <date>2015</date>
+    <category lang="es">Cocina</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/965364.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200713003000 +0200" stop="20200713013000 +0200" channel="8Burgos.TV">
+    <title lang="es">Pelota a mano</title>
+    <desc lang="es">Retransmisión deportiva.</desc>
+    <date>2017</date>
+    <category lang="es">Pelota/Frontón</category>
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200713013000 +0200" stop="20200713070000 +0200" channel="8Burgos.TV">
+    <title lang="es">Redifusiones</title>
+    <desc lang="es">Reemisión de la programación ofrecida por la cadena.</desc>
+    <category lang="es">Otros</category>
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200713070000 +0200" stop="20200713073000 +0200" channel="8Burgos.TV">
+    <title lang="es">Teletienda</title>
+    <desc lang="es">Espacio dedicado a la televenta.</desc>
+    <credits>
+      <director>Kathryn Bigelow</director>
+      <actor>Harrison Ford</actor>
+      <actor>Liam Neeson</actor>
+      <actor>Peter Sarsgaard</actor>
+    </credits>
+    <category lang="es">Televenta</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2051980.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20200713073000 +0200" stop="20200713080000 +0200" channel="8Burgos.TV">
+    <title lang="es">World discoveries</title>
+    <desc lang="es">Documental.</desc>
+    <category lang="es">Otros</category>
+    <country lang="es">Otros</country>
+  </programme>
+  <programme start="20200713080000 +0200" stop="20200713083000 +0200" channel="8Burgos.TV">
+    <title lang="es">Hoy toca jota</title>
+    <desc lang="es">Espacio dedicado al conocido baile popular y la música que lo acompaña.</desc>
+    <date>2012</date>
+    <category lang="es">Tradicional</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/441289.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200713083000 +0200" stop="20200713090000 +0200" channel="8Burgos.TV">
+    <title lang="es">Exploración planeta</title>
+    <desc lang="es">Documental.</desc>
+    <category lang="es">Ciencia y tecnología</category>
+    <country lang="es">Otros</country>
+  </programme>
+  <programme start="20200713090000 +0200" stop="20200713103000 +0200" channel="8Burgos.TV">
+    <title lang="es">Buenos días Castilla y León</title>
+    <desc lang="es">La actualidad de Castilla y León a primera hora.</desc>
+    <category lang="es">Informativo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/431426.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200713103000 +0200" stop="20200713130000 +0200" channel="8Burgos.TV">
+    <title lang="es">Programación local</title>
+    <desc lang="es">Programación local.</desc>
+    <category lang="es">Retransmisión</category>
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200713130000 +0200" stop="20200713133000 +0200" channel="8Burgos.TV">
+    <title lang="es">World discoveries</title>
+    <desc lang="es">Sin descripción.</desc>
+    <category lang="es">Otros</category>
+    <country lang="es">Otros</country>
+  </programme>
+  <programme start="20200713133000 +0200" stop="20200713135400 +0200" channel="8Burgos.TV">
+    <title lang="es">Hoy toca jota</title>
+    <desc lang="es">Espacio dedicado al conocido baile popular y la música que lo acompaña.</desc>
+    <date>2012</date>
+    <category lang="es">Tradicional</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/441289.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200713135400 +0200" stop="20200713143000 +0200" channel="8Burgos.TV">
+    <title lang="es">Noticias 8</title>
+    <desc lang="es">Programa informativo.</desc>
+    <date>2013</date>
+    <category lang="es">Informativo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/443633.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200713143000 +0200" stop="20200713153000 +0200" channel="8Burgos.TV">
+    <title lang="es">CyLTV Noticias</title>
+    <desc lang="es">El repaso a la actualidad de la jornada en CyLTV.</desc>
+    <category lang="es">Informativo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/433538.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200713153000 +0200" stop="20200713160000 +0200" channel="8Burgos.TV">
+    <title lang="es">Noticias 8</title>
+    <desc lang="es">Programa informativo.</desc>
+    <date>2013</date>
+    <category lang="es">Informativo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/443633.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200713160000 +0200" stop="20200713180000 +0200" channel="8Burgos.TV">
+    <title lang="es">Programación local</title>
+    <desc lang="es">Programación local.</desc>
+    <category lang="es">Retransmisión</category>
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200713180000 +0200" stop="20200713195000 +0200" channel="8Burgos.TV">
+    <title lang="es">Infiltrados</title>
+    <desc lang="es">Serie australiana que retrata la vida de seis policías infiltrados, entre ellos el oficial Peter Church, que en su acción diaria es un hombre solitario que se mezcla con delincuente habituales de dudosa reputación.</desc>
+    <credits>
+      <director>David Cameron</director>
+      <actor>Peter Phelps</actor>
+      <actor>Joe Petruzzi</actor>
+      <actor>Anita Hegh</actor>
+      <actor>Kate Kendall</actor>
+    </credits>
+    <date>1998</date>
+    <category lang="es">Policíaca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/730095.jpg" />
+    <country lang="es">Australia</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200713195000 +0200" stop="20200713203000 +0200" channel="8Burgos.TV">
+    <title lang="es">Noticias 8</title>
+    <desc lang="es">Programa informativo.</desc>
+    <date>2013</date>
+    <category lang="es">Informativo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/443633.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200713203000 +0200" stop="20200713213000 +0200" channel="8Burgos.TV">
+    <title lang="es">CyLTV Noticias</title>
+    <desc lang="es">El repaso a la actualidad de la jornada en CyLTV.</desc>
+    <category lang="es">Informativo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/433538.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200713213000 +0200" stop="20200713233000 +0200" channel="8Burgos.TV">
+    <title lang="es">Programación local</title>
+    <desc lang="es">Programación local.</desc>
+    <category lang="es">Retransmisión</category>
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
   <programme start="20200711090000 +0200" stop="20200711093000 +0200" channel="Benavente.TV">
     <title lang="es">NOTICIAS Benavente Hoy</title>
     <desc lang="es">TICIAS BENAVENTE HOY: 
@@ -34161,7 +34743,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -34179,7 +34761,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -34197,7 +34779,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -34215,7 +34797,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -34233,7 +34815,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -34251,7 +34833,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -34269,7 +34851,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -34287,7 +34869,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -35611,7 +36193,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -35629,7 +36211,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -35647,7 +36229,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -35665,7 +36247,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -35683,7 +36265,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -35701,7 +36283,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -35719,7 +36301,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -37202,7 +37784,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -37220,7 +37802,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -37238,7 +37820,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -37256,7 +37838,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -37548,7 +38130,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -37566,7 +38148,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -37584,7 +38166,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -37602,7 +38184,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -37620,7 +38202,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -37638,7 +38220,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -37656,7 +38238,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -38611,7 +39193,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -38629,7 +39211,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -38647,7 +39229,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -38665,7 +39247,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -38683,7 +39265,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -38701,7 +39283,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -38719,7 +39301,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -38737,7 +39319,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -40061,7 +40643,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -40079,7 +40661,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -40097,7 +40679,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -40115,7 +40697,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -40133,7 +40715,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -40151,7 +40733,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -40169,7 +40751,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -41652,7 +42234,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -41670,7 +42252,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -41688,7 +42270,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -41706,7 +42288,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -41998,7 +42580,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -42016,7 +42598,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -42034,7 +42616,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -42052,7 +42634,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -42070,7 +42652,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -42088,7 +42670,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -42106,7 +42688,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <date>2007</date>
     <category lang="es">Infantil</category>
     <category lang="es">Dibujos animados</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M1048026V622995" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC33P622995" />
     <country lang="es">R.U</country>
     <rating system="ES">
       <value>TP</value>
@@ -42363,30 +42945,8 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     </star-rating>
   </programme>
   <programme start="20200711012000 +0200" stop="20200711024000 +0200" channel="La1_CAT.TV">
-    <title lang="es">El Caso. Crónica de sucesos</title>
-    <desc lang="es">Clara y Jesús cubren el consejo de guerra a una pareja de atracadores franceses acusados de matar a un policía y descubren irregularidades. Cuando les condenan a muerte, la redacción se vuelca en conseguir un indulto.</desc>
-    <credits>
-      <director>Ignacio Mercero</director>
-      <director>Iñaki Mercero</director>
-      <actor>Fernando Guillén Cuervo</actor>
-      <actor>Verónica Sánchez</actor>
-      <actor>Natalia Verbeke</actor>
-      <actor>Antonio Garrido</actor>
-      <actor>Francisco Ortiz</actor>
-      <actor>Fernando Cayo</actor>
-      <actor>Fernando Guillén</actor>
-      <actor>Gorka Lasaosa</actor>
-      <producer>Aitor Gabilondo</producer>
-      <producer>César Benítez</producer>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Thriller</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1107561.jpg" />
-    <country lang="es">España</country>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <rating system="ES">
-      <value>12</value>
-    </rating>
+    <title lang="es">Las claves de El Caso</title>
+    <desc lang="es">Programa que repasa los sucesos reales que han inspirado la serie "El Caso. Crónica de sucesos\.</desc>
   </programme>
   <programme start="20200711024000 +0200" stop="20200711060000 +0200" channel="La1_CAT.TV">
     <title lang="es">Noticias 24h</title>
@@ -42671,7 +43231,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
   </programme>
   <programme start="20200711213000 +0200" stop="20200711220500 +0200" channel="La1_CAT.TV">
     <title lang="es">Informe semanal</title>
-    <desc lang="es">Espacio informativo que ofrece nuevos reportajes cada semana para profundizar y analizar los temas de la actualidad nacional e internacional.</desc>
+    <desc lang="es">Incluye los reportajes 'Víctimas del Daesh' y 'El verano más feliz'.</desc>
     <credits>
       <director>Óscar González</director>
     </credits>
@@ -42814,8 +43374,8 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     </rating>
   </programme>
   <programme start="20200712090000 +0200" stop="20200712091000 +0200" channel="La1_CAT.TV">
-    <title lang="es">ESPECIALES INFORMATIVOS DIARIOS (AVANCES</title>
-    <desc lang="es">AVANCES Y ESPECIALES INFORMATIVOS EN DIRECTO.</desc>
+    <title lang="es">Especiales informativos diarios</title>
+    <desc lang="es">Emisión en directo de avances y especiales informativos.</desc>
     <category lang="es">Otros</category>
     <icon src="http://programacion-tv.elpais.com/imagenes/programas/1703780.jpg" />
     <country lang="es">Otros</country>
@@ -42825,11 +43385,8 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     </rating>
   </programme>
   <programme start="20200712091000 +0200" stop="20200712094000 +0200" channel="La1_CAT.TV">
-    <title lang="es">SEGURIDAD VITAL</title>
-    <desc lang="es">Programa de corte divulgativo para acerca la i mportancia que la seguridad vial tiene en nuestras vidas.</desc>
-    <category lang="es">Otros</category>
-    <country lang="es">Otros</country>
-    <episode-num system="onscreen">E24</episode-num>
+    <title lang="es">Seguridad vital</title>
+    <desc lang="es">El piloto Albert Llovera nos cuenta cómo se convirtió en campeón después de quedarse parapléjico; nos acercamos a Granada para conocer la campaña 'Nocturnos' y descubrimos los riesgos de las nuevas tecnologías al volante.</desc>
   </programme>
   <programme start="20200712094000 +0200" stop="20200712104043 +0200" channel="La1_CAT.TV">
     <title lang="es">Comando al sol</title>
@@ -42844,29 +43401,22 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     </rating>
   </programme>
   <programme start="20200712104043 +0200" stop="20200712114000 +0200" channel="La1_CAT.TV">
-    <title lang="es">COMANDO ACTUALIDAD</title>
-    <desc lang="es">Programa de reportajes de actualidad, donde se analizan los temas sociales desde miradas distintas.</desc>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1703780.jpg" />
-    <country lang="es">Otros</country>
-    <episode-num system="onscreen">E62</episode-num>
-    <rating system="ES">
-      <value>7</value>
-    </rating>
+    <title lang="es">Comando al sol</title>
+    <desc lang="es">Comando al sol sortea el problema del viajero al que le faltan destinos. Esta semana, los reporteros hacen un recorrido por paisajes de cine del Alto Aragón.</desc>
   </programme>
-  <programme start="20200712114000 +0200" stop="20200712123359 +0200" channel="La1_CAT.TV">
+  <programme start="20200712114000 +0200" stop="20200712123503 +0200" channel="La1_CAT.TV">
     <title lang="es">Españoles en el mundo</title>
-    <desc lang="es">Hoy viajamos hasta el paraíso del surf, a Florianópolis, en el estado de Santa Catarina, al sur de Brasil. Conoceremos el legado español en estas tierras con Noelia, Alex, Rubén, Diego y la familia Núñez al completo.</desc>
-    <date>2018</date>
+    <desc lang="es">Viajamos a Moravia en la República Checa.</desc>
+    <date>2020</date>
     <category lang="es">Viajes</category>
     <icon src="http://programacion-tv.elpais.com/imagenes/programas/467430.jpg" />
     <country lang="es">España</country>
-    <episode-num system="onscreen">S15 E3</episode-num>
+    <episode-num system="onscreen">S17 E10</episode-num>
     <rating system="ES">
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20200712123359 +0200" stop="20200712132920 +0200" channel="La1_CAT.TV">
+  <programme start="20200712123503 +0200" stop="20200712133024 +0200" channel="La1_CAT.TV">
     <title lang="es">Españoles en el mundo</title>
     <desc lang="es">Los españoles que viven en Maine, en la frontera con Canadá, nos enseñan sus acantilados de vértigo, sus playas inacabables, sus bosques, sus islas recónditas y sus pueblos.</desc>
     <credits>
@@ -42881,41 +43431,25 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
       <value>Estados Unidos de América</value>
     </rating>
   </programme>
-  <programme start="20200712132920 +0200" stop="20200712133500 +0200" channel="La1_CAT.TV">
+  <programme start="20200712133024 +0200" stop="20200712133500 +0200" channel="La1_CAT.TV">
     <title lang="es">Españoles en el mundo</title>
-    <desc lang="es">Viajamos a Moravia en la República Checa.</desc>
-    <date>2020</date>
+    <desc lang="es">Hoy viajamos hasta el paraíso del surf, a Florianópolis, en el estado de Santa Catarina, al sur de Brasil. Conoceremos el legado español en estas tierras con Noelia, Alex, Rubén, Diego y la familia Núñez al completo.</desc>
+    <date>2018</date>
     <category lang="es">Viajes</category>
     <icon src="http://programacion-tv.elpais.com/imagenes/programas/467430.jpg" />
     <country lang="es">España</country>
-    <episode-num system="onscreen">S17 E10</episode-num>
+    <episode-num system="onscreen">S15 E3</episode-num>
     <rating system="ES">
       <value>7</value>
     </rating>
   </programme>
   <programme start="20200712133500 +0200" stop="20200712140000 +0200" channel="La1_CAT.TV">
-    <title lang="es">JO SOC ERASMUS</title>
-    <desc lang="es">Serie sobre la beca Erasmus.</desc>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1703780.jpg" />
-    <country lang="es">Otros</country>
-    <episode-num system="onscreen">E18</episode-num>
+    <title lang="es">Yo soy Erasmus</title>
+    <desc lang="es">Programa presentado por Alicia Gómez en el que se contarán historias de vida que, gracias a las becas Erasmus que existen desde hace más de 30 años, muchos estudiantes han vivido en primera persona.</desc>
   </programme>
-  <programme start="20200712140000 +0200" stop="20200712140100 +0200" channel="La1_CAT.TV">
-    <title lang="es">Españoles en el mundo</title>
-    <desc lang="es">Viajamos a Moravia en la República Checa.</desc>
-    <date>2020</date>
-    <category lang="es">Viajes</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/467430.jpg" />
-    <country lang="es">España</country>
-    <episode-num system="onscreen">S17 E10</episode-num>
-    <rating system="ES">
-      <value>7</value>
-    </rating>
-  </programme>
-  <programme start="20200712140100 +0200" stop="20200712140500 +0200" channel="La1_CAT.TV">
-    <title lang="es">ESPECIALES INFORMATIVOS DIARIOS (AVANCES</title>
-    <desc lang="es">AVANCES Y ESPECIALES INFORMATIVOS EN DIRECTO.</desc>
+  <programme start="20200712140000 +0200" stop="20200712141000 +0200" channel="La1_CAT.TV">
+    <title lang="es">Especiales informativos diarios</title>
+    <desc lang="es">Emisión en directo de avances y especiales informativos.</desc>
     <category lang="es">Otros</category>
     <icon src="http://programacion-tv.elpais.com/imagenes/programas/1703780.jpg" />
     <country lang="es">Otros</country>
@@ -42924,13 +43458,15 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20200712140500 +0200" stop="20200712143000 +0200" channel="La1_CAT.TV">
-    <title lang="es">INFORMATIVO SOBREMESA CATALUÑA</title>
-    <desc lang="es">PROGRAMA INFORMATIVO DE INFORMACION REGIONAL.</desc>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1703780.jpg" />
-    <country lang="es">Otros</country>
-    <episode-num system="onscreen">E190</episode-num>
+  <programme start="20200712141000 +0200" stop="20200712143000 +0200" channel="La1_CAT.TV">
+    <title lang="es">L'informatiu</title>
+    <desc lang="es">Información autonómica de Cataluña.</desc>
+    <credits>
+      <presenter>Marta Ribas</presenter>
+    </credits>
+    <category lang="es">Informativo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/477834.jpg" />
+    <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -42967,12 +43503,14 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     </rating>
   </programme>
   <programme start="20200712155000 +0200" stop="20200712160000 +0200" channel="La1_CAT.TV">
-    <title lang="es">EL TIEMPO MEDIODÍA</title>
-    <desc lang="es">ESPACIO DE INFORMACIÓN METEOROLÓGICA.</desc>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1703780.jpg" />
-    <country lang="es">Otros</country>
-    <episode-num system="onscreen">E194</episode-num>
+    <title lang="es">El tiempo TVE 1</title>
+    <desc lang="es">Información meteorológica por provincias y predicción a corto y largo plazo, con Albert Barniol.</desc>
+    <credits>
+      <presenter>Albert Barniol</presenter>
+    </credits>
+    <category lang="es">Tiempo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/466993.jpg" />
+    <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -43004,28 +43542,25 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     </rating>
   </programme>
   <programme start="20200712174000 +0200" stop="20200712194500 +0200" channel="La1_CAT.TV">
-    <title lang="es">LOS PUENTES DE MADISON</title>
-    <desc lang="es">A la muerte de su madre, Caroline y Michael regresan a la casa familiar para hacerse cargo del testamento.</desc>
-    <credits>
-      <director>Clint Eastwood</director>
-      <actor>Clint Eastwood</actor>
-      <actor>Meryl Streep</actor>
-      <actor>Annie Corley</actor>
-      <actor>Victor Slezak</actor>
-    </credits>
-    <date>1995</date>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1703780.jpg" />
-    <country lang="es">Otros</country>
+    <title lang="es">Los puentes de Madison</title>
+    <desc lang="es">Francesca, una servicial ama de casa de Iowa, ha dejado escrito en su testamento que quiere que sus cenizas sean depositadas al río desde uno de los puentes del condado de Madison.</desc>
   </programme>
-  <programme start="20200712194500 +0200" stop="20200712210000 +0200" channel="La1_CAT.TV">
-    <title lang="es">NOCHE ELECTORAL-ELECC GALICIA Y P. VASCO</title>
-    <desc lang="es">PROGRAMA ESPECIAL CON LOS RESULTADOS ELECTORALES EN DIRECTO-.</desc>
+  <programme start="20200712194500 +0200" stop="20200712200000 +0200" channel="La1_CAT.TV">
+    <title lang="es">Especiales informativos diarios</title>
+    <desc lang="es">Programa especial, en directo, con los resultados electorales de las elecciones en el País Vasco y Galicia.</desc>
+  </programme>
+  <programme start="20200712200000 +0200" stop="20200712210000 +0200" channel="La1_CAT.TV">
+    <title lang="es">Especiales informativos diarios</title>
+    <desc lang="es">Información sobre el desarrollo de la jornada electoral. Abordará los últimos momentos de las votaciones, los resultados del sondeo de las elecciones en el País Vasco y Galicia.</desc>
+  </programme>
+  <programme start="20200712210000 +0200" stop="20200712221500 +0200" channel="La1_CAT.TV">
+    <title lang="es">Especiales informativos diarios</title>
+    <desc lang="es">Programa especial con los resultados electorales en directo, de las elecciones en el País Vasco y Galicia.</desc>
     <category lang="es">Otros</category>
     <country lang="es">Otros</country>
     <episode-num system="onscreen">E1</episode-num>
   </programme>
-  <programme start="20200712210000 +0200" stop="20200712215000 +0200" channel="La1_CAT.TV">
+  <programme start="20200712221500 +0200" stop="20200712230500 +0200" channel="La1_CAT.TV">
     <title lang="es">Telediario 2</title>
     <desc lang="es">Carlos Franganillo presenta la 2ª edición del Telediario de TVE, uno de los informativos más antiguos de la televisión, con una cobertura exhaustiva de lo acontecido en España y el mundo durante el día. Sergio Sauca ofrece los deportes.</desc>
     <credits>
@@ -43040,7 +43575,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20200712215000 +0200" stop="20200712233000 +0200" channel="La1_CAT.TV">
+  <programme start="20200712230500 +0200" stop="20200712233000 +0200" channel="La1_CAT.TV">
     <title lang="es">El tiempo TVE 2</title>
     <desc lang="es">Información meteorológica por provincias y predicción a corto y largo plazo, con Mónica López.</desc>
     <credits>
@@ -43081,6 +43616,218 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <country lang="es">EE.UU.</country>
     <rating system="ES">
       <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20200713022500 +0200" stop="20200713060000 +0200" channel="La1_CAT.TV">
+    <title lang="es">Noticias 24h</title>
+    <desc lang="es">Información contínua 24 horas nacional e internacional. Presentado por Alex Barreiro, Jerónimo Fernández, Marta Ventura, Beatriz Pérez y Mercedes Martel.</desc>
+    <credits>
+      <presenter>Beatriz Pérez</presenter>
+      <presenter>Moisés Rodríguez</presenter>
+      <presenter>Mercedes Martel</presenter>
+      <presenter>Marta Ventura</presenter>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Informativo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/461243.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200713060000 +0200" stop="20200713070000 +0200" channel="La1_CAT.TV">
+    <title lang="es">Noticias 24h</title>
+    <desc lang="es">Información contínua 24 horas nacional e internacional. Presentado por Alex Barreiro, Jerónimo Fernández, Marta Ventura, Beatriz Pérez y Mercedes Martel.</desc>
+    <credits>
+      <presenter>Beatriz Pérez</presenter>
+      <presenter>Moisés Rodríguez</presenter>
+      <presenter>Mercedes Martel</presenter>
+      <presenter>Marta Ventura</presenter>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Informativo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/461243.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200713070000 +0200" stop="20200713082500 +0200" channel="La1_CAT.TV">
+    <title lang="es">Telediario matinal</title>
+    <desc lang="es">Informativo con las primeras noticias de la jornada, presentado por Inma Gómez Lobo y Ana Ibáñez. Incluye la información deportiva con Ángel Pons, así como el pronóstico del tiempo en España y Europa.</desc>
+    <credits>
+      <presenter>Inma Gómez Lobo</presenter>
+      <presenter>Ana Ibáñez</presenter>
+      <presenter>Ángel Pons</presenter>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Informativo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2494238.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200713082500 +0200" stop="20200713100000 +0200" channel="La1_CAT.TV">
+    <title lang="es">Los desayunos de TVE</title>
+    <desc lang="es">Programa presentado por Xavier Fortes que analiza la actualidad informativa con debates, tertulias y una entrevista a un personaje noticioso. El amplio abanico de comentaristas da cabida a variadas y diversas opiniones.</desc>
+    <credits>
+      <director>Xavier Fortes</director>
+      <presenter>Xavier Fortes</presenter>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Entrevista</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2150001.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200713100000 +0200" stop="20200713130000 +0200" channel="La1_CAT.TV">
+    <title lang="es">La mañana</title>
+    <desc lang="es">Magacín de las mañanas de Televisión Española, presentado por Diego Losada, que ofrece una oferta muy variada de contenidos para toda la familia y con clara vocación de servicio público.</desc>
+    <credits>
+      <producer>Hugo Mendiri</producer>
+      <presenter>Diego Losada</presenter>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Magazine</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1271277.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200713130000 +0200" stop="20200713135500 +0200" channel="La1_CAT.TV">
+    <title lang="es">Cocina al punto con Peña y Tamara</title>
+    <desc lang="es">Javier Peña visita hoy Tudela de Duero, en Valladolid. Allí conocerá de cerca el cultivo del espárrago blanco con los que elaborará la receta de hoy.</desc>
+  </programme>
+  <programme start="20200713135500 +0200" stop="20200713141300 +0200" channel="La1_CAT.TV">
+    <title lang="es">INFORMATIVO SOBREMESA CATALUÑA</title>
+    <desc lang="es">PROGRAMA INFORMATIVO DE INFORMACION REGIONAL.</desc>
+  </programme>
+  <programme start="20200713141300 +0200" stop="20200713150000 +0200" channel="La1_CAT.TV">
+    <title lang="es">Bloqueados por el muro</title>
+    <desc lang="es">Àngel Llàcer presenta este divertido concurso veraniego, en el que dos equipos formados por cuatro jugadores cada uno luchan entre sí y también contra un muro y sus bloques, que tratan de empujarlos hacia el vacío.</desc>
+  </programme>
+  <programme start="20200713150000 +0200" stop="20200713160000 +0200" channel="La1_CAT.TV">
+    <title lang="es">Telediario 1</title>
+    <desc lang="es">Ana Blanco presenta la primera edición del Telediario de TVE, uno de los informativos más antiguos de la televisión, para desgranar la actualidad nacional e internacional. Raquel González presenta la información deportiva.</desc>
+    <date>2018</date>
+    <category lang="es">Informativo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2174965.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200713160000 +0200" stop="20200713161500 +0200" channel="La1_CAT.TV">
+    <title lang="es">INFORMATIVO CATALUÑA SOBREMESA RESUMEN</title>
+    <desc lang="es">RESUMEN INFORMATIVOS DE ACTUALIDAD REGIONAL.</desc>
+  </programme>
+  <programme start="20200713161500 +0200" stop="20200713163000 +0200" channel="La1_CAT.TV">
+    <title lang="es">EL TIEMPO MEDIODÍA</title>
+    <desc lang="es">ESPACIO DE INFORMACIÓN METEOROLÓGICA.</desc>
+  </programme>
+  <programme start="20200713163000 +0200" stop="20200713172000 +0200" channel="La1_CAT.TV">
+    <title lang="es">Mercado central</title>
+    <desc lang="es">Los comerciantes del 'Mercado central' se ven obligados a modernizar sus negocios para reconvertirse y evitar que un importante fondo de inversores transforme el recinto en un lujoso centro comercial.</desc>
+  </programme>
+  <programme start="20200713172000 +0200" stop="20200713175000 +0200" channel="La1_CAT.TV">
+    <title lang="es">Servir y proteger</title>
+    <desc lang="es">Melodrama policíaco ambientado en una comisaría del Distrito Sur de Madrid. Quintero se ve obligado a dar un radical giro a su vida, mientras que Miralles se enfrenta a la prueba más dura que le va a tocar vivir como policía.</desc>
+    <credits>
+      <director>Alexandra Graf</director>
+      <director>Alex Graf</director>
+      <actor>Luisa Martín</actor>
+      <actor>Andrea del Río</actor>
+      <actor>Ángel De Miguel</actor>
+      <actor>Fernando Guillén</actor>
+      <actor>Fernando Guillén Cuervo</actor>
+      <actor>Juanjo Artero</actor>
+      <actor>Pepa Aniorte</actor>
+      <actor>Eduardo Velasco</actor>
+      <writer>Tirso Calero</writer>
+      <producer>Emilio Perea</producer>
+      <composer>Juan Carlos Cuello</composer>
+    </credits>
+    <category lang="es">Policíaca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1443628.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S4 E179</episode-num>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20200713175000 +0200" stop="20200713184500 +0200" channel="La1_CAT.TV">
+    <title lang="es">Acacias, 38</title>
+    <desc lang="es">Serie ambientada en 1899 que narra las historias de amor, celos, pasiones, venganzas, odios y alegrías de cuatro familias burguesas y sus criadas en el edificio señorial de la calle Acacias, 38.</desc>
+  </programme>
+  <programme start="20200713184500 +0200" stop="20200713193500 +0200" channel="La1_CAT.TV">
+    <title lang="es">EL CAZADOR</title>
+    <desc lang="es">'El Cazador', un formato en el que cuatro concursantes anónimos unen sus conocimientos para ganar al cazador, un auténtico profesional de los.</desc>
+  </programme>
+  <programme start="20200713193500 +0200" stop="20200713203000 +0200" channel="La1_CAT.TV">
+    <title lang="es">España directo</title>
+    <desc lang="es">Magacín diario presentado por Ana Ibáñez que nos ofrece reportajes, actualidad y la última hora sobre la actualidad del país.</desc>
+    <credits>
+      <director>Kike Álvarez</director>
+      <presenter>Ana Ibáñez</presenter>
+    </credits>
+    <date>2005</date>
+    <category lang="es">Magazine</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2192970.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200713203000 +0200" stop="20200713210000 +0200" channel="La1_CAT.TV">
+    <title lang="es">Aquí la Tierra</title>
+    <desc lang="es">Jacob Petrus, geógrafo especializado en climatología, nos da una nueva visión de nuestro planeta y demuestra cómo la salud, la arquitectura, la conducta, incluso el arte o la economía, pueden estar condicionados por la meteorología.</desc>
+    <credits>
+      <director>Jacob Petrus</director>
+      <director>Victor Otamendi</director>
+      <presenter>Jacob Petrus</presenter>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Magazine</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/462103.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200713210000 +0200" stop="20200713215500 +0200" channel="La1_CAT.TV">
+    <title lang="es">Telediario 2</title>
+    <desc lang="es">Carlos Franganillo presenta la 2ª edición del Telediario de TVE, uno de los informativos más antiguos de la televisión, con una cobertura exhaustiva de lo acontecido en España y el mundo durante el día. Sergio Sauca ofrece los deportes.</desc>
+    <credits>
+      <presenter>Carlos Franganillo</presenter>
+      <presenter>Sergio Sauca</presenter>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Informativo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2174997.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200713215500 +0200" stop="20200713220500 +0200" channel="La1_CAT.TV">
+    <title lang="es">El tiempo TVE 2</title>
+    <desc lang="es">Información meteorológica por provincias y predicción a corto y largo plazo, con Mónica López.</desc>
+    <credits>
+      <director>Bllanca Flaquer</director>
+      <actor>Berta Catañé</actor>
+      <actor>Nacho Fresneda</actor>
+      <actor>Guillermo Altair</actor>
+      <presenter>Mónica López</presenter>
+    </credits>
+    <category lang="es">Tiempo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/467178.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
     </rating>
   </programme>
   <programme start="20200711012000 +0200" stop="20200711021500 +0200" channel="La2_CAT.TV">
@@ -43259,7 +44006,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20200711080000 +0200" stop="20200711093000 +0200" channel="La2_CAT.TV">
+  <programme start="20200711080000 +0200" stop="20200711092500 +0200" channel="La2_CAT.TV">
     <title lang="es">Los conciertos de La 2</title>
     <desc lang="es">Desde el Auditorio del Parque de la Música en Roma, el maestro Antonio Pappano dirige la Orquesta de la Academia de Santa Cecilia interpretando la Sinfonía nº 9 de G. Mahler.</desc>
     <credits>
@@ -43273,6 +44020,10 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <rating system="ES">
       <value>TP</value>
     </rating>
+  </programme>
+  <programme start="20200711092500 +0200" stop="20200711093000 +0200" channel="La2_CAT.TV">
+    <title lang="es">Los conciertos de La 2</title>
+    <desc lang="es">La violinista Alena Baeva interpreta el concierto para violín, Op. 15 de Benjamin Britten, junto a la Orquesta Sinfónica RTVE, dirigidos por Pablo González. En la segunda parte, la Sinfonía nº 10 en Mi menor, Op.</desc>
   </programme>
   <programme start="20200711093000 +0200" stop="20200711100500 +0200" channel="La2_CAT.TV">
     <title lang="es">Agrosfera</title>
@@ -43710,15 +44461,15 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
   </programme>
   <programme start="20200712073000 +0200" stop="20200712080000 +0200" channel="La2_CAT.TV">
     <title lang="es">UNED</title>
-    <desc lang="es">1.- La Isabela. La primera ciudad Europea del Nuevo Mundo.</desc>
+    <desc lang="es">El tema del programa de hoy es: 'La Isabela. La primera ciudad Europea del Nuevo Mundo'.</desc>
     <category lang="es">Otros</category>
     <icon src="http://programacion-tv.elpais.com/imagenes/programas/385812.jpg" />
     <country lang="es">Otros</country>
     <episode-num system="onscreen">E336</episode-num>
   </programme>
   <programme start="20200712080000 +0200" stop="20200712084500 +0200" channel="La2_CAT.TV">
-    <title lang="es">LOS CONCIERTOS DE LA 2</title>
-    <desc lang="es">Concierto celebrado en el Teatro Monumental de Madrid con motivo del Día de la Mujer 'Nosotras, la música y las mujeres'.</desc>
+    <title lang="es">Los conciertos de La 2</title>
+    <desc lang="es">Concierto celebrado en el Teatro Monumental de Madrid con motivo del Día de la Mujer 'Nosotras, la música y las mujeres'. Intervienen Natalia Labourdette, Trío Magnacore y Octover.</desc>
     <category lang="es">Otros</category>
     <icon src="http://programacion-tv.elpais.com/imagenes/programas/385812.jpg" />
     <country lang="es">Otros</country>
@@ -43739,7 +44490,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     </rating>
   </programme>
   <programme start="20200712091500 +0200" stop="20200712093000 +0200" channel="La2_CAT.TV">
-    <title lang="es">MEDINA EN TVE</title>
+    <title lang="es">Medina en TVE</title>
     <desc lang="es">Nos acompaña en el programa de hoy Ihab Fahmy, presidente de la UCIDE Valencia, y miembro de la junta directiva de la Comisión Islámica de España.</desc>
     <category lang="es">Otros</category>
     <icon src="http://programacion-tv.elpais.com/imagenes/programas/385812.jpg" />
@@ -43750,15 +44501,15 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     </rating>
   </programme>
   <programme start="20200712093000 +0200" stop="20200712094500 +0200" channel="La2_CAT.TV">
-    <title lang="es">BUENAS NOTICIAS TV</title>
-    <desc lang="es">Programa de culto evangélico.</desc>
+    <title lang="es">Buenas noticias TV</title>
+    <desc lang="es">La fe es una herramienta para luchar en la vida. Cuando tenemos que afrontar momentos de incertidumbre como los que estamos viviendo con el Covid-19, la fe es el ancla del alma.</desc>
     <category lang="es">Otros</category>
     <icon src="http://programacion-tv.elpais.com/imagenes/programas/385812.jpg" />
     <country lang="es">Otros</country>
     <episode-num system="onscreen">E130</episode-num>
   </programme>
   <programme start="20200712094500 +0200" stop="20200712100000 +0200" channel="La2_CAT.TV">
-    <title lang="es">SHALOM</title>
+    <title lang="es">Shalom</title>
     <desc lang="es">'El espía del Ritz' es un homenaje a las redes de ayuda de la Segunda Guerra Mundial.</desc>
     <category lang="es">Otros</category>
     <icon src="http://programacion-tv.elpais.com/imagenes/programas/385812.jpg" />
@@ -43766,7 +44517,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <episode-num system="onscreen">E139</episode-num>
   </programme>
   <programme start="20200712100000 +0200" stop="20200712102500 +0200" channel="La2_CAT.TV">
-    <title lang="es">ÚLTIMAS PREGUNTAS</title>
+    <title lang="es">Últimas preguntas</title>
     <desc lang="es">Esta semana entramos en dos conventos de clausura.</desc>
     <category lang="es">Otros</category>
     <icon src="http://programacion-tv.elpais.com/imagenes/programas/385812.jpg" />
@@ -43774,7 +44525,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <episode-num system="onscreen">E130</episode-num>
   </programme>
   <programme start="20200712102500 +0200" stop="20200712103000 +0200" channel="La2_CAT.TV">
-    <title lang="es">TESTIMONIO</title>
+    <title lang="es">Testimonio</title>
     <desc lang="es">Javier Antolín y José Luis del Castillo, religiosos agustinos, nos cuentan su experiencia durante la pandemia, en la morgue madrileña de Valdebebas.</desc>
     <category lang="es">Otros</category>
     <icon src="http://programacion-tv.elpais.com/imagenes/programas/385812.jpg" />
@@ -43793,7 +44544,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     </rating>
   </programme>
   <programme start="20200712113000 +0200" stop="20200712115500 +0200" channel="La2_CAT.TV">
-    <title lang="es">PUEBLO DE DIOS</title>
+    <title lang="es">Pueblo de Dios</title>
     <desc lang="es">Repaso por la magnífica labor hospitalaria, asistencial y educacional, de varias congregaciones y oenegés católicas, desde Tailandia hasta el Líbano.</desc>
     <category lang="es">Otros</category>
     <icon src="http://programacion-tv.elpais.com/imagenes/programas/385812.jpg" />
@@ -43954,7 +44705,7 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     </rating>
   </programme>
   <programme start="20200712185000 +0200" stop="20200712192000 +0200" channel="La2_CAT.TV">
-    <title lang="es">FAMILY RUN MI FAMILIA EN LA MOCHILA - RU</title>
+    <title lang="es">Mi familia en la mochila. Family Run</title>
     <desc lang="es">Última etapa de nuestro periplo africano, llegando a los pies del Monte Kilimanjaro.</desc>
     <category lang="es">Otros</category>
     <icon src="http://programacion-tv.elpais.com/imagenes/programas/385812.jpg" />
@@ -43962,8 +44713,8 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     <episode-num system="onscreen">E13</episode-num>
   </programme>
   <programme start="20200712192000 +0200" stop="20200712195000 +0200" channel="La2_CAT.TV">
-    <title lang="es">CAMINANDO SOBRE LAS OLAS</title>
-    <desc lang="es">Recorremos el Camino de Santiago por el llamado Camino de la costa, surfeando en las mejores playas con el excampeón de Europa de surf, Kepa Acero.</desc>
+    <title lang="es">Caminando sobre las olas</title>
+    <desc lang="es">Recorremos el Camino de Santiago por el llamado Camino de la Costa, surfeando en las mejores playas con el excampeón de Europa de surf, Kepa Acero.</desc>
     <category lang="es">Otros</category>
     <icon src="http://programacion-tv.elpais.com/imagenes/programas/385812.jpg" />
     <country lang="es">Otros</country>
@@ -43988,13 +44739,8 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     </rating>
   </programme>
   <programme start="20200712204500 +0200" stop="20200712214000 +0200" channel="La2_CAT.TV">
-    <title lang="es">AUSTRALIA: GUIA PARA EL VIAJERO DEL TIEM</title>
-    <desc lang="es">En este episodio descubriremos cómo una isla-continente, quedó aislada del resto del mundo y cómo se adaptó la vida al cambio del paisaje.</desc>
-    <date>2011</date>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/385812.jpg" />
-    <country lang="es">Otros</country>
-    <episode-num system="onscreen">E4</episode-num>
+    <title lang="es">Australia: Guía para el viajero del tiempo</title>
+    <desc lang="es">En este episodio descubrimos cómo una isla-continente quedó aislada del resto del mundo y cómo se adaptó la vida al cambio del paisaje.</desc>
   </programme>
   <programme start="20200712214000 +0200" stop="20200712223000 +0200" channel="La2_CAT.TV">
     <title lang="es">El origen de los inventos</title>
@@ -44013,22 +44759,11 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     </rating>
   </programme>
   <programme start="20200712223000 +0200" stop="20200713001500 +0200" channel="La2_CAT.TV">
-    <title lang="es">ENTRELOBOS</title>
-    <desc lang="es">Basado en la historia de Marcos Rodríguez Pantoja, un niño de siete años que convivió durante doce años con una manada de lobos en Sierra Morena.</desc>
-    <credits>
-      <director>Gerardo Olivares</director>
-      <actor>Juan José Ballesta</actor>
-      <actor>Sancho Gracia</actor>
-      <actor>Carlos Bardem</actor>
-      <actor>Manuel Camacho</actor>
-    </credits>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/385812.jpg" />
-    <country lang="es">Otros</country>
-    <episode-num system="onscreen">E1</episode-num>
+    <title lang="es">Entrelobos</title>
+    <desc lang="es">En los años 40, un niño pequeño, el ayudante de un pastor de cabras, se queda solo en los montes de Sierra Morena y convive durante doce años con una manada de lobos. Al volver a la civilización, es incapaz de adaptarse a la sociedad.</desc>
   </programme>
   <programme start="20200713001500 +0200" stop="20200713015500 +0200" channel="La2_CAT.TV">
-    <title lang="es">LA 2 ES MUSICA</title>
+    <title lang="es">La 2 es música</title>
     <desc lang="es">Concierto de 091 desde la Plaza de Toros de Granada.</desc>
     <category lang="es">Otros</category>
     <icon src="http://programacion-tv.elpais.com/imagenes/programas/385812.jpg" />
