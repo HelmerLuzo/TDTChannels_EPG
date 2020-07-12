@@ -660,6 +660,9 @@
     <rating system="ES">
       <value>16</value>
     </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
   </programme>
   <programme start="20200713130000 +0200" stop="20200713140000 +0200" channel="La1.TV">
     <title lang="es">Cocina al punto con Peña y Tamara</title>
@@ -678,6 +681,9 @@
     <rating system="ES">
       <value>TP</value>
     </rating>
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
   </programme>
   <programme start="20200713140000 +0200" stop="20200713141000 +0200" channel="La1.TV">
     <title lang="es">Redifusión La1</title>
@@ -896,6 +902,9 @@
     <rating system="ES">
       <value>TP</value>
     </rating>
+    <star-rating system="ES">
+      <value>5/5</value>
+    </star-rating>
   </programme>
   <programme start="20200714001000 +0200" stop="20200714010500 +0200" channel="La1.TV">
     <title lang="es">Viaje al centro de la tele</title>
@@ -1402,7 +1411,7 @@
       <value>TP</value>
     </rating>
     <star-rating system="ES">
-      <value>3/5</value>
+      <value>5/5</value>
     </star-rating>
   </programme>
   <programme start="20200712091500 +0200" stop="20200712093000 +0200" channel="La2.TV">
@@ -4483,7 +4492,7 @@
   <programme start="20200713223500 +0200" stop="20200714003000 +0200" channel="Telecinco.TV">
     <title lang="es">Cine 5 Estrellas: 'la Gran Muralla'</title>
     <desc lang="es">Siglo XV China. Mientras se construye la que será la muralla más larga del mundo, los soldados británicos deben convivir pacíficamente con los aldeanos. Dos militares ingleses descubren que sirve para defenderse de cualquier amenaza, incluso sobrenatural.</desc>
-    <icon src="https://album.mediaset.es//parrillas/2017/03/13/ab71f380322e796b814765a382cb82b41489418761.jpg" />
+    <icon src="https://album.mediaset.es//parrillas/2020/07/12/243d620e55b48f545f9ee78ad5e17db81594548751.jpg" />
   </programme>
   <programme start="20200714003000 +0200" stop="20200714023500 +0200" channel="Telecinco.TV">
     <title lang="es">Animales Nocturnos</title>
@@ -15400,7 +15409,7 @@
       <value>24-26 julio</value>
     </rating>
   </programme>
-  <programme start="20200712061500 +0200" stop="20200712080000 +0200" channel="TDP.TV">
+  <programme start="20200712061500 +0200" stop="20200712075500 +0200" channel="TDP.TV">
     <title lang="es">Liga MAPFRE de Tenis masculino</title>
     <desc lang="es">La Liga MAPFRE de Tenis es una competición creada por la RFET para que los mejores tenistas nacionales preparen su vuelta al circuito ATP tras el parón por la COVID-19.</desc>
     <date>2020</date>
@@ -15412,82 +15421,110 @@
       <value>24-26 julio</value>
     </rating>
   </programme>
-  <programme start="20200712080000 +0200" stop="20200712100000 +0200" channel="TDP.TV">
-    <title lang="es">Teledeporte</title>
-    <desc lang="es">El canal de deportes de TVE.</desc>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
-    <country lang="es">Otros</country>
+  <programme start="20200712075500 +0200" stop="20200712094500 +0200" channel="TDP.TV">
+    <title lang="es">Atletismo: Campeonato del Mundo 2017</title>
+    <desc lang="es">Desde Londres.</desc>
+    <category lang="es">Atletismo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1561978.jpg" />
+    <country lang="es">Reino Unido</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20200712100000 +0200" stop="20200712120000 +0200" channel="TDP.TV">
-    <title lang="es">Teledeporte</title>
-    <desc lang="es">El canal de deportes de TVE.</desc>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
-    <country lang="es">Otros</country>
+  <programme start="20200712094500 +0200" stop="20200712110000 +0200" channel="TDP.TV">
+    <title lang="es">Estudio Estadio</title>
+    <desc lang="es">Incluye lo más relevante de lo acontecido durante la jornada de fútbol resumiendo, a través de breves reportajes, los partidos de LaLiga Santander y con entrevistas a sus protagonistas.</desc>
+    <date>2020</date>
+    <category lang="es">Programa</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2049231.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">E208</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20200712120000 +0200" stop="20200712140000 +0200" channel="TDP.TV">
-    <title lang="es">Teledeporte</title>
-    <desc lang="es">El canal de deportes de TVE.</desc>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
-    <country lang="es">Otros</country>
+  <programme start="20200712110000 +0200" stop="20200712133000 +0200" channel="TDP.TV">
+    <title lang="es">Liga MAPFRE de Tenis en Silla de Ruedas</title>
+    <desc lang="es">Desde Barcelona.</desc>
   </programme>
-  <programme start="20200712140000 +0200" stop="20200712160000 +0200" channel="TDP.TV">
-    <title lang="es">Teledeporte</title>
-    <desc lang="es">El canal de deportes de TVE.</desc>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
-    <country lang="es">Otros</country>
+  <programme start="20200712133000 +0200" stop="20200712141500 +0200" channel="TDP.TV">
+    <title lang="es">Reportajes Teledeporte</title>
+    <desc lang="es">Desde Sheffield.</desc>
   </programme>
-  <programme start="20200712160000 +0200" stop="20200712180000 +0200" channel="TDP.TV">
-    <title lang="es">Teledeporte</title>
-    <desc lang="es">El canal de deportes de TVE.</desc>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
-    <country lang="es">Otros</country>
+  <programme start="20200712141500 +0200" stop="20200712144500 +0200" channel="TDP.TV">
+    <title lang="es">Cuando fuimos los mejores</title>
+    <desc lang="es">El sueño se cumplió el 11 de julio de 2010 en el estadio Soccer City de Johanesburgo. España se proclamaba campeona del mundo tras ganar la final ante Holanda con un gol de Iniesta en el minuto 116 de la prórroga (1-0).</desc>
+    <date>2020</date>
+    <category lang="es">Deportes</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2731679.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>1-0</value>
+    </rating>
   </programme>
-  <programme start="20200712180000 +0200" stop="20200712200000 +0200" channel="TDP.TV">
-    <title lang="es">Teledeporte</title>
-    <desc lang="es">El canal de deportes de TVE.</desc>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
-    <country lang="es">Otros</country>
+  <programme start="20200712144500 +0200" stop="20200712160000 +0200" channel="TDP.TV">
+    <title lang="es">Reportajes Teledeporte</title>
+    <desc lang="es">Desde Sierra Nevada (Granada).</desc>
   </programme>
-  <programme start="20200712200000 +0200" stop="20200712220000 +0200" channel="TDP.TV">
-    <title lang="es">Teledeporte</title>
-    <desc lang="es">El canal de deportes de TVE.</desc>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
-    <country lang="es">Otros</country>
+  <programme start="20200712160000 +0200" stop="20200712163000 +0200" channel="TDP.TV">
+    <title lang="es">Fast &amp; Fut Primera</title>
+    <desc lang="es">Fast &amp; Fut es un programa de televisión deportivo presentado por David Figueira. El título del programa es un juego de palabras que combina fútbol y fast food (comida rápida), en referencia a que tenía una duración de 30 minutos.</desc>
+    <date>2016</date>
+    <category lang="es">Programa</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1739888.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>comida rápida</value>
+    </rating>
   </programme>
-  <programme start="20200712220000 +0200" stop="20200713000000 +0200" channel="TDP.TV">
-    <title lang="es">Teledeporte</title>
-    <desc lang="es">El canal de deportes de TVE.</desc>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
-    <country lang="es">Otros</country>
+  <programme start="20200712163000 +0200" stop="20200712170000 +0200" channel="TDP.TV">
+    <title lang="es">Fast &amp; Fut Segunda</title>
+    <desc lang="es">Toda la información en 30 minutos de la segunda división presentado por David Figueira.</desc>
+    <date>2016</date>
+    <category lang="es">Programa</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1739888.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20200713000000 +0200" stop="20200713020000 +0200" channel="TDP.TV">
-    <title lang="es">Teledeporte</title>
-    <desc lang="es">El canal de deportes de TVE.</desc>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
-    <country lang="es">Otros</country>
+  <programme start="20200712170000 +0200" stop="20200712183000 +0200" channel="TDP.TV">
+    <title lang="es">Liga MAPFRE de Tenis masculino</title>
+    <desc lang="es">La Liga MAPFRE de Tenis es una competición creada por la RFET para que los mejores tenistas nacionales preparen su vuelta al circuito ATP tras el parón por la COVID-19. Desde Barcelona.</desc>
   </programme>
-  <programme start="20200713020000 +0200" stop="20200713040000 +0200" channel="TDP.TV">
-    <title lang="es">Teledeporte</title>
-    <desc lang="es">El canal de deportes de TVE.</desc>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
-    <country lang="es">Otros</country>
+  <programme start="20200712183000 +0200" stop="20200712200000 +0200" channel="TDP.TV">
+    <title lang="es">Reportajes Teledeporte</title>
+    <desc lang="es">Desde Pontevedra.</desc>
   </programme>
-  <programme start="20200713040000 +0200" stop="20200713060000 +0200" channel="TDP.TV">
-    <title lang="es">Teledeporte</title>
-    <desc lang="es">El canal de deportes de TVE.</desc>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12971.jpg" />
-    <country lang="es">Otros</country>
+  <programme start="20200712200000 +0200" stop="20200712235000 +0200" channel="TDP.TV">
+    <title lang="es">Atletismo: Campeonato del Mundo 2017</title>
+    <desc lang="es">Desde Londres.</desc>
+    <category lang="es">Atletismo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1561978.jpg" />
+    <country lang="es">Reino Unido</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200712235000 +0200" stop="20200713010500 +0200" channel="TDP.TV">
+    <title lang="es">Estudio Estadio</title>
+    <desc lang="es">Incluye lo más relevante de lo acontecido durante la jornada de fútbol resumiendo, a través de breves reportajes, los partidos de LaLiga Santander y con entrevistas a sus protagonistas.</desc>
+  </programme>
+  <programme start="20200713010500 +0200" stop="20200713025000 +0200" channel="TDP.TV">
+    <title lang="es">Reportajes Teledeporte</title>
+    <desc lang="es">Desde Sierra Nevada (Granada).</desc>
+  </programme>
+  <programme start="20200713025000 +0200" stop="20200713042000 +0200" channel="TDP.TV">
+    <title lang="es">Liga MAPFRE de Tenis en Silla de Ruedas</title>
+    <desc lang="es">Desde Barcelona.</desc>
+  </programme>
+  <programme start="20200713042000 +0200" stop="20200713050500 +0200" channel="TDP.TV">
+    <title lang="es">Reportajes Teledeporte</title>
+    <desc lang="es">Desde Sheffield.</desc>
+  </programme>
+  <programme start="20200713050500 +0200" stop="20200713060000 +0200" channel="TDP.TV">
+    <title lang="es">Liga MAPFRE de Tenis masculino</title>
+    <desc lang="es">La Liga MAPFRE de Tenis es una competición creada por la RFET para que los mejores tenistas nacionales preparen su vuelta al circuito ATP tras el parón por la COVID-19. Desde Barcelona.</desc>
   </programme>
   <programme start="20200713060000 +0200" stop="20200713080000 +0200" channel="TDP.TV">
     <title lang="es">Teledeporte</title>
@@ -15704,23 +15741,29 @@
     <title lang="es">Resúmenes LaLiga Santander (T19/20)</title>
     <title lang="xx">Resúmenes LaLiga Santander</title>
     <sub-title lang="es">Osasuna - Celta</sub-title>
-    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.</desc>
+    <desc lang="es">Osasuna se lleva la victoria in extremis y deja al Celta en peligro. Santi Mina abrió el marcador para el conjunto gallego en el minuto 9 de partido y empató Enric Gallego en el 22. Cuando todo apuntaba al reparto de puntos, llegó Arnáiz en el 90 del encuentro para poner el 2-1 definitivo. Derrota que deja al Celta sin poder certificar su permanencia.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3833166" />
+    <star-rating system="ES">
+      <value>5/5</value>
+    </star-rating>
   </programme>
   <programme start="20200712151500 +0200" stop="20200712153000 +0200" channel="GOL.TV">
     <title lang="es">Resúmenes LaLiga Santander (T19/20)</title>
     <title lang="xx">Resúmenes LaLiga Santander</title>
     <sub-title lang="es">Valladolid - Barcelona</sub-title>
-    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.</desc>
+    <desc lang="es">El Barcelona se impuso por la mínima ante el Real Valladolid y mantiene viva la pelea por el título. Un solitario gol de Vidal puso el 0-1 definitivo en un partido agónico para los de Quique Setién, que sumaron los tres puntos para seguir persiguiendo al Real Madrid y mantenerse con opciones en la carrera por la Liga.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3833172" />
+    <star-rating system="ES">
+      <value>4/5</value>
+    </star-rating>
   </programme>
   <programme start="20200712153000 +0200" stop="20200712154500 +0200" channel="GOL.TV">
     <title lang="es">Resúmenes LaLiga Santander (T19/20)</title>
     <title lang="xx">Resúmenes LaLiga Santander</title>
     <sub-title lang="es">At. Madrid - Betis</sub-title>
-    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.</desc>
+    <desc lang="es">El Atlético de Madrid certificó su participación en la Champions League tras la victoria en casa ante el Betis. El solitario gol de Diego Costa le vale a los del Cholo para sumar el triunfo en un partido protagonizado por el VAR, que anuló dos goles al conjunto madrileño. Ahora la lucha de los rojiblancos es mantener la tercera plaza de la tabla.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3833156" />
     <star-rating system="ES">
@@ -15739,7 +15782,7 @@
     <title lang="es">Resúmenes LaLiga SmartBank (T19/20)</title>
     <title lang="xx">Resúmenes LaLiga SmartBank</title>
     <sub-title lang="es">Racing - Huesca</sub-title>
-    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
+    <desc lang="es">El Racing, ya descendido, se impuso al Huesca por la mínima y complica al conjunto de Míchel el ascenso directo. El solitario gol de Guillermo para los cántabros supone la segunda derrota consecutiva a domicilio de un Huesca que pone en peligro su plaza directa en primera división.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3834422" />
     <star-rating system="ES">
@@ -15750,7 +15793,7 @@
     <title lang="es">Resúmenes LaLiga SmartBank (T19/20)</title>
     <title lang="xx">Resúmenes LaLiga SmartBank</title>
     <sub-title lang="es">Cádiz - Fuenlabrada</sub-title>
-    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.</desc>
+    <desc lang="es">Hugo Fraile puso de penalti el tanto que suponía la victoria del Fuenlabrada, y que frenaba el ya matemático ascenso directo del Cádiz, al que sólo le valía un punto para ser oficialmente equipo de primera división. El conjunto gaditano depende del Real Zaragoza.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3834410" />
     <star-rating system="ES">
@@ -15779,6 +15822,9 @@
     <category lang="es">Deportes</category>
     <category lang="es">Fútbol español</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3833347" />
+    <star-rating system="ES">
+      <value>3/5</value>
+    </star-rating>
   </programme>
   <programme start="20200712190000 +0200" stop="20200712213000 +0200" channel="GOL.TV">
     <title lang="es">Directo Gol</title>
@@ -15880,7 +15926,7 @@
     <title lang="es">Resúmenes LaLiga Santander (T19/20)</title>
     <title lang="xx">Resúmenes LaLiga Santander</title>
     <sub-title lang="es">At. Madrid - Betis</sub-title>
-    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.</desc>
+    <desc lang="es">El Atlético de Madrid certificó su participación en la Champions League tras la victoria en casa ante el Betis. El solitario gol de Diego Costa le vale a los del Cholo para sumar el triunfo en un partido protagonizado por el VAR, que anuló dos goles al conjunto madrileño. Ahora la lucha de los rojiblancos es mantener la tercera plaza de la tabla.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3833156" />
     <star-rating system="ES">
@@ -15891,9 +15937,12 @@
     <title lang="es">Resúmenes LaLiga Santander (T19/20)</title>
     <title lang="xx">Resúmenes LaLiga Santander</title>
     <sub-title lang="es">Valladolid - Barcelona</sub-title>
-    <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.</desc>
+    <desc lang="es">El Barcelona se impuso por la mínima ante el Real Valladolid y mantiene viva la pelea por el título. Un solitario gol de Vidal puso el 0-1 definitivo en un partido agónico para los de Quique Setién, que sumaron los tres puntos para seguir persiguiendo al Real Madrid y mantenerse con opciones en la carrera por la Liga.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3833172" />
+    <star-rating system="ES">
+      <value>4/5</value>
+    </star-rating>
   </programme>
   <programme start="20200713123000 +0200" stop="20200713133000 +0200" channel="GOL.TV">
     <title lang="es">Directo Gol</title>
@@ -15962,6 +16011,9 @@
     <desc lang="es">El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3833164" />
+    <star-rating system="ES">
+      <value>5/5</value>
+    </star-rating>
   </programme>
   <programme start="20200713164500 +0200" stop="20200713170000 +0200" channel="GOL.TV">
     <title lang="es">Resúmenes LaLiga Santander (T19/20)</title>
@@ -23066,7 +23118,7 @@
     <date>2009</date>
     <category lang="es">Información</category>
     <category lang="es">Otros</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M320360V809517" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MANTVP809517" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -23234,7 +23286,7 @@
     <date>2009</date>
     <category lang="es">Información</category>
     <category lang="es">Otros</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M320360V809517" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MANTVP809517" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
@@ -27332,6 +27384,9 @@ Contaremos con profesionales acreditados para aportar sus conocimientos y valora
     <rating system="ES">
       <value>TP</value>
     </rating>
+    <star-rating system="ES">
+      <value>5/5</value>
+    </star-rating>
   </programme>
   <programme start="20200713203500 +0200" stop="20200713213000 +0200" channel="Canarias.TV">
     <title lang="es">El paraíso de las señoras</title>
@@ -27531,6 +27586,9 @@ Contaremos con profesionales acreditados para aportar sus conocimientos y valora
     <rating system="ES">
       <value>TP</value>
     </rating>
+    <star-rating system="ES">
+      <value>5/5</value>
+    </star-rating>
   </programme>
   <programme start="20200714064000 +0200" stop="20200714070000 +0200" channel="Canarias.TV">
     <title lang="es">Abriendo puertas</title>
@@ -27808,6 +27866,9 @@ Contaremos con profesionales acreditados para aportar sus conocimientos y valora
     <rating system="ES">
       <value>TP</value>
     </rating>
+    <star-rating system="ES">
+      <value>5/5</value>
+    </star-rating>
   </programme>
   <programme start="20200714204000 +0200" stop="20200714213000 +0200" channel="Canarias.TV">
     <title lang="es">El paraíso de las señoras</title>
@@ -28243,6 +28304,9 @@ Espacio para el debate plural y democrático donde toma protagonismo la particip
     <category lang="es">Corrida de Toros</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula4/MCASMANP1798931" />
     <country lang="es">España</country>
+    <star-rating system="ES">
+      <value>5/5</value>
+    </star-rating>
   </programme>
   <programme start="20200712223000 +0200" stop="20200712224000 +0200" channel="CMM.TV">
     <title lang="es">Avance informativo</title>
@@ -42522,12 +42586,14 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     </rating>
   </programme>
   <programme start="20200713135500 +0200" stop="20200713141300 +0200" channel="La1_CAT.TV">
-    <title lang="es">INFORMATIVO SOBREMESA CATALUÑA</title>
-    <desc lang="es">PROGRAMA INFORMATIVO DE INFORMACION REGIONAL.</desc>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1703780.jpg" />
-    <country lang="es">Otros</country>
-    <episode-num system="onscreen">E191</episode-num>
+    <title lang="es">L'informatiu</title>
+    <desc lang="es">Información autonómica de Cataluña.</desc>
+    <credits>
+      <presenter>Marta Ribas</presenter>
+    </credits>
+    <category lang="es">Informativo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/477834.jpg" />
+    <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -42562,20 +42628,27 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     </rating>
   </programme>
   <programme start="20200713160000 +0200" stop="20200713161500 +0200" channel="La1_CAT.TV">
-    <title lang="es">INFORMATIVO CATALUÑA SOBREMESA RESUMEN</title>
-    <desc lang="es">RESUMEN INFORMATIVOS DE ACTUALIDAD REGIONAL.</desc>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1703780.jpg" />
-    <country lang="es">Otros</country>
-    <episode-num system="onscreen">E650</episode-num>
+    <title lang="es">L'informatiu</title>
+    <desc lang="es">Información autonómica de Cataluña.</desc>
+    <credits>
+      <presenter>Marta Ribas</presenter>
+    </credits>
+    <category lang="es">Informativo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/477834.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20200713161500 +0200" stop="20200713163000 +0200" channel="La1_CAT.TV">
-    <title lang="es">EL TIEMPO MEDIODÍA</title>
-    <desc lang="es">ESPACIO DE INFORMACIÓN METEOROLÓGICA.</desc>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1703780.jpg" />
-    <country lang="es">Otros</country>
-    <episode-num system="onscreen">E195</episode-num>
+    <title lang="es">El tiempo TVE 1</title>
+    <desc lang="es">Información meteorológica por provincias y predicción a corto y largo plazo, con Albert Barniol.</desc>
+    <credits>
+      <presenter>Albert Barniol</presenter>
+    </credits>
+    <category lang="es">Tiempo</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/466993.jpg" />
+    <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
     </rating>
@@ -42609,28 +42682,6 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
   <programme start="20200713172000 +0200" stop="20200713175000 +0200" channel="La1_CAT.TV">
     <title lang="es">Servir y proteger</title>
     <desc lang="es">Melodrama policíaco ambientado en una comisaría del Distrito Sur de Madrid. Quintero se ve obligado a dar un radical giro a su vida, mientras que Miralles se enfrenta a la prueba más dura que le va a tocar vivir como policía.</desc>
-    <credits>
-      <director>Alexandra Graf</director>
-      <director>Alex Graf</director>
-      <actor>Luisa Martín</actor>
-      <actor>Andrea del Río</actor>
-      <actor>Ángel De Miguel</actor>
-      <actor>Fernando Guillén</actor>
-      <actor>Fernando Guillén Cuervo</actor>
-      <actor>Juanjo Artero</actor>
-      <actor>Pepa Aniorte</actor>
-      <actor>Eduardo Velasco</actor>
-      <writer>Tirso Calero</writer>
-      <producer>Emilio Perea</producer>
-      <composer>Juan Carlos Cuello</composer>
-    </credits>
-    <category lang="es">Policíaca</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1443628.jpg" />
-    <country lang="es">España</country>
-    <episode-num system="onscreen">S4 E179</episode-num>
-    <rating system="ES">
-      <value>7</value>
-    </rating>
   </programme>
   <programme start="20200713175000 +0200" stop="20200713184500 +0200" channel="La1_CAT.TV">
     <title lang="es">Acacias, 38</title>
@@ -42659,12 +42710,8 @@ De la mano del periodista y comentarista cinematográfico Carlos Infante.</desc>
     </rating>
   </programme>
   <programme start="20200713184500 +0200" stop="20200713193500 +0200" channel="La1_CAT.TV">
-    <title lang="es">EL CAZADOR</title>
-    <desc lang="es">'El Cazador', un formato en el que cuatro concursantes anónimos unen sus conocimientos para ganar al cazador, un auténtico profesional de los.</desc>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1703780.jpg" />
-    <country lang="es">Otros</country>
-    <episode-num system="onscreen">E68</episode-num>
+    <title lang="es">El cazador</title>
+    <desc lang="es">Cuatro concursantes anónimos se enfrentan a los mejores concursantes de televisión de España, en un 'quiz show' conducido por Ion Aramendi.</desc>
   </programme>
   <programme start="20200713193500 +0200" stop="20200713203000 +0200" channel="La1_CAT.TV">
     <title lang="es">España directo</title>
