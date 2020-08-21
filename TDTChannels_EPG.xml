@@ -65,7 +65,6 @@
   </channel>
   <channel id="TDP.TV">
     <display-name lang="es">Teledeporte</display-name>
-    <icon src="https://programacion-tv.elpais.com/imagenes/canales/9.jpg" />
   </channel>
   <channel id="GOL.TV">
     <display-name lang="es">GOL</display-name>
@@ -248,7 +247,6 @@
   </channel>
   <channel id="SkyN.TV">
     <display-name lang="pl">Sky News UK</display-name>
-    <icon src="images/flag-en.gif alt=English/&gt;';&#xA;    DisplayObject(diagnostic_ptro);&#xA;    HiddenObject(diagnostic_ptro_sp);&#xA;    break;&#xA;   case 'sp':&#xA;    $langFlag.innerHTML = '" />
   </channel>
   <channel id="RTP1.TV">
     <display-name lang="pt">RTP 1 Portugal</display-name>
@@ -261,7 +259,6 @@
   </channel>
   <channel id="RTDoc.TV">
     <display-name lang="pl">RT Documentary</display-name>
-    <icon src="images/flag-en.gif alt=English/&gt;';&#xA;    DisplayObject(diagnostic_ptro);&#xA;    HiddenObject(diagnostic_ptro_sp);&#xA;    break;&#xA;   case 'sp':&#xA;    $langFlag.innerHTML = '" />
   </channel>
   <channel id="Zee.TV">
     <display-name lang="es">Zee Mundo USA</display-name>
@@ -277,7 +274,6 @@
   </channel>
   <channel id="CGTNN.TV">
     <display-name lang="pl">CGTN News</display-name>
-    <icon src="images/flag-en.gif alt=English/&gt;';&#xA;    DisplayObject(diagnostic_ptro);&#xA;    HiddenObject(diagnostic_ptro_sp);&#xA;    break;&#xA;   case 'sp':&#xA;    $langFlag.innerHTML = '" />
   </channel>
   <channel id="CGTNDoc.TV">
     <display-name lang="en">CGTN Documentary</display-name>
@@ -287,11 +283,9 @@
   </channel>
   <channel id="NHK.TV">
     <display-name lang="pl">NHK World Japan</display-name>
-    <icon src="images/flag-en.gif alt=English/&gt;';&#xA;    DisplayObject(diagnostic_ptro);&#xA;    HiddenObject(diagnostic_ptro_sp);&#xA;    break;&#xA;   case 'sp':&#xA;    $langFlag.innerHTML = '" />
   </channel>
   <channel id="Arirang.TV">
     <display-name lang="pl">Arirang TV Korea</display-name>
-    <icon src="images/flag-en.gif alt=English/&gt;';&#xA;    DisplayObject(diagnostic_ptro);&#xA;    HiddenObject(diagnostic_ptro_sp);&#xA;    break;&#xA;   case 'sp':&#xA;    $langFlag.innerHTML = '" />
   </channel>
   <channel id="HarleyM.TV">
     <display-name lang="es">Harley Davidson TV</display-name>
