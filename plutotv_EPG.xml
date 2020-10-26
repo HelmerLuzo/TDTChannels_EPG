@@ -5,7 +5,7 @@
     <icon src="http://pluto.tv.s3.amazonaws.com/channels/5f1ac1f1b66c76000790ef27/logo.png" />
     <url>http://www.pluto.tv.E</url>
   </channel>
-  <programme start="20201026001500 +0100" stop="20201026022100 +0100" channel="pluto-tv-cine-es-ptv1">
+  <programme start="20201026001500 +0000" stop="20201026022100 +0000" channel="pluto-tv-cine-es-ptv1">
     <title lang="es">The Ring Two</title>
     <desc lang="es">Seis meses después de los incidentes relacionados con una cinta de vídeo donde se aprecia la muerte de una joven a manos de sus padres, Rachel  decide mudarse con su hijo de Seattle a un lugar donde puedan sentirse más seguros y empezar una nueva vida.</desc>
     <category lang="es">Horror</category>
@@ -15,7 +15,7 @@
       <value>+18</value>
     </rating>
   </programme>
-  <programme start="20201026022100 +0100" stop="20201026043300 +0100" channel="pluto-tv-cine-es-ptv1">
+  <programme start="20201026022100 +0000" stop="20201026043300 +0000" channel="pluto-tv-cine-es-ptv1">
     <title lang="es">The Ring</title>
     <desc lang="es">La reportera Rachel Keller sigue la pista de una cinta de vídeo relacionada con una serie de repentinas muertes. Al parecer, todos aquellos que ven la grabación fallecen siete días después.</desc>
     <category lang="es">Horror</category>
@@ -25,7 +25,7 @@
       <value>+18</value>
     </rating>
   </programme>
-  <programme start="20201026043300 +0100" stop="20201026070000 +0100" channel="pluto-tv-cine-es-ptv1">
+  <programme start="20201026043300 +0000" stop="20201026070000 +0000" channel="pluto-tv-cine-es-ptv1">
     <title lang="es">Dreamgirls</title>
     <desc lang="es">El ambicioso agente Curtis Taylor convierte a tres cantantes en The Dreams, un auténtico fenómeno de masas. Por desgracia, su éxito no tardará en conllevar la aparición de los primeros problemas.</desc>
     <category lang="es">Documentaries</category>
@@ -35,7 +35,7 @@
       <value>+7</value>
     </rating>
   </programme>
-  <programme start="20201026070000 +0100" stop="20201026085300 +0100" channel="pluto-tv-cine-es-ptv1">
+  <programme start="20201026070000 +0000" stop="20201026085300 +0000" channel="pluto-tv-cine-es-ptv1">
     <title lang="es">Algo pasa en Hollywood</title>
     <desc lang="es">Un productor de cine, desesperado por su divorcio y por la mala situación de su carrera, intenta mantener su dignidad entre estrellas exigentes, mientras sobrevive a las humillaciones de Hollywood y a la maquinaria de los grandes estudios.</desc>
     <category lang="es">Classics</category>
@@ -45,7 +45,7 @@
       <value>+7</value>
     </rating>
   </programme>
-  <programme start="20201026085300 +0100" stop="20201026104500 +0100" channel="pluto-tv-cine-es-ptv1">
+  <programme start="20201026085300 +0000" stop="20201026104500 +0000" channel="pluto-tv-cine-es-ptv1">
     <title lang="es">¿Qué hacemos con Maisie?</title>
     <desc lang="es">Maisie es una niña de 6 años en medio de la lucha por su custodia entre su madre , una madura estrella del rock (Julianne Moore) y su padre , un prestigioso marchante de arte. Un divorcio muy amargo que dejaron a la vista de Maisie lo peor de ambos.</desc>
     <category lang="es">Classics</category>
@@ -55,7 +55,7 @@
       <value>+7</value>
     </rating>
   </programme>
-  <programme start="20201026104500 +0100" stop="20201026232000 +0100" channel="pluto-tv-cine-es-ptv1">
+  <programme start="20201026104500 +0000" stop="20201026232000 +0000" channel="pluto-tv-cine-es-ptv1">
     <title lang="es">Dreamgirls</title>
     <desc lang="es">El ambicioso agente Curtis Taylor convierte a tres cantantes en The Dreams, un auténtico fenómeno de masas. Por desgracia, su éxito no tardará en conllevar la aparición de los primeros problemas.</desc>
     <category lang="es">Documentaries</category>
@@ -65,7 +65,7 @@
       <value>+7</value>
     </rating>
   </programme>
-  <programme start="20201026232000 +0100" stop="20201027011800 +0100" channel="pluto-tv-cine-es-ptv1">
+  <programme start="20201026232000 +0000" stop="20201027011800 +0000" channel="pluto-tv-cine-es-ptv1">
     <title lang="es">El Luchador</title>
     <desc lang="es">Randy "The Ram" Robinson, un luchador profesional retirado, se plantea su regreso al ring e inicia una serie de peleas en el circuito independiente, con la intención de volver a la primera línea en un combate final con su rival más peligroso.</desc>
     <category lang="es">Classics</category>
@@ -75,7 +75,7 @@
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20201027011800 +0100" stop="20201027033400 +0100" channel="pluto-tv-cine-es-ptv1">
+  <programme start="20201027011800 +0000" stop="20201027033400 +0000" channel="pluto-tv-cine-es-ptv1">
     <title lang="es">Men, Women &amp; Children</title>
     <desc lang="es">La historia de un grupo de adolescentes de instituto y sus padres intentando comprender las muchas maneras en las que internet ha cambiado sus relaciones, su comunicación y su imagen.</desc>
     <category lang="es">Comedy</category>
@@ -85,7 +85,7 @@
       <value>+16</value>
     </rating>
   </programme>
-  <programme start="20201027033400 +0100" stop="20201027050900 +0100" channel="pluto-tv-cine-es-ptv1">
+  <programme start="20201027033400 +0000" stop="20201027050900 +0000" channel="pluto-tv-cine-es-ptv1">
     <title lang="es">Crónica de un engaño</title>
     <desc lang="es">Un hombre que, tras la muerte de su esposa, descubre que ésta había tenido un amante durante varios años, se embarca en un viaje que le lleva a Inglaterra, Alemania e Italia para encontrar al amante de su mujer y descubrir toda la verdad de esa relación.</desc>
     <category lang="es">Thrillers</category>
@@ -95,7 +95,7 @@
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20201027050900 +0100" stop="20201027065200 +0100" channel="pluto-tv-cine-es-ptv1">
+  <programme start="20201027050900 +0000" stop="20201027065200 +0000" channel="pluto-tv-cine-es-ptv1">
     <title lang="es">Like Crazy</title>
     <desc lang="es">Anna, una joven británica que estudia en Los Ángeles, se enamora de Jacob. Ambos se ven obligados a separarse cuando a ella no le renuevan el visado, así que inician una relación a distancia.</desc>
     <category lang="es">Romance</category>
@@ -105,7 +105,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20201027065200 +0100" stop="20201027083900 +0100" channel="pluto-tv-cine-es-ptv1">
+  <programme start="20201027065200 +0000" stop="20201027083900 +0000" channel="pluto-tv-cine-es-ptv1">
     <title lang="es">Siempre a tu lado Hachiko</title>
     <desc lang="es">Basada en una historia real, la película narra la historia de amistad entre un profesor universitario y Hachi, el perro de Akita. Hachi, símbolo de la lealtad y la amistad, esperará en la estación pacientemente a un dueño que puede que no vuelva nunca.</desc>
     <category lang="es">Classics</category>
@@ -115,7 +115,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20201027083900 +0100" stop="20201027102200 +0100" channel="pluto-tv-cine-es-ptv1">
+  <programme start="20201027083900 +0000" stop="20201027102200 +0000" channel="pluto-tv-cine-es-ptv1">
     <title lang="es">Mi Vida Es Una Ruina</title>
     <desc lang="es">La inclasificable vida de Bill gira a peor cuando es forzado a adoptar a una odiosa adolescente como parte de un programa para tutores al que se ha unido a regañadientes. La horrible relación de ambos daró lugar a los más disparatados conflictos.</desc>
     <category lang="es">Classics</category>
@@ -125,7 +125,7 @@
       <value>+7</value>
     </rating>
   </programme>
-  <programme start="20201027102200 +0100" stop="20201027121500 +0100" channel="pluto-tv-cine-es-ptv1">
+  <programme start="20201027102200 +0000" stop="20201027121500 +0000" channel="pluto-tv-cine-es-ptv1">
     <title lang="es">Algo pasa en Hollywood</title>
     <desc lang="es">Un productor de cine, desesperado por su divorcio y por la mala situación de su carrera, intenta mantener su dignidad entre estrellas exigentes, mientras sobrevive a las humillaciones de Hollywood y a la maquinaria de los grandes estudios.</desc>
     <category lang="es">Classics</category>
@@ -135,7 +135,7 @@
       <value>+7</value>
     </rating>
   </programme>
-  <programme start="20201027121500 +0100" stop="20201027234900 +0100" channel="pluto-tv-cine-es-ptv1">
+  <programme start="20201027121500 +0000" stop="20201027234900 +0000" channel="pluto-tv-cine-es-ptv1">
     <title lang="es">Like Crazy</title>
     <desc lang="es">Anna, una joven británica que estudia en Los Ángeles, se enamora de Jacob. Ambos se ven obligados a separarse cuando a ella no le renuevan el visado, así que inician una relación a distancia.</desc>
     <category lang="es">Romance</category>
@@ -145,7 +145,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20201027234900 +0100" stop="20201028013900 +0100" channel="pluto-tv-cine-es-ptv1">
+  <programme start="20201027234900 +0000" stop="20201028013900 +0000" channel="pluto-tv-cine-es-ptv1">
     <title lang="es">La desaparición de Alice Creed</title>
     <desc lang="es">Vic y Danny son dos secuestradores que llevan a cabo un secuestro minuciosamente planeado. Sin embargo las cosas se tuercen rápidamente y los tres personajes acaban en un tenso juego de codicia, amor, sexo y violencia.</desc>
     <category lang="es">Action &amp; Adventure</category>
@@ -155,7 +155,7 @@
       <value>+16</value>
     </rating>
   </programme>
-  <programme start="20201028013900 +0100" stop="20201028035200 +0100" channel="pluto-tv-cine-es-ptv1">
+  <programme start="20201028013900 +0000" stop="20201028035200 +0000" channel="pluto-tv-cine-es-ptv1">
     <title lang="es">Teniente Corrupto</title>
     <desc lang="es">El teniente Terence McDonough, adicto a las drogas por sus dolores crónicos de espalda, investiga el asesinato de cinco inmigrantes senegaleses en Nueva Orleans.</desc>
     <category lang="es">Thrillers</category>
@@ -165,7 +165,7 @@
       <value>+18</value>
     </rating>
   </programme>
-  <programme start="20201028035200 +0100" stop="20201028052000 +0100" channel="pluto-tv-cine-es-ptv1">
+  <programme start="20201028035200 +0000" stop="20201028052000 +0000" channel="pluto-tv-cine-es-ptv1">
     <title lang="es">Voces en la noche</title>
     <desc lang="es">Un popular escritor y comentarista radiofónico nocturno, Gabriel, desarrolla una intensa relación telefónica con un joven oyente, Pete, y su madre adoptiva, justo en el momento en el que la vida privada de Gabriel está sufriendo drásticos cambios.</desc>
     <category lang="es">Thrillers</category>
@@ -175,7 +175,7 @@
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20201028052000 +0100" stop="20201028074000 +0100" channel="pluto-tv-cine-es-ptv1">
+  <programme start="20201028052000 +0000" stop="20201028074000 +0000" channel="pluto-tv-cine-es-ptv1">
     <title lang="es">Elizabethtown</title>
     <desc lang="es">Drew viaja a su pueblo natal para asistir al funeral de su padre. En el vuelo, conoce a Claire, una azafata que le ayudará a sortear los momentos difíciles que le esperan.</desc>
     <category lang="es">Comedy</category>
@@ -185,7 +185,7 @@
       <value>+7</value>
     </rating>
   </programme>
-  <programme start="20201028074000 +0100" stop="20201028092300 +0100" channel="pluto-tv-cine-es-ptv1">
+  <programme start="20201028074000 +0000" stop="20201028092300 +0000" channel="pluto-tv-cine-es-ptv1">
     <title lang="es">Nunca es tarde para enamorarse</title>
     <desc lang="es">Narra la historia de Harvey, un hombre aburrido y cansado, que viaja a Londres para asistir a la boda de su hija con un hombre bastante mayor que ella. Allí, Harvey conocerá a una mujer que le cambiará la vida, despertando sus impulsos amorosos.</desc>
     <category lang="es">Classics</category>
@@ -195,7 +195,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20201028092300 +0100" stop="20201028110600 +0100" channel="pluto-tv-cine-es-ptv1">
+  <programme start="20201028092300 +0000" stop="20201028110600 +0000" channel="pluto-tv-cine-es-ptv1">
     <title lang="es">Descubriendo El Amor</title>
     <desc lang="es">Un joven rebelde de una familia rica conoce a una paciente psiquiátrica que ha estado aislada prácticamente toda su vida.</desc>
     <category lang="es">Comedy</category>
