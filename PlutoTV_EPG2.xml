@@ -6,7 +6,7 @@
     <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="pluto-tv-cine-accion-es">
-    <display-name lang="en">Acción</display-name>
+    <display-name lang="en">Acci\u00F3n</display-name>
     <icon src="http://pluto.tv.s3.amazonaws.com/channels/5f1ac2591dd8880007bb7d6d/logo.png" />
     <url>http://www.pluto.tv.E</url>
   </channel>
@@ -21,7 +21,7 @@
     <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="pluto-tv-cine-romantico-es">
-    <display-name lang="en">Romántico</display-name>
+    <display-name lang="en">Rom&‌aacute;ntico</display-name>
     <icon src="http://pluto.tv.s3.amazonaws.com/channels/5f1ac9a2d3611d0007a844bb/logo.png" />
     <url>http://www.pluto.tv.E</url>
   </channel>
