@@ -3,37 +3,30 @@
   <channel id="pluto-tv-cine-es-ptv1">
     <display-name lang="en">Cine</display-name>
     <icon src="http://pluto.tv.s3.amazonaws.com/channels/5f1ac1f1b66c76000790ef27/logo.png" />
-    <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="pluto-tv-cine-accion-es">
-    <display-name lang="en">Acci\u00F3n</display-name>
+    <display-name lang="en">AcciÃ³n</display-name>
     <icon src="http://pluto.tv.s3.amazonaws.com/channels/5f1ac2591dd8880007bb7d6d/logo.png" />
-    <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="pluto-tv-sci-fi-es">
     <display-name lang="en">Sci-Fi</display-name>
     <icon src="http://pluto.tv.s3.amazonaws.com/channels/5f6a38eaa5b68b0007a00e7a/logo.png" />
-    <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="pluto-tv-thrillers-es">
     <display-name lang="en">Thrillers</display-name>
     <icon src="http://pluto.tv.s3.amazonaws.com/channels/5f1ac8a87cd38d000745d7cf/logo.png" />
-    <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="pluto-tv-cine-romantico-es">
-    <display-name lang="en">Rom&‌aacute;ntico</display-name>
+    <display-name lang="en">RomÃ¡ntico</display-name>
     <icon src="http://pluto.tv.s3.amazonaws.com/channels/5f1ac9a2d3611d0007a844bb/logo.png" />
-    <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="pluto-tv-cine-drama-es">
     <display-name lang="en">Drama</display-name>
     <icon src="http://pluto.tv.s3.amazonaws.com/channels/5f1ac947dcd00d0007937c08/logo.png" />
-    <url>http://www.pluto.tv.E</url>
   </channel>
   <channel id="pluto-tv-cine-comedia-es">
     <display-name lang="en">Comedia</display-name>
     <icon src="http://pluto.tv.s3.amazonaws.com/channels/5f1ac8099c49f600076579b2/logo.png" />
-    <url>http://www.pluto.tv.E</url>
   </channel>
   <programme start="20201026001500 +0000" stop="20201026022100 +0000" channel="pluto-tv-cine-es-ptv1">
     <title lang="en">The Ring Two</title>
