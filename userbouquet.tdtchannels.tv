@@ -457,6 +457,10 @@
 #DESCRIPTION Televisió de Sant Martí
 #SERVICE 4097:0:1:483:0:0:0:0:0:0:https://usb.bozztv.com/ssh101/amsctvbaixguinardo/amsctvbaixguinardo/master.m3u8:Televisió del Baix Guinardó
 #DESCRIPTION Televisió del Baix Guinardó
+#SERVICE 4097:0:1:487:0:0:0:0:0:0:https://liveingesta118.cdnmedia.tv/tvhospitaletlive/smil:tvhospitalet.smil/playlist.m3u8:TV L'Hospitalet
+#DESCRIPTION TV L'Hospitalet (1)
+SERVICE 4097:0:1:487:0:0:0:0:0:0:https://liveingesta119.cdnmedia.tv/tvhospitaletlive/smil:tvhospitalet.smil/playlist.m3u8:TV L'Hospitalet
+#DESCRIPTION TV L'Hospitalet (2)
 #SERVICE 4097:0:1:489:0:0:0:0:0:0:https://secure.todostreaming.es/live/anguloce-livestream.m3u8:Ceuta TV
 #DESCRIPTION Ceuta TV
 #SERVICE 4097:0:1:491:0:0:0:0:0:0:https://cdnlive.shooowit.net/rtvcelive/smil:channel2.smil/playlist.m3u8:RTVCE
@@ -549,6 +553,8 @@
 #DESCRIPTION Canal Extremadura
 #SERVICE 4097:0:1:583:0:0:0:0:0:0:https://ce2019100818001.dnssw.net/hls/ceres.m3u8:Cáceres Tevé
 #DESCRIPTION Cáceres Tevé
+#SERVICE 4097:0:1:585:0:0:0:0:0:0:https://cdn01.yowi.tv/43J82FST7L/master.m3u8:TV Extremeña
+#DESCRIPTION TV Extremeña
 #SERVICE 4097:0:1:589:0:0:0:0:0:0:https://europa-crtvg.flumotion.com/playlist.m3u8:TVG
 #DESCRIPTION TVG
 #SERVICE 4097:0:1:591:0:0:0:0:0:0:https://amodino-crtvg.flumotion.com/playlist.m3u8:TVG 2
