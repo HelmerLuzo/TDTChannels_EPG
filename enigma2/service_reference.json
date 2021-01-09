@@ -887,12 +887,12 @@
     {
         "sr": "4097:0:1:357:0:0:0:0:0:0",
         "name": "La 8 Avila",
-        "tvid": "-"
+        "tvid": "8Avila.TV"
     },
     {
         "sr": "4097:0:1:359:0:0:0:0:0:0",
         "name": "La 8 Bierzo",
-        "tvid": "-"
+        "tvid": "8Bierzo.TV"
     },
     {
         "sr": "4097:0:1:361:0:0:0:0:0:0",
@@ -902,37 +902,37 @@
     {
         "sr": "4097:0:1:363:0:0:0:0:0:0",
         "name": "La 8 Leon",
-        "tvid": "-"
+        "tvid": "8Leon.TV"
     },
     {
         "sr": "4097:0:1:365:0:0:0:0:0:0",
         "name": "La 8 Palencia",
-        "tvid": "-"
+        "tvid": "8Palencia.TV"
     },
     {
         "sr": "4097:0:1:367:0:0:0:0:0:0",
         "name": "La 8 Salamanca",
-        "tvid": "-"
+        "tvid": "8Salamanca.TV"
     },
     {
         "sr": "4097:0:1:369:0:0:0:0:0:0",
         "name": "La 8 Segovia",
-        "tvid": "-"
+        "tvid": "8Segovia"
     },
     {
         "sr": "4097:0:1:371:0:0:0:0:0:0",
         "name": "La 8 Soria",
-        "tvid": "-"
+        "tvid": "8Soria.TV"
     },
     {
         "sr": "4097:0:1:373:0:0:0:0:0:0",
         "name": "La 8 Valladolid",
-        "tvid": "-"
+        "tvid": "8Valladolid.TV"
     },
     {
         "sr": "4097:0:1:375:0:0:0:0:0:0",
         "name": "La 8 Zamora",
-        "tvid": "-"
+        "tvid": "8Zamora.TV"
     },
     {
         "sr": "4097:0:1:377:0:0:0:0:0:0",
